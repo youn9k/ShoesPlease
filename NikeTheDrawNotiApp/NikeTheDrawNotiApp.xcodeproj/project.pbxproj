@@ -9,20 +9,21 @@
 /* Begin PBXBuildFile section */
 		7B78E59D26E7304E00FCC908 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E59C26E7304E00FCC908 /* AppDelegate.swift */; };
 		7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */; };
-		7B78E5A126E7304E00FCC908 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5A026E7304E00FCC908 /* ViewController.swift */; };
+		7B78E5A126E7304E00FCC908 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5A026E7304E00FCC908 /* MainViewController.swift */; };
 		7B78E5A426E7304E00FCC908 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5A226E7304E00FCC908 /* Main.storyboard */; };
 		7B78E5A626E7305000FCC908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5A526E7305000FCC908 /* Assets.xcassets */; };
 		7B78E5A926E7305000FCC908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5A726E7305000FCC908 /* LaunchScreen.storyboard */; };
 		7B78E5B626E7752300FCC908 /* DrawInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5B526E7752300FCC908 /* DrawInfo.swift */; };
 		7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */; };
 		7B78E5BC26E77B5700FCC908 /* CardCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */; };
+		7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7B78E59926E7304E00FCC908 /* NikeTheDrawNotiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeTheDrawNotiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B78E59C26E7304E00FCC908 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7B78E5A026E7304E00FCC908 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7B78E5A026E7304E00FCC908 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		7B78E5A326E7304E00FCC908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7B78E5A526E7305000FCC908 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B78E5A826E7305000FCC908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -30,6 +31,7 @@
 		7B78E5B526E7752300FCC908 /* DrawInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawInfo.swift; sourceTree = "<group>"; };
 		7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCollectionViewCell.swift; sourceTree = "<group>"; };
 		7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardCollectionViewCell.xib; sourceTree = "<group>"; };
+		7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainViewController+UICollectionViewDelegate.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +69,8 @@
 				7B78E5B126E774A400FCC908 /* ViewModels */,
 				7B78E5B326E774AB00FCC908 /* Views */,
 				7B78E5B826E7757400FCC908 /* Resources */,
-				7B78E5A026E7304E00FCC908 /* ViewController.swift */,
+				7B78E5A726E7305000FCC908 /* LaunchScreen.storyboard */,
+				7B78E5A226E7304E00FCC908 /* Main.storyboard */,
 				7B78E5AA26E7305000FCC908 /* Info.plist */,
 			);
 			path = NikeTheDrawNotiApp;
@@ -91,10 +94,10 @@
 		7B78E5B326E774AB00FCC908 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				7B78E5A726E7305000FCC908 /* LaunchScreen.storyboard */,
-				7B78E5A226E7304E00FCC908 /* Main.storyboard */,
+				7B78E5A026E7304E00FCC908 /* MainViewController.swift */,
 				7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */,
 				7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */,
+				7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,9 +190,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B78E5A126E7304E00FCC908 /* ViewController.swift in Sources */,
+				7B78E5A126E7304E00FCC908 /* MainViewController.swift in Sources */,
 				7B78E59D26E7304E00FCC908 /* AppDelegate.swift in Sources */,
 				7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */,
+				7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */,
 				7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */,
 				7B78E5B626E7752300FCC908 /* DrawInfo.swift in Sources */,
 			);

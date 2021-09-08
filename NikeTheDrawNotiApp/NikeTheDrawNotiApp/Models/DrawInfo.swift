@@ -8,10 +8,13 @@
 import Foundation
 
 class DrawInfo {
-    let name: String?
+    let imageURL: String?
+    let modelName: String?
+    let releaseDate: String?
     
-    init(_ params: Any) {
-        name = nil
+    init(imageURL: String, modelName: String, releaseDate: String) {
+        self.imageURL = imageURL
+        self.modelName = modelName
+        self.releaseDate = releaseDate
     }
-
 }
