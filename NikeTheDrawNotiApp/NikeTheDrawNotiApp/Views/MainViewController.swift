@@ -17,6 +17,7 @@ class MainViewController: UIViewController {
         self.cardCollectionView.dataSource = self
         self.cardCollectionView.register(UINib(nibName: "CardCollectionViewCell", bundle: nil), forCellWithReuseIdentifier: "CardCollectionViewCell")
         self.setupFlowLayout()
+        
     }
 
 

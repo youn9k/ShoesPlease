@@ -14,7 +14,7 @@ extension MainViewController: UICollectionViewDelegate, UICollectionViewDataSour
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         guard let cell = cardCollectionView.dequeueReusableCell(withReuseIdentifier: "CardCollectionViewCell", for: indexPath) as? CardCollectionViewCell else { return UICollectionViewCell() }
-        cell.modelImage.image = UIImage()
+        cell.modelImage.image = UIImage(named: String((indexPath.row + 1)%7))
         return cell
     }
     
@@ -25,7 +25,8 @@ extension MainViewController: UICollectionViewDelegate, UICollectionViewDataSour
         flowLayout.minimumLineSpacing = 30
         
         let halfWidth = UIScreen.main.bounds.width / 2
-        flowLayout.itemSize = CGSize(width: halfWidth * 0.9 , height: halfWidth * 0.9)
+        let halfHeight = UIScreen.main.bounds.height / 2
+        flowLayout.itemSize = CGSize(width: halfWidth * 0.9 , height: halfHeight * 0.8)
         self.cardCollectionView.collectionViewLayout = flowLayout
     }
 }
