@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14988D67977524144F9C15B8 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B22BDB86AC3B8453B797EC6 /* Pods_NikeTheDrawNotiApp.framework */; };
 		7B78E59D26E7304E00FCC908 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E59C26E7304E00FCC908 /* AppDelegate.swift */; };
 		7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */; };
 		7B78E5A126E7304E00FCC908 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5A026E7304E00FCC908 /* MainViewController.swift */; };
@@ -17,9 +18,13 @@
 		7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */; };
 		7B78E5BC26E77B5700FCC908 /* CardCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */; };
 		7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */; };
+		7B78E5C526EB16C200FCC908 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C426EB16C200FCC908 /* Api.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B22BDB86AC3B8453B797EC6 /* Pods_NikeTheDrawNotiApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NikeTheDrawNotiApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		54D4D3F064E4236E9F924695 /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
+		6A7A046322E02814CC4BC2A3 /* Pods-NikeTheDrawNotiApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.release.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.release.xcconfig"; sourceTree = "<group>"; };
 		7B78E59926E7304E00FCC908 /* NikeTheDrawNotiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeTheDrawNotiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B78E59C26E7304E00FCC908 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -32,6 +37,7 @@
 		7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCollectionViewCell.swift; sourceTree = "<group>"; };
 		7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardCollectionViewCell.xib; sourceTree = "<group>"; };
 		7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainViewController+UICollectionViewDelegate.swift"; sourceTree = "<group>"; };
+		7B78E5C426EB16C200FCC908 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,17 +45,28 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14988D67977524144F9C15B8 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4D8625A512EBAC29CB76CA39 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3B22BDB86AC3B8453B797EC6 /* Pods_NikeTheDrawNotiApp.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		7B78E59026E7304E00FCC908 = {
 			isa = PBXGroup;
 			children = (
 				7B78E59B26E7304E00FCC908 /* NikeTheDrawNotiApp */,
 				7B78E59A26E7304E00FCC908 /* Products */,
+				CFB59360277C9CA9AECA6578 /* Pods */,
+				4D8625A512EBAC29CB76CA39 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,6 +96,7 @@
 		7B78E5B026E7749900FCC908 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				7B78E5C426EB16C200FCC908 /* Api.swift */,
 				7B78E5B526E7752300FCC908 /* DrawInfo.swift */,
 			);
 			path = Models;
@@ -119,6 +137,16 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		CFB59360277C9CA9AECA6578 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				54D4D3F064E4236E9F924695 /* Pods-NikeTheDrawNotiApp.debug.xcconfig */,
+				6A7A046322E02814CC4BC2A3 /* Pods-NikeTheDrawNotiApp.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -126,9 +154,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 7B78E5AD26E7305000FCC908 /* Build configuration list for PBXNativeTarget "NikeTheDrawNotiApp" */;
 			buildPhases = (
+				1178803AB78D93FED63D3B99 /* [CP] Check Pods Manifest.lock */,
 				7B78E59526E7304E00FCC908 /* Sources */,
 				7B78E59626E7304E00FCC908 /* Frameworks */,
 				7B78E59726E7304E00FCC908 /* Resources */,
+				92C1D6D992E743551AAEC8FC /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -185,6 +215,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1178803AB78D93FED63D3B99 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NikeTheDrawNotiApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		92C1D6D992E743551AAEC8FC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		7B78E59526E7304E00FCC908 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -195,6 +267,7 @@
 				7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */,
 				7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */,
 				7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */,
+				7B78E5C526EB16C200FCC908 /* Api.swift in Sources */,
 				7B78E5B626E7752300FCC908 /* DrawInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -339,6 +412,7 @@
 		};
 		7B78E5AE26E7305000FCC908 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 54D4D3F064E4236E9F924695 /* Pods-NikeTheDrawNotiApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -358,6 +432,7 @@
 		};
 		7B78E5AF26E7305000FCC908 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A7A046322E02814CC4BC2A3 /* Pods-NikeTheDrawNotiApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
