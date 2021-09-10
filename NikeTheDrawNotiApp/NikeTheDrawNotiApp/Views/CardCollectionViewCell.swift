@@ -16,5 +16,7 @@ class CardCollectionViewCell: UICollectionViewCell {
         super.awakeFromNib()
         // Initialization code
     }
+    
+    
 
 }

@@ -16,8 +16,9 @@ class MainViewController: UIViewController {
         self.cardCollectionView.delegate = self
         self.cardCollectionView.dataSource = self
         self.cardCollectionView.register(UINib(nibName: "CardCollectionViewCell", bundle: nil), forCellWithReuseIdentifier: "CardCollectionViewCell")
+        cardCollectionView.layer.masksToBounds = true
+        cardCollectionView.layer.cornerRadius = 15
         self.setupFlowLayout()
-        
     }
 
 

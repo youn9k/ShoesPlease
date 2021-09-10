@@ -44,12 +44,6 @@
                 <constraint firstItem="igr-4S-ZhJ" firstAttribute="top" secondItem="PXL-dW-OFP" secondAttribute="bottom" id="ugv-gz-2hs"/>
             </constraints>
             <size key="customSize" width="201" height="400"/>
-            <userDefinedRuntimeAttributes>
-                <userDefinedRuntimeAttribute type="boolean" keyPath="layer.masksToBounds" value="YES"/>
-                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                    <integer key="value" value="15"/>
-                </userDefinedRuntimeAttribute>
-            </userDefinedRuntimeAttributes>
             <connections>
                 <outlet property="modelImage" destination="WYC-88-6LG" id="pVM-vp-NA0"/>
                 <outlet property="modelName" destination="igr-4S-ZhJ" id="DTC-ae-aph"/>

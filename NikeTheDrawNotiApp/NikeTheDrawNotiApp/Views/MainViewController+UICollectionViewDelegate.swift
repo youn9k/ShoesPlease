@@ -9,12 +9,12 @@ import UIKit
 
 extension MainViewController: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 12
+        return 12 // test Number
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         guard let cell = cardCollectionView.dequeueReusableCell(withReuseIdentifier: "CardCollectionViewCell", for: indexPath) as? CardCollectionViewCell else { return UICollectionViewCell() }
-        cell.modelImage.image = UIImage(named: String((indexPath.row + 1)%7))
+        cell.modelImage.image = UIImage(named: String((indexPath.row + 1)%7)) // test Image
         return cell
     }
     
@@ -29,4 +29,6 @@ extension MainViewController: UICollectionViewDelegate, UICollectionViewDataSour
         flowLayout.itemSize = CGSize(width: halfWidth * 0.9 , height: halfHeight * 0.8)
         self.cardCollectionView.collectionViewLayout = flowLayout
     }
+    
+    
 }
