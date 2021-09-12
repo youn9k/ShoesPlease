@@ -8,9 +8,9 @@
 import Foundation
 
 class DrawInfo {
-    let imageURL: String?
-    let modelName: String?
-    let releaseDate: String?
+    let imageURL: String? // 이미지 링크
+    let modelName: String? // 모델명
+    let releaseDate: String? // 응모 일정
     
     init(imageURL: String, modelName: String, releaseDate: String) {
         self.imageURL = imageURL
