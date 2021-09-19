@@ -30,5 +30,10 @@ extension MainViewController: UICollectionViewDelegate, UICollectionViewDataSour
         self.cardCollectionView.collectionViewLayout = flowLayout
     }
     
+    func setupLayer() {
+        cardCollectionView.layer.masksToBounds = true
+        cardCollectionView.layer.cornerRadius = 15
+    }
+    
     
 }

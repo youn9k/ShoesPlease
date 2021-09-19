@@ -22,10 +22,14 @@ class Api {
         return response
     }
     
+    func soup(response: DataRequest) -> Document {
+        return SwiftSoup.parse(<#String#>)
+    }
+    
+    // 게시되어 있는 카드들을 가져오는 함수입니다.
     func launchItem() -> DrawInfo {
         
-        
-        return DrawInfo(imageURL: <#T##String#>, modelName: <#T##String#>, releaseDate: <#T##String#>)
+        return DrawInfo(imageURL: "urlTest", modelName: "nameTest", releaseDate: "dateTest")
     }
 
 }
