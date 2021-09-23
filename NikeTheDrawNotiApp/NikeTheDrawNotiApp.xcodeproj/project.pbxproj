@@ -20,6 +20,7 @@
 		7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */; };
 		7B78E5C526EB16C200FCC908 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C426EB16C200FCC908 /* Api.swift */; };
 		7B78E5C726EE218D00FCC908 /* ApiViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C626EE218D00FCC908 /* ApiViewModel.swift */; };
+		7B78E5CA26FC620600FCC908 /* ParseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C926FC620600FCC908 /* ParseManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainViewController+UICollectionViewDelegate.swift"; sourceTree = "<group>"; };
 		7B78E5C426EB16C200FCC908 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
 		7B78E5C626EE218D00FCC908 /* ApiViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiViewModel.swift; sourceTree = "<group>"; };
+		7B78E5C926FC620600FCC908 /* ParseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParseManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				7B78E5C426EB16C200FCC908 /* Api.swift */,
+				7B78E5C926FC620600FCC908 /* ParseManager.swift */,
 				7B78E5B526E7752300FCC908 /* DrawInfo.swift */,
 			);
 			path = Models;
@@ -268,6 +271,7 @@
 				7B78E59D26E7304E00FCC908 /* AppDelegate.swift in Sources */,
 				7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */,
 				7B78E5C726EE218D00FCC908 /* ApiViewModel.swift in Sources */,
+				7B78E5CA26FC620600FCC908 /* ParseManager.swift in Sources */,
 				7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */,
 				7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */,
 				7B78E5C526EB16C200FCC908 /* Api.swift in Sources */,

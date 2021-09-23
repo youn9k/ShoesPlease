@@ -15,7 +15,10 @@ class ApiViewModel {
     
     // 테이블 뷰 셀에 넣을 카드들을 가져오는 함수입니다.
     func getDrawableItems() {
-        print(api.request())
+        print("---getDrawableItems() 호출---")
+        print("---api.request() 호출---")
+        print("---print(response) 호출---")
+        api.request()
         //api.launchItem()
     }
     

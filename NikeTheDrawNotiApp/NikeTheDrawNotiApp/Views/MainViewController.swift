@@ -18,9 +18,9 @@ class MainViewController: UIViewController {
         self.cardCollectionView.register(UINib(nibName: "CardCollectionViewCell", bundle: nil), forCellWithReuseIdentifier: "CardCollectionViewCell")
         self.setupLayer()
         self.setupFlowLayout()
-        print("--start--")
-        apiViewModel.testDrawableItems()
-        print("--stop--")
+        print("--apiViewModel.getDrawableItems() 호출--")
+        apiViewModel.getDrawableItems()
+        print("--apiViewModel.getDrawableItems() 호출 종료--")
     }
 
 
