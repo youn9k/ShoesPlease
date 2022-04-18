@@ -3,167 +3,107 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14988D67977524144F9C15B8 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B22BDB86AC3B8453B797EC6 /* Pods_NikeTheDrawNotiApp.framework */; };
-		7B78E59D26E7304E00FCC908 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E59C26E7304E00FCC908 /* AppDelegate.swift */; };
-		7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */; };
-		7B78E5A126E7304E00FCC908 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5A026E7304E00FCC908 /* MainViewController.swift */; };
-		7B78E5A426E7304E00FCC908 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5A226E7304E00FCC908 /* Main.storyboard */; };
-		7B78E5A626E7305000FCC908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5A526E7305000FCC908 /* Assets.xcassets */; };
-		7B78E5A926E7305000FCC908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5A726E7305000FCC908 /* LaunchScreen.storyboard */; };
-		7B78E5B626E7752300FCC908 /* DrawInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5B526E7752300FCC908 /* DrawInfo.swift */; };
-		7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */; };
-		7B78E5BC26E77B5700FCC908 /* CardCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */; };
-		7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */; };
-		7B78E5C526EB16C200FCC908 /* Api.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C426EB16C200FCC908 /* Api.swift */; };
-		7B78E5C726EE218D00FCC908 /* ApiViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C626EE218D00FCC908 /* ApiViewModel.swift */; };
-		7B78E5CA26FC620600FCC908 /* ParseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B78E5C926FC620600FCC908 /* ParseManager.swift */; };
+		771FBA28E30E9FBF74FF1627 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */; };
+		7B7F2FAB280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */; };
+		7B7F2FAD280DA19500975CA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAC280DA19500975CA0 /* ContentView.swift */; };
+		7B7F2FAF280DA19600975CA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAE280DA19600975CA0 /* Assets.xcassets */; };
+		7B7F2FB2280DA19600975CA0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FB1280DA19600975CA0 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3B22BDB86AC3B8453B797EC6 /* Pods_NikeTheDrawNotiApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NikeTheDrawNotiApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		54D4D3F064E4236E9F924695 /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
-		6A7A046322E02814CC4BC2A3 /* Pods-NikeTheDrawNotiApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.release.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.release.xcconfig"; sourceTree = "<group>"; };
-		7B78E59926E7304E00FCC908 /* NikeTheDrawNotiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeTheDrawNotiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7B78E59C26E7304E00FCC908 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7B78E5A026E7304E00FCC908 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		7B78E5A326E7304E00FCC908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7B78E5A526E7305000FCC908 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7B78E5A826E7305000FCC908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7B78E5AA26E7305000FCC908 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7B78E5B526E7752300FCC908 /* DrawInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawInfo.swift; sourceTree = "<group>"; };
-		7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCollectionViewCell.swift; sourceTree = "<group>"; };
-		7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardCollectionViewCell.xib; sourceTree = "<group>"; };
-		7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainViewController+UICollectionViewDelegate.swift"; sourceTree = "<group>"; };
-		7B78E5C426EB16C200FCC908 /* Api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Api.swift; sourceTree = "<group>"; };
-		7B78E5C626EE218D00FCC908 /* ApiViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiViewModel.swift; sourceTree = "<group>"; };
-		7B78E5C926FC620600FCC908 /* ParseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParseManager.swift; sourceTree = "<group>"; };
+		799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NikeTheDrawNotiApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B7F2FA7280DA19500975CA0 /* NikeTheDrawNotiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeTheDrawNotiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikeTheDrawNotiAppApp.swift; sourceTree = "<group>"; };
+		7B7F2FAC280DA19500975CA0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7B7F2FAE280DA19600975CA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7B7F2FB1280DA19600975CA0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
+		C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.release.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7B78E59626E7304E00FCC908 /* Frameworks */ = {
+		7B7F2FA4280DA19500975CA0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14988D67977524144F9C15B8 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */,
+				771FBA28E30E9FBF74FF1627 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4D8625A512EBAC29CB76CA39 /* Frameworks */ = {
+		34558DB1589F4A7AD4B7E6DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B22BDB86AC3B8453B797EC6 /* Pods_NikeTheDrawNotiApp.framework */,
+				A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */,
+				C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */,
 			);
-			name = Frameworks;
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
-		7B78E59026E7304E00FCC908 = {
+		7B7F2F9E280DA19500975CA0 = {
 			isa = PBXGroup;
 			children = (
-				7B78E59B26E7304E00FCC908 /* NikeTheDrawNotiApp */,
-				7B78E59A26E7304E00FCC908 /* Products */,
-				CFB59360277C9CA9AECA6578 /* Pods */,
-				4D8625A512EBAC29CB76CA39 /* Frameworks */,
+				7B7F2FA9280DA19500975CA0 /* NikeTheDrawNotiApp */,
+				7B7F2FA8280DA19500975CA0 /* Products */,
+				34558DB1589F4A7AD4B7E6DB /* Pods */,
+				7F00F610800371028228E0C4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		7B78E59A26E7304E00FCC908 /* Products */ = {
+		7B7F2FA8280DA19500975CA0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7B78E59926E7304E00FCC908 /* NikeTheDrawNotiApp.app */,
+				7B7F2FA7280DA19500975CA0 /* NikeTheDrawNotiApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7B78E59B26E7304E00FCC908 /* NikeTheDrawNotiApp */ = {
+		7B7F2FA9280DA19500975CA0 /* NikeTheDrawNotiApp */ = {
 			isa = PBXGroup;
 			children = (
-				7B78E5B426E774B000FCC908 /* Delegates */,
-				7B78E5B026E7749900FCC908 /* Models */,
-				7B78E5B126E774A400FCC908 /* ViewModels */,
-				7B78E5B326E774AB00FCC908 /* Views */,
-				7B78E5B826E7757400FCC908 /* Resources */,
-				7B78E5A726E7305000FCC908 /* LaunchScreen.storyboard */,
-				7B78E5A226E7304E00FCC908 /* Main.storyboard */,
-				7B78E5AA26E7305000FCC908 /* Info.plist */,
+				7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */,
+				7B7F2FAC280DA19500975CA0 /* ContentView.swift */,
+				7B7F2FAE280DA19600975CA0 /* Assets.xcassets */,
+				7B7F2FB0280DA19600975CA0 /* Preview Content */,
 			);
 			path = NikeTheDrawNotiApp;
 			sourceTree = "<group>";
 		};
-		7B78E5B026E7749900FCC908 /* Models */ = {
+		7B7F2FB0280DA19600975CA0 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				7B78E5C426EB16C200FCC908 /* Api.swift */,
-				7B78E5C926FC620600FCC908 /* ParseManager.swift */,
-				7B78E5B526E7752300FCC908 /* DrawInfo.swift */,
+				7B7F2FB1280DA19600975CA0 /* Preview Assets.xcassets */,
 			);
-			path = Models;
+			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		7B78E5B126E774A400FCC908 /* ViewModels */ = {
+		7F00F610800371028228E0C4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				7B78E5C626EE218D00FCC908 /* ApiViewModel.swift */,
+				799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */,
 			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		7B78E5B326E774AB00FCC908 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				7B78E5A026E7304E00FCC908 /* MainViewController.swift */,
-				7B78E5C226E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift */,
-				7B78E5B926E77B5700FCC908 /* CardCollectionViewCell.swift */,
-				7B78E5BA26E77B5700FCC908 /* CardCollectionViewCell.xib */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		7B78E5B426E774B000FCC908 /* Delegates */ = {
-			isa = PBXGroup;
-			children = (
-				7B78E59C26E7304E00FCC908 /* AppDelegate.swift */,
-				7B78E59E26E7304E00FCC908 /* SceneDelegate.swift */,
-			);
-			path = Delegates;
-			sourceTree = "<group>";
-		};
-		7B78E5B826E7757400FCC908 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				7B78E5A526E7305000FCC908 /* Assets.xcassets */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		CFB59360277C9CA9AECA6578 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				54D4D3F064E4236E9F924695 /* Pods-NikeTheDrawNotiApp.debug.xcconfig */,
-				6A7A046322E02814CC4BC2A3 /* Pods-NikeTheDrawNotiApp.release.xcconfig */,
-			);
-			path = Pods;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7B78E59826E7304E00FCC908 /* NikeTheDrawNotiApp */ = {
+		7B7F2FA6280DA19500975CA0 /* NikeTheDrawNotiApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7B78E5AD26E7305000FCC908 /* Build configuration list for PBXNativeTarget "NikeTheDrawNotiApp" */;
+			buildConfigurationList = 7B7F2FB5280DA19600975CA0 /* Build configuration list for PBXNativeTarget "NikeTheDrawNotiApp" */;
 			buildPhases = (
-				1178803AB78D93FED63D3B99 /* [CP] Check Pods Manifest.lock */,
-				7B78E59526E7304E00FCC908 /* Sources */,
-				7B78E59626E7304E00FCC908 /* Frameworks */,
-				7B78E59726E7304E00FCC908 /* Resources */,
-				92C1D6D992E743551AAEC8FC /* [CP] Embed Pods Frameworks */,
+				62301529D45B6E6292F71916 /* [CP] Check Pods Manifest.lock */,
+				7B7F2FA3280DA19500975CA0 /* Sources */,
+				7B7F2FA4280DA19500975CA0 /* Frameworks */,
+				7B7F2FA5280DA19500975CA0 /* Resources */,
+				AC989DC110206016506D56FE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -171,57 +111,56 @@
 			);
 			name = NikeTheDrawNotiApp;
 			productName = NikeTheDrawNotiApp;
-			productReference = 7B78E59926E7304E00FCC908 /* NikeTheDrawNotiApp.app */;
+			productReference = 7B7F2FA7280DA19500975CA0 /* NikeTheDrawNotiApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7B78E59126E7304E00FCC908 /* Project object */ = {
+		7B7F2F9F280DA19500975CA0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1250;
-				LastUpgradeCheck = 1250;
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					7B78E59826E7304E00FCC908 = {
-						CreatedOnToolsVersion = 12.5.1;
+					7B7F2FA6280DA19500975CA0 = {
+						CreatedOnToolsVersion = 13.3;
 					};
 				};
 			};
-			buildConfigurationList = 7B78E59426E7304E00FCC908 /* Build configuration list for PBXProject "NikeTheDrawNotiApp" */;
-			compatibilityVersion = "Xcode 9.3";
+			buildConfigurationList = 7B7F2FA2280DA19500975CA0 /* Build configuration list for PBXProject "NikeTheDrawNotiApp" */;
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 7B78E59026E7304E00FCC908;
-			productRefGroup = 7B78E59A26E7304E00FCC908 /* Products */;
+			mainGroup = 7B7F2F9E280DA19500975CA0;
+			productRefGroup = 7B7F2FA8280DA19500975CA0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7B78E59826E7304E00FCC908 /* NikeTheDrawNotiApp */,
+				7B7F2FA6280DA19500975CA0 /* NikeTheDrawNotiApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7B78E59726E7304E00FCC908 /* Resources */ = {
+		7B7F2FA5280DA19500975CA0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B78E5BC26E77B5700FCC908 /* CardCollectionViewCell.xib in Resources */,
-				7B78E5A926E7305000FCC908 /* LaunchScreen.storyboard in Resources */,
-				7B78E5A626E7305000FCC908 /* Assets.xcassets in Resources */,
-				7B78E5A426E7304E00FCC908 /* Main.storyboard in Resources */,
+				7B7F2FB2280DA19600975CA0 /* Preview Assets.xcassets in Resources */,
+				7B7F2FAF280DA19600975CA0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1178803AB78D93FED63D3B99 /* [CP] Check Pods Manifest.lock */ = {
+		62301529D45B6E6292F71916 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -243,7 +182,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		92C1D6D992E743551AAEC8FC /* [CP] Embed Pods Frameworks */ = {
+		AC989DC110206016506D56FE /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -263,52 +202,25 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7B78E59526E7304E00FCC908 /* Sources */ = {
+		7B7F2FA3280DA19500975CA0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B78E5A126E7304E00FCC908 /* MainViewController.swift in Sources */,
-				7B78E59D26E7304E00FCC908 /* AppDelegate.swift in Sources */,
-				7B78E59F26E7304E00FCC908 /* SceneDelegate.swift in Sources */,
-				7B78E5C726EE218D00FCC908 /* ApiViewModel.swift in Sources */,
-				7B78E5CA26FC620600FCC908 /* ParseManager.swift in Sources */,
-				7B78E5C326E8591900FCC908 /* MainViewController+UICollectionViewDelegate.swift in Sources */,
-				7B78E5BB26E77B5700FCC908 /* CardCollectionViewCell.swift in Sources */,
-				7B78E5C526EB16C200FCC908 /* Api.swift in Sources */,
-				7B78E5B626E7752300FCC908 /* DrawInfo.swift in Sources */,
+				7B7F2FAD280DA19500975CA0 /* ContentView.swift in Sources */,
+				7B7F2FAB280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXVariantGroup section */
-		7B78E5A226E7304E00FCC908 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7B78E5A326E7304E00FCC908 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		7B78E5A726E7305000FCC908 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7B78E5A826E7305000FCC908 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
-
 /* Begin XCBuildConfiguration section */
-		7B78E5AB26E7305000FCC908 /* Debug */ = {
+		7B7F2FB3280DA19600975CA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -352,7 +264,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -362,14 +274,13 @@
 			};
 			name = Debug;
 		};
-		7B78E5AC26E7305000FCC908 /* Release */ = {
+		7B7F2FB4280DA19600975CA0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -407,7 +318,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -417,41 +328,63 @@
 			};
 			name = Release;
 		};
-		7B78E5AE26E7305000FCC908 /* Debug */ = {
+		7B7F2FB6280DA19600975CA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 54D4D3F064E4236E9F924695 /* Pods-NikeTheDrawNotiApp.debug.xcconfig */;
+			baseConfigurationReference = A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NikeTheDrawNotiApp/Preview Content\"";
 				DEVELOPMENT_TEAM = MPMHNJMTGA;
-				INFOPLIST_FILE = NikeTheDrawNotiApp/Info.plist;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.NikeTheDrawNotiApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		7B78E5AF26E7305000FCC908 /* Release */ = {
+		7B7F2FB7280DA19600975CA0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A7A046322E02814CC4BC2A3 /* Pods-NikeTheDrawNotiApp.release.xcconfig */;
+			baseConfigurationReference = C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NikeTheDrawNotiApp/Preview Content\"";
 				DEVELOPMENT_TEAM = MPMHNJMTGA;
-				INFOPLIST_FILE = NikeTheDrawNotiApp/Info.plist;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.NikeTheDrawNotiApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -460,25 +393,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7B78E59426E7304E00FCC908 /* Build configuration list for PBXProject "NikeTheDrawNotiApp" */ = {
+		7B7F2FA2280DA19500975CA0 /* Build configuration list for PBXProject "NikeTheDrawNotiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7B78E5AB26E7305000FCC908 /* Debug */,
-				7B78E5AC26E7305000FCC908 /* Release */,
+				7B7F2FB3280DA19600975CA0 /* Debug */,
+				7B7F2FB4280DA19600975CA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7B78E5AD26E7305000FCC908 /* Build configuration list for PBXNativeTarget "NikeTheDrawNotiApp" */ = {
+		7B7F2FB5280DA19600975CA0 /* Build configuration list for PBXNativeTarget "NikeTheDrawNotiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7B78E5AE26E7305000FCC908 /* Debug */,
-				7B78E5AF26E7305000FCC908 /* Release */,
+				7B7F2FB6280DA19600975CA0 /* Debug */,
+				7B7F2FB7280DA19600975CA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7B78E59126E7304E00FCC908 /* Project object */;
+	rootObject = 7B7F2F9F280DA19500975CA0 /* Project object */;
 }
