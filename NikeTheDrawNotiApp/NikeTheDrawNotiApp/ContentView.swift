@@ -8,13 +8,12 @@
 import SwiftUI
 
 struct ContentView: View {
-    var viewModel = MainViewModel()
+    @State var viewModel = MainViewModel()
     var body: some View {
         Text("Hello, world!")
             .padding()
-            .onAppear {
-                viewModel.request(path: "/kr/launch?type=upcoming&activeDate=date-filter:AFTER")
-            }
+        Text(viewModel.testString)
+            .padding()
     }
 }
 

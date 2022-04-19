@@ -12,7 +12,13 @@ import Alamofire
 class MainViewModel {
     var parseManager = ParseManager()
     
+    @Published var testString = "testString"
+    
     let ROOT_URL = "https://www.nike.com"
+    
+    init() {
+        request(path: "/kr/launch?type=upcoming&activeDate=date-filter:AFTER")
+    }
     
     func request(path: String = "/kr") -> Void {
         AF.request(ROOT_URL + path,
