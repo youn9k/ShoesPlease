@@ -7,7 +7,8 @@
 
 import Foundation
 
-struct DrawableItem {
+struct DrawableItem: Identifiable {
+    var id = UUID()
     let title: String
     let theme: String
     let image: String

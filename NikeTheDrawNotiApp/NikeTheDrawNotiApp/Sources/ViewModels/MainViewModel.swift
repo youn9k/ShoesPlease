@@ -20,6 +20,8 @@ class MainViewModel: ObservableObject {
     var refreshActionSubject = PassthroughSubject<(), Never>()
     
     init() {
+        print(drawableItems)
+        request(path: Const.URL.launchItemsURL)
         refreshActionSubject.sink { [weak self] _ in
             self?.request(path: Const.URL.launchItemsURL)
         }.store(in: &subscription)

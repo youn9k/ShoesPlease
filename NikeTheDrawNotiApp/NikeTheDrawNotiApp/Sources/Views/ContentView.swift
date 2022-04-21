@@ -11,11 +11,25 @@ struct ContentView: View {
     @ObservedObject var viewModel = MainViewModel()
     var body: some View {
         
-        List {
+        List(viewModel.drawableItems) { drawableItem in
             Text("Hello, world!")
                 .padding()
             Text(viewModel.testString)
                 .padding()
+            HStack {
+                Text(drawableItem.title)
+                AsyncImage(url: URL(string: drawableItem.image)) { image in
+                    image
+                        .resizable()
+                        .aspectRatio(contentMode: .fit)
+                } placeholder: {
+                    Color.gray
+                }
+                .mask {
+                    RoundedRectangle(cornerRadius: 15)
+                }
+                
+            }
         }
         .refreshable {
             viewModel.refreshActionSubject.send()
