@@ -10,16 +10,19 @@ import SwiftSoup
 import Alamofire
 import Combine
 
-class MainViewModel {
+class MainViewModel: ObservableObject {
     var parseManager = ParseManager()
     
     @Published var testString = "testString"
     @Published var drawableItems = [DrawableItem]()
     
     var subscription = Set<AnyCancellable>()
+    var refreshActionSubject = PassthroughSubject<(), Never>()
     
     init() {
-        request(path: "/kr/launch?type=upcoming&activeDate=date-filter:AFTER")
+        refreshActionSubject.sink { [weak self] _ in
+            self?.request(path: Const.URL.launchItemsURL)
+        }.store(in: &subscription)
     }
     
     func request(path: String = "/kr") {
@@ -33,10 +36,16 @@ class MainViewModel {
         .compactMap{ $0.value }
         .sink(receiveCompletion: { completion in
             print("수신 완료")
-        }, receiveValue: { receivedValue in
+            self.testString = "수신 완료"
+        }, receiveValue: { [weak self] receivedValue in
             print("받은 값:", receivedValue)
-            self.parseManager.getDrawableItems(receivedValue)
+            let items = self?.parseManager.getDrawableItems(receivedValue)
+            self?.setDrawableItems(items: items)
         }).store(in: &subscription)
+    }
+    
+    func setDrawableItems(items: [DrawableItem]?) {
+        self.drawableItems = items ?? []
     }
 
 }

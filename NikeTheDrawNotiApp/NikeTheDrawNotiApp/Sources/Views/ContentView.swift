@@ -8,12 +8,18 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var viewModel = MainViewModel()
+    @ObservedObject var viewModel = MainViewModel()
     var body: some View {
-        Text("Hello, world!")
-            .padding()
-        Text(viewModel.testString)
-            .padding()
+        
+        List {
+            Text("Hello, world!")
+                .padding()
+            Text(viewModel.testString)
+                .padding()
+        }
+        .refreshable {
+            viewModel.refreshActionSubject.send()
+        }
     }
 }
 
