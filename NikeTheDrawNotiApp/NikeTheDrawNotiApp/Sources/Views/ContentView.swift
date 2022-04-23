@@ -10,13 +10,11 @@ import SwiftUI
 struct ContentView: View {
     @ObservedObject var viewModel = MainViewModel()
     var body: some View {
+        Text(viewModel.testString)
+            .font(.title)
         
         List(viewModel.drawableItems) { drawableItem in
-            Text("Hello, world!")
-                .padding()
-            Text(viewModel.testString)
-                .padding()
-            HStack {
+            VStack {
                 Text(drawableItem.title)
                 AsyncImage(url: URL(string: drawableItem.image)) { image in
                     image
@@ -28,8 +26,7 @@ struct ContentView: View {
                 .mask {
                     RoundedRectangle(cornerRadius: 15)
                 }
-                
-            }
+            }// VStack
         }
         .refreshable {
             viewModel.refreshActionSubject.send()
