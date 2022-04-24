@@ -23,7 +23,8 @@ class MainViewModel: ObservableObject {
         print(drawableItems)
         //request(path: Const.URL.launchItemsURL)
         refreshActionSubject.sink { [weak self] _ in
-            self?.request(path: Const.URL.launchItemsURL)
+            //self?.request(path: Const.URL.launchItemsURL)
+            self?.setDummyDrawableItems()
         }.store(in: &subscription)
     }
     
@@ -49,5 +50,8 @@ class MainViewModel: ObservableObject {
     func setDrawableItems(items: [DrawableItem]?) {
         self.drawableItems = items ?? []
     }
-
+    
+    func setDummyDrawableItems() {
+        self.drawableItems = DrawableItem.dummyDrawableItems
+    }
 }
