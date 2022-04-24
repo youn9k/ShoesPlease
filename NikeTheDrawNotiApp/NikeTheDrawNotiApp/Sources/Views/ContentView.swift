@@ -11,20 +11,21 @@ struct ContentView: View {
     @ObservedObject var viewModel = MainViewModel()
     @State var refresh: Bool = false
     let columns = [
-        GridItem(.adaptive(minimum: 100)),
-        GridItem(.adaptive(minimum: 100))
+        GridItem(.flexible(minimum: 100), spacing: 20),
+        GridItem(.flexible(minimum: 100), spacing: 20)
     ]
     var body: some View {
         NavigationView {
             ZStack {
-                Color.cream
+                Color.cream.ignoresSafeArea(edges: .bottom)
                 if viewModel.drawableItems.isEmpty {
-                    Text("내용이 엄서용")
+                    Text("진행중인 응모가 없어요 !")
+                        .foregroundColor(.gray)
                 }
                 RefreshableScrollView(isRefreshing: $refresh) {
                     Text(viewModel.testString)
                         .font(.headline)
-                    LazyVGrid(columns: columns) {
+                    LazyVGrid(columns: columns, spacing: 20) {
                         ForEach(viewModel.drawableItems) { drawableItem in
                             NavigationLink(destination: Text("네비게이션 테스트 뷰 입니다!")) {
                                 ZStack {
@@ -49,16 +50,16 @@ struct ContentView: View {
                         }
                     }
                 } onRefresh: {
-                    print("onRefresh!!")
-                    print(viewModel.drawableItems)
+                    print(#fileID, #function, #line, "onRefresh")
                     DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
                         viewModel.refreshActionSubject.send()
                         withAnimation { refresh = false }
                     }
                 }// RefreshableScrollView
+                .padding(.horizontal, 10)
+                .navigationTitle("드로우 플리즈")
+                .navigationBarTitleDisplayMode(.inline)
             }// ZStack
-            .navigationTitle("앱 아이콘 들어갈 곳")
-            .navigationBarTitleDisplayMode(.inline)
         }// NavigationView
     }
 }
