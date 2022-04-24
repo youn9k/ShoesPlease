@@ -21,7 +21,7 @@ class MainViewModel: ObservableObject {
     
     init() {
         print(drawableItems)
-        request(path: Const.URL.launchItemsURL)
+        //request(path: Const.URL.launchItemsURL)
         refreshActionSubject.sink { [weak self] _ in
             self?.request(path: Const.URL.launchItemsURL)
         }.store(in: &subscription)
