@@ -9,9 +9,22 @@ import SwiftUI
 
 @main
 struct NikeTheDrawNotiAppApp: App {
+    @Environment(\.scenePhase) var scenePhase
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+        }.onChange(of: scenePhase) { newScenePhase in
+            switch newScenePhase {
+            case .active:
+                print("active")
+            case .inactive:
+                print("inactive")
+            case .background:
+                print("background")
+            @unknown default:
+                print("Detected Unknown ScenePhase !!")
+            }
         }
     }
 }
