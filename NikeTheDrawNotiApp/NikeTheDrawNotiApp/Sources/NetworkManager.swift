@@ -10,13 +10,20 @@ import Alamofire
 
 class NetworkManager {
     
-//    func request(url: String) {
-//        AF.request(url,
-//                   method: .get,
-//                   parameters: nil,
-//                   encoding: URLEncoding.default,
-//                   headers: Const.headers)
-//        .validate(statusCode: 200..<300)
-//        .publishString()
-//    }
+    func request(url: String, completion: @escaping (Result<String, AFError>) -> Void) {
+        AF.request(url,
+                   method: .get,
+                   parameters: nil,
+                   encoding: URLEncoding.default,
+                   headers: Const.headers)
+        .validate(statusCode: 200..<300)
+        .responseString { response in
+            switch response.result {
+            case .success(let html):
+                completion(.success(html))
+            case . failure(let error):
+                completion(.failure(error))
+            }
+        }
+    }
 }

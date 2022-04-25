@@ -32,7 +32,7 @@ class ParseManager {
                 let soldoutButton = try launchItem.select("a.ncss-btn-primary-dark")
                 let soldoutButtonText = try soldoutButton.text()
                 if try soldoutButton.text() == "THE DRAW 진행예정" {
-                    print("launchItem:", launchItemText, "button:", soldoutButtonText)
+                    print("launchItem: \(launchItemText)\n", "button: \(soldoutButtonText)\n")
                     
                     let launchItemInfo = try launchItem.select("a.comingsoon")
                     let launchItemImage = try launchItem.select("img.img-component")
@@ -42,7 +42,7 @@ class ParseManager {
                     let launchItemTheme = try launchItemImage.attr("alt")
                     let launchItemHref = try launchItemInfo.attr("href")
                     
-                    print("title:", launchItemTitle, "theme", launchItemTheme, "image", launchItemImageSrc, "href", launchItemHref)
+                    print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
                     
                     drawableItems.append(DrawableItem(
                         title: launchItemTitle,
@@ -54,9 +54,20 @@ class ParseManager {
             }
            return drawableItems
         } catch let e {
-            print("error: ", e)
+            print(#fileID, #function, #line, "error:", e)
             return nil
         }
     }
+    
+//    func getCalendar(path: String?) {
+//        guard let path = path else { return }
+//        do {
+//            try let soup = 
+//            
+//        } catch let e {
+//            print(#fileID, #function, #line, "error:", e)
+//            return nil
+//        }
+//    }
     
 }
