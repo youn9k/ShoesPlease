@@ -12,6 +12,7 @@ import Combine
 
 class MainViewModel: ObservableObject {
     var parseManager = ParseManager()
+    var networkManager = NetworkManager()
     
     @Published var testString = "수신 전"
     @Published var drawableItems = [DrawableItem]()
@@ -21,10 +22,10 @@ class MainViewModel: ObservableObject {
     
     init() {
         print(drawableItems)
-        //request(path: Const.URL.launchItemsURL)
         refreshActionSubject.sink { [weak self] _ in
-            self?.request(path: Const.URL.launchItemsURL)
-            //self?.setDummyDrawableItems()
+            //self?.request(path: Const.URL.launchItemsURL)
+            self?.testGetDrawableItems()
+            //self?.setDummyDrawableItems()// 더미 데이터 불러오기
         }.store(in: &subscription)
     }
     
@@ -54,4 +55,30 @@ class MainViewModel: ObservableObject {
     func setDummyDrawableItems() {
         self.drawableItems = DrawableItem.dummyDrawableItems
     }
+    
+    func testGetDrawableItems() {
+        networkManager.request(url: Const.URL.baseURL + Const.URL.launchItemsURL) { [weak self] result in
+            switch result {
+            case .success(let html):
+                print("수신 완료")
+                self?.testString = "수신 완료"
+                let items = self?.parseManager.getDrawableItems(html)
+                self?.setDrawableItems(items: items)
+            case .failure(let error):
+                print(#fileID, #function, #line, "error:", error)
+            }
+        }
+    }
+    
+//    func testGetCalendar() {
+//        networkManager.request(url: Const.URL.baseURL + drawableItems) { [weak self] result in
+//            switch result {
+//            case .success(let html):
+//                let items = self?.parseManager.getDrawableItems(html)
+//                self?.setDrawableItems(items: items)
+//            case .failure(let error):
+//                print(#fileID, #function, #line, "error:", error)
+//            }
+//        }
+//    }
 }
