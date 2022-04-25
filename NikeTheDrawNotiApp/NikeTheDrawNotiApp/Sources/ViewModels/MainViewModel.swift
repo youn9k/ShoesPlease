@@ -13,7 +13,7 @@ import Combine
 class MainViewModel: ObservableObject {
     var parseManager = ParseManager()
     
-    @Published var testString = "testString"
+    @Published var testString = "수신 전"
     @Published var drawableItems = [DrawableItem]()
     
     var subscription = Set<AnyCancellable>()
@@ -23,8 +23,8 @@ class MainViewModel: ObservableObject {
         print(drawableItems)
         //request(path: Const.URL.launchItemsURL)
         refreshActionSubject.sink { [weak self] _ in
-            //self?.request(path: Const.URL.launchItemsURL)
-            self?.setDummyDrawableItems()
+            self?.request(path: Const.URL.launchItemsURL)
+            //self?.setDummyDrawableItems()
         }.store(in: &subscription)
     }
     

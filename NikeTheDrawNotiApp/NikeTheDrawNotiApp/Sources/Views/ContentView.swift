@@ -61,6 +61,7 @@ struct ContentView: View {
                 .navigationBarTitleDisplayMode(.inline)
             }// ZStack
         }// NavigationView
+        .navigationViewStyle(.stack)// 안붙이면 콘솔창에 오류가 주르륵
     }
 }
 
