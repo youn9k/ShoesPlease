@@ -21,6 +21,7 @@
 		7B7F2FCB2812DC7300975CA0 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FCA2812DC7300975CA0 /* NetworkManager.swift */; };
 		7B7F2FCD28153CCD00975CA0 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FCC28153CCD00975CA0 /* Color.swift */; };
 		7B7F2FCF28153D4000975CA0 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FCE28153D4000975CA0 /* Colors.xcassets */; };
+		7B7F2FD12816BD8800975CA0 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		7B7F2FCA2812DC7300975CA0 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		7B7F2FCC28153CCD00975CA0 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		7B7F2FCE28153D4000975CA0 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
+		7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
 		C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.release.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,6 +91,7 @@
 				7B7F2FC628105B1800975CA0 /* Sources */,
 				7B7F2FAE280DA19600975CA0 /* Assets.xcassets */,
 				7B7F2FCE28153D4000975CA0 /* Colors.xcassets */,
+				7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */,
 				7B7F2FB0280DA19600975CA0 /* Preview Content */,
 			);
 			path = NikeTheDrawNotiApp;
@@ -228,6 +231,7 @@
 			files = (
 				7B7F2FCF28153D4000975CA0 /* Colors.xcassets in Resources */,
 				7B7F2FB2280DA19600975CA0 /* Preview Assets.xcassets in Resources */,
+				7B7F2FD12816BD8800975CA0 /* Launch Screen.storyboard in Resources */,
 				7B7F2FAF280DA19600975CA0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -426,6 +430,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -457,6 +462,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
