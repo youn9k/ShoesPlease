@@ -34,6 +34,8 @@ struct ContentView: View {
                                     VStack {
                                         Text(drawableItem.title)
                                             .foregroundColor(.black)
+                                        Text(drawableItem.theme)
+                                            .foregroundColor(.gray)
                                         AsyncImage(url: URL(string: drawableItem.image)) { image in
                                             image
                                                 .resizable()
