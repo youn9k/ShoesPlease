@@ -25,7 +25,7 @@ struct ContentView: View {
                 RefreshableScrollView(isRefreshing: $refresh) {
                     Text(viewModel.testString)
                         .font(.headline)
-                    LazyVGrid(columns: columns, spacing: 20) {
+                    LazyVStack(spacing: 20) {
                         ForEach(viewModel.drawableItems) { drawableItem in
                             NavigationLink(destination: Text("네비게이션 테스트 뷰 입니다!")) {
                                 ZStack {
