@@ -10,10 +10,7 @@ import SwiftUI
 struct ContentView: View {
     @ObservedObject var viewModel = MainViewModel()
     @State var refresh: Bool = false
-    let columns = [
-        GridItem(.flexible(minimum: 100), spacing: 20),
-        GridItem(.flexible(minimum: 100), spacing: 20)
-    ]
+    
     var body: some View {
         NavigationView {
             ZStack {
@@ -26,7 +23,7 @@ struct ContentView: View {
                     Text(viewModel.testString)
                         .font(.headline)
                     ZStack {
-                        Color.clear// 비어있을때도 당길 수 있도록 투명 뷰
+                        Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
                         VStack(spacing: 20) {
                             ForEach(viewModel.drawableItems) { drawableItem in
                                 NavigationLink(destination: Text("네비게이션 테스트 뷰 입니다!")) {
@@ -63,7 +60,7 @@ struct ContentView: View {
                 }// RefreshableScrollView
                 .padding(.horizontal, 10)
                 .navigationTitle("응모 목록")
-                //.navigationBarTitleDisplayMode(.inline)
+                //.navigationBarTitleDisplayMode(.inline)// 다시 사용할 수도 있어서 주석처리
             }// ZStack
         }// NavigationView
         .navigationViewStyle(.stack)// 안붙이면 콘솔창에 오류가 주르륵
