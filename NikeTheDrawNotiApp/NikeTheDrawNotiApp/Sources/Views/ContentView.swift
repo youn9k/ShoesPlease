@@ -25,32 +25,35 @@ struct ContentView: View {
                 RefreshableScrollView(isRefreshing: $refresh) {
                     Text(viewModel.testString)
                         .font(.headline)
-                    LazyVStack(spacing: 20) {
-                        ForEach(viewModel.drawableItems) { drawableItem in
-                            NavigationLink(destination: Text("네비게이션 테스트 뷰 입니다!")) {
-                                ZStack {
-                                    RoundedRectangle(cornerRadius: 15)
-                                        .foregroundColor(.white)
-                                    VStack {
-                                        Text(drawableItem.title)
-                                            .foregroundColor(.black)
-                                        Text(drawableItem.theme)
-                                            .foregroundColor(.gray)
-                                        AsyncImage(url: URL(string: drawableItem.image)) { image in
-                                            image
-                                                .resizable()
-                                                .aspectRatio(contentMode: .fit)
-                                        } placeholder: {
-                                            Color.gray
+                    ZStack {
+                        Color.clear// 비어있을때도 당길 수 있도록 투명 뷰
+                        VStack(spacing: 20) {
+                            ForEach(viewModel.drawableItems) { drawableItem in
+                                NavigationLink(destination: Text("네비게이션 테스트 뷰 입니다!")) {
+                                    ZStack {
+                                        RoundedRectangle(cornerRadius: 15)
+                                            .foregroundColor(.white)
+                                        VStack {
+                                            Text(drawableItem.title)
+                                                .foregroundColor(.black)
+                                            Text(drawableItem.theme)
+                                                .foregroundColor(.gray)
+                                            AsyncImage(url: URL(string: drawableItem.image)) { image in
+                                                image
+                                                    .resizable()
+                                                    .aspectRatio(contentMode: .fit)
+                                            } placeholder: {
+                                                Color.gray
+                                            }
+                                            .mask {
+                                                RoundedRectangle(cornerRadius: 15)
+                                            }
                                         }
-                                        .mask {
-                                            RoundedRectangle(cornerRadius: 15)
-                                        }
-                                    }
-                                }// ZStack
-                            }// NavigationLink
-                        }
-                    }
+                                    }// ZStack
+                                }// NavigationLink
+                            }
+                        }// VStack
+                    }// ZStack
                 } onRefresh: {
                     print(#fileID, #function, #line, "onRefresh")
                     DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
@@ -59,8 +62,8 @@ struct ContentView: View {
                     }
                 }// RefreshableScrollView
                 .padding(.horizontal, 10)
-                .navigationTitle("드로우 플리즈")
-                .navigationBarTitleDisplayMode(.inline)
+                .navigationTitle("응모 목록")
+                //.navigationBarTitleDisplayMode(.inline)
             }// ZStack
         }// NavigationView
         .navigationViewStyle(.stack)// 안붙이면 콘솔창에 오류가 주르륵
