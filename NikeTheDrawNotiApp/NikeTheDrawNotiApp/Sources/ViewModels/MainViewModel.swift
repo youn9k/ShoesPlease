@@ -16,6 +16,7 @@ class MainViewModel: ObservableObject {
     
     @Published var testString = "수신 전"
     @Published var drawableItems = [DrawableItem]()
+    @Published var isRefreshing = false
     
     var subscription = Set<AnyCancellable>()
     var refreshActionSubject = PassthroughSubject<(), Never>()
@@ -24,7 +25,6 @@ class MainViewModel: ObservableObject {
         print(drawableItems)
         refreshActionSubject.sink { [weak self] _ in
             HapticManager.instance.impact(style: .medium)
-            //self?.request(path: Const.URL.launchItemsURL)
             self?.testGetDrawableItems()
             //self?.setDummyDrawableItems()// 더미 데이터 불러오기
         }.store(in: &subscription)
@@ -61,13 +61,17 @@ class MainViewModel: ObservableObject {
         networkManager.request(url: Const.URL.baseURL + Const.URL.launchItemsURL) { [weak self] result in
             switch result {
             case .success(let html):
+                HapticManager.instance.notification(type: .success)
                 print("수신 완료")
                 self?.testString = "수신 완료"
                 let items = self?.parseManager.getDrawableItems(html)
                 self?.setDrawableItems(items: items)
             case .failure(let error):
+                HapticManager.instance.notification(type: .error)
                 print(#fileID, #function, #line, "error:", error)
             }
+            print(#fileID, #function, #line, "새로고침 끝")
+            self?.isRefreshing = false
         }
     }
     

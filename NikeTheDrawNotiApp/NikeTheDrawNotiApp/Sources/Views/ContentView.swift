@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     @ObservedObject var viewModel = MainViewModel()
-    @State var refresh: Bool = false
     
     var body: some View {
         NavigationView {
@@ -19,7 +18,7 @@ struct ContentView: View {
                     Text("진행중인 응모가 없어요 !")
                         .foregroundColor(.gray)
                 }
-                RefreshableScrollView(isRefreshing: $refresh) {
+                RefreshableScrollView(isRefreshing: $viewModel.isRefreshing) {
                     Text(viewModel.testString)
                         .font(.headline)
                     ZStack {
@@ -53,11 +52,10 @@ struct ContentView: View {
                     }// ZStack
                 } onRefresh: {
                     print(#fileID, #function, #line, "onRefresh")
-                    HapticManager.instance.impact(style: .medium)
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
-                        viewModel.refreshActionSubject.send()
-                        withAnimation { refresh = false }
-                    }
+                    viewModel.refreshActionSubject.send()
+//                    DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
+//                        viewModel.refreshActionSubject.send()
+//                    }// 딜레이 테스트용
                 }// RefreshableScrollView
                 .padding(.horizontal, 10)
                 .navigationTitle("응모 목록")
@@ -80,7 +78,7 @@ public struct RefreshableScrollView<Content: View>: View {
     private var content: () -> Content
     private let onRefresh: () -> Void
     
-    private let threshold: CGFloat = 100.0
+    private let threshold: CGFloat = 120.0
     
     public init(
         isRefreshing: Binding<Bool>,
