@@ -53,6 +53,7 @@ struct ContentView: View {
                     }// ZStack
                 } onRefresh: {
                     print(#fileID, #function, #line, "onRefresh")
+                    HapticManager.instance.impact(style: .medium)
                     DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
                         viewModel.refreshActionSubject.send()
                         withAnimation { refresh = false }
@@ -79,7 +80,7 @@ public struct RefreshableScrollView<Content: View>: View {
     private var content: () -> Content
     private let onRefresh: () -> Void
     
-    private let threshold: CGFloat = 80.0
+    private let threshold: CGFloat = 100.0
     
     public init(
         isRefreshing: Binding<Bool>,

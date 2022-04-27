@@ -22,6 +22,7 @@
 		7B7F2FCD28153CCD00975CA0 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FCC28153CCD00975CA0 /* Color.swift */; };
 		7B7F2FCF28153D4000975CA0 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FCE28153D4000975CA0 /* Colors.xcassets */; };
 		7B7F2FD12816BD8800975CA0 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */; };
+		7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD42818FEF500975CA0 /* HapticManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		7B7F2FCC28153CCD00975CA0 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		7B7F2FCE28153D4000975CA0 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		7B7F2FD42818FEF500975CA0 /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
 		A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
 		C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.release.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -130,6 +132,7 @@
 				7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */,
 				7B7F2FCA2812DC7300975CA0 /* NetworkManager.swift */,
 				7B7F2FBA280DA9DC00975CA0 /* ParseManager.swift */,
+				7B7F2FD42818FEF500975CA0 /* HapticManager.swift */,
 				7B7F2FC728105B4100975CA0 /* Models */,
 				7B7F2FC828105B4E00975CA0 /* ViewModels */,
 				7B7F2FC928105B5400975CA0 /* Views */,
@@ -293,6 +296,7 @@
 				7B7F2FBF281044F700975CA0 /* String.swift in Sources */,
 				7B7F2FC32810454F00975CA0 /* URL.swift in Sources */,
 				7B7F2FB9280DA22F00975CA0 /* MainViewModel.swift in Sources */,
+				7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */,
 				7B7F2FBB280DA9DC00975CA0 /* ParseManager.swift in Sources */,
 				7B7F2FC12810450200975CA0 /* Const.swift in Sources */,
 			);

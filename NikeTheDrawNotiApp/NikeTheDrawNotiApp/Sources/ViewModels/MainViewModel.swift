@@ -23,6 +23,7 @@ class MainViewModel: ObservableObject {
     init() {
         print(drawableItems)
         refreshActionSubject.sink { [weak self] _ in
+            HapticManager.instance.impact(style: .medium)
             //self?.request(path: Const.URL.launchItemsURL)
             self?.testGetDrawableItems()
             //self?.setDummyDrawableItems()// 더미 데이터 불러오기
