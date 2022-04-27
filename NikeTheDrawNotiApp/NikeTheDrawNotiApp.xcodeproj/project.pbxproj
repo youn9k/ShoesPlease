@@ -23,6 +23,7 @@
 		7B7F2FCF28153D4000975CA0 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FCE28153D4000975CA0 /* Colors.xcassets */; };
 		7B7F2FD12816BD8800975CA0 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */; };
 		7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD42818FEF500975CA0 /* HapticManager.swift */; };
+		7B7F2FDF28190E9E00975CA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FE128190E9E00975CA0 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,8 @@
 		7B7F2FCE28153D4000975CA0 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		7B7F2FD42818FEF500975CA0 /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
+		7B7F2FE228190EA200975CA0 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7B7F2FE328190F2A00975CA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
 		C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.release.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -121,6 +124,7 @@
 		7B7F2FBD281044E700975CA0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				7B7F2FE128190E9E00975CA0 /* InfoPlist.strings */,
 				7B7F2FBC281044DA00975CA0 /* Constants */,
 			);
 			path = Resources;
@@ -216,6 +220,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
 			);
 			mainGroup = 7B7F2F9E280DA19500975CA0;
 			productRefGroup = 7B7F2FA8280DA19500975CA0 /* Products */;
@@ -236,6 +241,7 @@
 				7B7F2FB2280DA19600975CA0 /* Preview Assets.xcassets in Resources */,
 				7B7F2FD12816BD8800975CA0 /* Launch Screen.storyboard in Resources */,
 				7B7F2FAF280DA19600975CA0 /* Assets.xcassets in Resources */,
+				7B7F2FDF28190E9E00975CA0 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +309,18 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7B7F2FE128190E9E00975CA0 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7B7F2FE228190EA200975CA0 /* ko */,
+				7B7F2FE328190F2A00975CA0 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		7B7F2FB3280DA19600975CA0 /* Debug */ = {
@@ -444,7 +462,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.NikeTheDrawNotiApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = NikeTheDrawNotiApp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -476,7 +494,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.NikeTheDrawNotiApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = NikeTheDrawNotiApp;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
