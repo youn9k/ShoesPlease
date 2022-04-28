@@ -25,7 +25,7 @@ struct ContentView: View {
                         Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
                         VStack(spacing: 20) {
                             ForEach(viewModel.drawableItems) { drawableItem in
-                                NavigationLink(destination: Text("네비게이션 테스트 뷰 입니다!")) {
+                                NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
                                     ZStack {
                                         RoundedRectangle(cornerRadius: 15)
                                             .foregroundColor(.white)
