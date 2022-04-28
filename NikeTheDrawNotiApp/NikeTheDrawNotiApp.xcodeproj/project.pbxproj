@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		771FBA28E30E9FBF74FF1627 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */; };
+		7B1E6747281AC84C009174DC /* RefreshableScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */; };
 		7B7F2FAB280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */; };
 		7B7F2FAD280DA19500975CA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAC280DA19500975CA0 /* ContentView.swift */; };
 		7B7F2FAF280DA19600975CA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAE280DA19600975CA0 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NikeTheDrawNotiApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableScrollView.swift; sourceTree = "<group>"; };
 		7B7F2FA7280DA19500975CA0 /* NikeTheDrawNotiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeTheDrawNotiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikeTheDrawNotiAppApp.swift; sourceTree = "<group>"; };
 		7B7F2FAC280DA19500975CA0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 			isa = PBXGroup;
 			children = (
 				7B7F2FAC280DA19500975CA0 /* ContentView.swift */,
+				7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */,
 				7B7F2FBB280DA9DC00975CA0 /* ParseManager.swift in Sources */,
 				7B7F2FC12810450200975CA0 /* Const.swift in Sources */,
+				7B1E6747281AC84C009174DC /* RefreshableScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
