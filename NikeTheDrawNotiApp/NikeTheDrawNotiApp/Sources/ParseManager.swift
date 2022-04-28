@@ -59,15 +59,23 @@ class ParseManager {
         }
     }
     
-//    func getCalendar(path: String?) {
-//        guard let path = path else { return }
-//        do {
-//            try let soup = 
-//            
-//        } catch let e {
-//            print(#fileID, #function, #line, "error:", e)
-//            return nil
-//        }
-//    }
+    func parseCalendar(_ html: String?) -> [String]? {
+        var calendar: [String] = []
+        guard let html = html else { return nil }
+        do {
+            let soup = try SwiftSoup.parse(html)
+            let drawInfos = try soup.select("p.draw-info")
+            
+            try drawInfos.forEach { drawInfo in
+                let text = try drawInfo.text()
+                calendar.append(text)
+            }
+            print(#fileID, #function, #line, "calendar:", calendar)
+            return calendar
+        } catch let e {
+            print(#fileID, #function, #line, "error:", e)
+            return nil
+        }
+    }
     
 }
