@@ -25,30 +25,11 @@ class MainViewModel: ObservableObject {
         print(drawableItems)
         refreshActionSubject.sink { [weak self] _ in
             HapticManager.instance.impact(style: .medium)
-            self?.testGetDrawableItems()
+            self?.fetchDrawableItems()
             //self?.setDummyDrawableItems()// 더미 데이터 불러오기
         }.store(in: &subscription)
     }
-    
-    func request(path: String = "/kr") {
-        AF.request(Const.URL.baseURL + path,
-                   method: .get,
-                   parameters: nil,
-                   encoding: URLEncoding.default,
-                   headers: Const.headers)
-        .validate(statusCode: 200..<300)
-        .publishString()
-        .compactMap{ $0.value }
-        .sink(receiveCompletion: { completion in
-            print("수신 완료")
-            self.testString = "수신 완료"
-        }, receiveValue: { [weak self] receivedValue in
-            print("받은 값:", receivedValue)
-            let items = self?.parseManager.getDrawableItems(receivedValue)
-            self?.setDrawableItems(items: items)
-        }).store(in: &subscription)
-    }
-    
+   
     func setDrawableItems(items: [DrawableItem]?) {
         self.drawableItems = items ?? []
     }
@@ -57,14 +38,14 @@ class MainViewModel: ObservableObject {
         self.drawableItems = DrawableItem.dummyDrawableItems
     }
     
-    func testGetDrawableItems() {
+    func fetchDrawableItems() {
         networkManager.request(url: Const.URL.baseURL + Const.URL.launchItemsURL) { [weak self] result in
             switch result {
             case .success(let html):
                 HapticManager.instance.notification(type: .success)
                 print("수신 완료")
                 self?.testString = "수신 완료"
-                let items = self?.parseManager.getDrawableItems(html)
+                let items = self?.parseManager.parseDrawableItems(html)
                 self?.setDrawableItems(items: items)
             case .failure(let error):
                 HapticManager.instance.notification(type: .error)

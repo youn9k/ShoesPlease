@@ -21,7 +21,7 @@ class ParseManager {
         }
     }
     
-    func getDrawableItems(_ html: String?) -> [DrawableItem]? {
+    func parseDrawableItems(_ html: String?) -> [DrawableItem]? {
         var drawableItems: [DrawableItem] = []
         guard let html = html else { return nil }
         do {
