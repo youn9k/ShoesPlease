@@ -22,13 +22,15 @@ class MainViewModel: ObservableObject {
     var refreshActionSubject = PassthroughSubject<(), Never>()
     
     init() {
-        print(drawableItems)
+        print("vm init")
         refreshActionSubject.sink { [weak self] _ in
             HapticManager.instance.impact(style: .medium)
             self?.fetchDrawableItems()
             //self?.setDummyDrawableItems()// 더미 데이터 불러오기
         }.store(in: &subscription)
     }
+    
+    deinit { print("vm deinit") }
    
     func setDrawableItems(items: [DrawableItem]?) {
         self.drawableItems = items ?? []
