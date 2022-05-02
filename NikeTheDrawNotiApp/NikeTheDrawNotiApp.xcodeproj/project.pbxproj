@@ -10,8 +10,9 @@
 		771FBA28E30E9FBF74FF1627 /* Pods_NikeTheDrawNotiApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */; };
 		7B1E6747281AC84C009174DC /* RefreshableScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */; };
 		7B1E6749281ADD29009174DC /* MyWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1E6748281ADD29009174DC /* MyWebView.swift */; };
+		7B1E674B281FDF46009174DC /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1E674A281FDF46009174DC /* MainView.swift */; };
+		7B1E674D281FF9AF009174DC /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B1E674C281FF9AF009174DC /* View+Extension.swift */; };
 		7B7F2FAB280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */; };
-		7B7F2FAD280DA19500975CA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAC280DA19500975CA0 /* ContentView.swift */; };
 		7B7F2FAF280DA19600975CA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FAE280DA19600975CA0 /* Assets.xcassets */; };
 		7B7F2FB2280DA19600975CA0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FB1280DA19600975CA0 /* Preview Assets.xcassets */; };
 		7B7F2FB9280DA22F00975CA0 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FB8280DA22F00975CA0 /* MainViewModel.swift */; };
@@ -32,9 +33,10 @@
 		799023A77679FCEE196D3FFD /* Pods_NikeTheDrawNotiApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NikeTheDrawNotiApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableScrollView.swift; sourceTree = "<group>"; };
 		7B1E6748281ADD29009174DC /* MyWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyWebView.swift; sourceTree = "<group>"; };
+		7B1E674A281FDF46009174DC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		7B1E674C281FF9AF009174DC /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
 		7B7F2FA7280DA19500975CA0 /* NikeTheDrawNotiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NikeTheDrawNotiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B7F2FAA280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikeTheDrawNotiAppApp.swift; sourceTree = "<group>"; };
-		7B7F2FAC280DA19500975CA0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7B7F2FAE280DA19600975CA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B7F2FB1280DA19600975CA0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B7F2FB8280DA22F00975CA0 /* MainViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
@@ -73,6 +75,14 @@
 				C3E26EF1429C86DE04E31ED5 /* Pods-NikeTheDrawNotiApp.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		7B1E674E281FF9B3009174DC /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				7B1E674C281FF9AF009174DC /* View+Extension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 		7B7F2F9E280DA19500975CA0 = {
@@ -144,6 +154,7 @@
 				7B7F2FC728105B4100975CA0 /* Models */,
 				7B7F2FC828105B4E00975CA0 /* ViewModels */,
 				7B7F2FC928105B5400975CA0 /* Views */,
+				7B1E674E281FF9B3009174DC /* Extensions */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -167,7 +178,7 @@
 		7B7F2FC928105B5400975CA0 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				7B7F2FAC280DA19500975CA0 /* ContentView.swift */,
+				7B1E674A281FDF46009174DC /* MainView.swift */,
 				7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */,
 				7B1E6748281ADD29009174DC /* MyWebView.swift */,
 			);
@@ -302,12 +313,13 @@
 			files = (
 				7B7F2FCB2812DC7300975CA0 /* NetworkManager.swift in Sources */,
 				7B1E6749281ADD29009174DC /* MyWebView.swift in Sources */,
-				7B7F2FAD280DA19500975CA0 /* ContentView.swift in Sources */,
 				7B7F2FAB280DA19500975CA0 /* NikeTheDrawNotiAppApp.swift in Sources */,
 				7B7F2FCD28153CCD00975CA0 /* Color.swift in Sources */,
 				7B7F2FC5281050E500975CA0 /* DrawableItem.swift in Sources */,
 				7B7F2FBF281044F700975CA0 /* String.swift in Sources */,
+				7B1E674D281FF9AF009174DC /* View+Extension.swift in Sources */,
 				7B7F2FC32810454F00975CA0 /* URL.swift in Sources */,
+				7B1E674B281FDF46009174DC /* MainView.swift in Sources */,
 				7B7F2FB9280DA22F00975CA0 /* MainViewModel.swift in Sources */,
 				7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */,
 				7B7F2FBB280DA9DC00975CA0 /* ParseManager.swift in Sources */,
