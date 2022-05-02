@@ -13,6 +13,7 @@ struct MainView: View {
     var body: some View {
         NavigationView {
             ZStack {
+                Color.backgroundGray.ignoresSafeArea()
                 if viewModel.drawableItems.isEmpty {
                     Text("진행중인 응모가 없어요 !")
                         .foregroundColor(.gray)
@@ -67,7 +68,7 @@ struct CardView: View {
             }
             .shadow(radius: 10, y: 5)
             Text(title)
-                .foregroundColor(.black)
+                .foregroundColor(.textBlack)
                 .fontWeight(.black)
             Text(theme)
                 .foregroundColor(.gray)
