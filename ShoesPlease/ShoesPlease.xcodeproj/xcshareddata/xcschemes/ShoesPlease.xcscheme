@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7B7F2FA6280DA19500975CA0"
-               BuildableName = "NikeTheDrawNotiApp.app"
-               BlueprintName = "NikeTheDrawNotiApp"
-               ReferencedContainer = "container:NikeTheDrawNotiApp.xcodeproj">
+               BuildableName = "ShoesPlease.app"
+               BlueprintName = "ShoesPlease"
+               ReferencedContainer = "container:ShoesPlease.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7B7F2FA6280DA19500975CA0"
-            BuildableName = "NikeTheDrawNotiApp.app"
-            BlueprintName = "NikeTheDrawNotiApp"
-            ReferencedContainer = "container:NikeTheDrawNotiApp.xcodeproj">
+            BuildableName = "ShoesPlease.app"
+            BlueprintName = "ShoesPlease"
+            ReferencedContainer = "container:ShoesPlease.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -64,16 +64,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7B7F2FA6280DA19500975CA0"
-            BuildableName = "NikeTheDrawNotiApp.app"
-            BlueprintName = "NikeTheDrawNotiApp"
-            ReferencedContainer = "container:NikeTheDrawNotiApp.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

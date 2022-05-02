@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct NikeTheDrawNotiAppApp: App {
+struct ShoesPleaseApp: App {
     @Environment(\.scenePhase) var scenePhase
     
     var body: some Scene {

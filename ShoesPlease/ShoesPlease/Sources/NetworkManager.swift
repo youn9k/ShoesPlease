@@ -26,4 +26,14 @@ class NetworkManager {
             }
         }
     }
+    
+    func request2(url: String) -> DataResponsePublisher<String> {
+        AF.request(url,
+                   method: .get,
+                   parameters: nil,
+                   encoding: URLEncoding.default,
+                   headers: Const.headers)
+        .validate(statusCode: 200..<300)
+        .publishString()
+    }
 }
