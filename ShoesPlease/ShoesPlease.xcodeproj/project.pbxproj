@@ -34,6 +34,7 @@
 		7B1E6748281ADD29009174DC /* MyWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyWebView.swift; sourceTree = "<group>"; };
 		7B1E674A281FDF46009174DC /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		7B1E674C281FF9AF009174DC /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		7B2C8226289B6D0F006FDE36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		7B7F2FA7280DA19500975CA0 /* ShoesPlease.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShoesPlease.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B7F2FAA280DA19500975CA0 /* ShoesPleaseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoesPleaseApp.swift; sourceTree = "<group>"; };
 		7B7F2FAE280DA19600975CA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -110,6 +111,7 @@
 		7B7F2FA9280DA19500975CA0 /* ShoesPlease */ = {
 			isa = PBXGroup;
 			children = (
+				7B2C8226289B6D0F006FDE36 /* Info.plist */,
 				7B7F2FBD281044E700975CA0 /* Resources */,
 				7B7F2FC628105B1800975CA0 /* Sources */,
 				7B7F2FAE280DA19600975CA0 /* Assets.xcassets */,
@@ -474,7 +476,7 @@
 				DEVELOPMENT_TEAM = MPMHNJMTGA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "";
+				INFOPLIST_FILE = ShoesPlease/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -509,7 +511,7 @@
 				DEVELOPMENT_TEAM = MPMHNJMTGA;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "";
+				INFOPLIST_FILE = ShoesPlease/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
