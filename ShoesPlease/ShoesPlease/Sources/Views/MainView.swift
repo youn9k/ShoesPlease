@@ -26,6 +26,9 @@ struct MainView: View {
                                 NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
                                     CardView(imageURL: drawableItem.image, title: drawableItem.title, theme: drawableItem.theme)
                                 }
+                                .contextMenu {
+                                    ContextMenuView()
+                                }
                             }
                         }
                         .padding(.top, 30)
@@ -74,5 +77,23 @@ struct CardView: View {
                 .foregroundColor(.gray)
                 .fontWeight(.regular)
         }
+    }
+}
+
+struct ContextMenuView: View {
+    var body: some View {
+        VStack {
+            Button {
+                // 알림 설정
+            } label: {
+                Label("알림 설정하기", systemImage: "clock.badge.checkmark")
+            }
+            Button(role: .destructive) {
+                // 알림 취소
+            } label: {
+                Label("알림 취소하기", systemImage: "clock")
+            }
+        }
+        
     }
 }
