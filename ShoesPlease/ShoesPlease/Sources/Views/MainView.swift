@@ -65,6 +65,7 @@ struct CardView: View {
             } placeholder: {
                 RoundedRectangle(cornerRadius: 15)
                     .frame(width: screen().width / 1.2, height: UIScreen.main.bounds.height / 3)
+                    .foregroundColor(.gray)
             }
             .mask {
                 RoundedRectangle(cornerRadius: 15)
