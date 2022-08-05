@@ -27,7 +27,7 @@ struct MainView: View {
                                     CardView(imageURL: drawableItem.image, title: drawableItem.title, theme: drawableItem.theme)
                                 }
                                 .contextMenu {
-                                    ContextMenuView()
+                                    ContextMenuView(viewModel: viewModel, title: drawableItem.title, theme: drawableItem.theme)
                                 }
                             }
                         }
@@ -82,10 +82,15 @@ struct CardView: View {
 }
 
 struct ContextMenuView: View {
+    @ObservedObject var viewModel: MainViewModel
+    let title: String
+    let theme: String
+    
     var body: some View {
         VStack {
             Button {
                 // 알림 설정
+                viewModel.addEvent(date: Date(), title: title, theme: theme)
             } label: {
                 Label("알림 설정하기", systemImage: "clock.badge.checkmark")
             }
