@@ -6,9 +6,11 @@
 //
 
 import SwiftUI
+import AlertToast
 
 struct MainView: View {
     @StateObject var viewModel = MainViewModel()
+    @State var showAlert = false
     
     var body: some View {
         NavigationView {
@@ -27,7 +29,7 @@ struct MainView: View {
                                     CardView(imageURL: drawableItem.image, title: drawableItem.title, theme: drawableItem.theme)
                                 }
                                 .contextMenu {
-                                    ContextMenuView(viewModel: viewModel, title: drawableItem.title, theme: drawableItem.theme)
+                                    ContextMenuView(viewModel: viewModel, showAlert: $showAlert, title: drawableItem.title, theme: drawableItem.theme)
                                 }
                             }
                         }
@@ -42,6 +44,9 @@ struct MainView: View {
             }// ZStack
         }// NavigationView
         .navigationViewStyle(.stack)// 안붙이면 콘솔창에 오류가 주르륵
+        .toast(isPresenting: $showAlert, duration: 3, tapToDismiss: true) {
+            AlertToast(displayMode: .hud, type: .complete(.green), title: "알림이 설정되었습니다", subTitle: "응모가 시작되면 알려드려요!")
+        }
     }
 }
 
@@ -83,6 +88,7 @@ struct CardView: View {
 
 struct ContextMenuView: View {
     @ObservedObject var viewModel: MainViewModel
+    @Binding var showAlert: Bool
     let title: String
     let theme: String
     
@@ -91,6 +97,7 @@ struct ContextMenuView: View {
             Button {
                 // 알림 설정
                 viewModel.addEvent(date: Date(), title: title, theme: theme)
+                showAlert = true
             } label: {
                 Label("알림 설정하기", systemImage: "clock.badge.checkmark")
             }
@@ -100,6 +107,5 @@ struct ContextMenuView: View {
                 Label("알림 취소하기", systemImage: "clock")
             }
         }
-        
     }
 }

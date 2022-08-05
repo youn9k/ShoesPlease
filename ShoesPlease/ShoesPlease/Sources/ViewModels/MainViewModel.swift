@@ -72,7 +72,7 @@ class MainViewModel: ObservableObject {
     
     func addEvent(date: Date, title: String, theme: String) {
         let eventName = title + " " + theme + " " + "응모"
-        HapticManager.instance.impact(style: .light)
+        HapticManager.instance.impact(style: .soft)
         EventManager.instance.addEvent(startDate: date.addingTimeInterval(60), eventName: eventName)
     }
 }
