@@ -58,21 +58,30 @@ class MainViewModel: ObservableObject {
         }
     }
     
-//    func testGetCalendar() {
-//        networkManager.request(url: Const.URL.baseURL + drawableItems) { [weak self] result in
-//            switch result {
-//            case .success(let html):
-//                let items = self?.parseManager.getDrawableItems(html)
-//                self?.setDrawableItems(items: items)
-//            case .failure(let error):
-//                print(#fileID, #function, #line, "error:", error)
-//            }
-//        }
-//    }
+    func addEvent(item: DrawableItem) {
+        let eventName = item.title + " " + item.theme + " " + "응모"
+        getCalendar(itemURL: item.href) { startDate in
+            HapticManager.instance.impact(style: .soft)
+            EventManager.instance.addEvent(startDate: startDate, eventName: eventName)
+        }
+    }
     
-    func addEvent(date: Date, title: String, theme: String) {
-        let eventName = title + " " + theme + " " + "응모"
-        HapticManager.instance.impact(style: .soft)
-        EventManager.instance.addEvent(startDate: date.addingTimeInterval(60), eventName: eventName)
+    func getCalendar(itemURL: String, completion: @escaping (_ startDate: Date) -> Void) {
+        networkManager.request(url: Const.URL.baseURL + itemURL) { [weak self] result in
+            switch result {
+            case .success(let html):
+                print(#fileID, #function, #line, "getCalendar 성공")
+                let calendar = self?.parseManager.parseCalendar(html)
+                if let calendar = calendar {
+                    let startDate = self?.parseManager.parseStartDate(from: calendar)
+                    completion(startDate ?? Date())
+                }
+                
+            case .failure(let error):
+                HapticManager.instance.notification(type: .error)
+                print(#fileID, #function, #line, "error:", error)
+            }
+            print(#fileID, #function, #line, "getCalendar 끝")
+        }
     }
 }

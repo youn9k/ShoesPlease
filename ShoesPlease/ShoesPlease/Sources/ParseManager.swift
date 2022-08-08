@@ -66,7 +66,7 @@ class ParseManager {
             let soup = try SwiftSoup.parse(html)
             let drawInfos = try soup.select("p.draw-info")
             
-            try drawInfos.forEach { drawInfo in
+            for drawInfo in drawInfos {
                 let text = try drawInfo.text()
                 calendar.append(text)
             }
@@ -78,4 +78,57 @@ class ParseManager {
         }
     }
     
+    // 캘린더로부터 응모 시작 시간을 파싱하여 Date 형태로 반환합니다.
+    func parseStartDate(from calendar: [String]) -> Date {
+        let startDateString = calendar.first ?? ""
+        // 응모 시간 :8/12(금) 10:00 ~ 10:30 (30분)
+        var month = ""
+        var day = ""
+        var hour = ""
+        var min = ""
+        
+        // month 추출
+        if let startIndex = startDateString.endIndex(of: "응모 시간 :") {
+            if let endIndex = startDateString.index(of: "/") {
+                let subString = startDateString[startIndex..<endIndex]
+                let subStringInt = Int(subString)!
+                month = String(format: "%02d", subStringInt)
+            }
+        }
+        // day 추출
+        if let startIndex = startDateString.endIndex(of: "/") {
+            if let endIndex = startDateString.index(of: "(") {
+                let subString = startDateString[startIndex..<endIndex]
+                let subStringInt = Int(subString)!
+                day = String(format: "%02d", subStringInt)
+            }
+        }
+        // hour & min 추출
+        if let startIndex = startDateString.endIndex(of: ") ") {
+            if let gijun = startDateString.index(of: "~") {
+                let endIndex = startDateString.index(gijun, offsetBy: -1)
+                let subString = startDateString[startIndex..<endIndex]
+                let hourMin = String(subString).components(separatedBy: ":")
+                let hourInt = Int(hourMin.first!)!
+                let minInt = Int(hourMin.last!)!
+                hour = String(format: "%02d", hourInt)
+                min = String(format: "%02d", minInt)
+            }
+        }
+        
+        // 현재 year 추출
+        let dateFormatter = DateFormatter()
+        dateFormatter.locale = Locale(identifier: "ko_KR")
+        dateFormatter.timeZone = TimeZone(abbreviation: "KST")
+        dateFormatter.dateFormat = "yyyy"
+        let year = dateFormatter.string(from: Date())
+        
+        print(year + "년", month + "월", day + "일", hour + "시", min + "분")
+        
+        // String -> Date 변환
+        dateFormatter.dateFormat = "yyyy-MM-dd HH:mm"
+        let dateStr = "\(year)-\(month)-\(day) \(hour):\(min)"
+        
+        return dateFormatter.date(from: dateStr) ?? Date()
+    }
 }

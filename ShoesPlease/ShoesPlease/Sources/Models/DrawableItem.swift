@@ -13,6 +13,7 @@ struct DrawableItem: Identifiable {
     let theme: String
     let image: String
     let href: String
+    let startDate: Date? = nil
 }
 
 extension DrawableItem {
