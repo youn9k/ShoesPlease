@@ -45,7 +45,7 @@ class EventManager {
                     event.calendar = calendar
                     event.startDate = startDate
                     event.title = eventName
-                    event.endDate = event.startDate.addingTimeInterval(3600)// 1 hours
+                    event.endDate = event.startDate.addingTimeInterval(1800)// 30 mins
                     let reminder1 = EKAlarm(relativeOffset: 0)
                     event.alarms = [reminder1]
                     do {
