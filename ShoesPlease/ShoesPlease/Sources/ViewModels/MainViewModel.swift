@@ -25,7 +25,7 @@ class MainViewModel: ObservableObject {
     init() {
         print("vm init")
         refreshActionSubject.sink { [weak self] _ in
-            HapticManager.instance.impact(style: .medium)
+            HapticManager.shared.impact(style: .medium)
             self?.fetchDrawableItems()
             //self?.setDummyDrawableItems()// 더미 데이터 불러오기
         }.store(in: &subscription)
@@ -65,10 +65,10 @@ class MainViewModel: ObservableObject {
         networkManager.fetchLaunchItemPage().sink { completion in
             switch completion {
             case .failure(let error):
-                HapticManager.instance.notification(type: .error)
+                HapticManager.shared.notification(type: .error)
                 print(#fileID, #function, #line, "error:", error)
             case .finished:
-                HapticManager.instance.notification(type: .success)
+                HapticManager.shared.notification(type: .success)
                 print(#fileID, #function, #line, "새로고침 완료")
                 self.testString = "새로고침 완료"
                 self.isRefreshing = false
@@ -84,8 +84,8 @@ class MainViewModel: ObservableObject {
     func addEvent(item: DrawableItem) {
         let eventName = item.title + " " + item.theme + " " + "응모"
         getStartDate(item: item)
-        HapticManager.instance.impact(style: .soft)
-        EventManager.instance.addEvent(startDate: drawStartDate, eventName: eventName)
+        HapticManager.shared.impact(style: .soft)
+        EventManager.shared.addEvent(startDate: drawStartDate, eventName: eventName)
     }
     
 //    func getCalendar(itemURL: String, completion: @escaping (_ startDate: Date) -> Void) {
@@ -113,10 +113,10 @@ class MainViewModel: ObservableObject {
         networkManager.fetchLaunchItemDetailPage(from: item).sink { completion in
             switch completion {
             case .failure(let error):
-                HapticManager.instance.notification(type: .error)
+                HapticManager.shared.notification(type: .error)
                 print(#fileID, #function, #line, "error:", error)
             case .finished:
-                HapticManager.instance.notification(type: .success)
+                HapticManager.shared.notification(type: .success)
                 print(#fileID, #function, #line, "finished")
             }
         } receiveValue: { [weak self] html in

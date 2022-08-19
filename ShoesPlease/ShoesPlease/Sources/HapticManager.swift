@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 
 class HapticManager {
-    static let instance = HapticManager()
+    static let shared = HapticManager()
     
     func notification(type: UINotificationFeedbackGenerator.FeedbackType) {
         let generator = UINotificationFeedbackGenerator()
@@ -21,13 +21,13 @@ class HapticManager {
         generator.impactOccurred()
     }
     // 사용법
-    // HapticManager.instance.notification(type: .warning)
-    // HapticManager.instance.notification(type: .error)
-    // HapticManager.instance.notification(type: .success)
-    // HapticManager.instance.impact(style: .heavy)
-    // HapticManager.instance.impact(style: .light)
-    // HapticManager.instance.impact(style: .medium)
-    // HapticManager.instance.impact(style: .rigid)
-    // HapticManager.instance.impact(style: .soft)
+    // HapticManager.shared.notification(type: .warning)
+    // HapticManager.shared.notification(type: .error)
+    // HapticManager.shared.notification(type: .success)
+    // HapticManager.shared.impact(style: .heavy)
+    // HapticManager.shared.impact(style: .light)
+    // HapticManager.shared.impact(style: .medium)
+    // HapticManager.shared.impact(style: .rigid)
+    // HapticManager.shared.impact(style: .soft)
 }
 
