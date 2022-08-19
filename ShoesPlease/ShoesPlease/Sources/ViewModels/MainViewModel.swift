@@ -60,6 +60,7 @@ class MainViewModel: ObservableObject {
 //        }
 //    }
     
+    /// 응모 시작 전인 아이템들을 가져옵니다.
     func fetchDrawableItems() {
         networkManager.fetchLaunchItemPage().sink { completion in
             switch completion {
@@ -78,6 +79,8 @@ class MainViewModel: ObservableObject {
         }.store(in: &subscription)
     }
     
+    /// 해당 아이템의 응모시작시간을 캘린더에 등록합니다.
+    /// - Parameter item: 캘린더에 등록할 아이템
     func addEvent(item: DrawableItem) {
         let eventName = item.title + " " + item.theme + " " + "응모"
         getStartDate(item: item)
@@ -104,6 +107,8 @@ class MainViewModel: ObservableObject {
 //        }
 //    }
     
+    /// item 의 응모시작시간을 반환합니다.
+    /// - Parameter item: 응모시작시간을 추출할 item
     func getStartDate(item: DrawableItem) {
         networkManager.fetchLaunchItemDetailPage(from: item).sink { completion in
             switch completion {
@@ -114,7 +119,6 @@ class MainViewModel: ObservableObject {
                 HapticManager.instance.notification(type: .success)
                 print(#fileID, #function, #line, "finished")
             }
-            
         } receiveValue: { [weak self] html in
             /// 1. receiveValue 로 아이템의 상세 페이지 html을 전달 받음
             /// 2. html 로부터 캘린더 부분을 파싱
