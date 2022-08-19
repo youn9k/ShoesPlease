@@ -59,7 +59,10 @@ class ParseManager {
         }
     }
     
-    func parseCalendar(_ html: String?) -> [String]? {
+    /// 아이템 상세 페이지로부터 캘린더 부분을 파싱하여 [String]? 형태로 반환합니다.
+    /// - Parameter html: 아이템 상세 페이지
+    /// - Returns: [String]
+    func parseCalendar(from html: String?) -> [String]? {
         var calendar: [String] = []
         guard let html = html else { return nil }
         do {
@@ -78,7 +81,9 @@ class ParseManager {
         }
     }
     
-    // 캘린더로부터 응모 시작 시간을 파싱하여 Date 형태로 반환합니다.
+    /// 캘린더로부터 응모 시작 시간을 파싱하여 Date 형태로 반환합니다.
+    /// - Parameter calendar: 캘린더 [String]
+    /// - Returns: Date
     func parseStartDate(from calendar: [String]) -> Date {
         let startDateString = calendar.first ?? ""
         // 응모 시간 :8/12(금) 10:00 ~ 10:30 (30분)
