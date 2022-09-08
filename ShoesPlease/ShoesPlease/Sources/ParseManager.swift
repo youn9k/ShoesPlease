@@ -48,7 +48,8 @@ class ParseManager {
                         title: launchItemTitle,
                         theme: launchItemTheme,
                         image: launchItemImageSrc,
-                        href: launchItemHref)
+                        href: launchItemHref,
+                        startDate: nil)
                     )
                 }
             }
