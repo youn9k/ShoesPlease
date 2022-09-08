@@ -95,8 +95,9 @@ struct ContextMenuView: View {
         VStack {
             Button {
                 // 알림 설정
-                viewModel.addEvent(item: itemInfo)
-                showAlert = true
+                Task {
+                    showAlert = try await viewModel.addEvent(item: itemInfo)
+                }
             } label: {
                 Label("알림 설정하기", systemImage: "clock.badge.checkmark")
             }

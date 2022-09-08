@@ -17,7 +17,6 @@ class MainViewModel: ObservableObject {
     @Published var testString = "수신 전"
     @Published var drawableItems = [DrawableItem]()
     @Published var isRefreshing = false
-    var drawStartDate = Date()// 드로우 시작시간
     
     var subscription = Set<AnyCancellable>()
     var refreshActionSubject = PassthroughSubject<(), Never>()
@@ -27,7 +26,6 @@ class MainViewModel: ObservableObject {
         refreshActionSubject.sink { [weak self] _ in
             HapticManager.shared.impact(style: .medium)
             self?.fetchDrawableItems()
-            //self?.setDummyDrawableItems()// 더미 데이터 불러오기
         }.store(in: &subscription)
     }
     
@@ -37,96 +35,42 @@ class MainViewModel: ObservableObject {
         self.drawableItems = items ?? []
     }
     
-    func setDummyDrawableItems() {
-        self.drawableItems = DrawableItem.dummyDrawableItems
-    }
-
-//    이전 completion 방식
-//    func fetchDrawableItems() {
-//        networkManager.request(url: Const.URL.baseURL + Const.URL.launchItemsURL) { [weak self] result in
-//            switch result {
-//            case .success(let html):
-//                HapticManager.instance.notification(type: .success)
-//                print("수신 완료")
-//                self?.testString = "수신 완료"
-//                let items = self?.parseManager.parseDrawableItems(html)
-//                self?.setDrawableItems(items: items)
-//            case .failure(let error):
-//                HapticManager.instance.notification(type: .error)
-//                print(#fileID, #function, #line, "error:", error)
-//            }
-//            print(#fileID, #function, #line, "새로고침 끝")
-//            self?.isRefreshing = false
-//        }
-//    }
-    
     /// 응모 시작 전인 아이템들을 가져옵니다.
     func fetchDrawableItems() {
-        networkManager.fetchLaunchItemPage().sink { completion in
-            switch completion {
-            case .failure(let error):
-                HapticManager.shared.notification(type: .error)
-                print(#fileID, #function, #line, "error:", error)
-            case .finished:
-                HapticManager.shared.notification(type: .success)
-                print(#fileID, #function, #line, "새로고침 완료")
-                self.testString = "새로고침 완료"
-                self.isRefreshing = false
-            }
-        } receiveValue: { html in
-            let items = self.parseManager.parseDrawableItems(html)
-            self.setDrawableItems(items: items)
-        }.store(in: &subscription)
+        Task {
+            let html = try await networkManager.getLaunchItemPage()
+            self.isRefreshing = false
+            let items = parseManager.parseDrawableItems(html)
+            setDrawableItems(items: items)
+        }
     }
     
     /// 해당 아이템의 응모시작시간을 캘린더에 등록합니다.
     /// - Parameter item: 캘린더에 등록할 아이템
-    func addEvent(item: DrawableItem) {
+    func addEvent(item: DrawableItem) async throws -> Bool {
+        print("🔨VM: addEvent를 호출합니다.")
         let eventName = item.title + " " + item.theme + " " + "응모"
-        getStartDate(item: item)
-        HapticManager.shared.impact(style: .soft)
-        EventManager.shared.addEvent(startDate: drawStartDate, eventName: eventName)
+        let startDate = try await getStartDate(item: item)
+        let isSuccess = try await EventManager.shared.addEvent(startDate: startDate, eventName: eventName)
+        isSuccess ? HapticManager.shared.notification(type: .success) : HapticManager.shared.notification(type: .error)
+        return isSuccess
     }
-    
-//    func getCalendar(itemURL: String, completion: @escaping (_ startDate: Date) -> Void) {
-//        networkManager.request(url: Const.URL.baseURL + itemURL) { [weak self] result in
-//            switch result {
-//            case .success(let html):
-//                print(#fileID, #function, #line, "getCalendar 성공")
-//                let calendar = self?.parseManager.parseCalendar(from: html)
-//                if let calendar = calendar {
-//                    let startDate = self?.parseManager.parseStartDate(from: calendar)
-//                    completion(startDate ?? Date())
-//                }
-//
-//            case .failure(let error):
-//                HapticManager.instance.notification(type: .error)
-//                print(#fileID, #function, #line, "error:", error)
-//            }
-//            print(#fileID, #function, #line, "getCalendar 끝")
-//        }
-//    }
     
     /// item 의 응모시작시간을 반환합니다.
     /// - Parameter item: 응모시작시간을 추출할 item
-    func getStartDate(item: DrawableItem) {
-        networkManager.fetchLaunchItemDetailPage(from: item).sink { completion in
-            switch completion {
-            case .failure(let error):
-                HapticManager.shared.notification(type: .error)
-                print(#fileID, #function, #line, "error:", error)
-            case .finished:
-                HapticManager.shared.notification(type: .success)
-                print(#fileID, #function, #line, "finished")
-            }
-        } receiveValue: { [weak self] html in
-            /// 1. receiveValue 로 아이템의 상세 페이지 html을 전달 받음
-            /// 2. html 로부터 캘린더 부분을 파싱
-            /// 3. 캘린더로부터 응모시작시간 파싱
-            let calendar = self?.parseManager.parseCalendar(from: html)
-            if let calendar = calendar {
-                self?.drawStartDate = self?.parseManager.parseStartDate(from: calendar) ?? Date()
-            }
-        }.store(in: &subscription)
+    func getStartDate(item: DrawableItem) async throws -> Date {
+        let html = try await networkManager.getLaunchItemDetailPage(from: item)
+        guard let calendar = parseManager.parseCalendar(from: html) else { return Date() }
+        return parseManager.parseStartDate(from: calendar)
+    }
+}
+
+// MARK: - 더미 데이터와 관련된 익스텐션입니다.
+extension MainViewModel {
+    func setDummyDrawableItems() {
+        self.drawableItems = DrawableItem.dummyDrawableItems
+    }
+    func getDummyStartDate(item: DrawableItem) -> Date {
+        item.startDate ?? Date()
     }
 }
