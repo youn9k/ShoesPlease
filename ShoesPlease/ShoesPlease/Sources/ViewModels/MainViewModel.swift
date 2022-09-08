@@ -24,24 +24,30 @@ class MainViewModel: ObservableObject {
     init() {
         print("vm init")
         refreshActionSubject.sink { [weak self] _ in
-            HapticManager.shared.impact(style: .medium)
             self?.fetchDrawableItems()
         }.store(in: &subscription)
+        
+        fetchDrawableItems()
     }
     
     deinit { print("vm deinit") }
    
-    func setDrawableItems(items: [DrawableItem]?) {
-        self.drawableItems = items ?? []
+    func setDrawableItems(items: [DrawableItem]?) -> Bool {
+        guard let items = items else { return false }
+        self.drawableItems = items
+        return true
     }
     
     /// 응모 시작 전인 아이템들을 가져옵니다.
     func fetchDrawableItems() {
         Task {
+            isRefreshing = true
+            HapticManager.shared.impact(style: .medium)
             let html = try await networkManager.getLaunchItemPage()
-            self.isRefreshing = false
             let items = parseManager.parseDrawableItems(html)
-            setDrawableItems(items: items)
+            let isSuccess = setDrawableItems(items: items)
+            self.isRefreshing = false
+            HapticManager.shared.notification(success: isSuccess)
         }
     }
     
@@ -52,7 +58,7 @@ class MainViewModel: ObservableObject {
         let eventName = item.title + " " + item.theme + " " + "응모"
         let startDate = try await getStartDate(item: item)
         let isSuccess = try await EventManager.shared.addEvent(startDate: startDate, eventName: eventName)
-        isSuccess ? HapticManager.shared.notification(type: .success) : HapticManager.shared.notification(type: .error)
+        HapticManager.shared.notification(success: isSuccess)
         return isSuccess
     }
     

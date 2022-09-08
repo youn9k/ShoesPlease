@@ -16,6 +16,11 @@ class HapticManager {
         generator.notificationOccurred(type)
     }
     
+    func notification(success: Bool) {
+        let generator = UINotificationFeedbackGenerator()
+        success ? generator.notificationOccurred(.success) : generator.notificationOccurred(.error)
+    }
+    
     func impact(style: UIImpactFeedbackGenerator.FeedbackStyle) {
         let generator = UIImpactFeedbackGenerator(style: style)
         generator.impactOccurred()
@@ -29,5 +34,6 @@ class HapticManager {
     // HapticManager.shared.impact(style: .medium)
     // HapticManager.shared.impact(style: .rigid)
     // HapticManager.shared.impact(style: .soft)
+    
 }
 
