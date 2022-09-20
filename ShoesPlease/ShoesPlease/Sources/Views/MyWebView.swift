@@ -8,29 +8,77 @@
 import SwiftUI
 import WebKit
 
-struct MyWebView: UIViewRepresentable {
+struct MyWebView: View {
     var urlToLoad: String
-    
-    //ui view 만들기
-    func makeUIView(context: Context) -> WKWebView {
-        
-        //unwrapping
-        guard let url = URL(string: self.urlToLoad) else {
-            return WKWebView()
+    @State var workState = WebView.WorkState.initial
+
+    var body: some View {
+        ZStack {
+            WebView(urlToLoad: urlToLoad, workState: self.$workState)
+            if workState == .working {
+                ProgressView("")
+                    .progressViewStyle(CircularProgressViewStyle(tint: .gray))
+                    .scaleEffect(1.3, anchor: .top)
+                    .padding()
+                    .frame(height: 30)
+                    .transition(.move(edge: .top).animation(.easeInOut).combined(with: .opacity))
+            }
+            
         }
-        //웹뷰 인스턴스 생성
-        let webView = WKWebView()
-        
-        //웹뷰를 로드한다
-        webView.load(URLRequest(url: url))
-        return webView
     }
-    
-    //업데이트 ui view
-    func updateUIView(_ uiView: WKWebView, context: UIViewRepresentableContext<MyWebView>) {
-        
-    }
-    
+}
+
+struct WebView: UIViewRepresentable {
+    enum WorkState: String {
+            case initial
+            case done
+            case working
+            case errorOccurred
+        }
+
+        let urlToLoad: String
+        @Binding var workState: WorkState
+
+        func makeUIView(context: Context) -> WKWebView {
+            let webView = WKWebView()
+            webView.navigationDelegate = context.coordinator
+            return webView
+        }
+
+        func updateUIView(_ uiView: WKWebView, context: Context) {
+            switch self.workState {
+            case .initial:
+                if let url = URL(string: self.urlToLoad) {
+                    uiView.load(URLRequest(url: url))
+                }
+            default:
+                break
+            }
+        }
+
+        func makeCoordinator() -> Coordinator {
+            Coordinator(self)
+        }
+
+        class Coordinator: NSObject, WKNavigationDelegate {
+            var parent: WebView
+
+            func webView(_ webView: WKWebView, didStartProvisionalNavigation navigation: WKNavigation!) {
+              self.parent.workState = .working
+            }
+
+            func webView(_ webView: WKWebView, didFail navigation: WKNavigation!, withError error: Error) {
+                self.parent.workState = .errorOccurred
+            }
+
+            func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
+                self.parent.workState = .done
+            }
+
+            init(_ parent: WebView) {
+                self.parent = parent
+            }
+        }
 }
  
 //Canvas 미리보기용
