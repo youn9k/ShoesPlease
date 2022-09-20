@@ -9,7 +9,5 @@ import Foundation
 import SwiftUI
 
 extension View {
-    func screen() -> CGRect {
-        return UIScreen.main.bounds
-    }
+    
 }
