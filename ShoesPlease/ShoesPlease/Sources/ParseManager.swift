@@ -60,6 +60,46 @@ class ParseManager {
         }
     }
     
+    func parseDrawingItems(_ html: String?) -> [DrawableItem]? {
+        var drawableItems: [DrawableItem] = []
+        guard let html = html else { return nil }
+        do {
+            let soup = try SwiftSoup.parse(html)
+            let launchItems = try soup.select("div.product-card")
+            try launchItems.forEach { launchItem in
+                let launchItemText = try launchItem.text()
+                let soldoutButton = try launchItem.select("a.ncss-btn-primary-dark")
+                let soldoutButtonText = try soldoutButton.text()
+                if try soldoutButton.text() == "THE DRAW 응모하기" {
+                    print("launchItem: \(launchItemText)\n", "button: \(soldoutButtonText)\n")
+                    
+                    let launchItemInfo = try launchItem.select("a.comingsoon")
+                    let launchItemImage = try launchItem.select("img.img-component")
+                    
+                    let launchItemTitle = try launchItemInfo.attr("title")
+                    let launchItemImageSrc = try launchItemImage.attr("data-src")
+                    let launchItemTheme = try launchItemImage.attr("alt")
+                    let launchItemHref = try launchItemInfo.attr("href")
+                    
+                    print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
+                    
+                    drawableItems.append(DrawableItem(
+                        title: launchItemTitle,
+                        theme: launchItemTheme,
+                        image: launchItemImageSrc,
+                        href: launchItemHref,
+                        startDate: nil)
+                    )
+                }
+            }
+           return drawableItems
+        } catch let e {
+            print(#fileID, #function, #line, "error:", e)
+            return nil
+        }
+    }
+    
+    
     /// 아이템 상세 페이지로부터 캘린더 부분을 파싱하여 [String]? 형태로 반환합니다.
     /// - Parameter html: 아이템 상세 페이지
     /// - Returns: [String]

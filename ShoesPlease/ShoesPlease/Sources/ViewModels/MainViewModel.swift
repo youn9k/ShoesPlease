@@ -16,6 +16,7 @@ class MainViewModel: ObservableObject {
     
     @Published var testString = "수신 전"
     @Published var drawableItems = [DrawableItem]()
+    @Published var drawingItems = [DrawableItem]()
     @Published var isRefreshing = false
     
     var subscription = Set<AnyCancellable>()
@@ -24,9 +25,11 @@ class MainViewModel: ObservableObject {
     init() {
         print("vm init")
         refreshActionSubject.sink { [weak self] _ in
+            self?.fetchDrawingItems()
             self?.fetchDrawableItems()
         }.store(in: &subscription)
         
+        fetchDrawingItems()
         fetchDrawableItems()
     }
     
@@ -38,6 +41,12 @@ class MainViewModel: ObservableObject {
         return true
     }
     
+    func setDrawingItems(items: [DrawableItem]?) -> Bool {
+        guard let items = items else { return false }
+        self.drawingItems = items
+        return true
+    }
+    
     /// 응모 시작 전인 아이템들을 가져옵니다.
     func fetchDrawableItems() {
         Task {
@@ -46,6 +55,18 @@ class MainViewModel: ObservableObject {
             let html = try await networkManager.getLaunchItemPage()
             let items = parseManager.parseDrawableItems(html)
             let isSuccess = setDrawableItems(items: items)
+            self.isRefreshing = false
+            HapticManager.shared.notification(success: isSuccess)
+        }
+    }
+    
+    func fetchDrawingItems() {
+        Task {
+            isRefreshing = true
+            HapticManager.shared.impact(style: .medium)
+            let html = try await networkManager.getLaunchItemPage()
+            let items = parseManager.parseDrawingItems(html)
+            let isSuccess = setDrawingItems(items: items)
             self.isRefreshing = false
             HapticManager.shared.notification(success: isSuccess)
         }
@@ -76,7 +97,7 @@ extension MainViewModel {
     func setDummyDrawableItems() {
         self.drawableItems = DrawableItem.dummyDrawableItems
     }
-    func getDummyStartDate(item: DrawableItem) -> Date {
-        item.startDate ?? Date()
+    func getDummyStartDate(item: DrawableItem) -> String {
+        item.startDate ?? ""
     }
 }
