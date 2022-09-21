@@ -49,7 +49,7 @@ class ParseManager {
                         theme: launchItemTheme,
                         image: launchItemImageSrc,
                         href: launchItemHref,
-                        startDate: nil)
+                        monthDay: nil)
                     )
                 }
             }
@@ -88,7 +88,7 @@ class ParseManager {
                         theme: launchItemTheme,
                         image: launchItemImageSrc,
                         href: launchItemHref,
-                        startDate: nil)
+                        monthDay: nil)
                     )
                 }
             }

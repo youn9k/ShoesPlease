@@ -15,7 +15,6 @@ extension Date {
         let formatter = DateFormatter()
         formatter.dateFormat = format
         let dateString = formatter.string(from: self)
-        print("dateToString:", dateString)
         return dateString
     }
 }

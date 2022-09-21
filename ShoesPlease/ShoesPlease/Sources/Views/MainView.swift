@@ -16,7 +16,7 @@ struct MainView: View {
         NavigationView {
             ZStack {
                 Color.backgroundGray.ignoresSafeArea()
-                if viewModel.drawableItems.isEmpty {
+                if viewModel.drawingItems.isEmpty && viewModel.drawableItems.isEmpty {
                     Text("진행중인 응모가 없어요 !")
                         .foregroundColor(.gray)
                 }
@@ -24,9 +24,19 @@ struct MainView: View {
                     ZStack {
                         Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
                         VStack(spacing: 30) {
+                            ForEach(viewModel.drawingItems) { drawingItem in
+                                NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
+                                    CardView(item: drawingItem)
+                                        .padding(.horizontal, 15)
+                                }
+                                .contextMenu {
+                                    ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
+                                }
+                            }
                             ForEach(viewModel.drawableItems) { drawableItem in
                                 NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
-                                    CardView(imageURL: drawableItem.image, title: drawableItem.title, theme: drawableItem.theme)
+                                    CardView(item: drawableItem)
+                                        .padding(.horizontal, 15)
                                 }
                                 .contextMenu {
                                     ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
@@ -57,31 +67,61 @@ struct MainView_Previews: PreviewProvider {
 }
 
 struct CardView: View {
-    let imageURL : String
-    let title : String
-    let theme : String
+    let item: DrawableItem
     var body: some View {
         VStack {
-            AsyncImage(url: URL(string: imageURL)) { image in
-                image
-                    .resizable()
-                    .scaledToFill()
-                    .frame(width: screen().width / 1.2)
-            } placeholder: {
-                RoundedRectangle(cornerRadius: 15)
-                    .frame(width: screen().width / 1.2, height: UIScreen.main.bounds.height / 3)
-                    .foregroundColor(.gray)
+            AsyncImage(url: URL(string: item.image), transaction: Transaction(animation: .spring(response: 0.5, dampingFraction: 0.8, blendDuration: 0.5))) { phase in
+                switch phase {
+                //SUCCESS : 이미지 로드 성공
+                //FAILURE : 이미지 로드 실패 에러
+                //EMPTY : 이미지 없음. 이미지가 로드되지 않음
+                case .success(let image):
+                    image.resizable().scaledToFill().transition(.scale)
+                case .failure(_):
+                    ZStack {
+                        RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
+                        Image(systemName: "xmark.icloud.fill").foregroundColor(.red)
+                    }
+                case .empty:
+                    ZStack {
+                        RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
+                        ProgressView("신발 가져오는 중")
+                    }.transition(.scale)
+                    
+                @unknown default:
+                    RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
+                    Image(systemName: "exclamationmark.icloud.fill").foregroundColor(.blue)
+                }
             }
             .mask {
                 RoundedRectangle(cornerRadius: 15)
             }
             .shadow(radius: 10, y: 5)
-            Text(title)
+            .overlay(alignment: .topLeading) {
+                CircleCalendar
+                    .offset(x: 20, y: 20)
+            }
+            Text(item.title)
                 .foregroundColor(.textBlack)
                 .fontWeight(.black)
-            Text(theme)
+            Text(item.theme)
                 .foregroundColor(.gray)
                 .fontWeight(.regular)
+        }
+    }
+    
+    var CircleCalendar: some View {
+        ZStack {
+            if item.monthDay != nil {
+                Circle()
+                    .frame(width: 100, height: 100)
+                    .foregroundColor(Color.black)
+                    .opacity(0.1)
+                Text(item.monthDay ?? "")
+                    .font(.title)
+                    .fontWeight(.black)
+                    .foregroundColor(Color.black)
+            }
         }
     }
 }

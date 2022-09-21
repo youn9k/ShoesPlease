@@ -13,11 +13,11 @@ struct DrawableItem: Identifiable {
     let theme: String
     let image: String
     let href: String
-    let startDate: Date?
+    var monthDay: String?
 }
 
 extension DrawableItem {
     static var dummyDrawableItems: [DrawableItem] = (1..<10).map { _ in
-        DrawableItem(title: "더미 나이키 신발", theme: "더미 theme", image: "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO2123-113/8a7aac70-ba05-4588-8b56-c038a00be420_primary.jpg?snkrBrowse", href: "더미 데이터 href", startDate: Date())
+        DrawableItem(title: "더미 나이키 신발", theme: "더미 theme", image: "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO2123-113/8a7aac70-ba05-4588-8b56-c038a00be420_primary.jpg?snkrBrowse", href: "더미 데이터 href", monthDay: "9/24")
     }
 }

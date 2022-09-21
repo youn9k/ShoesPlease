@@ -15,8 +15,8 @@ class MainViewModel: ObservableObject {
     var networkManager = NetworkManager()
     
     @Published var testString = "수신 전"
-    @Published var drawableItems = [DrawableItem]()
     @Published var drawingItems = [DrawableItem]()
+    @Published var drawableItems = [DrawableItem]()
     @Published var isRefreshing = false
     
     var subscription = Set<AnyCancellable>()
@@ -55,11 +55,13 @@ class MainViewModel: ObservableObject {
             let html = try await networkManager.getLaunchItemPage()
             let items = parseManager.parseDrawableItems(html)
             let isSuccess = setDrawableItems(items: items)
+            fetchItemsCalendar()
             self.isRefreshing = false
             HapticManager.shared.notification(success: isSuccess)
         }
     }
     
+    /// 응모 진행 중인 아이템들을 가져옵니다.
     func fetchDrawingItems() {
         Task {
             isRefreshing = true
@@ -69,6 +71,15 @@ class MainViewModel: ObservableObject {
             let isSuccess = setDrawingItems(items: items)
             self.isRefreshing = false
             HapticManager.shared.notification(success: isSuccess)
+        }
+    }
+    
+    func fetchItemsCalendar() {
+        Task {
+            for index in 0..<drawableItems.count {
+                let monthDay = try await getStartDate(item: drawableItems[index]).toString(format: "M/dd")
+                drawableItems[index].monthDay = monthDay
+            }
         }
     }
     
@@ -98,6 +109,6 @@ extension MainViewModel {
         self.drawableItems = DrawableItem.dummyDrawableItems
     }
     func getDummyStartDate(item: DrawableItem) -> String {
-        item.startDate ?? ""
+        item.monthDay ?? ""
     }
 }
