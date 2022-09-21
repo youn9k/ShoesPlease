@@ -51,6 +51,18 @@ class MainViewModel: ObservableObject {
         }
     }
     
+    /// Date 를 String 으로 변환합니다.
+    /// - Parameter date: String 으로 변환하고 싶은 Date
+    /// - Parameter format: 원하는 변환 형식 ex) "M/dd"
+    /// - Returns: String: ex) "9/14"
+    func dateToString(from date: Date, format: String) -> String {
+        let formatter = DateFormatter()
+        formatter.dateFormat = format
+        let dateString = formatter.string(from: date)
+        print("dateToString:", dateString)
+        return dateString
+    }
+    
     /// 해당 아이템의 응모시작시간을 캘린더에 등록합니다.
     /// - Parameter item: 캘린더에 등록할 아이템
     func addEvent(item: DrawableItem) async throws -> Bool {
