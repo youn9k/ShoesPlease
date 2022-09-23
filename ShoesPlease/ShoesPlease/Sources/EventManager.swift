@@ -11,7 +11,6 @@ import EventKit
 class EventManager {
     static let shared = EventManager()
     
-    // async await 테스트 중
     func isAccessPermission(store: EKEventStore) async throws -> Bool {
         var isRequestAccessed = false
         switch EKEventStore.authorizationStatus(for: .event) {
@@ -36,12 +35,10 @@ class EventManager {
         let eventStore = EKEventStore()
         print("🔨권한을 요청합니다.")
         let isAccessed = try await isAccessPermission(store: eventStore)
-        print("🔨isAccessed:", isAccessed)
         if isAccessed {
             let calendars = eventStore.calendars(for: .event)
             for calendar in calendars {
-                // 아이폰 언어설정이 한국어일때만 동작하는중 수정해야함
-                if calendar.title == "캘린더" {
+                if calendar.title == "캘린더" || calendar.title == "Calendar" {
                     let event = EKEvent(eventStore: eventStore)
                     event.calendar = calendar
                     event.startDate = startDate
@@ -57,6 +54,8 @@ class EventManager {
                     } catch {
                         print(#fileID, #function, #line, error.localizedDescription)
                     }
+                } else {
+                    print("캘린더를 찾을 수 없습니다:", calendar.title)
                 }
             }
         } else {
