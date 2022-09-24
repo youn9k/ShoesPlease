@@ -27,7 +27,6 @@ struct MainView: View {
                             ForEach(viewModel.drawingItems) { drawingItem in
                                 NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
                                     CardView(item: drawingItem)
-                                        .padding(.horizontal, 15)
                                 }
                                 .contextMenu {
                                     ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
@@ -36,7 +35,6 @@ struct MainView: View {
                             ForEach(viewModel.drawableItems) { drawableItem in
                                 NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
                                     CardView(item: drawableItem)
-                                        .padding(.horizontal, 15)
                                 }
                                 .contextMenu {
                                     ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
@@ -44,6 +42,7 @@ struct MainView: View {
                             }
                         }
                         .padding(.top, 30)
+                        .padding(.horizontal, 15)
                     }// ZStack
                 } onRefresh: {
                     print(#fileID, #function, #line, "onRefresh")
