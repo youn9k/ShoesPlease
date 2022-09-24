@@ -30,6 +30,7 @@
 		7B7F2FDF28190E9E00975CA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FE128190E9E00975CA0 /* InfoPlist.strings */; };
 		7B9038BE28D9FD4100FB03CC /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9038BD28D9FD4100FB03CC /* Enum.swift */; };
 		7BBA6B0128DA972D001E81F6 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBA6B0028DA972D001E81F6 /* Date+Extension.swift */; };
+		7BBA6B0328DEE353001E81F6 /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBA6B0228DEE353001E81F6 /* CarouselView.swift */; };
 		DF581C9F9CA714575C557488 /* Pods_ShoesPlease.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF87AF3F665B3AE6F68208FB /* Pods_ShoesPlease.framework */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		7B7F2FE328190F2A00975CA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7B9038BD28D9FD4100FB03CC /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
 		7BBA6B0028DA972D001E81F6 /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		7BBA6B0228DEE353001E81F6 /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
 		A41AB2C3E42D607E75645FB5 /* Pods-ShoesPlease.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShoesPlease.debug.xcconfig"; path = "Target Support Files/Pods-ShoesPlease/Pods-ShoesPlease.debug.xcconfig"; sourceTree = "<group>"; };
 		A5F741F6B2346C4C5E778E9C /* Pods-NikeTheDrawNotiApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NikeTheDrawNotiApp.debug.xcconfig"; path = "Target Support Files/Pods-NikeTheDrawNotiApp/Pods-NikeTheDrawNotiApp.debug.xcconfig"; sourceTree = "<group>"; };
 		B586E03DCEBBF36FDE27483A /* Pods-ShoesPlease.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShoesPlease.release.xcconfig"; path = "Target Support Files/Pods-ShoesPlease/Pods-ShoesPlease.release.xcconfig"; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				7B1E674A281FDF46009174DC /* MainView.swift */,
 				7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */,
 				7B1E6748281ADD29009174DC /* MyWebView.swift */,
+				7BBA6B0228DEE353001E81F6 /* CarouselView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -342,6 +345,7 @@
 				7B1E674B281FDF46009174DC /* MainView.swift in Sources */,
 				7B7F2FB9280DA22F00975CA0 /* MainViewModel.swift in Sources */,
 				7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */,
+				7BBA6B0328DEE353001E81F6 /* CarouselView.swift in Sources */,
 				7B9038BE28D9FD4100FB03CC /* Enum.swift in Sources */,
 				7B7F2FBB280DA9DC00975CA0 /* ParseManager.swift in Sources */,
 				7B7F2FC12810450200975CA0 /* Const.swift in Sources */,

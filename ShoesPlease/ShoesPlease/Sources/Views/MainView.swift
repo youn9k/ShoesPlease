@@ -24,6 +24,7 @@ struct MainView: View {
                     ZStack {
                         Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
                         VStack(spacing: 30) {
+                            CarouselView(items: viewModel.drawableItems)
                             ForEach(viewModel.drawingItems) { drawingItem in
                                 NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
                                     CardView(item: drawingItem)
