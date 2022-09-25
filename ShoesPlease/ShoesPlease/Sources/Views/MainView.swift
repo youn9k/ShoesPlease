@@ -11,7 +11,7 @@ import AlertToast
 struct MainView: View {
     @StateObject var viewModel = MainViewModel()
     @State var showAlert = false
-    
+    @State var viewTypeSelection: MainViewType = .carousel
     var body: some View {
         NavigationView {
             ZStack {
@@ -21,24 +21,38 @@ struct MainView: View {
                         .foregroundColor(.gray)
                 }
                 RefreshableScrollView(isRefreshing: $viewModel.isRefreshing) {
+                    VStack {
+                        Picker("", selection: $viewTypeSelection) {
+                            ForEach(MainViewType.allCases, id: \.self) {
+                                type in
+                                Image(systemName: type.rawValue)
+                                    .foregroundColor(.gray)
+                            }
+                        }.pickerStyle(.segmented).padding()
+                        Spacer()
+                    }
                     ZStack {
                         Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
                         VStack(spacing: 30) {
-                            CarouselView(items: viewModel.drawingItems + viewModel.drawableItems)
-                            ForEach(viewModel.drawingItems) { drawingItem in
-                                NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
-                                    CardView(item: drawingItem)
+                            switch viewTypeSelection {
+                            case .carousel:
+                                CarouselView(items: viewModel.drawingItems + viewModel.drawableItems)
+                            case .list:
+                                ForEach(viewModel.drawingItems) { drawingItem in
+                                    NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
+                                        CardView(item: drawingItem)
+                                    }
+                                    .contextMenu {
+                                        ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
+                                    }
                                 }
-                                .contextMenu {
-                                    ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
-                                }
-                            }
-                            ForEach(viewModel.drawableItems) { drawableItem in
-                                NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
-                                    CardView(item: drawableItem)
-                                }
-                                .contextMenu {
-                                    ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
+                                ForEach(viewModel.drawableItems) { drawableItem in
+                                    NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
+                                        CardView(item: drawableItem)
+                                    }
+                                    .contextMenu {
+                                        ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
+                                    }
                                 }
                             }
                         }
