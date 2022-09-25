@@ -93,7 +93,6 @@ struct CarouselView: View {
                 AngularGradient(gradient: Gradient(colors: gradientColors), center: .center, angle: .degrees(gradientAngle))
                     )
             .onAppear {
-                print("Ani onAppear")
                 withAnimation(.linear(duration: 3).repeatForever(autoreverses: false)) {
                     self.gradientAngle = 360
                 }
