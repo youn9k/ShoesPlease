@@ -90,8 +90,7 @@ struct CarouselView: View {
     var gradientBorderView: some View {
         RoundedRectangle(cornerRadius: 8)
             .strokeBorder(
-                AngularGradient(gradient: Gradient(colors: gradientColors), center: .center, angle: .degrees(gradientAngle))
-                    )
+                AngularGradient(gradient: Gradient(colors: gradientColors), center: .center, angle: .degrees(gradientAngle)))
             .onAppear {
                 withAnimation(.linear(duration: 3).repeatForever(autoreverses: false)) {
                     self.gradientAngle = 360
