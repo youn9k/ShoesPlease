@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct CarouselView: View {
+    private let gradientColors: [Color] = [.red, .yellow, .green, .blue, .purple, .red]
+    @State  var gradientAngle: Double = 0
     let items: [DrawableItem]
     var body: some View {
         VStack {
@@ -31,6 +33,8 @@ struct CarouselView: View {
                                                     .scaledToFit()
                                                     .frame(width: 180)
                                                     //.clipped()
+                                                if isDrawing(item) { gradientBorderView
+                                                }
                                             }
                                             .transition(.scale)
                                             .scaleEffect(.init(width: scale, height: scale))
@@ -83,7 +87,20 @@ struct CarouselView: View {
             .frame(height: 300)
     }
     
-    func getScale(proxy: GeometryProxy, zoom: Float = 1) -> CGFloat {
+    var gradientBorderView: some View {
+        RoundedRectangle(cornerRadius: 8)
+            .strokeBorder(
+                AngularGradient(gradient: Gradient(colors: gradientColors), center: .center, angle: .degrees(gradientAngle))
+                    )
+            .onAppear {
+                print("Ani onAppear")
+                withAnimation(.linear(duration: 3).repeatForever(autoreverses: false)) {
+                    self.gradientAngle = 360
+                }
+            }
+    }
+    
+    private func getScale(proxy: GeometryProxy, zoom: Float = 1) -> CGFloat {
         let midPoint: CGFloat = 125
         let viewFrame = proxy.frame(in: CoordinateSpace.global)
         var scale: CGFloat = 1.0
@@ -95,6 +112,9 @@ struct CarouselView: View {
         return scale
     }
     
+    private func isDrawing(_ item: DrawableItem) -> Bool {
+        return item.monthDay ?? "" == Date().toString(format: "M/dd")
+    }
 }
 
 struct CarouselView_Previews: PreviewProvider {
