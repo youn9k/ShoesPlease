@@ -36,7 +36,7 @@ struct MainView: View {
                         VStack(spacing: 30) {
                             switch viewTypeSelection {
                             case .carousel:
-                                CarouselView(items: viewModel.drawingItems + viewModel.drawableItems)
+                                CarouselView(viewModel: viewModel, showAlert: $showAlert, items: viewModel.drawingItems + viewModel.drawableItems)
                             case .list:
                                 ForEach(viewModel.drawingItems) { drawingItem in
                                     NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {

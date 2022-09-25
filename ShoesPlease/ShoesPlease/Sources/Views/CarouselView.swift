@@ -8,9 +8,11 @@
 import SwiftUI
 
 struct CarouselView: View {
-    private let gradientColors: [Color] = [.red, .yellow, .green, .blue, .purple, .red]
-    @State  var gradientAngle: Double = 0
+    @ObservedObject var viewModel: MainViewModel
+    @Binding var showAlert: Bool
     let items: [DrawableItem]
+    @State var gradientAngle: Double = 0
+    private let gradientColors: [Color] = [.red, .yellow, .green, .blue, .purple, .red]
     var body: some View {
         VStack {
             ScrollView(.horizontal, showsIndicators: false) {
@@ -39,6 +41,9 @@ struct CarouselView: View {
                                             .transition(.scale)
                                             .scaleEffect(.init(width: scale, height: scale))
                                             .padding(.vertical)
+                                        }
+                                        .contextMenu {
+                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: item)
                                         }
                                         
                                     case .failure(_):
