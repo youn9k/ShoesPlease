@@ -31,6 +31,8 @@ class MainViewModel: ObservableObject {
         
         fetchDrawingItems()
         fetchDrawableItems()
+//        setDummyDrawingItems()
+//        setDummyDrawableItems()
     }
     
     deinit { print("vm deinit") }
@@ -107,6 +109,9 @@ class MainViewModel: ObservableObject {
 extension MainViewModel {
     func setDummyDrawableItems() {
         self.drawableItems = DrawableItem.dummyDrawableItems
+    }
+    func setDummyDrawingItems() {
+        self.drawingItems = DrawableItem.dummyDrawaingItems
     }
     func getDummyStartDate(item: DrawableItem) -> String {
         item.monthDay ?? ""
