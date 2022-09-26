@@ -29,36 +29,36 @@ struct MainView: View {
                                     .foregroundColor(.gray)
                             }
                         }.pickerStyle(.segmented).padding()
-                        Spacer()
-                    }
-                    ZStack {
-                        Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
-                        VStack(spacing: 30) {
-                            switch viewTypeSelection {
-                            case .carousel:
-                                CarouselView(viewModel: viewModel, showAlert: $showAlert, items: viewModel.drawingItems + viewModel.drawableItems)
-                            case .list:
-                                ForEach(viewModel.drawingItems) { drawingItem in
-                                    NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
-                                        CardView(item: drawingItem)
+                        ZStack {
+                            Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
+                            VStack(spacing: 30) {
+                                switch viewTypeSelection {
+                                case .carousel:
+                                    CarouselView(viewModel: viewModel, showAlert: $showAlert, items: viewModel.drawingItems + viewModel.drawableItems)
+                                case .list:
+                                    ForEach(viewModel.drawingItems) { drawingItem in
+                                        NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
+                                            CardView(item: drawingItem)
+                                        }
+                                        .contextMenu {
+                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
+                                        }
                                     }
-                                    .contextMenu {
-                                        ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
-                                    }
-                                }
-                                ForEach(viewModel.drawableItems) { drawableItem in
-                                    NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
-                                        CardView(item: drawableItem)
-                                    }
-                                    .contextMenu {
-                                        ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
+                                    ForEach(viewModel.drawableItems) { drawableItem in
+                                        NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
+                                            CardView(item: drawableItem)
+                                        }
+                                        .contextMenu {
+                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
+                                        }
                                     }
                                 }
                             }
-                        }
-                        .padding(.top, 30)
-                        .padding(.horizontal, 15)
-                    }// ZStack
+                            .padding(.top, 30)
+                            .padding(.horizontal, 15)
+                        }// ZStack
+                    }
+                    
                 } onRefresh: {
                     print(#fileID, #function, #line, "onRefresh")
                     viewModel.refreshActionSubject.send()
