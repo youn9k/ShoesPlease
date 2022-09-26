@@ -22,6 +22,6 @@ extension DrawableItem {
     }
     
     static var dummyDrawaingItems: [DrawableItem] = (0..<2).map { _ in
-        DrawableItem(title: "응모중인 신발", theme: "더미 theme", image: "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO2123-113/8a7aac70-ba05-4588-8b56-c038a00be420_primary.jpg?snkrBrowse", href: "더미 데이터 href", monthDay: "9/25")
+        DrawableItem(title: "응모중인 신발", theme: "더미 theme", image: "https://static-breeze.nike.co.kr/kr/ko_kr/cmsstatic/product/DO2123-113/8a7aac70-ba05-4588-8b56-c038a00be420_primary.jpg?snkrBrowse", href: "더미 데이터 href", monthDay: Date().toString(format: "M/dd"))
     }
 }
