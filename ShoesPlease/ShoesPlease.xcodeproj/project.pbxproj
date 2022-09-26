@@ -511,7 +511,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.2;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.YoungKing.ShoesPlease;
 				PRODUCT_NAME = ShoesPlease;
 				PROVISIONING_PROFILE_SPECIFIER = dev_youngk;
@@ -547,7 +547,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.2;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.YoungKing.ShoesPlease;
 				PRODUCT_NAME = ShoesPlease;
 				PROVISIONING_PROFILE_SPECIFIER = adhoc_youngk;
