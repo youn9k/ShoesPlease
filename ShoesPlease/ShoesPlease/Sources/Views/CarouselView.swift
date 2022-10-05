@@ -11,8 +11,6 @@ struct CarouselView: View {
     @ObservedObject var viewModel: MainViewModel
     @Binding var showAlert: Bool
     let items: [DrawableItem]
-    @State var gradientAngle: Double = 0
-    private let gradientColors: [Color] = [.red, .yellow, .green, .blue, .purple, .red]
     var body: some View {
         VStack {
             ScrollView(.horizontal, showsIndicators: false) {
@@ -35,9 +33,12 @@ struct CarouselView: View {
                                                     .scaledToFit()
                                                     .frame(width: 180)
                                                     //.clipped()
-                                                if isDrawing(item) { gradientBorderView
-                                                }
                                             }
+                                            .overlay(content: {
+                                                if isDrawing(item) {
+                                                    GradientBorderView()
+                                                }
+                                            })
                                             .transition(.scale)
                                             .scaleEffect(.init(width: scale, height: scale))
                                             .padding(.vertical)
@@ -78,7 +79,9 @@ struct CarouselView: View {
                         .frame(width: 125, height: 400)
                         .padding(.horizontal, 32)
                         .padding(.vertical, 32)
+                        // 여기까지가 하나의 셀
                     }// ForEach
+                    //오른쪽 끝으로 갔을때 여백을 위해
                     Spacer()
                         .frame(width: 16)
                 }// HStack
@@ -90,17 +93,6 @@ struct CarouselView: View {
         RoundedRectangle(cornerRadius: 8)
             .foregroundColor(Color(.sRGB, red: 0.965, green: 0.965, blue: 0.965, opacity: 1))
             .frame(height: 300)
-    }
-    
-    var gradientBorderView: some View {
-        RoundedRectangle(cornerRadius: 8)
-            .strokeBorder(
-                AngularGradient(gradient: Gradient(colors: gradientColors), center: .center, angle: .degrees(gradientAngle)))
-            .onAppear {
-                withAnimation(.linear(duration: 3).repeatForever(autoreverses: false)) {
-                    self.gradientAngle = 360
-                }
-            }
     }
     
     private func getScale(proxy: GeometryProxy, zoom: Float = 1) -> CGFloat {
@@ -123,5 +115,21 @@ struct CarouselView: View {
 struct CarouselView_Previews: PreviewProvider {
     static var previews: some View {
         MainView()
+    }
+}
+
+struct GradientBorderView: View {
+    private var colors: [Color] = [.red, .yellow, .green, .blue, .purple, .red]
+    @State private var gradientAngle: Double = 0
+    
+    var body: some View {
+        RoundedRectangle(cornerRadius: 8)
+            .strokeBorder(
+                AngularGradient(gradient: Gradient(colors: colors), center: .center, angle: .degrees(gradientAngle)))
+            .onAppear {
+                withAnimation(.linear(duration: 3).repeatForever(autoreverses: false)) {
+                    gradientAngle = 360
+                }
+            }
     }
 }
