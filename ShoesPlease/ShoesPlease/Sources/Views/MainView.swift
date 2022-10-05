@@ -11,6 +11,7 @@ import AlertToast
 struct MainView: View {
     @StateObject var viewModel = MainViewModel()
     @State var showAlert = false
+    @State var isSuccess = false
     @State var viewTypeSelection: MainViewType = .carousel
     var body: some View {
         NavigationView {
@@ -34,14 +35,14 @@ struct MainView: View {
                             VStack(spacing: 30) {
                                 switch viewTypeSelection {
                                 case .carousel:
-                                    CarouselView(viewModel: viewModel, showAlert: $showAlert, items: viewModel.drawingItems + viewModel.drawableItems)
+                                    CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.drawingItems + viewModel.drawableItems)
                                 case .list:
                                     ForEach(viewModel.drawingItems) { drawingItem in
                                         NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
                                             CardView(item: drawingItem)
                                         }
                                         .contextMenu {
-                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawingItem)
+                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, itemInfo: drawingItem)
                                         }
                                     }
                                     ForEach(viewModel.drawableItems) { drawableItem in
@@ -49,7 +50,7 @@ struct MainView: View {
                                             CardView(item: drawableItem)
                                         }
                                         .contextMenu {
-                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: drawableItem)
+                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, itemInfo: drawableItem)
                                         }
                                     }
                                 }
@@ -69,7 +70,9 @@ struct MainView: View {
         }// NavigationView
         .navigationViewStyle(.stack)// 안붙이면 콘솔창에 오류가 주르륵
         .toast(isPresenting: $showAlert, duration: 3, tapToDismiss: true) {
-            AlertToast(displayMode: .hud, type: .complete(.green), title: "알림이 설정되었습니다", subTitle: "응모가 시작되면 알려드려요!")
+            isSuccess ?
+            AlertToast(displayMode: .hud, type: .complete(.green), title: "캘린더에 등록 했습니다", subTitle: "응모가 시작되면 알려드려요!") :
+            AlertToast(displayMode: .hud, type: .complete(.red), title: "캘린더 등록에 실패했습니다", subTitle: "알 수 없는 오류가 발생했어요")
         }
     }
 }
@@ -143,6 +146,7 @@ struct CardView: View {
 struct ContextMenuView: View {
     @ObservedObject var viewModel: MainViewModel
     @Binding var showAlert: Bool
+    @Binding var isSuccess: Bool
     let itemInfo: DrawableItem
     
     var body: some View {
@@ -150,7 +154,8 @@ struct ContextMenuView: View {
             Button {
                 // 알림 설정
                 Task {
-                    showAlert = try await viewModel.addEvent(item: itemInfo)
+                    isSuccess = try await viewModel.addEvent(item: itemInfo)
+                    showAlert = true
                 }
             } label: {
                 Label("알림 설정하기", systemImage: "clock.badge.checkmark")

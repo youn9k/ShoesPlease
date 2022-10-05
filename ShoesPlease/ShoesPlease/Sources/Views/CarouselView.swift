@@ -10,6 +10,7 @@ import SwiftUI
 struct CarouselView: View {
     @ObservedObject var viewModel: MainViewModel
     @Binding var showAlert: Bool
+    @Binding var isSuccess: Bool
     let items: [DrawableItem]
     var body: some View {
         VStack {
@@ -44,7 +45,7 @@ struct CarouselView: View {
                                             .padding(.vertical)
                                         }
                                         .contextMenu {
-                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, itemInfo: item)
+                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, itemInfo: item)
                                         }
                                         
                                     case .failure(_):
