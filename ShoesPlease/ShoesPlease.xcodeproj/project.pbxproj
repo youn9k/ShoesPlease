@@ -126,8 +126,6 @@
 				7B2C8226289B6D0F006FDE36 /* Info.plist */,
 				7B7F2FBD281044E700975CA0 /* Resources */,
 				7B7F2FC628105B1800975CA0 /* Sources */,
-				7B7F2FAE280DA19600975CA0 /* Assets.xcassets */,
-				7B7F2FCE28153D4000975CA0 /* Colors.xcassets */,
 				7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */,
 				7B7F2FB0280DA19600975CA0 /* Preview Content */,
 			);
@@ -157,6 +155,8 @@
 		7B7F2FBD281044E700975CA0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				7B7F2FAE280DA19600975CA0 /* Assets.xcassets */,
+				7B7F2FCE28153D4000975CA0 /* Colors.xcassets */,
 				7B7F2FE128190E9E00975CA0 /* InfoPlist.strings */,
 				7B7F2FBC281044DA00975CA0 /* Constants */,
 			);
