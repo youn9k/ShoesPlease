@@ -116,4 +116,11 @@ extension MainViewModel {
     func getDummyStartDate(item: DrawableItem) -> String {
         item.monthDay ?? ""
     }
+    
+    func fakeRefresh() {
+        DispatchQueue.main.asyncAfter(deadline: .now()+0.5) { [weak self] in
+            self?.isRefreshing = false
+            HapticManager.shared.notification(success: false)
+        }
+    }
 }
