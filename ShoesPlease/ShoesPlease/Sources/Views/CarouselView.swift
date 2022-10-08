@@ -17,6 +17,7 @@ struct CarouselView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top, spacing: 25) {
                     ForEach(items) { item in
+                        let message: String = Const.String.progressMessage.randomElement()!
                         GeometryReader { proxy in
                             let scale = getScale(proxy: proxy, zoom: 1.2)
                             VStack(spacing: 30) {
@@ -56,7 +57,7 @@ struct CarouselView: View {
                                     case .empty:
                                         ZStack {
                                             TicketBackgroundView.shadow(radius: 5).frame(width: 180)
-                                            ProgressView("신발 가져오는 중")
+                                            ProgressView(message)
                                         }.transition(.scale)
                                         
                                     @unknown default:

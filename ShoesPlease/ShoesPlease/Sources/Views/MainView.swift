@@ -102,7 +102,7 @@ struct CardView: View {
                 case .empty:
                     ZStack {
                         RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
-                        ProgressView("신발 가져오는 중")
+                        ProgressView(Const.String.progressMessage.randomElement()!)
                     }.transition(.scale)
                     
                 @unknown default:
