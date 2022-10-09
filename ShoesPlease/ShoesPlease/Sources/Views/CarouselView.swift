@@ -13,7 +13,7 @@ struct CarouselView: View {
     @Binding var isSuccess: Bool
     let items: [DrawableItem]
     var body: some View {
-        VStack {
+        //VStack {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top, spacing: 25) {
                     ForEach(items) { item in
@@ -88,7 +88,7 @@ struct CarouselView: View {
                         .frame(width: 16)
                 }// HStack
             }// ScrollView
-        }// VStack
+        //}// VStack
     }// body
     
     var TicketBackgroundView: some View {

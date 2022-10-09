@@ -28,6 +28,7 @@
 		7B7F2FD12816BD8800975CA0 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD02816BD8800975CA0 /* Launch Screen.storyboard */; };
 		7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B7F2FD42818FEF500975CA0 /* HapticManager.swift */; };
 		7B7F2FDF28190E9E00975CA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7B7F2FE128190E9E00975CA0 /* InfoPlist.strings */; };
+		7B877AB728F2CC060096C025 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B877AB628F2CC060096C025 /* CardView.swift */; };
 		7B9038BE28D9FD4100FB03CC /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9038BD28D9FD4100FB03CC /* Enum.swift */; };
 		7BBA6B0128DA972D001E81F6 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBA6B0028DA972D001E81F6 /* Date+Extension.swift */; };
 		7BBA6B0328DEE353001E81F6 /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBA6B0228DEE353001E81F6 /* CarouselView.swift */; };
@@ -59,6 +60,7 @@
 		7B7F2FD42818FEF500975CA0 /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
 		7B7F2FE228190EA200975CA0 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7B7F2FE328190F2A00975CA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7B877AB628F2CC060096C025 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		7B9038BD28D9FD4100FB03CC /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
 		7BBA6B0028DA972D001E81F6 /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
 		7BBA6B0228DEE353001E81F6 /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
@@ -202,6 +204,7 @@
 				7B1E6746281AC84C009174DC /* RefreshableScrollView.swift */,
 				7B1E6748281ADD29009174DC /* MyWebView.swift */,
 				7BBA6B0228DEE353001E81F6 /* CarouselView.swift */,
+				7B877AB628F2CC060096C025 /* CardView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -346,6 +349,7 @@
 				7B7F2FB9280DA22F00975CA0 /* MainViewModel.swift in Sources */,
 				7B7F2FD52818FEF500975CA0 /* HapticManager.swift in Sources */,
 				7BBA6B0328DEE353001E81F6 /* CarouselView.swift in Sources */,
+				7B877AB728F2CC060096C025 /* CardView.swift in Sources */,
 				7B9038BE28D9FD4100FB03CC /* Enum.swift in Sources */,
 				7B7F2FBB280DA9DC00975CA0 /* ParseManager.swift in Sources */,
 				7B7F2FC12810450200975CA0 /* Const.swift in Sources */,

@@ -30,16 +30,17 @@ struct MainView: View {
                                     .foregroundColor(.gray)
                             }
                         }.pickerStyle(.segmented).padding()
+                        
                         ZStack {
                             Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
-                            VStack(spacing: 30) {
+                            VStack(spacing: 90) {
                                 switch viewTypeSelection {
                                 case .carousel:
                                     CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.drawingItems + viewModel.drawableItems)
                                 case .list:
                                     ForEach(viewModel.drawingItems) { drawingItem in
                                         NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawingItem.href)) {
-                                            CardView(item: drawingItem)
+                                            CardView(item: drawingItem).frame(minWidth: ScreenSize.width * 2/3, maxWidth: ScreenSize.width * 3/4, minHeight: ScreenSize.width * 2/3, maxHeight: ScreenSize.width * 3/4)
                                         }
                                         .contextMenu {
                                             ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, itemInfo: drawingItem)
@@ -47,7 +48,7 @@ struct MainView: View {
                                     }
                                     ForEach(viewModel.drawableItems) { drawableItem in
                                         NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+drawableItem.href)) {
-                                            CardView(item: drawableItem)
+                                            CardView(item: drawableItem).frame(minWidth: ScreenSize.width * 2/3, maxWidth: ScreenSize.width * 3/4, minHeight: ScreenSize.width * 2/3, maxHeight: ScreenSize.width * 3/4)
                                         }
                                         .contextMenu {
                                             ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, itemInfo: drawableItem)
@@ -80,66 +81,6 @@ struct MainView: View {
 struct MainView_Previews: PreviewProvider {
     static var previews: some View {
         MainView()
-    }
-}
-
-struct CardView: View {
-    let item: DrawableItem
-    var body: some View {
-        VStack {
-            AsyncImage(url: URL(string: item.image), transaction: Transaction(animation: .spring(response: 0.5, dampingFraction: 0.8, blendDuration: 0.5))) { phase in
-                switch phase {
-                //SUCCESS : 이미지 로드 성공
-                //FAILURE : 이미지 로드 실패 에러
-                //EMPTY : 이미지 없음. 이미지가 로드되지 않음
-                case .success(let image):
-                    image.resizable().scaledToFill().transition(.scale)
-                case .failure(_):
-                    ZStack {
-                        RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
-                        Image(systemName: "xmark.icloud.fill").foregroundColor(.red)
-                    }
-                case .empty:
-                    ZStack {
-                        RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
-                        ProgressView(Const.String.progressMessage.randomElement()!)
-                    }.transition(.scale)
-                    
-                @unknown default:
-                    RoundedRectangle(cornerRadius: 15).frame(width: ScreenSize.width / 1.2, height: ScreenSize.width/1.2) .foregroundColor(.white)
-                    Image(systemName: "exclamationmark.icloud.fill").foregroundColor(.blue)
-                }
-            }
-            .mask {
-                RoundedRectangle(cornerRadius: 15)
-            }
-            .shadow(radius: 10, y: 5)
-            .overlay(alignment: .topLeading) {
-                CircleCalendar
-                    .offset(x: 20, y: 20)
-            }
-            Text(item.title)
-                .foregroundColor(.textBlack)
-                .fontWeight(.black)
-            Text(item.theme)
-                .foregroundColor(.gray)
-                .fontWeight(.regular)
-        }
-    }
-    
-    var CircleCalendar: some View {
-        ZStack {
-            if item.monthDay != nil {
-                Circle()
-                    .frame(width: 100, height: 100)
-                    .foregroundColor(Color.black)
-                    .opacity(0.1)
-                Text(item.monthDay ?? "")
-                    .font(.title)
-                    .fontWeight(.black)
-                    .foregroundColor(Color.black)
-            }
-        }
     }
 }
 
