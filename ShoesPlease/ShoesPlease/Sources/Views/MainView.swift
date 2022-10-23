@@ -101,11 +101,11 @@ struct ContextMenuView: View {
             } label: {
                 Label("알림 설정하기", systemImage: "clock.badge.checkmark")
             }
-            Button(role: .destructive) {
-                // 알림 취소
-            } label: {
-                Label("알림 취소하기", systemImage: "clock")
-            }
+//            Button(role: .destructive) {
+//                // 알림 취소
+//            } label: {
+//                Label("알림 취소하기", systemImage: "clock")
+//            }
         }
     }
 }
