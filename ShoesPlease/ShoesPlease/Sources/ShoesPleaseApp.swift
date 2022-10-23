@@ -14,6 +14,13 @@ struct ShoesPleaseApp: App {
     var body: some Scene {
         WindowGroup {
             MainView()
+                .onAppear {
+                    #if DEBUG
+                    print("DEBUG 모드입니다.")
+                    #else
+                    print("RELEASE 모드입니다.")
+                    #endif
+                }
         }.onChange(of: scenePhase) { newScenePhase in
             switch newScenePhase {
             case .active:

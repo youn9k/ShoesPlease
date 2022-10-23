@@ -25,14 +25,21 @@ class MainViewModel: ObservableObject {
     init() {
         print("vm init")
         refreshActionSubject.sink { [weak self] _ in
+            #if DEBUG
+            self?.fakeRefresh()
+            #else
             self?.fetchDrawingItems()
             self?.fetchDrawableItems()
+            #endif
         }.store(in: &subscription)
         
+        #if DEBUG
+        setDummyDrawingItems()
+        setDummyDrawableItems()
+        #else
         fetchDrawingItems()
         fetchDrawableItems()
-//        setDummyDrawingItems()
-//        setDummyDrawableItems()
+        #endif
     }
     
     deinit { print("vm deinit") }
