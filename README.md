@@ -4,7 +4,9 @@
 
 &nbsp;
 ### [👉🏻 앱스토어 바로가기](https://apps.apple.com/kr/app/%EC%A0%9C%EB%B0%9C-%ED%95%9C%EC%A7%9D%EB%A7%8C/id1622140980)
+<div align="center">
 <img src="https://user-images.githubusercontent.com/60254939/198823328-50021f3e-11e9-4d40-a819-095078f8335f.jpeg" width="70%" height="70%">
+</div>
 
 ### 사용 버전
 
@@ -52,6 +54,7 @@
 </p>
 
 ### 기능 및 스크린샷
+
 <br><br>
 <img src="https://user-images.githubusercontent.com/60254939/198823021-de487e90-a1a7-48da-acd7-ccaef1f85534.png" width="20%" height="20%">
 <br>
