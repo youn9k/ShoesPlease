@@ -28,7 +28,7 @@ class NetworkManager {
     
     private func getPage(url: String) async throws -> String {
         guard let url = URL(string: url) else { return "" }
-        let (data, response) = try await URLSession.shared.data(from: url)
+        let (data, _) = try await URLSession.shared.data(from: url)
         return String(data: data, encoding: .utf8) ?? ""
     }
     
