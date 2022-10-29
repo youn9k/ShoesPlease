@@ -4,7 +4,7 @@
 
 &nbsp;
 ### [👉🏻 앱스토어 바로가기](https://apps.apple.com/kr/app/%EC%A0%9C%EB%B0%9C-%ED%95%9C%EC%A7%9D%EB%A7%8C/id1622140980)
-<img src="https://user-images.githubusercontent.com/60254939/198823328-50021f3e-11e9-4d40-a819-095078f8335f.jpeg" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/60254939/198823328-50021f3e-11e9-4d40-a819-095078f8335f.jpeg" width="70%" height="70%">
 
 ### 사용 버전
 
