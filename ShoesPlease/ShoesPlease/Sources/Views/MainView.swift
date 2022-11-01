@@ -33,7 +33,7 @@ struct MainView: View {
                         
                         ZStack {
                             Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
-                            VStack(spacing: 90) {
+                            VStack(alignment:.leading, spacing: 90) {
                                 switch viewTypeSelection {
                                 case .carousel:
                                     CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.drawingItems + viewModel.drawableItems)
@@ -55,6 +55,14 @@ struct MainView: View {
                                         }
                                     }
                                 }
+                                
+                                Text("출시된 아이템").font(.system(size: 24))
+                                switch viewTypeSelection {
+                                case .carousel:
+                                    CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.launchedItems)
+                                case .list:
+                                    CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.launchedItems)
+                                }
                             }
                             .padding(.top, 30)
                             .padding(.horizontal, 15)
@@ -66,7 +74,7 @@ struct MainView: View {
                     viewModel.refreshActionSubject.send()
                 }// RefreshableScrollView
                 .padding(.horizontal, 10)
-                .navigationTitle("응모 목록")
+                //.navigationTitle("응모 목록")
             }// ZStack
         }// NavigationView
         .navigationViewStyle(.stack)// 안붙이면 콘솔창에 오류가 주르륵

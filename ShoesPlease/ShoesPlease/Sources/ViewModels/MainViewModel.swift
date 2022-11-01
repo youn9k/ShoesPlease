@@ -17,6 +17,7 @@ class MainViewModel: ObservableObject {
     @Published var testString = "수신 전"
     @Published var drawingItems = [DrawableItem]()
     @Published var drawableItems = [DrawableItem]()
+    @Published var launchedItems = [DrawableItem]()
     @Published var isRefreshing = false
     
     var subscription = Set<AnyCancellable>()
@@ -27,6 +28,7 @@ class MainViewModel: ObservableObject {
         refreshActionSubject.sink { [weak self] _ in
             #if DEBUG
             self?.fakeRefresh()
+            self?.fetchLaunchedItems()
             #else
             self?.fetchDrawingItems()
             self?.fetchDrawableItems()
@@ -36,6 +38,7 @@ class MainViewModel: ObservableObject {
         #if DEBUG
         setDummyDrawingItems()
         setDummyDrawableItems()
+        fetchLaunchedItems()
         #else
         fetchDrawingItems()
         fetchDrawableItems()
@@ -53,6 +56,12 @@ class MainViewModel: ObservableObject {
     func setDrawingItems(items: [DrawableItem]?) -> Bool {
         guard let items = items else { return false }
         self.drawingItems = items
+        return true
+    }
+    
+    func setLaunchedItems(items: [DrawableItem]?) -> Bool {
+        guard let items = items else { return false }
+        self.launchedItems = items
         return true
     }
     
@@ -83,6 +92,21 @@ class MainViewModel: ObservableObject {
         }
     }
     
+    /// 출시된 아이템들을 가져옵니다.
+    func fetchLaunchedItems() {
+        print("fetchLaunchedItems called")
+        Task {
+            isRefreshing = true
+            HapticManager.shared.impact(style: .medium)
+            let html = try await networkManager.getLaunchItemPage()
+            let items = parseManager.parseLaunchedItems(html)
+            let isSuccess = setDrawingItems(items: items)
+            self.isRefreshing = false
+            HapticManager.shared.notification(success: isSuccess)
+        }
+    }
+    
+    /// 응모 시작 전인 아이템들의 캘린더를 가져옵니다.
     func fetchItemsCalendar() {
         Task {
             for index in 0..<drawableItems.count {
