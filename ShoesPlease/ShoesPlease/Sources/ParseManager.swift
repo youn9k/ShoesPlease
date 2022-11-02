@@ -147,6 +147,42 @@ class ParseManager {
         }
     }
     
+    func parseAllItems(_ html: String?) -> [DrawableItem]? {
+        var drawableItems: [DrawableItem] = []
+        guard let html = html else { return nil }
+        do {
+            let soup = try SwiftSoup.parse(html)
+            let launchItems = try soup.select("div.product-card")
+            try launchItems.forEach { launchItem in
+                let launchItemText = try launchItem.text()
+                print(launchItemText) // 신발 이름
+                
+                let launchItemInfo = try launchItem.select("figcaption").select("div.copy-container")
+                let launchItemImage = try launchItem.select("a.card-link").select("img")
+                
+                let launchItemTitle = try launchItemInfo.select("h3.headline-5").text()
+                let launchItemTheme = try launchItemInfo.select("h6.headline-3").text()
+                let launchItemImageSrc = try launchItemImage.text()
+                let launchItemHref = try launchItem.select("a.card-link").attr("href")
+                
+                print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
+                
+                drawableItems.append(DrawableItem(
+                    title: launchItemTitle,
+                    theme: launchItemTheme,
+                    image: launchItemImageSrc,
+                    href: launchItemHref,
+                    monthDay: nil)
+                )
+                
+            }
+           return drawableItems
+        } catch let e {
+            print(#fileID, #function, #line, "error:", e)
+            return nil
+        }
+    }
+    
     
     /// 아이템 상세 페이지로부터 캘린더 부분을 파싱하여 [String]? 형태로 반환합니다.
     /// - Parameter html: 아이템 상세 페이지
