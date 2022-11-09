@@ -8,10 +8,12 @@ import time
 def get_upcoming_items():
     try:
         options = webdriver.ChromeOptions()
+        user_agent = "Mozilla/5.0 (Linux; Android 9; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.83 Mobile Safari/537.36"
+        options.add_argument('user-agent=' + user_agent)
         options.add_argument("start-maximized")
         options.add_argument("lang=ko_KR")
         options.add_argument('headless')
-        options.add_argument('window-size=1920x1080')
+        #options.add_argument('window-size=1920x1080')
         options.add_argument("disable-gpu")
         options.add_argument("--no-sandbox")
 
