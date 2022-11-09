@@ -33,7 +33,6 @@ jobs:
         pip install bs4
         pip install requests
         pip install lxml
-        pip install json
         pip install time
     
     - name: Install ubuntu package # 우분투 관련 패키지도 설치
