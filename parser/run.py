@@ -1,4 +1,3 @@
-from selenium import webdriver
 import json
 from get_upcoming_items import get_upcoming_items
 from get_released_items import get_released_items
@@ -16,8 +15,8 @@ if __name__ == '__main__':
         item['releaseDate'] = date
 
     print("결과")
-    for upcoming_item in upcoming_items:
-        print(upcoming_item)
+    #for upcoming_item in upcoming_items:
+    #    print(upcoming_item)
 
     for released_item in released_items:
         print(released_item)
@@ -25,9 +24,9 @@ if __name__ == '__main__':
     for to_be_released_item in to_be_released_items:
         print(to_be_released_item)
 
-    with open('../models/nike/released_items.json', 'w') as file:
+    with open('./models/nike/released_items.json', 'w') as file:
         json.dump(released_items, file, indent=4, ensure_ascii= False)
 
-    with open('../models/nike/to_be_released_items.json', 'w') as file:
+    with open('./models/nike/to_be_released_items.json', 'w') as file:
         json.dump(to_be_released_items, file, indent=4, ensure_ascii= False)
 
