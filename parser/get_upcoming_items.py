@@ -16,8 +16,8 @@ def get_upcoming_items():
         options.add_argument('window-size=1920x1080')
         options.add_argument("disable-gpu")
         options.add_argument("--no-sandbox")
-        options.addArguments("disable-dev-shm-usage");
-        options.addArguments("lang=ko");
+        options.add_argument("disable-dev-shm-usage")
+        options.add_argument("lang=ko")
         
         # chrome driver
         driver = webdriver.Chrome('chromedriver', chrome_options=options)
