@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import time
 
@@ -25,11 +26,11 @@ def get_upcoming_items():
 
         # 이미지를 불러오기 위해 스크롤 내려갔다가 올라옴
         for _ in range(0, 10):
-            driver.find_element_by_tag_name('body').send_keys(Keys.PAGE_DOWN)
+            driver.find_element(By.TAG_NAME, "body").send_keys(Keys.PAGE_DOWN)
             time.sleep(1)
 
         for _ in range(0, 10):
-            driver.find_element_by_tag_name('body').send_keys(Keys.PAGE_UP)
+            driver.find_element(By.TAG_NAME, "body").send_keys(Keys.PAGE_UP)
             time.sleep(1)
 
         # 1초 대기
