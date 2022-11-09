@@ -13,7 +13,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04 # 우분투 18.04 에서
+    runs-on: ubuntu-latest # 우분투 최신버전
     strategy:
       matrix:
         python-version: [3.7] # 파이썬 3.7 버전으로
