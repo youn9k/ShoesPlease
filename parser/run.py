@@ -28,8 +28,10 @@ if __name__ == '__main__':
     with open('../models/nike/released_items.json', 'w') as file:
         print("📝 released_items.json")
         json.dump(released_items, file, indent=4, ensure_ascii= False)
+        file.write('\n')
 
     with open('../models/nike/to_be_released_items.json', 'w') as file:
         print("📝 to_be_released_items.json")
         json.dump(to_be_released_items, file, indent=4, ensure_ascii= False)
+        file.write('\n')
 
