@@ -14,19 +14,24 @@ if __name__ == '__main__':
         date = get_release_date_for_item(item['href'])
         item['releaseDate'] = date
 
-    print("결과")
     #for upcoming_item in upcoming_items:
     #    print(upcoming_item)
-
+    
+    print("👟 출시된 아이템들")
     for released_item in released_items:
         print(released_item)
-
+    
+    print("👟 출시예정인 아이템들")
     for to_be_released_item in to_be_released_items:
         print(to_be_released_item)
 
     with open('../models/nike/released_items.json', 'w') as file:
+        print("📝 released_items.json")
         json.dump(released_items, file, indent=4, ensure_ascii= False)
+        file.write('\n')
 
     with open('../models/nike/to_be_released_items.json', 'w') as file:
+        print("📝 to_be_released_items.json")
         json.dump(to_be_released_items, file, indent=4, ensure_ascii= False)
+        file.write('\n')
 

@@ -11,8 +11,8 @@ def get_released_items(items):
         else:
             button_text = item.find('button', class_='ncss-btn-primary-dark').get_text()
 
-        #if button_text.strip() == 'Sold Out' or button_text.strip() == 'Buy':
-        #    print("버튼 Text:", button_text)
+        if button_text.strip() == 'Sold Out' or button_text.strip() == 'Buy':
+            print("버튼 Text:", button_text)
 
         if button_text and (button_text.strip() == 'Sold Out' or button_text.strip() == 'Buy'):
             item_info = item.find('figcaption').find('div', class_='copy-container')

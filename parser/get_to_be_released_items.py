@@ -11,8 +11,8 @@ def get_to_be_released_items(items):
         else:
             button_text = item.find('button', class_='ncss-btn-primary-dark').get_text()
 
-        #if button_text.strip() == 'Coming Soon':
-        #    print("버튼 Text:", button_text)
+        if button_text.strip() == 'Coming Soon':
+            print("버튼 Text:", button_text)
 
         if (button_text and button_text.strip() == 'Coming Soon'):
             item_info = item.find('figcaption').find('div', class_='copy-container')
