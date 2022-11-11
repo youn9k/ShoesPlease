@@ -5,8 +5,8 @@ name: Nike-Parser
 
 on:
   schedule:
-    # update every day, 02:00 UTC => 11:00 (GMT+9)
-    - cron: '0 2 * * *'
+    # update every day, 00:00 UTC => 09:00 (GMT+9)
+    - cron: '0 0 * * *'
     
   push:
     branches: [ "main" ]
