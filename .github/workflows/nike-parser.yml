@@ -17,7 +17,7 @@ jobs:
     strategy:
       matrix:
         python-version: [3.7] # 파이썬 3.7 버전으로
-        node-version: [14.x, 15.x]
+        node-version: [15.x]
 
     steps:
     # 워크플로에서 액세스할 수 있도록 에서 저장소를 체크아웃
@@ -56,10 +56,14 @@ jobs:
 #         cd parser
 #         python run.py
     
+    - name: Set date in environment variable
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+    
     - name: Add & Commit # Add Commit
       uses: EndBug/add-and-commit@v7
       with:
-        message: '🤖 update Nike Models'
+        message: '🤖 Update Nike Models ${{ env.DATE }}'
+        author_name: 'GitHub-Actions-Bot'
         add: '*.json'
         push: false
           
