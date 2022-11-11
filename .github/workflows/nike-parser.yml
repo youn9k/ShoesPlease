@@ -33,6 +33,8 @@ jobs:
         pip install bs4
         pip install requests
         pip install lxml
+        pip install datetime
+        pip install pytz
     
     - name: Install ubuntu package # 우분투 관련 패키지도 설치
       run: |        
