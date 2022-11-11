@@ -60,5 +60,4 @@ jobs:
         github_token: ${{ secrets.TOKEN }}
         add: '.'
         commit: --signoff
-        branch: main
         push: true
