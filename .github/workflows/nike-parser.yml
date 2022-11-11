@@ -17,6 +17,7 @@ jobs:
     strategy:
       matrix:
         python-version: [3.7] # 파이썬 3.7 버전으로
+        node-version: [14.x, 15.x]
 
     steps:
     # 워크플로에서 액세스할 수 있도록 에서 저장소를 체크아웃
