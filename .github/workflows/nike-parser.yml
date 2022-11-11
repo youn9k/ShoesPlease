@@ -20,8 +20,9 @@ jobs:
 
     steps:
     # 워크플로에서 액세스할 수 있도록 에서 저장소를 체크아웃
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
       with:
+          github_token: ${{ secrets.TOKEN }}
           persist-credentials: false
           fetch-depth: 0
           
