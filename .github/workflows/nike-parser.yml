@@ -57,7 +57,7 @@ jobs:
     - name: Commit & Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.TOKEN }}
         branch: main
         message: >
           [Action]: updated
