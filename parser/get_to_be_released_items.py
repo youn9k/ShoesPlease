@@ -4,7 +4,7 @@ from pytz import timezone
 
 
 def get_to_be_released_items(items):
-    print("get_to_be_released_items")
+    print("get_to_be_released_items...")
 
     to_be_released_items = []
 

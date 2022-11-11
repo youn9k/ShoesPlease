@@ -6,8 +6,6 @@ from pytz import timezone
 
 
 def get_release_date_for_item(href):
-    print("get_release_date_for_item...")
-
     today = datetime.now(timezone('Asia/Seoul'))
     response = requests.get("https://www.nike.com" + href)
     soup = BeautifulSoup(response.text, 'lxml')
