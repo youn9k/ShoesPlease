@@ -54,11 +54,15 @@ jobs:
       run: | 
         cd parser
         python run.py
-        
+    
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v7
+        with:
+          message: 'AddCommit'
+          add: '*.json'
+          push: false
+          
     - name: Commit & Push changes
-      uses: EndBug/add-and-commit@v9
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.TOKEN }}
-        add: '.'
-        commit: --signoff
-        push: true
