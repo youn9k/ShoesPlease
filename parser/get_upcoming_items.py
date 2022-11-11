@@ -43,9 +43,9 @@ def get_upcoming_items():
         html = driver.page_source
 
         soup = BeautifulSoup(html, 'html.parser')
-        
-        print(soup.prettify()) # 오류 지점 찾기용
-        
+
+        #print(soup.prettify())
+
         upcoming_items =  soup.find_all('div', class_='product-card')
 
         return upcoming_items

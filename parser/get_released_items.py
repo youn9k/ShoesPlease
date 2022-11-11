@@ -1,31 +1,38 @@
 from bs4 import BeautifulSoup
+from datetime import datetime
+from pytz import timezone
+
 
 def get_released_items(items):
+    print("get_released_items...")
+
     released_items = []
 
+    today = datetime.now(timezone('Asia/Seoul'))
+    today_ymd = datetime(year=today.year, month=today.month, day=today.day)
+    print('Today Date:', today_ymd)  # 2022-11-11 00:00:00
+
     for item in items:
-        button_text = ''
+        caption = item.find('div', class_='launch-caption')
+        m = caption.find('p', class_='headline-4').getText().split('월')[0]  # 1,..8,9..12
+        d = caption.find('p', class_='headline-1').getText().split('일')[0]  # 1..31
 
-        if item.find('button', class_='ncss-btn-primary-dark') is None:
-            button_text = item.find('a', class_='ncss-btn-primary-dark').get_text()
-        else:
-            button_text = item.find('button', class_='ncss-btn-primary-dark').get_text()
+        item_ymd = datetime(year=today.year, month=int(m), day=int(d))  # 2022-11-11 00:00:00
 
-        if button_text.strip() == 'Sold Out' or button_text.strip() == 'Buy':
-            print("버튼 Text:", button_text)
-
-        if button_text and (button_text.strip() == 'Sold Out' or button_text.strip() == 'Buy'):
+        if item_ymd <= today_ymd:
             item_info = item.find('figcaption').find('div', class_='copy-container')
             img = item.find('img', class_='image-component').attrs['src']
             title = item_info.find('h3', class_='headline-5').get_text()
             theme = item_info.find('h6', class_='headline-3').get_text()
             href = item.find('a', class_='card-link').attrs['href']
 
+            print("released_items.append -", title, item_ymd)
             released_items.append({
                 'title': title,
                 'theme': theme,
                 'image': img,
-                'href': href
+                'href': href,
+                'date': m + "/" + d,
             })
 
     return released_items
