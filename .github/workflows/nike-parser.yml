@@ -59,5 +59,3 @@ jobs:
       with:
         github_token: ${{ secrets.TOKEN }}
         branch: main
-        message: >
-          [Action]: updated
