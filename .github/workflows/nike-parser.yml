@@ -12,7 +12,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest # 우분투 최신버전
     strategy:
       matrix:
