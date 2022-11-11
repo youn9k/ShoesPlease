@@ -20,7 +20,7 @@ jobs:
 
     steps:
     # 워크플로에서 액세스할 수 있도록 에서 저장소를 체크아웃
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@master
     - name: Set up python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
