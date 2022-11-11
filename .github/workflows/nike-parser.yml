@@ -5,14 +5,14 @@ name: Nike-Parser
 
 on:
   schedule:
-    # update every day, 02:00 UTC => 11:00 (GMT+9)
-    - cron: '0 2 * * *'
+    # update every day, 00:00 UTC => 09:00 (GMT+9)
+    - cron: '0 0 * * *'
     
   push:
     branches: [ "main" ]
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest # 우분투 최신버전
     strategy:
       matrix:
@@ -21,6 +21,11 @@ jobs:
     steps:
     # 워크플로에서 액세스할 수 있도록 에서 저장소를 체크아웃
     - uses: actions/checkout@v2
+      with:
+          github_token: ${{ secrets.TOKEN }}
+          persist-credentials: false
+          fetch-depth: 0
+          
     - name: Set up python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
@@ -49,3 +54,15 @@ jobs:
       run: | 
         cd parser
         python run.py
+    
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v7
+      with:
+        message: 'AddCommit'
+        add: '*.json'
+        push: false
+          
+    - name: Commit & Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}
