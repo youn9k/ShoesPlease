@@ -3,9 +3,12 @@ from get_upcoming_items import get_upcoming_items
 from get_released_items import get_released_items
 from get_to_be_released_items import get_to_be_released_items
 from get_release_date_for_item import get_release_date_for_item
-
+from datetime import datetime
 
 if __name__ == '__main__':
+    now = datetime.now()
+    print('Current DateTime:', now)
+    
     upcoming_items = get_upcoming_items() # upcoming 탭의 모든 아이템
     released_items = get_released_items(upcoming_items) # 출시된
     to_be_released_items = get_to_be_released_items(upcoming_items) # 출시 예정
