@@ -38,13 +38,3 @@ if __name__ == '__main__':
         file.write(json_items)
         #json.dump(to_be_released_items, file, indent=4, ensure_ascii=False)
         file.write('\n')
-     
-    print("read to_be_released_items.json")
-    f=open("../models/nike/to_be_released_items.json","rt")
-    while True:
-        c = f.read()
-        if c == '':
-            break
-        print(c, end='')
-
-    f.close()
