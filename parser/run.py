@@ -25,12 +25,16 @@ if __name__ == '__main__':
     for to_be_released_item in to_be_released_items:
         print(to_be_released_item)
 
-    with open('./models/nike/released_items.json', 'w') as file:
+    with open('../models/nike/released_items.json', 'w') as file:
         print("📝 released_items.json")
-        json.dump(released_items, file, indent=4, ensure_ascii=False)
+        json_items = json.dumps(released_items, indent=4, ensure_ascii=False)
+        file.write(json_items)
+        #json.dump(released_items, file, indent=4, ensure_ascii=False)
         file.write('\n')
 
-    with open('./models/nike/to_be_released_items.json', 'w') as file:
+    with open('../models/nike/to_be_released_items.json', 'w') as file:
         print("📝 to_be_released_items.json")
-        json.dump(to_be_released_items, file, indent=4, ensure_ascii=False)
+        json_items = json.dumps(to_be_released_items, indent=4, ensure_ascii=False)
+        file.write(json_items)
+        #json.dump(to_be_released_items, file, indent=4, ensure_ascii=False)
         file.write('\n')
