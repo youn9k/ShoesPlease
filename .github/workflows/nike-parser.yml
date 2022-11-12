@@ -57,7 +57,7 @@ jobs:
         python run.py
     
     - name: Set date in environment variable
-      run: echo "DATE=$(date +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M GMT+9')" >> $GITHUB_ENV
     
     - name: Add & Commit # Add Commit
       uses: EndBug/add-and-commit@v7
