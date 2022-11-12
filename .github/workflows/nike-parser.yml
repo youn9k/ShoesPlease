@@ -26,7 +26,13 @@ jobs:
           token: ${{ secrets.TOKEN }}
           persist-credentials: false
           fetch-depth: 0
-          
+    
+    # 한국 시간으로 변경
+    - name: Set Timezone to +9 (GMT+9)
+      uses: ./
+      with:
+          timezoneLinux: "Asia/Seoul"
+     
     - name: Set up python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
