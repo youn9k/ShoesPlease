@@ -8,7 +8,7 @@
 import Foundation
 
 /// 출시된 아이템
-struct ReleasedItem: Identifiable {
+struct ReleasedItem: Identifiable, Codable {
     var id = UUID()
     let title: String
     let theme: String
