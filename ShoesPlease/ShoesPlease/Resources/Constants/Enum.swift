@@ -16,3 +16,8 @@ enum MainViewType: String, CaseIterable {
     case carousel = "rectangle.portrait.split.2x1"
     case list = "square.split.1x2"
 }
+
+enum ItemType {
+    case nikeReleasedItems // 출시된 아이템
+    case nikeToBeReleasedItems // 출시 예정 아이템
+}

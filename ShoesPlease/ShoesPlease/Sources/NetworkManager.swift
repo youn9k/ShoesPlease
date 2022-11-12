@@ -8,11 +8,6 @@
 import Foundation
 import Alamofire
 
-enum Model {
-    case nikeReleasedItems // 출시된 아이템
-    case nikeToBeReleasedItems // 출시 예정 아이템
-}
-
 class NetworkManager {
     typealias Html = String
     
@@ -31,12 +26,12 @@ class NetworkManager {
         return try await getPage(url: url)
     }
     
-    func getModelPage(model: Model) async throws -> Html {
+    func getModelPage(itemType: ItemType) async throws -> Html {
         var url: String = ""
-        switch model {
-        case Model.nikeReleasedItems:
+        switch itemType {
+        case ItemType.nikeReleasedItems:
             url = "https://github.com/youn9k/ShoesPlease/blob/main/models/nike/released_items.json"
-        case Model.nikeToBeReleasedItems:
+        case ItemType.nikeToBeReleasedItems:
             url = "https://github.com/youn9k/ShoesPlease/blob/main/models/nike/to_be_released_items.json"
         }
         return try await getPage(url: url)
