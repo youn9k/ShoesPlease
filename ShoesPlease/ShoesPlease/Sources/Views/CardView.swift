@@ -9,10 +9,14 @@ import Foundation
 import SwiftUI
 
 struct CardView: View {
-    let item: DrawableItem
+    let title: String
+    let theme: String
+    let imageURL: String
+    let date: String
+    
     var body: some View {
         VStack {
-            AsyncImage(url: URL(string: item.image), transaction: Transaction(animation: .spring(response: 0.5, dampingFraction: 0.8, blendDuration: 0.5))) { phase in
+            AsyncImage(url: URL(string: imageURL), transaction: Transaction(animation: .spring(response: 0.5, dampingFraction: 0.8, blendDuration: 0.5))) { phase in
                 switch phase {
                 //SUCCESS : 이미지 로드 성공
                 //FAILURE : 이미지 로드 실패 에러
@@ -40,7 +44,7 @@ struct CardView: View {
             }
             .shadow(radius: 10, y: 5)
             .overlay(content: {
-                if isDrawing(item) {
+                if isDrawing(compareToDate: date) {
                     GradientBorderView()
                 }
             })
@@ -48,10 +52,10 @@ struct CardView: View {
                 CircleCalendar
                     .offset(x: 20, y: 20)
             })
-            Text(item.title)
+            Text(title)
                 .foregroundColor(.textBlack)
                 .fontWeight(.black)
-            Text(item.theme)
+            Text(theme)
                 .foregroundColor(.gray)
                 .fontWeight(.regular)
         }
@@ -59,20 +63,18 @@ struct CardView: View {
     
     var CircleCalendar: some View {
         ZStack {
-            if item.monthDay != nil {
-                Circle()
-                    .frame(width: 100, height: 100)
-                    .foregroundColor(Color.black)
-                    .opacity(0.1)
-                Text(item.monthDay ?? "")
-                    .font(.title)
-                    .fontWeight(.black)
-                    .foregroundColor(Color.black)
-            }
+            Circle()
+                .frame(width: 100, height: 100)
+                .foregroundColor(Color.black)
+                .opacity(0.1)
+            Text(date)
+                .font(.title)
+                .fontWeight(.black)
+                .foregroundColor(Color.black)
         }
     }
     
-    private func isDrawing(_ item: DrawableItem) -> Bool {
-        return item.monthDay ?? "" == Date().toString(format: "M/dd")
+    private func isDrawing(compareToDate: String) -> Bool {
+        return compareToDate == Date().toString(format: "M/dd")
     }
 }

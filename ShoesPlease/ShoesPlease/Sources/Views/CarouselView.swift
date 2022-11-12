@@ -11,7 +11,7 @@ struct CarouselView: View {
     @ObservedObject var viewModel: MainViewModel
     @Binding var showAlert: Bool
     @Binding var isSuccess: Bool
-    let items: [DrawableItem]
+    let items: [ReleasedItem]
     var body: some View {
         //VStack {
             ScrollView(.horizontal, showsIndicators: false) {
@@ -45,10 +45,7 @@ struct CarouselView: View {
                                             .scaleEffect(.init(width: scale, height: scale))
                                             .padding(.vertical)
                                         }
-                                        .contextMenu {
-                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, itemInfo: item)
-                                        }
-                                        
+
                                     case .failure(_):
                                         ZStack {
                                             TicketBackgroundView.shadow(radius: 5).frame(width: 180)
@@ -59,7 +56,7 @@ struct CarouselView: View {
                                             TicketBackgroundView.shadow(radius: 5).frame(width: 180)
                                             ProgressView(message)
                                         }.transition(.scale)
-                                        
+
                                     @unknown default:
                                         TicketBackgroundView.shadow(radius: 5).frame(width: 180)
                                         Image(systemName: "exclamationmark.icloud.fill").foregroundColor(.blue)
@@ -72,7 +69,7 @@ struct CarouselView: View {
                                     Text(item.theme)
                                         .foregroundColor(.gray)
                                         .fontWeight(.regular)
-                                    Text(item.monthDay ?? "불러오는 중")
+                                    Text(item.date)
                                         .foregroundColor(.gray)
                                         .fontWeight(.regular)
                                 }
@@ -102,15 +99,15 @@ struct CarouselView: View {
         let viewFrame = proxy.frame(in: CoordinateSpace.global)
         var scale: CGFloat = 1.0
         let deltaXAnimationThreshold: CGFloat = CGFloat(125 * zoom)
-        let diffFromCenter = abs(midPoint - viewFrame.origin.x - deltaXAnimationThreshold / 2)
+        let diffFromCenter: CGFloat = abs(midPoint - viewFrame.origin.x - deltaXAnimationThreshold / 2)
         if diffFromCenter < deltaXAnimationThreshold {
             scale = 1 + (deltaXAnimationThreshold - diffFromCenter) / 500
         }
         return scale
     }
     
-    private func isDrawing(_ item: DrawableItem) -> Bool {
-        return item.monthDay ?? "" == Date().toString(format: "M/dd")
+    private func isDrawing(_ item: ReleasedItem) -> Bool {
+        return item.date == Date().toString(format: "M/dd")
     }
 }
 

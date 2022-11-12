@@ -21,168 +21,27 @@ class ParseManager {
         }
     }
     
-    func parseDrawableItems(_ html: String?) -> [DrawableItem]? {
-        var drawableItems: [DrawableItem] = []
-        guard let html = html else { return nil }
+    /// GitHub model 소스를 파싱해 JSON 형태의 String 으로 반환합니다.
+    func parseJSONString(_ html: String?) -> String? {
+        var jsonString: String = ""
+        
+        guard let html else { return nil }
         do {
-            let soup = try SwiftSoup.parse(html)
-            let launchItems = try soup.select("div.product-card")
-            try launchItems.forEach { launchItem in
-                let launchItemText = try launchItem.text()
-                let soldoutButton = try launchItem.select("a.ncss-btn-primary-dark")
-                let soldoutButtonText = try soldoutButton.text()
-                if try soldoutButton.text() == "THE DRAW 진행예정" {
-                    print("launchItem: \(launchItemText)\n", "button: \(soldoutButtonText)\n")
-                    
-                    let launchItemInfo = try launchItem.select("a.comingsoon")
-                    let launchItemImage = try launchItem.select("img.img-component")
-                    
-                    let launchItemTitle = try launchItemInfo.attr("title")
-                    let launchItemImageSrc = try launchItemImage.attr("data-src")
-                    let launchItemTheme = try launchItemImage.attr("alt")
-                    let launchItemHref = try launchItemInfo.attr("href")
-                    
-                    print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
-                    
-                    drawableItems.append(DrawableItem(
-                        title: launchItemTitle,
-                        theme: launchItemTheme,
-                        image: launchItemImageSrc,
-                        href: launchItemHref,
-                        monthDay: nil)
-                    )
-                }
+            let soup: Document = try SwiftSoup.parse(html)
+            let box: Elements = try soup.select("div.Box-body")
+            let lines: Elements = try box.select("td.blob-code")
+            for line: Element in lines.array() {
+                let text = try line.text()
+                jsonString.append(text)
             }
-           return drawableItems
+            
+            return jsonString
+            
         } catch let e {
             print(#fileID, #function, #line, "error:", e)
             return nil
         }
     }
-    
-    func parseDrawingItems(_ html: String?) -> [DrawableItem]? {
-        var drawableItems: [DrawableItem] = []
-        guard let html = html else { return nil }
-        do {
-            let soup = try SwiftSoup.parse(html)
-            let launchItems = try soup.select("div.product-card")
-            try launchItems.forEach { launchItem in
-                let launchItemText = try launchItem.text()
-                let soldoutButton = try launchItem.select("a.ncss-btn-primary-dark")
-                let soldoutButtonText = try soldoutButton.text()
-                if try soldoutButton.text() == "THE DRAW 응모하기" {
-                    print("launchItem: \(launchItemText)\n", "button: \(soldoutButtonText)\n")
-                    
-                    let launchItemInfo = try launchItem.select("a.comingsoon")
-                    let launchItemImage = try launchItem.select("img.img-component")
-                    
-                    let launchItemTitle = try launchItemInfo.attr("title")
-                    let launchItemImageSrc = try launchItemImage.attr("data-src")
-                    let launchItemTheme = try launchItemImage.attr("alt")
-                    let launchItemHref = try launchItemInfo.attr("href")
-                    
-                    print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
-                    
-                    drawableItems.append(DrawableItem(
-                        title: launchItemTitle,
-                        theme: launchItemTheme,
-                        image: launchItemImageSrc,
-                        href: launchItemHref,
-                        monthDay: nil)
-                    )
-                }
-            }
-           return drawableItems
-        } catch let e {
-            print(#fileID, #function, #line, "error:", e)
-            return nil
-        }
-    }
-    
-    func parseLaunchedItems(_ html: String?) -> [DrawableItem]? {
-        var drawableItems: [DrawableItem] = []
-        guard let html = html else { return nil }
-        do {
-            let soup = try SwiftSoup.parse(html)
-            let launchItems = try soup.select("div.product-card")
-            try launchItems.forEach { launchItem in
-                let launchItemText = try launchItem.text()
-                print(launchItemText) // 신발 이름
-                
-                // a 태그가 안찾아지는중
-                let soldoutButton = try launchItem.select("a.ncss-btn-primary-dark")
-                print(soldoutButton.hasText()) // 테스트용 인데 false !!!!
-                let testText = try launchItem.select("figcaption").select("div.copy-container").select("a.ncss-btn-primary-dark").text()
-                print("testText:", testText) // 우먼스 조던 델타 3 로우 Jordan Women’s Paris Collective
-                let soldoutButtonText = try soldoutButton.text()
-                print("Text:", soldoutButtonText) // Buy or Comming Soon or Sold Out
-                
-                
-                if try soldoutButton.text() == "Buy" {
-                    print("찾았다 launchItem: \(launchItemText)\n", "button: \(soldoutButtonText)\n")
-                    
-                    let launchItemInfo = try launchItem.select("a.comingsoon")
-                    let launchItemImage = try launchItem.select("img.img-component")
-                    
-                    let launchItemTitle = try launchItemInfo.attr("title")
-                    let launchItemImageSrc = try launchItemImage.attr("data-src")
-                    let launchItemTheme = try launchItemImage.attr("alt")
-                    let launchItemHref = try launchItemInfo.attr("href")
-                    
-                    print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
-                    
-                    drawableItems.append(DrawableItem(
-                        title: launchItemTitle,
-                        theme: launchItemTheme,
-                        image: launchItemImageSrc,
-                        href: launchItemHref,
-                        monthDay: nil)
-                    )
-                }
-            }
-           return drawableItems
-        } catch let e {
-            print(#fileID, #function, #line, "error:", e)
-            return nil
-        }
-    }
-    
-    func parseAllItems(_ html: String?) -> [DrawableItem]? {
-        var drawableItems: [DrawableItem] = []
-        guard let html = html else { return nil }
-        do {
-            let soup = try SwiftSoup.parse(html)
-            let launchItems = try soup.select("div.product-card")
-            try launchItems.forEach { launchItem in
-                let launchItemText = try launchItem.text()
-                print(launchItemText) // 신발 이름
-                
-                let launchItemInfo = try launchItem.select("figcaption").select("div.copy-container")
-                let launchItemImage = try launchItem.select("a.card-link").select("img")
-                
-                let launchItemTitle = try launchItemInfo.select("h3.headline-5").text()
-                let launchItemTheme = try launchItemInfo.select("h6.headline-3").text()
-                let launchItemImageSrc = try launchItemImage.text()
-                let launchItemHref = try launchItem.select("a.card-link").attr("href")
-                
-                print("title: \(launchItemTitle)", "theme: \(launchItemTheme)", "image: \(launchItemImageSrc)", "href: \(launchItemHref)",separator: "\n")
-                
-                drawableItems.append(DrawableItem(
-                    title: launchItemTitle,
-                    theme: launchItemTheme,
-                    image: launchItemImageSrc,
-                    href: launchItemHref,
-                    monthDay: nil)
-                )
-                
-            }
-           return drawableItems
-        } catch let e {
-            print(#fileID, #function, #line, "error:", e)
-            return nil
-        }
-    }
-    
     
     /// 아이템 상세 페이지로부터 캘린더 부분을 파싱하여 [String]? 형태로 반환합니다.
     /// - Parameter html: 아이템 상세 페이지
