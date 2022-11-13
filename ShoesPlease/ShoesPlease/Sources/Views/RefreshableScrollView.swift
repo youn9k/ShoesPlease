@@ -39,12 +39,17 @@ public struct RefreshableScrollView<Content: View>: View {
                         isRefreshing ? -threshold : 0
                     })
                     if isRefreshing {
-                        ProgressView("")
-                            .progressViewStyle(CircularProgressViewStyle(tint: .gray))
-                            .scaleEffect(1.3, anchor: .top)
-                            .padding()
-                            .frame(height: threshold)
-                            .transition(.move(edge: .top).animation(.easeInOut).combined(with: .opacity))
+                        HStack {
+                            Spacer()
+                            ProgressView("")
+                                .progressViewStyle(CircularProgressViewStyle(tint: .gray))
+                                .scaleEffect(1.3, anchor: .top)
+                                .padding()
+                                .frame(height: threshold)
+                                .transition(.move(edge: .top).animation(.easeInOut).combined(with: .opacity))
+                            Spacer()
+                        }
+                        
                     }
                 }
             }
