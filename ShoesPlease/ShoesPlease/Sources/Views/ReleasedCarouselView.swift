@@ -1,5 +1,5 @@
 //
-//  CarouselView.swift
+//  ReleasedCarouselView.swift
 //  ShoesPlease
 //
 //  Created by YoungK on 2022/09/24.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct CarouselView: View {
+struct ReleasedCarouselView: View {
     @ObservedObject var viewModel: MainViewModel
     @Binding var showAlert: Bool
     @Binding var isSuccess: Bool
@@ -29,18 +29,16 @@ struct CarouselView: View {
                                     case .success(let image):
                                         NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+item.href)) {
                                             ZStack {
-                                                TicketBackgroundView.shadow(radius: 5)
+                                                BackgroundRectangleView
+                                                    .shadow(radius: 5)
+                                                    .frame(width: 180, height: 180)
                                                 image
                                                     .resizable()
+                                                    .aspectRatio(CGSize(width: 1, height: 1), contentMode: .fit)
                                                     .scaledToFit()
                                                     .frame(width: 180)
-                                                    //.clipped()
+                                                    .clipShape(RoundedRectangle(cornerRadius: 8))
                                             }
-                                            .overlay(content: {
-                                                if isDrawing(item) {
-                                                    GradientBorderView()
-                                                }
-                                            })
                                             .transition(.scale)
                                             .scaleEffect(.init(width: scale, height: scale))
                                             .padding(.vertical)
@@ -48,34 +46,36 @@ struct CarouselView: View {
 
                                     case .failure(_):
                                         ZStack {
-                                            TicketBackgroundView.shadow(radius: 5).frame(width: 180)
+                                            BackgroundRectangleView.shadow(radius: 5).frame(width: 180, height: 180)
                                             Image(systemName: "xmark.icloud.fill").foregroundColor(.red)
                                         }
                                     case .empty:
                                         ZStack {
-                                            TicketBackgroundView.shadow(radius: 5).frame(width: 180)
+                                            BackgroundRectangleView.shadow(radius: 5).frame(width: 180, height: 180)
                                             ProgressView(message)
                                         }.transition(.scale)
 
                                     @unknown default:
-                                        TicketBackgroundView.shadow(radius: 5).frame(width: 180)
+                                        BackgroundRectangleView.shadow(radius: 5).frame(width: 180, height: 180)
                                         Image(systemName: "exclamationmark.icloud.fill").foregroundColor(.blue)
                                     }
                                 }
-                                VStack {
+                                VStack(alignment: .leading) {
                                     Text(item.title)
-                                        .foregroundColor(.textBlack)
-                                        .fontWeight(.black)
+                                        .font(.system(size: 15, weight: .bold, design: .rounded))
+                                        .foregroundColor(Color.textBlack)
                                     Text(item.theme)
-                                        .foregroundColor(.gray)
-                                        .fontWeight(.regular)
+                                        .font(.system(size: 15, weight: .semibold, design: .rounded))
+                                        .lineLimit(1)
+                                        .foregroundColor(Color.textBlack)
                                     Text(item.date)
+                                        .font(.system(size: 15, weight: .semibold, design: .rounded))
                                         .foregroundColor(.gray)
-                                        .fontWeight(.regular)
+                                        .fontWeight(.semibold)
                                 }
                             }// VStack
                         }// GeometryReader
-                        .frame(width: 125, height: 400)
+                        .frame(width: 125, height:300)
                         .padding(.horizontal, 32)
                         .padding(.vertical, 32)
                         // 여기까지가 하나의 셀
@@ -88,10 +88,9 @@ struct CarouselView: View {
         //}// VStack
     }// body
     
-    var TicketBackgroundView: some View {
+    var BackgroundRectangleView: some View {
         RoundedRectangle(cornerRadius: 8)
             .foregroundColor(Color(.sRGB, red: 0.965, green: 0.965, blue: 0.965, opacity: 1))
-            .frame(height: 300)
     }
     
     private func getScale(proxy: GeometryProxy, zoom: Float = 1) -> CGFloat {

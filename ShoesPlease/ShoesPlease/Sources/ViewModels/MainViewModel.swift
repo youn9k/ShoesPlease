@@ -27,10 +27,9 @@ class MainViewModel: ObservableObject {
         print("vm init")
         refreshActionSubject.sink { [weak self] _ in
             #if DEBUG
-//            self?.fakeRefresh()
+            self?.fakeRefresh()
 //            self?.fetchReleasedItems()
-            self?.fetchReleasedItems()
-            self?.fetchToBeReleasedItems()
+//            self?.fetchToBeReleasedItems()
             #else
             self?.fetchReleasedItems()
             self?.fetchToBeReleasedItems()
@@ -38,10 +37,10 @@ class MainViewModel: ObservableObject {
         }.store(in: &subscription)
         
         #if DEBUG
-//        setDummyReleasedItems()
-//        setDummyToBeReleasedItems()
-        fetchReleasedItems()
-        fetchToBeReleasedItems()
+        setDummyReleasedItems()
+        setDummyToBeReleasedItems()
+        //fetchReleasedItems()
+        //fetchToBeReleasedItems()
         #else
         fetchReleasedItems()
         fetchToBeReleasedItems()
