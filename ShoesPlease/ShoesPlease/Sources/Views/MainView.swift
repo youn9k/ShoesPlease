@@ -158,11 +158,11 @@ struct LuckyDrawItemView: View {
                 VStack(alignment: .leading, spacing: 5) {
                     Text(title)
                         .font(.system(size: 15, weight: .bold, design: .rounded))
-                        .foregroundColor(Color.textBlack)
+                        .foregroundColor(Color.black)
                     Text(theme)
                         .font(.system(size: 15, weight: .semibold, design: .rounded))
                         .lineLimit(1)
-                        .foregroundColor(Color.textBlack)
+                        .foregroundColor(Color.black)
                     Text(releaseDate)
                         .font(.system(size: 15, weight: .semibold, design: .rounded))
                         .foregroundColor(.gray)

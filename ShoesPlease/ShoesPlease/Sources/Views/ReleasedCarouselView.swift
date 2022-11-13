@@ -63,11 +63,11 @@ struct ReleasedCarouselView: View {
                                 VStack(alignment: .leading) {
                                     Text(item.title)
                                         .font(.system(size: 15, weight: .bold, design: .rounded))
-                                        .foregroundColor(Color.textBlack)
+                                        .foregroundColor(Color.black)
                                     Text(item.theme)
                                         .font(.system(size: 15, weight: .semibold, design: .rounded))
                                         .lineLimit(1)
-                                        .foregroundColor(Color.textBlack)
+                                        .foregroundColor(Color.black)
                                     Text(item.date)
                                         .font(.system(size: 15, weight: .semibold, design: .rounded))
                                         .foregroundColor(.gray)
