@@ -49,7 +49,10 @@ struct CardView: View {
                 }
             })
             .overlay(alignment: .topLeading, content: {
-                CircleCalendar
+                Text(date)
+                    .font(.title)
+                    .fontWeight(.black)
+                    .foregroundColor(Color.black)
                     .offset(x: 20, y: 20)
             })
             Text(title)
@@ -61,20 +64,13 @@ struct CardView: View {
         }
     }
     
-    var CircleCalendar: some View {
-        ZStack {
-            Circle()
-                .frame(width: 100, height: 100)
-                .foregroundColor(Color.black)
-                .opacity(0.1)
-            Text(date)
-                .font(.title)
-                .fontWeight(.black)
-                .foregroundColor(Color.black)
-        }
-    }
-    
     private func isDrawing(compareToDate: String) -> Bool {
         return compareToDate == Date().toString(format: "M/dd")
+    }
+}
+
+struct CardView_Previews: PreviewProvider {
+    static var previews: some View {
+        CardView(title: "에어 조던 1 레트로 하이 OG", theme: "Taxi", imageURL: "https://s3.amazonaws.com/images.kicksfinder.com/products/large/6a617d0e09c64052861f4c636ebfa481_1658956605.jpeg", date: Date().toString(format: "M/dd"))
     }
 }

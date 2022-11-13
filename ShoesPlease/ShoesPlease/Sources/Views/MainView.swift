@@ -28,54 +28,59 @@ struct MainView: View {
                         
                         ZStack {
                             Color.clear// 비어있을 때도 당길 수 있도록 투명 뷰
-                            VStack(spacing: 50) {
-                                switch viewTypeSelection {
-                                case .carousel:
-                                    HStack {
-                                        Text("출시된 아이템")
-                                            .font(.system(size: 28, weight: .black, design: .rounded))
-                                        Spacer()
-                                    }
-                                    
-                                    CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.releasedItems)
-                                    
-                                case .list:
-                                    HStack {
-                                        Text("출시된 아이템")
-                                            .font(.system(size: 28, weight: .black, design: .rounded))
-                                        Spacer()
-                                    }
-                                    
-                                    ForEach(viewModel.releasedItems) { item in
-                                        NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+item.href)) {
-                                            CardView(title: item.title, theme: item.theme, imageURL: item.image, date: item.date).frame(minWidth: ScreenSize.width * 2/3, maxWidth: ScreenSize.width * 3/4, minHeight: ScreenSize.width * 2/3, maxHeight: ScreenSize.width * 3/4)
+                            
+                                VStack(spacing: 50) {
+                                    switch viewTypeSelection {
+                                    case .carousel:
+                                        HStack {
+                                            Text("출시된 아이템")
+                                                .font(.system(size: 28, weight: .black, design: .rounded))
+                                            Spacer()
+                                        }
+                                        
+                                        CarouselView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, items: viewModel.releasedItems)
+                                        
+                                        HStack {
+                                            Text("출시 예정 아이템")
+                                                .font(.system(size: 28, weight: .black, design: .rounded))
+                                            Spacer()
+                                        }
+                                        
+                                        ForEach(viewModel.toBeReleasedItems) { item in
+                                            NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+item.href)) {
+                                                CardView(title: item.title, theme: item.theme, imageURL: item.image, date: item.date)
+                                                    .frame(minWidth: ScreenSize.width * 2/3, maxWidth: ScreenSize.width * 3/4, minHeight: ScreenSize.width * 2/3, maxHeight: ScreenSize.width * 3/4)
+                                            }
+                                            .contextMenu {
+                                                ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, title: item.title, theme: item.theme, date: item.releaseDate)
+                                            }
+                                        }
+                                        
+                                        
+                                    case .list:
+                                        HStack {
+                                            Text("출시된 아이템")
+                                                .font(.system(size: 28, weight: .black, design: .rounded))
+                                            Spacer()
+                                        }
+                                        
+                                        ForEach(viewModel.releasedItems) { item in
+                                            NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+item.href)) {
+                                                CardView(title: item.title, theme: item.theme, imageURL: item.image, date: item.date).frame(minWidth: ScreenSize.width * 2/3, maxWidth: ScreenSize.width * 3/4, minHeight: ScreenSize.width * 2/3, maxHeight: ScreenSize.width * 3/4)
+                                            }
                                         }
                                     }
+                                    
+                                    
+                                    
+                                    
                                 }
-                                
-                                HStack {
-                                    Text("출시 예정 아이템")
-                                        .font(.system(size: 28, weight: .black, design: .rounded))
-                                    Spacer()
-                                }
-                                
-                                VStack {
-                                    ForEach(viewModel.toBeReleasedItems) { item in
-                                        NavigationLink(destination: MyWebView(urlToLoad: Const.URL.baseURL+item.href)) {
-                                            CardView(title: item.title, theme: item.theme, imageURL: item.image, date: item.date).frame(minWidth: ScreenSize.width * 2/3, maxWidth: ScreenSize.width * 3/4, minHeight: ScreenSize.width * 2/3, maxHeight: ScreenSize.width * 3/4)
-                                        }
-                                        .contextMenu {
-                                            ContextMenuView(viewModel: viewModel, showAlert: $showAlert, isSuccess: $isSuccess, title: item.title, theme: item.theme, date: item.releaseDate)
-                                        }
-                                    }
-                                }
-                                
-                                
-    
-                            }
+                            
                             .padding(.top, 30)
                             .padding(.horizontal, 15)
                         }// ZStack
+                        
+                        Spacer().frame(height: 40)
                     }
                     
                 } onRefresh: {
