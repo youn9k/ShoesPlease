@@ -18,17 +18,26 @@ struct MainView: View {
             ZStack {
                 Color.backgroundGray.ignoresSafeArea()
                 if viewModel.releasedItems.isEmpty && viewModel.toBeReleasedItems.isEmpty {
-                    Text("진행중인 응모가 없어요 !")
+                    Text("상품을 준비중이에요 !")
                         .foregroundColor(.gray)
                 }
                 RefreshableScrollView(isRefreshing: $viewModel.isRefreshing) {
                     VStack(spacing: 30) {
-                        Spacer().frame(height: 30)
+                        HStack {
+                            Spacer()
+                            Image("navigationCenter")
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 100, height: 100)
+                                .padding(.top, 30)
+                            Spacer()
+                        }
                         
                         if !viewModel.releasedItems.isEmpty {
                             HStack {
-                                Text("출시되었어요")
-                                    .font(.system(size: 28, weight: .black, design: .rounded))
+                                Text("출시된 상품을 알려드려요")
+                                    .font(.system(size: 20, weight: .black, design: .rounded))
+                                    .kerning(-0.6)
                                 Spacer()
                             }
                             
@@ -37,8 +46,9 @@ struct MainView: View {
                         
                         if !viewModel.toBeReleasedItems.isEmpty {
                             HStack {
-                                Text("출시 예정")
-                                    .font(.system(size: 28, weight: .black, design: .rounded))
+                                Text("출시 예정인 상품을 알려드려요")
+                                    .font(.system(size: 20, weight: .black, design: .rounded))
+                                    .kerning(-0.6)
                                 Spacer()
                             }
                             
@@ -54,13 +64,17 @@ struct MainView: View {
                     }// VStack
                     .padding(.horizontal, 15)
                 } onRefresh: {
-                print(#fileID, #function, #line, "onRefresh")
-                viewModel.refreshActionSubject.send()
+                    print(#fileID, #function, #line, "onRefresh")
+                    viewModel.refreshActionSubject.send()
+                    
             }// RefreshableScrollView
             //.padding(.horizontal, 10)
 //            .toolbar {
-//                ToolbarItem(placement: .navigationBarLeading){
-//                    Text("제발 한짝만")
+//                ToolbarItem(placement: .principal){
+//                    Image("navigationCenter")
+//                        .resizable()
+//                        .scaledToFit()
+//                        .frame(width: 60, height: 60)
 //                }
 //            } // toolbar
             }// ZStack
@@ -95,10 +109,8 @@ struct ContextMenuView: View {
                 // 알림 설정
                 Task {
                     let eventName = title + " " + theme + " " + "응모"
-                    let dateFormatter = DateFormatter()
-                    dateFormatter.dateFormat = "yyyy-MM-dd HH:mm"
-                    let eventDate = dateFormatter.date(from: date) ?? Date()
-                    
+                    let eventDate = date.toDate(format: "yyyy-MM-dd HH:mm") ?? Date()
+
                     isSuccess = try await viewModel.addEvent(name: eventName, date: eventDate)
                     showAlert = true
                 }
@@ -158,13 +170,16 @@ struct LuckyDrawItemView: View {
                 VStack(alignment: .leading, spacing: 5) {
                     Text(title)
                         .font(.system(size: 15, weight: .bold, design: .rounded))
+                        .kerning(-0.6)
                         .foregroundColor(Color.black)
                     Text(theme)
                         .font(.system(size: 15, weight: .semibold, design: .rounded))
+                        .kerning(-0.6)
                         .lineLimit(1)
                         .foregroundColor(Color.black)
                     Text(releaseDate)
                         .font(.system(size: 15, weight: .semibold, design: .rounded))
+                        .kerning(-0.6)
                         .foregroundColor(.gray)
                         .fontWeight(.semibold)
                 }

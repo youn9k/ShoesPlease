@@ -34,4 +34,12 @@ extension String {
 //    str.endIndex(of: "play")   // 11
 //    str.indices(of: "play")    // [7, 19, 31]
 //    str.ranges(of: "play")     // [{lowerBound 7, upperBound 11}, {lowerBound 19, upperBound 23}, {lowerBound 31, upperBound 35}]
+    
+    func toDate(format: String = "MM/dd") -> Date? {
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = format
+        let date = dateFormatter.date(from: self)
+        
+        return date
+    }
 }

@@ -27,28 +27,46 @@ class MainViewModel: ObservableObject {
         print("vm init")
         refreshActionSubject.sink { [weak self] _ in
             #if DEBUG
-            self?.fakeRefresh()
-//            self?.fetchReleasedItems()
-//            self?.fetchToBeReleasedItems()
+            //self?.fakeRefresh()
+            self?.fetchData()
+            
             #else
-            self?.fetchReleasedItems()
-            self?.fetchToBeReleasedItems()
+            self?.fetchData()
             #endif
         }.store(in: &subscription)
         
         #if DEBUG
-        setDummyReleasedItems()
-        setDummyToBeReleasedItems()
-        //fetchReleasedItems()
-        //fetchToBeReleasedItems()
+        //setDummyReleasedItems()
+        //setDummyToBeReleasedItems()
+        fetchData()
         #else
-        fetchReleasedItems()
-        fetchToBeReleasedItems()
+        fetchData()
         #endif
+        
+        $isRefreshing.sink { isRefreshing in
+            print("✅ 새로고침:", isRefreshing)
+        }.store(in: &subscription)
     }
     
     deinit { print("vm deinit") }
-   
+    
+    func fetchData() {
+        print("✅ fetchData called !")
+        Task {
+            HapticManager.shared.impact(style: .medium)
+            
+            var isSuccessed = try await fetchReleasedItems()
+            isSuccessed = try await fetchToBeReleasedItems()
+            
+            HapticManager.shared.notification(success: isSuccessed)
+            self.isRefreshing = false
+        }
+    }
+    
+}
+
+// MARK: - 메소드들을 모아놓은 익스텐션입니다.
+extension MainViewModel {
     /// 출시 예정인 아이템들을 등록합니다.
     func setToBeReleasedItems(items: [ToBeReleasedItem]?) -> Bool {
         guard let items = items else { return false }
@@ -64,66 +82,58 @@ class MainViewModel: ObservableObject {
     }
     
     /// 출시된 아이템들을 가져옵니다.
-    func fetchReleasedItems() {
+    func fetchReleasedItems() async throws -> Bool {
         print("fetchReleasedItems called")
-        Task {
-            var releasedItems: [ReleasedItem] = []
+        
+        var releasedItems: [ReleasedItem] = []
+        
+        let html = try await networkManager.getModelPage(itemType: .nikeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
+        let jsonString = parseManager.parseJSONString(html) // 2. html 로부터 json 부분 파싱
+        let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
+        
+        for (_, subJSON) : (String, JSON) in jsons {
+            guard let title = subJSON["title"].string,
+                  let theme = subJSON["theme"].string,
+                  let image = subJSON["image"].string,
+                  let href = subJSON["href"].string,
+                  let date = subJSON["date"].string
+            else { continue }
             
-            isRefreshing = true
-            HapticManager.shared.impact(style: .medium)
+            let convertedDate = (date.toDate(format: "MM월 dd일") ?? Date()).toString(format: "MM월 dd일")
             
-            let html = try await networkManager.getModelPage(itemType: .nikeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
-            let jsonString = parseManager.parseJSONString(html) // 2. html 로부터 json 부분 파싱
-            let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
-            
-            for (_, subJSON) : (String, JSON) in jsons {
-                guard let title = subJSON["title"].string,
-                      let theme = subJSON["theme"].string,
-                      let image = subJSON["image"].string,
-                      let href = subJSON["href"].string,
-                      let date = subJSON["date"].string
-                else { continue }
-                
-                releasedItems.append(ReleasedItem(title: title, theme: theme, image: image, href: href, date: date))
-            }
-                    
-            let isSuccess = setReleasedItems(items: releasedItems)
-            
-            self.isRefreshing = false
-            HapticManager.shared.notification(success: isSuccess)
+            releasedItems.append(ReleasedItem(title: title, theme: theme, image: image, href: href, date: convertedDate))
         }
+        
+        let isSuccess = setReleasedItems(items: releasedItems)
+        return isSuccess
     }
     
     /// 출시 예정인 아이템들을 가져옵니다.
-    func fetchToBeReleasedItems() {
+    func fetchToBeReleasedItems() async throws -> Bool {
         print("fetchToBeReleasedItems called")
-        Task {
-            var toBeReleasedItems: [ToBeReleasedItem] = []
+        
+        var toBeReleasedItems: [ToBeReleasedItem] = []
+        
+        let html = try await networkManager.getModelPage(itemType: .nikeToBeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
+        let jsonString = parseManager.parseJSONString(html) // 2. html 로부터 json 부분 파싱
+        let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
+        
+        for (_, subJSON) : (String, JSON) in jsons {
+            guard let title = subJSON["title"].string,
+                  let theme = subJSON["theme"].string,
+                  let image = subJSON["image"].string,
+                  let href = subJSON["href"].string,
+                  let date = subJSON["date"].string,
+                  let releaseDate = subJSON["releaseDate"].string
+            else { continue }
             
-            isRefreshing = true
-            HapticManager.shared.impact(style: .medium)
+            let convertedReleaseDate = Double(releaseDate)?.toString(locale: "ko_KR") ?? "" // 타임스탬프 -> "yyyy-MM-dd HH:mm"
             
-            let html = try await networkManager.getModelPage(itemType: .nikeToBeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
-            let jsonString = parseManager.parseJSONString(html) // 2. html 로부터 json 부분 파싱
-            let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
-            
-            for (_, subJSON) : (String, JSON) in jsons {
-                guard let title = subJSON["title"].string,
-                      let theme = subJSON["theme"].string,
-                      let image = subJSON["image"].string,
-                      let href = subJSON["href"].string,
-                      let date = subJSON["date"].string,
-                      let releasedDate = subJSON["releaseDate"].string
-                else { continue }
-                
-                toBeReleasedItems.append(ToBeReleasedItem(title: title, theme: theme, image: image, href: href, date: date, releaseDate: releasedDate))
-            }
-            
-            let isSuccess = setToBeReleasedItems(items: toBeReleasedItems)
-            
-            self.isRefreshing = false
-            HapticManager.shared.notification(success: isSuccess)
+            toBeReleasedItems.append(ToBeReleasedItem(title: title, theme: theme, image: image, href: href, date: date, releaseDate: convertedReleaseDate))
         }
+        
+        let isSuccess = setToBeReleasedItems(items: toBeReleasedItems)
+        return isSuccess
     }
     
     /// 해당 아이템의 응모시작시간을 캘린더에 등록합니다.

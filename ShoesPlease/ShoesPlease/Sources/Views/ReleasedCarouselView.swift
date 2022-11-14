@@ -63,21 +63,26 @@ struct ReleasedCarouselView: View {
                                 VStack(alignment: .leading) {
                                     Text(item.title)
                                         .font(.system(size: 15, weight: .bold, design: .rounded))
-                                        .foregroundColor(Color.black)
+                                        .kerning(-0.6)
+                                        .foregroundColor(Color.whiteDark)
                                     Text(item.theme)
                                         .font(.system(size: 15, weight: .semibold, design: .rounded))
+                                        .kerning(-0.6)
                                         .lineLimit(1)
-                                        .foregroundColor(Color.black)
+                                        .foregroundColor(Color.whiteDark)
                                     Text(item.date)
                                         .font(.system(size: 15, weight: .semibold, design: .rounded))
-                                        .foregroundColor(.gray)
+                                        .kerning(-0.6)
+                                        .foregroundColor(Color.whiteDark)
                                         .fontWeight(.semibold)
-                                }
+                                    
+                                }.scaleEffect(scale)
                             }// VStack
                         }// GeometryReader
                         .frame(width: 125, height:300)
                         .padding(.horizontal, 32)
-                        .padding(.vertical, 32)
+                        .padding(.top, 20)
+                        .padding(.bottom, 32)
                         // 여기까지가 하나의 셀
                     }// ForEach
                     //오른쪽 끝으로 갔을때 여백을 위해
