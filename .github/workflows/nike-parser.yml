@@ -9,8 +9,8 @@ on:
     - cron: '0 16 * * *'
     
   # for test
-  #push:
-    #branches: [ "main" ]
+  push:
+    branches: [ "main" ]
 
 jobs:
   update:
