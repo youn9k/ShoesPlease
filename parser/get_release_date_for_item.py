@@ -1,12 +1,11 @@
 import requests
 import lxml
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone
 from pytz import timezone
-
+import pytz
 
 def get_release_date_for_item(href):
-    today = datetime.now(timezone('Asia/Seoul'))
     response = requests.get("https://www.nike.com" + href)
     soup = BeautifulSoup(response.text, 'lxml')
     date = soup.find('div', class_='available-date-component').get_text()
@@ -24,10 +23,16 @@ def get_release_date_for_item(href):
     hour = hour_min.split(":")[0]  # "1"
     min = hour_min.split(":")[1]  # "00"
 
-    # "2022-09-14-13:05"
-    formatted_date = "%d-%02d-%02d %02d:%02d" % (today.year, int(month), int(day), int(hour), int(min))
-    release_date_datetime = datetime.strptime(formatted_date, "%Y-%m-%d %H:%M")
-    time_stamp = int(release_date_datetime.timestamp())  # UTC 타임스탬프로
+    today = datetime.now()
+
+    # 시간대 설정
+    tz_utc = pytz.timezone('UTC')
+
+    # UTC datetime 생성
+    release_date_datetime = datetime(today.year, int(month), int(day), int(hour), int(min), tzinfo=tz_utc)
+
+    # 타임스탬프 변환
+    time_stamp = int(release_date_datetime.timestamp())
 
     print(release_date_datetime, time_stamp)
 
