@@ -26,5 +26,9 @@ def get_release_date_for_item(href):
 
     # "2022-09-14-13:05"
     formatted_date = "%d-%02d-%02d %02d:%02d" % (today.year, int(month), int(day), int(hour), int(min))
+    release_date_datetime = datetime.strptime(formatted_date, "%Y-%m-%d %H:%M")
+    time_stamp = int(release_date_datetime.timestamp())  # UTC 타임스탬프로
 
-    return formatted_date
+    print(release_date_datetime, time_stamp)
+
+    return str(time_stamp)

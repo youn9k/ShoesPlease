@@ -33,7 +33,7 @@ def get_to_be_released_items(items):
                 'image': img,
                 'href': href,
                 'date': m + "/" + d,  # 9/5
-                'releaseDate': ''  # 2022-09-14-13:05
+                'releaseDate': ''  # 1668441600 UTC 타임스탬프
             })
 
     return to_be_released_items
