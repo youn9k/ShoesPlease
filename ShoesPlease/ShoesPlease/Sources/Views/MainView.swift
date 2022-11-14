@@ -108,7 +108,7 @@ struct ContextMenuView: View {
             Button {
                 // 알림 설정
                 Task {
-                    let eventName = title + " " + theme + " " + "응모"
+                    let eventName = title + " " + theme + " " + "발매"
                     let eventDate = date.toDate(format: "yyyy-MM-dd HH:mm") ?? Date()
 
                     isSuccess = try await viewModel.addEvent(name: eventName, date: eventDate)
