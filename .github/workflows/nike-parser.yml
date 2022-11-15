@@ -5,13 +5,13 @@ name: Nike-Parser
 
 on:
   schedule:
-    # update every day, 16:00 UTC => 01:00 (GMT+9)
+    # update every day, 01:00 UTC => 10:00 (GMT+9)
     # updated every hours
-    #- cron: '0 16 * * *'
+    #- cron: '0 01 * * *'
     - cron: '*/60 * * * *'
   # for test
-  push:
-    branches: [ "main" ]
+  #push:
+    #branches: [ "main" ]
 
 jobs:
   update:
@@ -41,7 +41,6 @@ jobs:
         python-version: ${{ matrix.python-version }}
     
     - name: Install python package # 파이썬 관련 패키지를 설치
-    # pip3 install --upgrade pip
       run: |
         python -m pip install --upgrade pip
         
