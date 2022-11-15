@@ -6,12 +6,12 @@ name: Nike-Parser
 on:
   schedule:
     # update every day, 16:00 UTC => 01:00 (GMT+9)
-    # updated per 2 hours
+    # updated every hours
     #- cron: '0 16 * * *'
-    - cron: '*/120 * * * *'
+    - cron: '*/60 * * * *'
   # for test
-#   push:
-#     branches: [ "main" ]
+  push:
+    branches: [ "main" ]
 
 jobs:
   update:
@@ -41,8 +41,10 @@ jobs:
         python-version: ${{ matrix.python-version }}
     
     - name: Install python package # 파이썬 관련 패키지를 설치
+    # pip3 install --upgrade pip
       run: |
-        pip3 install --upgrade pip
+        python -m pip install --upgrade pip
+        
         pip install selenium
         pip install bs4
         pip install requests
