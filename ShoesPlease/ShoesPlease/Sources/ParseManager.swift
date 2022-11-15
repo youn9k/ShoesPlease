@@ -9,6 +9,8 @@ import Foundation
 import SwiftSoup
 
 class ParseManager {
+    static let shared = ParseManager()
+    
     // 문자열을 soup 으로 만들어주는 함수입니다.
     func soup(_ html: String?) -> Document? {
         guard let html = html else { return nil }

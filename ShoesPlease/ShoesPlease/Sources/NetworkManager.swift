@@ -9,6 +9,7 @@ import Foundation
 import Alamofire
 
 class NetworkManager {
+    static let shared = NetworkManager()
     typealias Html = String
     
     /// 현재 응모중인 아이템 목록 page html 을 가져옵니다.

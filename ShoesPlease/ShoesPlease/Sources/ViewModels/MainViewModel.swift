@@ -12,9 +12,6 @@ import SwiftSoup
 import SwiftyJSON
 
 class MainViewModel: ObservableObject {
-    var parseManager = ParseManager()
-    var networkManager = NetworkManager()
-    
     @Published var testString = "수신 전"
     @Published var releasedItems = [ReleasedItem]()
     @Published var toBeReleasedItems = [ToBeReleasedItem]()
@@ -87,8 +84,8 @@ extension MainViewModel {
         
         var releasedItems: [ReleasedItem] = []
         
-        let html = try await networkManager.getModelPage(itemType: .nikeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
-        let jsonString = parseManager.parseJSONString(html) // 2. html 로부터 json 부분 파싱
+        let html = try await NetworkManager.shared.getModelPage(itemType: .nikeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
+        let jsonString = ParseManager.shared.parseJSONString(html) // 2. html 로부터 json 부분 파싱
         let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
         
         for (_, subJSON) : (String, JSON) in jsons {
@@ -114,8 +111,8 @@ extension MainViewModel {
         
         var toBeReleasedItems: [ToBeReleasedItem] = []
         
-        let html = try await networkManager.getModelPage(itemType: .nikeToBeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
-        let jsonString = parseManager.parseJSONString(html) // 2. html 로부터 json 부분 파싱
+        let html = try await NetworkManager.shared.getModelPage(itemType: .nikeToBeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
+        let jsonString = ParseManager.shared.parseJSONString(html) // 2. html 로부터 json 부분 파싱
         let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
         
         for (_, subJSON) : (String, JSON) in jsons {
