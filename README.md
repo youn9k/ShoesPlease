@@ -5,7 +5,9 @@
 &nbsp;
 ### [👉🏻 앱스토어 바로가기](https://apps.apple.com/kr/app/%EC%A0%9C%EB%B0%9C-%ED%95%9C%EC%A7%9D%EB%A7%8C/id1622140980)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60254939/198823328-50021f3e-11e9-4d40-a819-095078f8335f.jpeg" width="70%" height="70%">
+
+<img src="https://user-images.githubusercontent.com/60254939/201913248-a08df554-99db-4c94-82b0-18466af26a29.png" width="70%" height="70%">
+<img src="https://user-images.githubusercontent.com/60254939/201913269-e6ca6097-b1cc-46ac-9b4f-d5a1f4157bd2.png" width="70%" height="70%">
 </div>
 
 ### 사용 버전
