@@ -6,9 +6,10 @@ name: Nike-Parser
 on:
   schedule:
     # update every day, 01:00 UTC => 10:00 (GMT+9)
+    # or
     # updated every hours
-    #- cron: '0 01 * * *'
-    - cron: '*/60 * * * *'
+    - cron: '0 01 * * *'
+    #- cron: '*/60 * * * *'
   # for test
   #push:
     #branches: [ "main" ]
