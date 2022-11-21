@@ -10,24 +10,23 @@
 <img src="https://user-images.githubusercontent.com/60254939/201913269-e6ca6097-b1cc-46ac-9b4f-d5a1f4157bd2.png" width="70%" height="70%">
 </div>
 
-### 사용 버전
+### 최소 지원 버전 & 개발 환경 
 
 <br>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/iOS-v15.0+-orange?logo=apple" />
     <img src="https://img.shields.io/badge/Swift-v5.7-orange?logo=swift" />
     <img src="https://img.shields.io/badge/Xcode-v14.0.1-blue?logo=Xcode" />
-    <img src="https://img.shields.io/badge/iOS-v15.0-orange?logo=apple" />
 </p>
 
-
-
-### 사용된 기술
+### 사용된 라이브러리
 
 <br>
 
 <p align="center"> 
 
+<!-- 
 </a>
 <a href ="https://developer.apple.com/documentation/swiftui/"> 
 <img src="https://img.shields.io/badge/SwiftUI-0000a8"/> 
@@ -44,10 +43,8 @@
 <a href ="https://developer.apple.com/documentation/eventkit"> 
 <img src="https://img.shields.io/badge/EventKit-83769c"/> 
 </a>
-</a>
-<a href ="https://github.com/scinfu/SwiftSoup"> 
-<img src="https://img.shields.io/badge/SwiftSoup-orange"/> 
-</a>
+-->
+
 </a>
 <a href ="https://github.com/elai950/AlertToast"> 
 <img src="https://img.shields.io/badge/AlertToast-green"/> 
