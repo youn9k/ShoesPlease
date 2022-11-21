@@ -1,49 +1,9 @@
 [
     {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection",
-        "date": "11/21",
-        "releaseDate": "1668992400"
-    },
-    {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX2837_063_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection",
-        "date": "11/21",
-        "releaseDate": "1668992400"
-    },
-    {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX2839_063_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection",
-        "date": "11/21",
-        "releaseDate": "1668992400"
-    },
-    {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DO2808_573_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection",
-        "date": "11/21",
-        "releaseDate": "1668992400"
-    },
-    {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DO2830_573_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection",
-        "date": "11/21",
-        "releaseDate": "1668992400"
-    },
-    {
         "title": "나이키 SB 덩크 로우 ",
         "theme": "HUF SF",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD8775_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-dunk-low-huf-sf",
+        "href": "/kr/launch/t/nike-sb-dunk-low-huf-sf?cp=72629085282_search_",
         "date": "11/22",
         "releaseDate": "1669078800"
     },
@@ -51,7 +11,7 @@
         "title": "나이키 SB 덩크 로우",
         "theme": "HUF NY",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD8775_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-dunk-low-huf-ny",
+        "href": "/kr/launch/t/nike-sb-dunk-low-huf-ny?cp=72629085282_search_",
         "date": "11/22",
         "releaseDate": "1669078800"
     },
@@ -59,7 +19,7 @@
         "title": "에어 조던 1 (Big Kids)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr",
+        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr?cp=72629085282_search_",
         "date": "11/24",
         "releaseDate": "1669251600"
     },
@@ -67,7 +27,7 @@
         "title": "조던 1 (Little Kids)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr",
+        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr?cp=72629085282_search_",
         "date": "11/24",
         "releaseDate": "1669251600"
     },
@@ -75,7 +35,7 @@
         "title": "에어 조던 1",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-chicago1",
+        "href": "/kr/launch/t/air-jordan-1-chicago1?cp=72629085282_search_",
         "date": "11/24",
         "releaseDate": "1669251600"
     },
@@ -83,7 +43,7 @@
         "title": "조던 1 (Toddler)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-chicago1-td-kr",
+        "href": "/kr/launch/t/jordan-1-chicago1-td-kr?cp=72629085282_search_",
         "date": "11/24",
         "releaseDate": "1669251600"
     },
@@ -91,7 +51,7 @@
         "title": "에어 조던 1 로우 골프",
         "theme": "Wolf Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/DD9315_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-golf-wolf-grey",
+        "href": "/kr/launch/t/air-jordan-1-low-golf-wolf-grey?cp=72629085282_search_",
         "date": "11/25",
         "releaseDate": "1669338000"
     },
@@ -99,7 +59,7 @@
         "title": "에어 조던 5 x DJ Khaled (Big Kids)",
         "theme": "Crimson Bliss ",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4983_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-5-x-dj-khaled-crimson-bliss-gs-kr",
+        "href": "/kr/launch/t/air-jordan-5-x-dj-khaled-crimson-bliss-gs-kr?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -107,7 +67,7 @@
         "title": "조던 5 x DJ Khaled (Little Kids)",
         "theme": "Crimson Bliss ",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4980_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-5-x-dj-khaled-crimson-bliss-ps-kr",
+        "href": "/kr/launch/t/jordan-5-x-dj-khaled-crimson-bliss-ps-kr?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -115,7 +75,7 @@
         "title": "에어 조던 5 x DJ Khaled",
         "theme": "Crimson Bliss",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4982_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-5-x-dj-khaled-crimson-bliss",
+        "href": "/kr/launch/t/air-jordan-5-x-dj-khaled-crimson-bliss?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -123,7 +83,7 @@
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7488_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
+        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -131,7 +91,7 @@
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7488_045_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
+        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -139,7 +99,7 @@
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7494_746_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
+        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -147,7 +107,7 @@
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7496_589_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
+        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -155,7 +115,7 @@
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7492_693_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
+        "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -163,7 +123,7 @@
         "title": "조던 5 x DJ Khaled (Toddler)",
         "theme": "Crimson Bliss ",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4981_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-5-x-dj-khaled-crimson-bliss-td-kr",
+        "href": "/kr/launch/t/jordan-5-x-dj-khaled-crimson-bliss-td-kr?cp=72629085282_search_",
         "date": "11/28",
         "releaseDate": "1669597200"
     },
@@ -171,7 +131,7 @@
         "title": "우먼스 에어 조던 5",
         "theme": "GORE-TEX",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR0092_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-5-gore-tex",
+        "href": "/kr/launch/t/womens-air-jordan-5-gore-tex?cp=72629085282_search_",
         "date": "12/1",
         "releaseDate": "1669856400"
     },
@@ -179,7 +139,7 @@
         "title": "에어 조던 11",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/CT8012_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red?cp=72629085282_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     }
