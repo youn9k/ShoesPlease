@@ -8,7 +8,6 @@
 import Foundation
 import Combine
 import Alamofire
-import SwiftSoup
 import SwiftyJSON
 
 class MainViewModel: ObservableObject {
@@ -32,6 +31,11 @@ class MainViewModel: ObservableObject {
             #endif
         }.store(in: &subscription)
         
+        $isRefreshing.sink { isRefreshing in
+            print("✅ isRefreshing:", isRefreshing)
+        }.store(in: &subscription)
+        
+        isRefreshing = true
         #if DEBUG
         //setDummyReleasedItems()
         //setDummyToBeReleasedItems()
@@ -40,9 +44,7 @@ class MainViewModel: ObservableObject {
         fetchData()
         #endif
         
-        $isRefreshing.sink { isRefreshing in
-            print("✅ 새로고침:", isRefreshing)
-        }.store(in: &subscription)
+        
     }
     
     deinit { print("vm deinit") }
@@ -56,7 +58,11 @@ class MainViewModel: ObservableObject {
             isSuccessed = try await fetchToBeReleasedItems()
             
             HapticManager.shared.notification(success: isSuccessed)
-            self.isRefreshing = false
+            
+            //  refreshing 애니메이션이 끝나기전에 false 가 되버리면 refreshAction을 다시 호출해버림
+            DispatchQueue.main.asyncAfter(deadline: .now()+1) {
+                self.isRefreshing = false
+            }
         }
     }
     
@@ -84,10 +90,7 @@ extension MainViewModel {
         
         var releasedItems: [ReleasedItem] = []
         
-        let html = try await NetworkManager.shared.getModelPage(itemType: .nikeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
-        let jsonString = ParseManager.shared.parseJSONString(html) // 2. html 로부터 json 부분 파싱
-        let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
-        
+        let jsons = try await NetworkManager.shared.getReleasedItems(at: .nike)
         for (_, subJSON) : (String, JSON) in jsons {
             guard let title = subJSON["title"].string,
                   let theme = subJSON["theme"].string,
@@ -111,10 +114,7 @@ extension MainViewModel {
         
         var toBeReleasedItems: [ToBeReleasedItem] = []
         
-        let html = try await NetworkManager.shared.getModelPage(itemType: .nikeToBeReleasedItems) // 1. 깃헙 내 모델 html 가져옴
-        let jsonString = ParseManager.shared.parseJSONString(html) // 2. html 로부터 json 부분 파싱
-        let jsons = JSON(parseJSON: jsonString ?? "") // 3. json으로 변환
-        
+        let jsons = try await NetworkManager.shared.getToBeReleasedItems(at: .nike)
         for (_, subJSON) : (String, JSON) in jsons {
             guard let title = subJSON["title"].string,
                   let theme = subJSON["theme"].string,

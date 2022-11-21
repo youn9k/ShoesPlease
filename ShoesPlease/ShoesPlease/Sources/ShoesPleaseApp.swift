@@ -21,17 +21,18 @@ struct ShoesPleaseApp: App {
                     print("RELEASE 모드입니다.")
                     #endif
                 }
-        }.onChange(of: scenePhase) { newScenePhase in
-            switch newScenePhase {
-            case .active:
-                print("active")
-            case .inactive:
-                print("inactive")
-            case .background:
-                print("background")
-            @unknown default:
-                print("Detected Unknown ScenePhase !!")
-            }
         }
+//        .onChange(of: scenePhase) { newScenePhase in
+//            switch newScenePhase {
+//            case .active:
+//                print("active")
+//            case .inactive:
+//                print("inactive")
+//            case .background:
+//                print("background")
+//            @unknown default:
+//                print("Detected Unknown ScenePhase !!")
+//            }
+//        }
     }
 }

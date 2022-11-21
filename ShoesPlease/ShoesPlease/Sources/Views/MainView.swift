@@ -66,18 +66,17 @@ struct MainView: View {
                 } onRefresh: {
                     print(#fileID, #function, #line, "onRefresh")
                     viewModel.refreshActionSubject.send()
-                    
-            }// RefreshableScrollView
-            //.padding(.horizontal, 10)
+                }// RefreshableScrollView
+            }// ZStack
+            .navigationBarTitle("", displayMode: .automatic)
+            .navigationBarHidden(true)
 //            .toolbar {
 //                ToolbarItem(placement: .principal){
 //                    Image("navigationCenter")
 //                        .resizable()
 //                        .scaledToFit()
-//                        .frame(width: 60, height: 60)
 //                }
 //            } // toolbar
-            }// ZStack
         }// NavigationView
         .navigationViewStyle(.stack)
         .toast(isPresenting: $showAlert, duration: 3, tapToDismiss: true) {

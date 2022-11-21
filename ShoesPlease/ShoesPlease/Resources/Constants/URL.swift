@@ -10,6 +10,6 @@ import Foundation
 extension Const {
     struct URL {
         static let baseURL = "https://www.nike.com"
-        static let launchItemsURL = "/kr/launch?type=upcoming&activeDate=date-filter:AFTER"
+        static let models = "https://raw.githubusercontent.com/youn9k/ShoesPlease/main/models"
     }
 }

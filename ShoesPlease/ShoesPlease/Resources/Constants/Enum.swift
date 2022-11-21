@@ -13,7 +13,20 @@ enum ScreenSize {
     static let height = UIScreen.main.bounds.height
 }
 
-enum ItemType {
-    case nikeReleasedItems // 출시된 아이템
-    case nikeToBeReleasedItems // 출시 예정 아이템
+enum CompanyType {
+    case nike, newBalance
+}
+
+enum NetworkingError: LocalizedError {
+    case badURLResponse(url: String)
+    case unknown
+    
+    var errorDescription: String? {
+        switch self {
+        case .badURLResponse(url: let url):
+            return "[🔥] Bad response from URL: \(url)"
+        case .unknown:
+            return "[❓] Unknown error occured"
+        }
+    }
 }
