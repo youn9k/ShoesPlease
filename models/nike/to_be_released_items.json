@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어 조던 1 (Big Kids)",
-        "theme": "Chicago",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr",
-        "date": "11/24",
-        "releaseDate": "1669251600"
-    },
-    {
-        "title": "조던 1 (Little Kids)",
-        "theme": "Chicago",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr",
-        "date": "11/24",
-        "releaseDate": "1669251600"
-    },
-    {
-        "title": "에어 조던 1",
-        "theme": "Chicago",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-chicago1",
-        "date": "11/24",
-        "releaseDate": "1669251600"
-    },
-    {
-        "title": "조던 1 (Toddler)",
-        "theme": "Chicago",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-chicago1-td-kr",
-        "date": "11/24",
-        "releaseDate": "1669251600"
-    },
-    {
         "title": "우먼스 에어맥스 1 '87",
         "theme": "Burgundy Crush",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV3888_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -56,100 +24,132 @@
         "releaseDate": "1669424400"
     },
     {
+        "title": "에어 조던 1 (Big Kids)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr",
+        "date": "11/28",
+        "releaseDate": "1669597200"
+    },
+    {
+        "title": "조던 1 (Little Kids)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr",
+        "date": "11/28",
+        "releaseDate": "1669597200"
+    },
+    {
+        "title": "에어 조던 1",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-chicago1",
+        "date": "11/28",
+        "releaseDate": "1669597200"
+    },
+    {
+        "title": "조던 1 (Toddler)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-chicago1-td-kr",
+        "date": "11/28",
+        "releaseDate": "1669597200"
+    },
+    {
         "title": "에어 조던 5 x DJ Khaled (Big Kids)",
         "theme": "Crimson Bliss ",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4983_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-5-x-dj-khaled-crimson-bliss-gs-kr",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "에어 조던 1 로우 골프",
         "theme": "Court Purple",
         "image": "https://secure-images.nike.com/is/image/DotCom/DD9315_105_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-1-low-golf-court-purple",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 5 x DJ Khaled (Little Kids)",
         "theme": "Crimson Bliss ",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4980_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-5-x-dj-khaled-crimson-bliss-ps-kr",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "에어맥스 95",
         "theme": "Velvet Teal",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ5226_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-max-95-velvet-teal",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "에어 조던 5 x DJ Khaled",
         "theme": "Crimson Bliss",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4982_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-5-x-dj-khaled-crimson-bliss",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "우먼스 덩크 로우",
         "theme": "Atomic Teal",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ5224_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-dunk-low-atomic-teal",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7488_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7488_045_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7494_746_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7496_589_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7492_693_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "조던 5 x DJ Khaled (Toddler)",
         "theme": "Crimson Bliss ",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV4981_641_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-5-x-dj-khaled-crimson-bliss-td-kr",
-        "date": "11/28",
-        "releaseDate": "1669597200"
+        "date": "11/29",
+        "releaseDate": "1669683600"
     },
     {
         "title": "우먼스 에어 조던 5",
@@ -158,6 +158,14 @@
         "href": "/kr/launch/t/womens-air-jordan-5-gore-tex",
         "date": "12/1",
         "releaseDate": "1669856400"
+    },
+    {
+        "title": "터미네이터 하이",
+        "theme": "Cocoa Snake",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1318_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-high-cocoa-snake",
+        "date": "12/3",
+        "releaseDate": "1670029200"
     },
     {
         "title": "에어 조던 11 (Big Kids)",
