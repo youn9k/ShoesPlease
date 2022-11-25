@@ -1,21 +1,5 @@
 [
     {
-        "title": "우먼스 에어맥스 1 '87",
-        "theme": "Burgundy Crush",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV3888_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-1-87-burgundy-crush",
-        "date": "11/25",
-        "releaseDate": "1669338000"
-    },
-    {
-        "title": "에어 조던 1 로우 골프",
-        "theme": "Wolf Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9315_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-golf-wolf-grey",
-        "date": "11/25",
-        "releaseDate": "1669338000"
-    },
-    {
         "title": "덩크 하이 x SOULGOODS",
         "theme": "'90s",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR1415_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -152,10 +136,26 @@
         "releaseDate": "1669683600"
     },
     {
+        "title": "에어 허라치",
+        "theme": "New Emerald",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD1068_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-huarache-new-emerald",
+        "date": "12/1",
+        "releaseDate": "1669856400"
+    },
+    {
         "title": "우먼스 에어 조던 5",
         "theme": "GORE-TEX",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR0092_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-jordan-5-gore-tex",
+        "date": "12/1",
+        "releaseDate": "1669856400"
+    },
+    {
+        "title": "나이키 SB 블레이저 로우 프로 GT",
+        "theme": "Camo",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO9398_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-blazer-low-pro-gt-camo",
         "date": "12/1",
         "releaseDate": "1669856400"
     },
@@ -174,6 +174,22 @@
         "href": "/kr/launch/t/air-force-1-low-color-of-the-month",
         "date": "12/3",
         "releaseDate": "1670029200"
+    },
+    {
+        "title": "우먼스 덩크 하이",
+        "theme": "White and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ7327_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-high-white-and-black",
+        "date": "12/6",
+        "releaseDate": "1670288400"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "White and Safety Orange",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1906_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-07-white-and-safety-orange",
+        "date": "12/6",
+        "releaseDate": "1670288400"
     },
     {
         "title": "우먼스 에어 포스 1",
