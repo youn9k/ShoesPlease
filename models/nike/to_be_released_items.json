@@ -1,49 +1,33 @@
 [
     {
+        "title": "에어 허라치",
+        "theme": "New Emerald",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD1068_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-huarache-new-emerald?cp=15523733714_search_",
+        "date": "12/1",
+        "releaseDate": "1669942800"
+    },
+    {
         "title": "에어 조던 1 (Big Kids)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr",
-        "date": "11/30",
-        "releaseDate": "1669770000"
+        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr?cp=15523733714_search_",
+        "date": "12/1",
+        "releaseDate": "1669856400"
     },
     {
         "title": "조던 1 (Little Kids)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr",
-        "date": "11/30",
-        "releaseDate": "1669770000"
+        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr?cp=15523733714_search_",
+        "date": "12/1",
+        "releaseDate": "1669856400"
     },
     {
         "title": "에어 조던 1",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-chicago1",
-        "date": "11/30",
-        "releaseDate": "1669770000"
-    },
-    {
-        "title": "조던 1 (Toddler)",
-        "theme": "Chicago",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-chicago1-td-kr",
-        "date": "11/30",
-        "releaseDate": "1669770000"
-    },
-    {
-        "title": "에어 허라치",
-        "theme": "New Emerald",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD1068_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-huarache-new-emerald",
-        "date": "12/1",
-        "releaseDate": "1669856400"
-    },
-    {
-        "title": "우먼스 에어 조던 5",
-        "theme": "GORE-TEX",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0092_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-5-gore-tex",
+        "href": "/kr/launch/t/air-jordan-1-chicago1?cp=15523733714_search_",
         "date": "12/1",
         "releaseDate": "1669856400"
     },
@@ -51,15 +35,39 @@
         "title": "나이키 SB 블레이저 로우 프로 GT",
         "theme": "Camo",
         "image": "https://secure-images.nike.com/is/image/DotCom/DO9398_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-blazer-low-pro-gt-camo",
+        "href": "/kr/launch/t/nike-sb-blazer-low-pro-gt-camo?cp=15523733714_search_",
+        "date": "12/1",
+        "releaseDate": "1669942800"
+    },
+    {
+        "title": "조던 1 (Toddler)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-chicago1-td-kr?cp=15523733714_search_",
         "date": "12/1",
         "releaseDate": "1669856400"
+    },
+    {
+        "title": "NOCTA",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO2837_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-apparel-collection?cp=15523733714_search_",
+        "date": "12/2",
+        "releaseDate": "1669942800"
+    },
+    {
+        "title": "NOCTA",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO2837_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-apparel-collection?cp=15523733714_search_",
+        "date": "12/2",
+        "releaseDate": "1669942800"
     },
     {
         "title": "터미네이터 하이",
         "theme": "Cocoa Snake",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1318_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-cocoa-snake",
+        "href": "/kr/launch/t/terminator-high-cocoa-snake?cp=15523733714_search_",
         "date": "12/3",
         "releaseDate": "1670029200"
     },
@@ -67,7 +75,7 @@
         "title": "에어 포스 1 로우 ",
         "theme": "Color of the Month",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ6755_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-color-of-the-month",
+        "href": "/kr/launch/t/air-force-1-low-color-of-the-month?cp=15523733714_search_",
         "date": "12/3",
         "releaseDate": "1670029200"
     },
@@ -75,7 +83,7 @@
         "title": "우먼스 덩크 하이",
         "theme": "White and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ7327_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-high-white-and-black",
+        "href": "/kr/launch/t/womens-dunk-high-white-and-black?cp=15523733714_search_",
         "date": "12/6",
         "releaseDate": "1670288400"
     },
@@ -83,7 +91,7 @@
         "title": "우먼스 에어 포스 1 '07",
         "theme": "White and Safety Orange",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1906_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-07-white-and-safety-orange",
+        "href": "/kr/launch/t/womens-air-force-1-07-white-and-safety-orange?cp=15523733714_search_",
         "date": "12/6",
         "releaseDate": "1670288400"
     },
@@ -91,7 +99,7 @@
         "title": "우먼스 에어 포스 1",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX1193_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22",
+        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22?cp=15523733714_search_",
         "date": "12/6",
         "releaseDate": "1670288400"
     },
@@ -99,7 +107,7 @@
         "title": "에어 조던 11 (Big Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378038_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red-gs-kr",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red-gs-kr?cp=15523733714_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -107,7 +115,7 @@
         "title": "조던 11 리틀 플렉스 (Little Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7101_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-ps-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-ps-kr?cp=15523733714_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -115,7 +123,7 @@
         "title": "에어 조던 11",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/CT8012_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red?cp=15523733714_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -123,7 +131,7 @@
         "title": "조던 11 리틀 플렉스 (Toddler)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7102_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-td-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-td-kr?cp=15523733714_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -131,7 +139,7 @@
         "title": "조던 11 (Little Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378039_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-ps-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-ps-kr?cp=15523733714_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -139,7 +147,7 @@
         "title": "조던 11 (Toddler)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378040_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-td-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-td-kr?cp=15523733714_search_",
         "date": "12/10",
         "releaseDate": "1670634000"
     }
