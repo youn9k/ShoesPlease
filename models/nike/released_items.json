@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "title": "에어 조던 1 (Big Kids)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-chicago1-gs-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_U_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_5577cf6f-7396-44d9-8df0-968c62eabf7c_sms",
+        "date": "12/1"
+    },
+    {
+        "title": "조던 1 (Little Kids)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-chicago1-ps-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_U_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_5577cf6f-7396-44d9-8df0-968c62eabf7c_sms",
+        "date": "12/1"
+    },
+    {
+        "title": "에어 조던 1",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-chicago1?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_U_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_5577cf6f-7396-44d9-8df0-968c62eabf7c_sms",
+        "date": "12/1"
+    },
+    {
+        "title": "조던 1 (Toddler)",
+        "theme": "Chicago",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_612_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-chicago1-td-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_U_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_5577cf6f-7396-44d9-8df0-968c62eabf7c_sms",
+        "date": "12/1"
+    }
+]
