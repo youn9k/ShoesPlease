@@ -1,41 +1,9 @@
 [
     {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DO2837_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
-        "date": "12/3",
-        "releaseDate": "1670029200"
-    },
-    {
-        "title": "NOCTA",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DO2837_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-apparel-collection?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
-        "date": "12/3",
-        "releaseDate": "1670029200"
-    },
-    {
-        "title": "터미네이터 하이",
-        "theme": "Cocoa Snake",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB1318_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-cocoa-snake?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
-        "date": "12/3",
-        "releaseDate": "1670029200"
-    },
-    {
-        "title": "에어 포스 1 로우 ",
-        "theme": "Color of the Month",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ6755_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-color-of-the-month?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
-        "date": "12/3",
-        "releaseDate": "1670029200"
-    },
-    {
         "title": "우먼스 덩크 하이",
         "theme": "White and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ7327_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-high-white-and-black?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/womens-dunk-high-white-and-black",
         "date": "12/6",
         "releaseDate": "1670288400"
     },
@@ -43,7 +11,7 @@
         "title": "우먼스 에어 포스 1 '07",
         "theme": "White and Safety Orange",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1906_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-07-white-and-safety-orange?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/womens-air-force-1-07-white-and-safety-orange",
         "date": "12/6",
         "releaseDate": "1670288400"
     },
@@ -51,7 +19,7 @@
         "title": "NOCTA 에어 포스 1",
         "theme": "White",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ8065_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-air-force-1-white?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/nocta-air-force-1-white",
         "date": "12/8",
         "releaseDate": "1670461200"
     },
@@ -59,7 +27,7 @@
         "title": "에어 조던 11 (Big Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378038_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red-gs-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red-gs-kr",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -67,7 +35,7 @@
         "title": "조던 11 리틀 플렉스 (Little Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7101_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-ps-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-ps-kr",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -75,7 +43,7 @@
         "title": "에어 조던 11",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/CT8012_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -83,7 +51,7 @@
         "title": "조던 11 리틀 플렉스 (Toddler)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7102_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-td-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-td-kr",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -91,7 +59,7 @@
         "title": "조던 11 (Little Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378039_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-ps-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/jordan-11-varsity-red-ps-kr",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -99,7 +67,7 @@
         "title": "조던 11 (Toddler)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378040_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-td-kr?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/jordan-11-varsity-red-td-kr",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -107,7 +75,7 @@
         "title": "줌 코르테즈 x sacai",
         "theme": "Iron Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ0581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey",
         "date": "12/13",
         "releaseDate": "1670893200"
     },
@@ -115,7 +83,7 @@
         "title": "에어 포스 1 로우 Billie",
         "theme": "Mushroom",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ4137_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-billie-mushroom?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/air-force-1-low-billie-mushroom",
         "date": "12/14",
         "releaseDate": "1670979600"
     },
@@ -123,7 +91,7 @@
         "title": "에어 포스 1 로우 Billie",
         "theme": "Sequoia",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ4137_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-billie-sequoia?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/air-force-1-low-billie-sequoia",
         "date": "12/14",
         "releaseDate": "1670979600"
     },
@@ -131,7 +99,7 @@
         "title": "우먼스 에어 포스 1",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX1193_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22?cp=aplans_sms_autoT_xbrand_OTHER_20220526_c43816_Launch-nonwinner-kr_Unknown_CNT~KOR_ko_M_NCP-9677f0ba-1873-4288-9290-3889fd3cb441_z_a4f39593-c30f-4e69-9763-792afde7c3a2_sms",
+        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22",
         "date": "12/22",
         "releaseDate": "1671670800"
     }
