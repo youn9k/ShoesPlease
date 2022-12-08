@@ -1,13 +1,5 @@
 [
     {
-        "title": "NOCTA 에어 포스 1",
-        "theme": "White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ8065_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-air-force-1-white",
-        "date": "12/8",
-        "releaseDate": "1670461200"
-    },
-    {
         "title": "에어 조던 1 로우 골프",
         "theme": "Cave Purple and Viotech",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ9787_155_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -126,6 +118,22 @@
         "href": "/kr/launch/t/air-max-1-honey-dew",
         "date": "12/20",
         "releaseDate": "1671498000"
+    },
+    {
+        "title": "테라 포마 x Off-White™️",
+        "theme": "Summit White and Psychic Purple",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ1615_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terra-forma-x-off-white-summit-white-and-psychic-purple",
+        "date": "12/21",
+        "releaseDate": "1671584400"
+    },
+    {
+        "title": "테라 포마 x Off-White™️",
+        "theme": "Wheat and Green Strike",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ1615_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terra-forma-x-off-white-wheat-and-green-strike",
+        "date": "12/21",
+        "releaseDate": "1671584400"
     },
     {
         "title": "우먼스 에어 포스 1",
