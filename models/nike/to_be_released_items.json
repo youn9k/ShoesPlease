@@ -1,25 +1,9 @@
 [
     {
-        "title": "에어 조던 1 로우 골프",
-        "theme": "Cave Purple and Viotech",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ9787_155_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-golf-cave-purple-and-viotech",
-        "date": "12/9",
-        "releaseDate": "1670547600"
-    },
-    {
-        "title": "에어 휴마라 x Jacquemus",
-        "theme": "Pink Flash",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX9999_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-humara-x-jacquemus-pink-flash",
-        "date": "12/9",
-        "releaseDate": "1670547600"
-    },
-    {
         "title": "에어 조던 11 (Big Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378038_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red-gs-kr",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red-gs-kr?size=9.5",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -27,7 +11,7 @@
         "title": "조던 11 리틀 플렉스 (Little Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7101_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-ps-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-ps-kr?size=9.5",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -35,7 +19,7 @@
         "title": "에어 조던 11",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/CT8012_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-varsity-red",
+        "href": "/kr/launch/t/air-jordan-11-varsity-red?size=9.5",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -43,7 +27,7 @@
         "title": "조던 11 리틀 플렉스 (Toddler)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7102_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-td-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-little-flex-td-kr?size=9.5",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -51,7 +35,7 @@
         "title": "조던 11 (Little Kids)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378039_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-ps-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-ps-kr?size=9.5",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -59,7 +43,7 @@
         "title": "조던 11 (Toddler)",
         "theme": "Varsity Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/378040_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-11-varsity-red-td-kr",
+        "href": "/kr/launch/t/jordan-11-varsity-red-td-kr?size=9.5",
         "date": "12/10",
         "releaseDate": "1670634000"
     },
@@ -67,7 +51,7 @@
         "title": "줌 코르테즈 x sacai",
         "theme": "Iron Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ0581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey",
+        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey?size=9.5",
         "date": "12/13",
         "releaseDate": "1670893200"
     },
@@ -75,7 +59,7 @@
         "title": "에어 포스 1 로우 Billie",
         "theme": "Mushroom",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ4137_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-billie-mushroom",
+        "href": "/kr/launch/t/air-force-1-low-billie-mushroom?size=9.5",
         "date": "12/14",
         "releaseDate": "1670979600"
     },
@@ -83,7 +67,7 @@
         "title": "에어 포스 1 로우 Billie",
         "theme": "Sequoia",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ4137_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-billie-sequoia",
+        "href": "/kr/launch/t/air-force-1-low-billie-sequoia?size=9.5",
         "date": "12/14",
         "releaseDate": "1670979600"
     },
@@ -91,7 +75,15 @@
         "title": "에어 포스 1 x Ambush",
         "theme": "Game Royal and Vivid Sulfur",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-x-ambush-game-royal-and-vivid-sulfur",
+        "href": "/kr/launch/t/air-force-1-x-ambush-game-royal-and-vivid-sulfur?size=9.5",
+        "date": "12/16",
+        "releaseDate": "1671152400"
+    },
+    {
+        "title": "에어 조던 1 G",
+        "theme": "Midnight Navy",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ0660_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-g-midnight-navy?size=9.5",
         "date": "12/16",
         "releaseDate": "1671152400"
     },
@@ -99,7 +91,7 @@
         "title": "에어 포스 1 x Ambush",
         "theme": "Pine Green and Citron",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-x-ambush-pine-green-and-citron",
+        "href": "/kr/launch/t/air-force-1-x-ambush-pine-green-and-citron?size=9.5",
         "date": "12/16",
         "releaseDate": "1671152400"
     },
@@ -107,7 +99,15 @@
         "title": "에어맥스 1",
         "theme": "Pecan and Yellow Ochre",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ0482_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-pecan-and-yellow-ochre-1",
+        "href": "/kr/launch/t/air-max-1-pecan-and-yellow-ochre-1?size=9.5",
+        "date": "12/20",
+        "releaseDate": "1671498000"
+    },
+    {
+        "title": "에어 페니 2 x Stüssy",
+        "theme": "Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ5674_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-penny-2-x-st%C3%BCssy-black?size=9.5",
         "date": "12/20",
         "releaseDate": "1671498000"
     },
@@ -115,7 +115,7 @@
         "title": "에어맥스 1",
         "theme": "Honey Dew",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ0482_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-honey-dew",
+        "href": "/kr/launch/t/air-max-1-honey-dew?size=9.5",
         "date": "12/20",
         "releaseDate": "1671498000"
     },
@@ -123,7 +123,7 @@
         "title": "테라 포마 x Off-White™️",
         "theme": "Summit White and Psychic Purple",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ1615_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terra-forma-x-off-white-summit-white-and-psychic-purple",
+        "href": "/kr/launch/t/terra-forma-x-off-white-summit-white-and-psychic-purple?size=9.5",
         "date": "12/21",
         "releaseDate": "1671584400"
     },
@@ -131,7 +131,7 @@
         "title": "테라 포마 x Off-White™️",
         "theme": "Wheat and Green Strike",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ1615_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terra-forma-x-off-white-wheat-and-green-strike",
+        "href": "/kr/launch/t/terra-forma-x-off-white-wheat-and-green-strike?size=9.5",
         "date": "12/21",
         "releaseDate": "1671584400"
     },
@@ -139,7 +139,7 @@
         "title": "우먼스 에어 포스 1",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX1193_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22",
+        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22?size=9.5",
         "date": "12/22",
         "releaseDate": "1671670800"
     },
@@ -147,7 +147,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9030_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -155,7 +155,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9030_325_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -163,7 +163,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9028_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -171,7 +171,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9028_222_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -179,7 +179,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9049_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -187,7 +187,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9049_325_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -195,7 +195,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9061_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -203,7 +203,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9056_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=9.5",
         "date": "12/23",
         "releaseDate": "1671757200"
     }
