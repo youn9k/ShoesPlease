@@ -1,13 +1,5 @@
 [
     {
-        "title": "줌 코르테즈 x sacai",
-        "theme": "Iron Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ0581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey",
-        "date": "12/13",
-        "releaseDate": "1670893200"
-    },
-    {
         "title": "에어 포스 1 로우 Billie",
         "theme": "Mushroom",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ4137_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -46,6 +38,14 @@
         "href": "/kr/launch/t/air-force-1-x-ambush-pine-green-and-citron",
         "date": "12/16",
         "releaseDate": "1671152400"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "Sandy",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8777_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-dunk-low-sandy",
+        "date": "12/17",
+        "releaseDate": "1671238800"
     },
     {
         "title": "에어맥스 1",
@@ -94,6 +94,14 @@
         "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22",
         "date": "12/22",
         "releaseDate": "1671670800"
+    },
+    {
+        "title": "줌 코르테즈 x sacai",
+        "theme": "Iron Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ0581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey",
+        "date": "12/23",
+        "releaseDate": "1671757200"
     },
     {
         "title": "나이키 x sacai",
