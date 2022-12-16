@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 포스 1 x Ambush",
-        "theme": "Game Royal and Vivid Sulfur",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-x-ambush-game-royal-and-vivid-sulfur",
-        "date": "12/16",
-        "releaseDate": "1671152400"
-    },
-    {
-        "title": "에어 조던 1 G",
-        "theme": "Midnight Navy",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ0660_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-g-midnight-navy",
-        "date": "12/16",
-        "releaseDate": "1671152400"
-    },
-    {
-        "title": "에어 포스 1 x Ambush",
-        "theme": "Pine Green and Citron",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-x-ambush-pine-green-and-citron",
-        "date": "12/16",
-        "releaseDate": "1671152400"
-    },
-    {
         "title": "나이키 SB 덩크 로우",
         "theme": "Sandy",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD8777_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -198,6 +174,14 @@
         "href": "/kr/launch/t/terra-forma-x-off-white-wheat-and-green-strike",
         "date": "12/21",
         "releaseDate": "1671584400"
+    },
+    {
+        "title": "우먼스 에어 조던 1",
+        "theme": "Medium Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2523_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-1-medium-grey",
+        "date": "12/22",
+        "releaseDate": "1671670800"
     },
     {
         "title": "우먼스 에어 포스 1",
