@@ -1,21 +1,5 @@
 [
     {
-        "title": "나이키 SB 덩크 로우",
-        "theme": "Sandy",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD8777_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-dunk-low-sandy",
-        "date": "12/17",
-        "releaseDate": "1671238800"
-    },
-    {
-        "title": "에어 조던 7",
-        "theme": "Olive",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DN9782_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-7-olive",
-        "date": "12/17",
-        "releaseDate": "1671238800"
-    },
-    {
         "title": "조던 x DJ Khaled",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7490_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -30,6 +14,14 @@
         "href": "/kr/launch/t/jordan-dj-khaled-apparel-collection",
         "date": "12/19",
         "releaseDate": "1671411600"
+    },
+    {
+        "title": "나이키 SB 덩크 로우 x Concepts",
+        "theme": "Orange Lobster",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8776_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-dunk-low-x-concepts-orange-lobster",
+        "date": "12/20",
+        "releaseDate": "1671498000"
     },
     {
         "title": "에어맥스 1",
