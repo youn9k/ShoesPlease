@@ -1,25 +1,9 @@
 [
     {
-        "title": "우먼스 에어 조던 1",
-        "theme": "Medium Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2523_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-1-medium-grey?size=7.5",
-        "date": "12/22",
-        "releaseDate": "1671670800"
-    },
-    {
-        "title": "우먼스 에어 포스 1",
-        "theme": "University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX1193_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-university-blue-ho22?size=7.5",
-        "date": "12/22",
-        "releaseDate": "1671670800"
-    },
-    {
         "title": "줌 코르테즈 x sacai",
         "theme": "Iron Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ0581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey?size=7.5",
+        "href": "/kr/launch/t/zoom-cortez-sacai-iron-grey",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -27,7 +11,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9030_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -35,7 +19,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9030_325_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -43,7 +27,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9028_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -51,7 +35,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9028_222_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -59,7 +43,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9049_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -67,7 +51,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9049_325_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -75,7 +59,7 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9061_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
     },
@@ -83,15 +67,31 @@
         "title": "나이키 x sacai",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9056_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-sacai-apparel-collection?size=7.5",
+        "href": "/kr/launch/t/nike-x-sacai-apparel-collection",
         "date": "12/23",
         "releaseDate": "1671757200"
+    },
+    {
+        "title": "나이키 ISPA 센스 플라이니트",
+        "theme": "Mineral Slate and Magma Orange",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CW3203_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-ispa-sense-flyknit-mineral-slate-and-magma-orange",
+        "date": "12/27",
+        "releaseDate": "1672102800"
+    },
+    {
+        "title": "나이키 ISPA 센스 플라이니트",
+        "theme": "Black and Smoke Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CW3203_003_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-ispa-sense-flyknit-black-and-smoke-grey",
+        "date": "12/27",
+        "releaseDate": "1672102800"
     },
     {
         "title": "우먼스 에어 조던 2",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX4400_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-2-chicago?size=7.5",
+        "href": "/kr/launch/t/womens-air-jordan-2-chicago",
         "date": "12/30",
         "releaseDate": "1672362000"
     },
@@ -99,7 +99,7 @@
         "title": "에어 조던 2 (Big Kids)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX2591_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-2-chicago-gs-kr?size=7.5",
+        "href": "/kr/launch/t/air-jordan-2-chicago-gs-kr",
         "date": "12/30",
         "releaseDate": "1672362000"
     },
@@ -107,7 +107,7 @@
         "title": "에어 조던 2",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX2454_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-2-chicago?size=7.5",
+        "href": "/kr/launch/t/air-jordan-2-chicago",
         "date": "12/30",
         "releaseDate": "1672362000"
     },
@@ -115,7 +115,7 @@
         "title": "조던 2 (Little Kids)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ8564_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-2-chicago-ps-kr?size=7.5",
+        "href": "/kr/launch/t/air-jordan-2-chicago-ps-kr",
         "date": "12/30",
         "releaseDate": "1672362000"
     },
@@ -123,7 +123,7 @@
         "title": "조던 2 (Toddler)",
         "theme": "Chicago",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ8563_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-2-chicago-td-kr?size=7.5",
+        "href": "/kr/launch/t/air-jordan-2-chicago-td-kr",
         "date": "12/30",
         "releaseDate": "1672362000"
     }
