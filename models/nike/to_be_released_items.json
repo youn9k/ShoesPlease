@@ -1,26 +1,42 @@
 [
     {
-        "title": "에어 페가수스 83",
-        "theme": "Stone and Bronze Eclipse",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DJ6892_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-pegasus-83-stone-and-bronze-eclipse?size=ONE%20SIZE",
-        "date": "1/3",
-        "releaseDate": "1672707600"
-    },
-    {
-        "title": "우먼스 에어 모어 업템포",
-        "theme": "Rosewood and Wolf Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV1137_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-more-uptempo-rosewood-and-wolf-grey?size=ONE%20SIZE",
-        "date": "1/3",
-        "releaseDate": "1672707600"
-    },
-    {
         "title": "에어 포스 1",
         "theme": "Color of the Month",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0785_003_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-color-of-the-month?size=ONE%20SIZE",
+        "href": "/kr/launch/t/air-force-1-color-of-the-month",
         "date": "1/5",
         "releaseDate": "1672880400"
+    },
+    {
+        "title": "에어 조던 9",
+        "theme": "Light Olive",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CT8019_034_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-9-light-olive",
+        "date": "1/7",
+        "releaseDate": "1673053200"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "University Red and Pale Ivory",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0792_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-mid-07-university-red-and-pale-ivory",
+        "date": "1/9",
+        "releaseDate": "1673226000"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "White and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0827_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-white-and-black",
+        "date": "1/9",
+        "releaseDate": "1673226000"
+    },
+    {
+        "title": "에어 포스 1 '07",
+        "theme": "Pale Ivory",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0791_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-07-pale-ivory",
+        "date": "1/9",
+        "releaseDate": "1673226000"
     }
 ]
