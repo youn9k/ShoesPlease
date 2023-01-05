@@ -1,17 +1,9 @@
 [
     {
-        "title": "에어 포스 1",
-        "theme": "Color of the Month",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV0785_003_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-color-of-the-month",
-        "date": "1/5",
-        "releaseDate": "1672880400"
-    },
-    {
         "title": "에어 조던 9",
         "theme": "Light Olive",
         "image": "https://secure-images.nike.com/is/image/DotCom/CT8019_034_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-9-light-olive",
+        "href": "/kr/launch/t/air-jordan-9-light-olive?size=8.5",
         "date": "1/7",
         "releaseDate": "1673053200"
     },
@@ -19,7 +11,7 @@
         "title": "에어 포스 1 미드 '07",
         "theme": "University Red and Pale Ivory",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0792_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-university-red-and-pale-ivory",
+        "href": "/kr/launch/t/air-force-1-mid-07-university-red-and-pale-ivory?size=8.5",
         "date": "1/9",
         "releaseDate": "1673226000"
     },
@@ -27,7 +19,7 @@
         "title": "덩크 로우",
         "theme": "White and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0827_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-white-and-black",
+        "href": "/kr/launch/t/dunk-low-white-and-black?size=8.5",
         "date": "1/9",
         "releaseDate": "1673226000"
     },
@@ -35,7 +27,7 @@
         "title": "에어 포스 1 '07",
         "theme": "Pale Ivory",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0791_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-07-pale-ivory",
+        "href": "/kr/launch/t/air-force-1-07-pale-ivory?size=8.5",
         "date": "1/9",
         "releaseDate": "1673226000"
     },
@@ -43,7 +35,7 @@
         "title": "우먼스 에어맥스 97",
         "theme": "Golden Bullet",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9131_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/sp23-womens-air-max-97-golden-bullet",
+        "href": "/kr/launch/t/sp23-womens-air-max-97-golden-bullet?size=8.5",
         "date": "1/13",
         "releaseDate": "1673571600"
     },
@@ -51,8 +43,24 @@
         "title": "에어맥스 97",
         "theme": "Metallic Gold",
         "image": "https://secure-images.nike.com/is/image/DotCom/DM0028_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-97-metallic-gold-1",
+        "href": "/kr/launch/t/air-max-97-metallic-gold-1?size=8.5",
         "date": "1/13",
         "releaseDate": "1673571600"
+    },
+    {
+        "title": "우먼스 에어 조던 5",
+        "theme": "Dunk on Mars",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9336_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-5-dunk-on-mars1?size=8.5",
+        "date": "1/14",
+        "releaseDate": "1673658000"
+    },
+    {
+        "title": "에어 조던 1",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-true-blue?size=8.5",
+        "date": "1/14",
+        "releaseDate": "1673658000"
     }
 ]
