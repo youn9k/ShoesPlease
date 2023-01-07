@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 조던 9",
-        "theme": "Light Olive",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CT8019_034_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-9-light-olive",
-        "date": "1/7",
-        "releaseDate": "1673053200"
-    },
-    {
-        "title": "ACG 줌 가이아돔 GORE-TEX",
-        "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD2858_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/acg-zoom-gaiadome-gore-tex-black",
-        "date": "1/7",
-        "releaseDate": "1673053200"
-    },
-    {
         "title": "에어 포스 1 미드 '07",
         "theme": "University Red and Pale Ivory",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0792_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -32,10 +16,26 @@
         "releaseDate": "1673226000"
     },
     {
+        "title": "에어 트레이너 1",
+        "theme": "Black and Cool Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0808_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-trainer-1-black-and-cool-grey-kr",
+        "date": "1/10",
+        "releaseDate": "1673312400"
+    },
+    {
         "title": "우먼스 에어맥스 97",
         "theme": "Golden Bullet",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9131_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/sp23-womens-air-max-97-golden-bullet",
+        "date": "1/13",
+        "releaseDate": "1673571600"
+    },
+    {
+        "title": "에어맥스 97 (Big Kids)",
+        "theme": "Metallic Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/918890_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-97-metallic-gold-1-gs-kr",
         "date": "1/13",
         "releaseDate": "1673571600"
     },
@@ -56,6 +56,14 @@
         "releaseDate": "1673658000"
     },
     {
+        "title": "조던 1 (Little Kids)",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-true-blue-ps-kr",
+        "date": "1/14",
+        "releaseDate": "1673658000"
+    },
+    {
         "title": "에어 조던 1",
         "theme": "True Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -64,10 +72,34 @@
         "releaseDate": "1673658000"
     },
     {
+        "title": "조던 1 (Toddler)",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-true-blue-td-kr",
+        "date": "1/14",
+        "releaseDate": "1673658000"
+    },
+    {
+        "title": "에어 조던 1 (Big Kids)",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-true-blue-gs-kr",
+        "date": "1/14",
+        "releaseDate": "1673658000"
+    },
+    {
         "title": "덩크 로우",
         "theme": "White and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0827_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/dunk-low-white-and-black",
+        "date": "1/16",
+        "releaseDate": "1673830800"
+    },
+    {
+        "title": "덩크 로우 (Big Kids)",
+        "theme": "White and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV8919_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-white-and-black-gs-kr",
         "date": "1/16",
         "releaseDate": "1673830800"
     }
