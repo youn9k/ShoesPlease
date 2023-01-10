@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 트레이너 1",
-        "theme": "Black and Cool Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0808_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-trainer-1-black-and-cool-grey-kr",
-        "date": "1/10",
-        "releaseDate": "1673312400"
-    },
-    {
         "title": "우먼스 에어맥스 97",
         "theme": "Golden Bullet",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ9131_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -70,6 +62,30 @@
         "href": "/kr/launch/t/air-jordan-1-true-blue-gs-kr",
         "date": "1/14",
         "releaseDate": "1673658000"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Light Silver and Summit White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0826_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-high-light-silver-and-summit-white",
+        "date": "1/16",
+        "releaseDate": "1673830800"
+    },
+    {
+        "title": "덩크 하이 (Big Kids)",
+        "theme": "Light Silver and Summit White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV1724_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-high-light-silver-and-summit-white-gs-kr",
+        "date": "1/16",
+        "releaseDate": "1673830800"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Black and University Red",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0826_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-high-black-and-university-red",
+        "date": "1/16",
+        "releaseDate": "1673830800"
     },
     {
         "title": "덩크 로우",
