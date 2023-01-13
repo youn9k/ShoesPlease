@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "title": "우먼스 에어맥스 97",
+        "theme": "Golden Bullet",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ9131_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/sp23-womens-air-max-97-golden-bullet",
+        "date": "1/13"
+    },
+    {
+        "title": "에어맥스 97 (Big Kids)",
+        "theme": "Metallic Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/918890_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-97-metallic-gold-1-gs-kr",
+        "date": "1/13"
+    },
+    {
+        "title": "에어맥스 97",
+        "theme": "Metallic Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0028_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-97-metallic-gold-1",
+        "date": "1/13"
+    }
+]
