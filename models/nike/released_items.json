@@ -1,23 +1,51 @@
 [
     {
-        "title": "우먼스 에어맥스 97",
-        "theme": "Golden Bullet",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ9131_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/sp23-womens-air-max-97-golden-bullet",
-        "date": "1/13"
+        "title": "우먼스 에어 조던 5",
+        "theme": "Dunk on Mars",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9336_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-5-dunk-on-mars1",
+        "date": "1/14"
     },
     {
-        "title": "에어맥스 97 (Big Kids)",
-        "theme": "Metallic Gold",
-        "image": "https://secure-images.nike.com/is/image/DotCom/918890_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-97-metallic-gold-1-gs-kr",
-        "date": "1/13"
+        "title": "조던 1 (Little Kids)",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-true-blue-ps-kr",
+        "date": "1/14"
     },
     {
-        "title": "에어맥스 97",
-        "theme": "Metallic Gold",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0028_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-97-metallic-gold-1",
-        "date": "1/13"
+        "title": "에어 조던 1",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-true-blue",
+        "date": "1/14"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "University Blue and Summit White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0148_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-07-university-blue-and-summit-white",
+        "date": "1/14"
+    },
+    {
+        "title": "조던 1 (Toddler)",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-true-blue-td-kr",
+        "date": "1/14"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "Black and Summit White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0148_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-07-black-and-summit-white",
+        "date": "1/14"
+    },
+    {
+        "title": "에어 조던 1 (Big Kids)",
+        "theme": "True Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-true-blue-gs-kr",
+        "date": "1/14"
     }
 ]
