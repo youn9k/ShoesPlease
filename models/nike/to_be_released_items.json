@@ -1,43 +1,11 @@
 [
     {
-        "title": "코르테즈 23",
-        "theme": "Wheat Gold",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0400_725_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/cortez-23-wheat-gold",
-        "date": "1/17",
-        "releaseDate": "1673917200"
-    },
-    {
-        "title": "Chinese New Year",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0960_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/chinese-new-year-apparel-collection-static",
-        "date": "1/17",
-        "releaseDate": "1673917200"
-    },
-    {
-        "title": "Chinese New Year",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0960_753_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/chinese-new-year-apparel-collection-static",
-        "date": "1/17",
-        "releaseDate": "1673917200"
-    },
-    {
         "title": "에어 포스 1 x Slam Jam",
         "theme": "Black and Off Noir",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX5590_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-force-1-x-slam-jam-black-and-off-noir",
-        "date": "1/17",
-        "releaseDate": "1673917200"
-    },
-    {
-        "title": "우먼스 줌 보메로 5",
-        "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0533_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-zoom-vomero-5-black",
-        "date": "1/17",
-        "releaseDate": "1673917200"
+        "date": "1/18",
+        "releaseDate": "1674003600"
     },
     {
         "title": "ACG Apparel Collection",
@@ -160,6 +128,14 @@
         "releaseDate": "1674262800"
     },
     {
+        "title": "코르테즈 23",
+        "theme": "Wheat Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0400_725_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/cortez-23-wheat-gold",
+        "date": "1/21",
+        "releaseDate": "1674262800"
+    },
+    {
         "title": "조던 5 (Toddler)",
         "theme": "Aqua",
         "image": "https://secure-images.nike.com/is/image/DotCom/440890_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -182,5 +158,13 @@
         "href": "/kr/launch/t/terminator-high-noble-green",
         "date": "1/26",
         "releaseDate": "1674694800"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Faded Spruce",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ7679_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-high-faded-spruce",
+        "date": "1/27",
+        "releaseDate": "1674781200"
     }
 ]
