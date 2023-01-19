@@ -1,14 +1,6 @@
 [
     {
         "title": "줌 보메로 5",
-        "theme": "Iron Ore and Flat Pewter",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0791_012_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-zoom-vomero-5-iron-ore-and-flat-pewter",
-        "date": "1/19",
-        "releaseDate": "1674090000"
-    },
-    {
-        "title": "줌 보메로 5",
         "theme": "Anthracite",
         "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/zoom-vomero-5-anthracite",
@@ -36,6 +28,14 @@
         "theme": "Aqua",
         "image": "https://secure-images.nike.com/is/image/DotCom/440888_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-5-aqua-gs-kr",
+        "date": "1/21",
+        "releaseDate": "1674262800"
+    },
+    {
+        "title": "코르테즈 23",
+        "theme": "Wheat Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0400_725_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/cortez-23-wheat-gold",
         "date": "1/21",
         "releaseDate": "1674262800"
     },
