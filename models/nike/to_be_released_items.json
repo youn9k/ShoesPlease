@@ -1,25 +1,9 @@
 [
     {
-        "title": "줌 보메로 5",
-        "theme": "Anthracite",
-        "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-vomero-5-anthracite",
-        "date": "1/20",
-        "releaseDate": "1674176400"
-    },
-    {
-        "title": "줌 보메로 5",
-        "theme": "Vast Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-vomero-5-vast-grey",
-        "date": "1/20",
-        "releaseDate": "1674176400"
-    },
-    {
         "title": "에어 조던 5",
         "theme": "Aqua",
         "image": "https://secure-images.nike.com/is/image/DotCom/DD0587_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-5-aqua",
+        "href": "/kr/launch/t/air-jordan-5-aqua?size=8",
         "date": "1/21",
         "releaseDate": "1674262800"
     },
@@ -27,7 +11,7 @@
         "title": "에어 조던 5 (Big Kids)",
         "theme": "Aqua",
         "image": "https://secure-images.nike.com/is/image/DotCom/440888_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-5-aqua-gs-kr",
+        "href": "/kr/launch/t/air-jordan-5-aqua-gs-kr?size=8",
         "date": "1/21",
         "releaseDate": "1674262800"
     },
@@ -35,7 +19,7 @@
         "title": "코르테즈 23",
         "theme": "Wheat Gold",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0400_725_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/cortez-23-wheat-gold",
+        "href": "/kr/launch/t/cortez-23-wheat-gold?size=8",
         "date": "1/21",
         "releaseDate": "1674262800"
     },
@@ -43,7 +27,7 @@
         "title": "조던 5 (Toddler)",
         "theme": "Aqua",
         "image": "https://secure-images.nike.com/is/image/DotCom/440890_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-5-aqua-td-kr",
+        "href": "/kr/launch/t/jordan-5-aqua-td-kr?size=8",
         "date": "1/21",
         "releaseDate": "1674262800"
     },
@@ -51,7 +35,7 @@
         "title": "우먼스 에어 조던 2",
         "theme": "Sunset Haze",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX4400_118_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-2-sunset-haze",
+        "href": "/kr/launch/t/womens-air-jordan-2-sunset-haze?size=8",
         "date": "1/26",
         "releaseDate": "1674694800"
     },
@@ -59,7 +43,7 @@
         "title": "터미네이터 하이",
         "theme": "Noble Green",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0650_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-noble-green",
+        "href": "/kr/launch/t/terminator-high-noble-green?size=8",
         "date": "1/26",
         "releaseDate": "1674694800"
     },
@@ -67,7 +51,7 @@
         "title": "덩크 하이",
         "theme": "Faded Spruce",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ7679_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-high-faded-spruce",
+        "href": "/kr/launch/t/dunk-high-faded-spruce?size=8",
         "date": "1/27",
         "releaseDate": "1674781200"
     },
@@ -75,8 +59,24 @@
         "title": "에어 조던 4",
         "theme": "A Ma Maniére",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV6773_220_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-a-ma-mani%C3%A9re",
+        "href": "/kr/launch/t/air-jordan-4-a-ma-mani%C3%A9re?size=8",
         "date": "1/28",
         "releaseDate": "1674867600"
+    },
+    {
+        "title": "조던 누 레트로 1",
+        "theme": "Fresh Ink",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1300_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-nu-retro-1-fresh-ink?size=8",
+        "date": "1/31",
+        "releaseDate": "1675126800"
+    },
+    {
+        "title": "에어맥스 스콜피온",
+        "theme": "Olive Aura",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DJ4702_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-scorpion-olive-aura?size=8",
+        "date": "2/1",
+        "releaseDate": "1675213200"
     }
 ]

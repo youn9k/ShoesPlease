@@ -1,9 +1,16 @@
 [
     {
         "title": "줌 보메로 5",
-        "theme": "Iron Ore and Flat Pewter",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0791_012_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-zoom-vomero-5-iron-ore-and-flat-pewter",
-        "date": "1/19"
+        "theme": "Anthracite",
+        "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/zoom-vomero-5-anthracite?size=8",
+        "date": "1/20"
+    },
+    {
+        "title": "줌 보메로 5",
+        "theme": "Vast Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/zoom-vomero-5-vast-grey?size=8",
+        "date": "1/20"
     }
 ]
