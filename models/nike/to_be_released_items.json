@@ -1,25 +1,17 @@
 [
     {
-        "title": "우먼스 에어 조던 2",
-        "theme": "Sunset Haze",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX4400_118_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-2-sunset-haze?size=9",
-        "date": "1/26",
-        "releaseDate": "1674694800"
-    },
-    {
-        "title": "터미네이터 하이",
-        "theme": "Noble Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0650_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-noble-green?size=9",
-        "date": "1/26",
-        "releaseDate": "1674694800"
-    },
-    {
         "title": "덩크 하이",
         "theme": "Faded Spruce",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ7679_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-high-faded-spruce?size=9",
+        "href": "/kr/launch/t/dunk-high-faded-spruce",
+        "date": "1/27",
+        "releaseDate": "1674781200"
+    },
+    {
+        "title": "ACG Apparel Collection",
+        "theme": "Outerwear",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV9214_276_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-outerwear-apparel-collection-static",
         "date": "1/27",
         "releaseDate": "1674781200"
     },
@@ -27,7 +19,7 @@
         "title": "에어 조던 3 (Big Kids)",
         "theme": "Mars Stone",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7028_108_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-3-mars-stone?size=9",
+        "href": "/kr/launch/t/jordan-3-mars-stone",
         "date": "1/27",
         "releaseDate": "1674781200"
     },
@@ -35,7 +27,7 @@
         "title": "에어 조던 4",
         "theme": "A Ma Maniére",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV6773_220_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-a-ma-mani%C3%A9re?size=9",
+        "href": "/kr/launch/t/air-jordan-4-a-ma-mani%C3%A9re",
         "date": "1/28",
         "releaseDate": "1674867600"
     },
@@ -43,15 +35,31 @@
         "title": "나이키 SB 덩크",
         "theme": "Adobe",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV5429_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-dunk-adobe?size=9",
+        "href": "/kr/launch/t/nike-sb-dunk-adobe",
         "date": "1/30",
         "releaseDate": "1675040400"
+    },
+    {
+        "title": "우먼스 에어 포스 1 로우 x Premium Goods",
+        "theme": "The Sophia",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV2957_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-low-premium-goods-the-sophia",
+        "date": "1/31",
+        "releaseDate": "1675126800"
+    },
+    {
+        "title": "조던 5 (Little Kids)",
+        "theme": "Aqua",
+        "image": "https://secure-images.nike.com/is/image/DotCom/440889_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-5-aqua-ps-kr",
+        "date": "1/31",
+        "releaseDate": "1675126800"
     },
     {
         "title": "조던 누 레트로 1",
         "theme": "Fresh Ink",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1300_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-nu-retro-1-fresh-ink?size=9",
+        "href": "/kr/launch/t/jordan-nu-retro-1-fresh-ink",
         "date": "1/31",
         "releaseDate": "1675126800"
     },
@@ -59,7 +67,7 @@
         "title": "나이키 ISPA 센스 플라이니트",
         "theme": "Sesame and Desert Ochre",
         "image": "https://secure-images.nike.com/is/image/DotCom/CW3203_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-ispa-sense-flyknit-sesame-and-desert-ochre?size=9",
+        "href": "/kr/launch/t/nike-ispa-sense-flyknit-sesame-and-desert-ochre",
         "date": "2/1",
         "releaseDate": "1675213200"
     },
@@ -67,7 +75,7 @@
         "title": "에어맥스 스콜피온",
         "theme": "Olive Aura",
         "image": "https://secure-images.nike.com/is/image/DotCom/DJ4702_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-scorpion-olive-aura?size=9",
+        "href": "/kr/launch/t/air-max-scorpion-olive-aura",
         "date": "2/1",
         "releaseDate": "1675213200"
     },
@@ -75,7 +83,7 @@
         "title": "나이키 ISPA 센스 플라이니트",
         "theme": "Adobe and Bright Crimson",
         "image": "https://secure-images.nike.com/is/image/DotCom/CW3203_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-ispa-sense-flyknit-adobe-and-bright-crimson?size=9",
+        "href": "/kr/launch/t/nike-ispa-sense-flyknit-adobe-and-bright-crimson",
         "date": "2/1",
         "releaseDate": "1675213200"
     },
@@ -83,7 +91,7 @@
         "title": "에어 포스 1 미드 '07",
         "theme": "Color of the Month",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ2672_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-color-of-the-month?size=9",
+        "href": "/kr/launch/t/air-force-1-mid-07-color-of-the-month",
         "date": "2/2",
         "releaseDate": "1675299600"
     },
@@ -91,15 +99,23 @@
         "title": "덩크 로우 (Big Kids)",
         "theme": "Baltic Blue and Electric Algae",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1693_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/big-kids-dunk-low-baltic-blue-and-electric-algae?size=9",
+        "href": "/kr/launch/t/big-kids-dunk-low-baltic-blue-and-electric-algae",
         "date": "2/2",
         "releaseDate": "1675299600"
+    },
+    {
+        "title": "조던 2 (Toddler)",
+        "theme": "Lucky Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ8563_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-2-lucky-green-td-kr",
+        "date": "2/3",
+        "releaseDate": "1675386000"
     },
     {
         "title": "에어 조던 2",
         "theme": "Lucky Green",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR8884_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-2-lucky-green?size=9",
+        "href": "/kr/launch/t/air-jordan-2-lucky-green",
         "date": "2/3",
         "releaseDate": "1675386000"
     },
@@ -107,8 +123,24 @@
         "title": "우먼스 코르테즈 '23",
         "theme": "Orewood Brown and Earth",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD2013_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-23-orewood-brown-and-earth?size=9",
+        "href": "/kr/launch/t/womens-cortez-23-orewood-brown-and-earth",
         "date": "2/3",
         "releaseDate": "1675386000"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "Cacao Wow and Pale Ivory",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0792_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-mid-07-cacao-wow-and-pale-ivory",
+        "date": "2/6",
+        "releaseDate": "1675645200"
+    },
+    {
+        "title": "에어 포스 1 '07",
+        "theme": "Cacao Wow",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0791_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-07-cacao-wow",
+        "date": "2/6",
+        "releaseDate": "1675645200"
     }
 ]
