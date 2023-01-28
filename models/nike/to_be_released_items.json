@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 조던 4",
-        "theme": "A Ma Maniére",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV6773_220_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-a-ma-mani%C3%A9re",
-        "date": "1/28",
-        "releaseDate": "1674867600"
-    },
-    {
         "title": "나이키 SB 덩크",
         "theme": "Adobe",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV5429_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -44,6 +36,14 @@
         "theme": "Sesame and Desert Ochre",
         "image": "https://secure-images.nike.com/is/image/DotCom/CW3203_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-ispa-sense-flyknit-sesame-and-desert-ochre",
+        "date": "2/1",
+        "releaseDate": "1675213200"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Valentine's Day",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0803_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-valentines-day",
         "date": "2/1",
         "releaseDate": "1675213200"
     },
@@ -96,12 +96,116 @@
         "releaseDate": "1675386000"
     },
     {
+        "title": "에어 조던 2 (Big Kids)",
+        "theme": "Lucky Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ8562_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-2-lucky-green-gs-kr",
+        "date": "2/3",
+        "releaseDate": "1675386000"
+    },
+    {
         "title": "우먼스 코르테즈 '23",
         "theme": "Orewood Brown and Earth",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD2013_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-cortez-23-orewood-brown-and-earth",
         "date": "2/3",
         "releaseDate": "1675386000"
+    },
+    {
+        "title": "에어 조던 6",
+        "theme": "Cool Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CT8529_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-6-cool-grey",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Sweatpants Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7337_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-sweatpants-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Hoodies Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7335_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-hoodies-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "AJKO 1 로우 x UNION",
+        "theme": "White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO8912_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ajko-1-low-union-white",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Sweater, Tracksuit and Bucket Hats Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7348_419_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-sweater-tracksuit-bucket-hats-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Sweater, Tracksuit and Bucket Hats Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7354_419_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-sweater-tracksuit-bucket-hats-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Sweater, Tracksuit and Bucket Hats Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7356_348_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-sweater-tracksuit-bucket-hats-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Sweater, Tracksuit and Bucket Hats Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6483_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-sweater-tracksuit-bucket-hats-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Long-Sleeve T-Shirts Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7342_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-long-sleeve-t-shirts-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "Long-Sleeve T-Shirts Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7342_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-long-sleeve-t-shirts-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "조던 x UNION",
+        "theme": "T-Shirts Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7344_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-union-t-shirts-collection",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Noble Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0350_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-noble-green",
+        "date": "2/6",
+        "releaseDate": "1675645200"
     },
     {
         "title": "에어 포스 1 미드 '07",
