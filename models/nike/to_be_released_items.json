@@ -1,29 +1,5 @@
 [
     {
-        "title": "우먼스 에어 포스 1 로우 x Premium Goods",
-        "theme": "The Sophia",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV2957_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-low-premium-goods-the-sophia",
-        "date": "1/31",
-        "releaseDate": "1675126800"
-    },
-    {
-        "title": "조던 5 (Little Kids)",
-        "theme": "Aqua",
-        "image": "https://secure-images.nike.com/is/image/DotCom/440889_047_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-5-aqua-ps-kr",
-        "date": "1/31",
-        "releaseDate": "1675126800"
-    },
-    {
-        "title": "조던 누 레트로 1",
-        "theme": "Fresh Ink",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB1300_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-nu-retro-1-fresh-ink",
-        "date": "1/31",
-        "releaseDate": "1675126800"
-    },
-    {
         "title": "나이키 ISPA 센스 플라이니트",
         "theme": "Sesame and Desert Ochre",
         "image": "https://secure-images.nike.com/is/image/DotCom/CW3203_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -168,6 +144,14 @@
         "releaseDate": "1675472400"
     },
     {
+        "title": "에어 조던 6 (Big Kids)",
+        "theme": "Cool Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/384665_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-6-cool-grey-gs-kr",
+        "date": "2/4",
+        "releaseDate": "1675472400"
+    },
+    {
         "title": "조던 x UNION",
         "theme": "Long-Sleeve T-Shirts Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7342_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -208,11 +192,43 @@
         "releaseDate": "1675645200"
     },
     {
+        "title": "터미네이터 하이",
+        "theme": "Velvet Brown",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0651_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-high-velvet-brown",
+        "date": "2/6",
+        "releaseDate": "1675645200"
+    },
+    {
         "title": "에어 포스 1 '07",
         "theme": "Cacao Wow",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0791_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-force-1-07-cacao-wow",
         "date": "2/6",
         "releaseDate": "1675645200"
+    },
+    {
+        "title": "르브론 XX (Big Kids)",
+        "theme": "Total Orange and Vivid Purple",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ8651_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/lebron-xx-total-orange-and-vivid-purple",
+        "date": "2/8",
+        "releaseDate": "1675818000"
+    },
+    {
+        "title": "우먼스 에어 조던 1 미드",
+        "theme": "Floral",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4331_121_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-1-mid-floral",
+        "date": "2/8",
+        "releaseDate": "1675818000"
+    },
+    {
+        "title": "에어 조던 1 미드",
+        "theme": "Floral",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4330_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-mid-floral-1",
+        "date": "2/8",
+        "releaseDate": "1675818000"
     }
 ]
