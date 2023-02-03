@@ -1,16 +1,37 @@
 [
     {
-        "title": "에어 포스 1 미드 '07",
-        "theme": "Color of the Month",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2672_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-color-of-the-month",
-        "date": "2/2"
+        "title": "조던 2 (Toddler)",
+        "theme": "Lucky Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ8563_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-2-lucky-green-td-kr",
+        "date": "2/3"
     },
     {
-        "title": "덩크 로우 (Big Kids)",
-        "theme": "Baltic Blue and Electric Algae",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV1693_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/big-kids-dunk-low-baltic-blue-and-electric-algae",
-        "date": "2/2"
+        "title": "에어 모어 업템포",
+        "theme": "Serena Williams Design Crew",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX4219_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-more-uptempo-serena-williams-design-crew",
+        "date": "2/3"
+    },
+    {
+        "title": "에어 조던 2",
+        "theme": "Lucky Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR8884_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-2-lucky-green",
+        "date": "2/3"
+    },
+    {
+        "title": "에어 조던 2 (Big Kids)",
+        "theme": "Lucky Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ8562_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-2-lucky-green-gs-kr",
+        "date": "2/3"
+    },
+    {
+        "title": "우먼스 코르테즈 '23",
+        "theme": "Orewood Brown and Earth",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2013_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-23-orewood-brown-and-earth",
+        "date": "2/3"
     }
 ]
