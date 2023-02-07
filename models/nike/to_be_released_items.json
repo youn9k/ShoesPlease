@@ -1,13 +1,5 @@
 [
     {
-        "title": "나이키크래프트 제너럴 퍼포스 슈",
-        "theme": "Brown",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DA6672_201_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nikecraft-general-purpose-shoe-brown",
-        "date": "2/7",
-        "releaseDate": "1675731600"
-    },
-    {
         "title": "르브론 XX (Big Kids)",
         "theme": "Total Orange and Vivid Purple",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ8651_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -56,6 +48,14 @@
         "releaseDate": "1675904400"
     },
     {
+        "title": "우먼스 에어 조던 4",
+        "theme": "Oil Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/AQ9129_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-4-oil-green-kr",
+        "date": "2/9",
+        "releaseDate": "1675904400"
+    },
+    {
         "title": "나이키 SB x Concepts",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR0642_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -84,6 +84,14 @@
         "theme": "Picante Red and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1987_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/dunk-low-picante-red-and-black-td-kr",
+        "date": "2/10",
+        "releaseDate": "1675990800"
+    },
+    {
+        "title": "에어 모어 업템포 '96",
+        "theme": "Dark Pony and Soft Pink",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV3466_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-more-uptempo-96-dark-pony-soft-pink",
         "date": "2/10",
         "releaseDate": "1675990800"
     },
@@ -136,11 +144,27 @@
         "releaseDate": "1675990800"
     },
     {
+        "title": "덩크 로우 (Toddler)",
+        "theme": "Volt and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV1697_900_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-volt-and-black-td-kr",
+        "date": "2/10",
+        "releaseDate": "1675990800"
+    },
+    {
         "title": "덩크 로우",
         "theme": "Night Maroon and Medium Soft Pink",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR9705_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/dunk-low-night-maroon-and-medium-soft-pink",
         "date": "2/10",
         "releaseDate": "1675990800"
+    },
+    {
+        "title": "에어 조던 4",
+        "theme": "Craft",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV3742_021_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-4-craft-kr",
+        "date": "2/11",
+        "releaseDate": "1676077200"
     }
 ]
