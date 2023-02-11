@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 조던 4 (Big Kids)",
-        "theme": "Craft",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV2262_021_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-craft-gs-kr",
-        "date": "2/11",
-        "releaseDate": "1676077200"
-    },
-    {
-        "title": "에어 조던 4",
-        "theme": "Craft",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV3742_021_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-craft-kr",
-        "date": "2/11",
-        "releaseDate": "1676077200"
-    },
-    {
         "title": "에어 페니 2 x Stüssy",
         "theme": "Rattan and Limestone",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX6934_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -120,10 +104,50 @@
         "releaseDate": "1676422800"
     },
     {
+        "title": "목 플로우 x UNDERCOVER",
+        "theme": "Light Bone",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV5593_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/moc-flow-x-undercover-light-bone",
+        "date": "2/15",
+        "releaseDate": "1676422800"
+    },
+    {
+        "title": "목 플로우 x UNDERCOVER",
+        "theme": "Ale Brown",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV5593_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/moc-flow-x-undercover-ale-brown",
+        "date": "2/15",
+        "releaseDate": "1676422800"
+    },
+    {
         "title": "에어 조던 XXXVII PF",
         "theme": "Off Days",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD6720_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-xxxvii-pf-off-days",
+        "date": "2/16",
+        "releaseDate": "1676509200"
+    },
+    {
+        "title": "조던 x Honor The Gift®",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6240_087_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-honor-the-gift-apparel-collection",
+        "date": "2/16",
+        "releaseDate": "1676509200"
+    },
+    {
+        "title": "조던 x Honor The Gift®",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6242_087_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-honor-the-gift-apparel-collection",
+        "date": "2/16",
+        "releaseDate": "1676509200"
+    },
+    {
+        "title": "조던 x Honor The Gift®",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6246_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-honor-the-gift-apparel-collection",
         "date": "2/16",
         "releaseDate": "1676509200"
     },
@@ -136,10 +160,34 @@
         "releaseDate": "1676595600"
     },
     {
+        "title": "에어 페니 2",
+        "theme": "Rosewood",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV1163_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-penny-2-rosewood",
+        "date": "2/17",
+        "releaseDate": "1676595600"
+    },
+    {
         "title": "에어 모어 업템포 (Toddler)",
         "theme": "Cobalt Bliss",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ6202_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-more-uptempo-cobalt-bliss-td-kr",
+        "date": "2/17",
+        "releaseDate": "1676595600"
+    },
+    {
+        "title": "에어 페니 2",
+        "theme": "Football Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0817_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-penny-2-football-grey",
+        "date": "2/17",
+        "releaseDate": "1676595600"
+    },
+    {
+        "title": "에어 줌 플라이트 95",
+        "theme": "Football Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0820_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-zoom-flight-95-football-grey",
         "date": "2/17",
         "releaseDate": "1676595600"
     },
