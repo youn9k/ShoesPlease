@@ -1,69 +1,5 @@
 [
     {
-        "title": "조던 1 하이 '85 (Toddler)",
-        "theme": "Black White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV3655_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-85-black-white-td-kr",
-        "date": "2/15",
-        "releaseDate": "1676422800"
-    },
-    {
-        "title": "에어 조던 1 하이 '85",
-        "theme": "Black White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/BQ4422_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-85-black-white",
-        "date": "2/15",
-        "releaseDate": "1676422800"
-    },
-    {
-        "title": "목 플로우 x UNDERCOVER",
-        "theme": "Light Bone",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV5593_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/moc-flow-x-undercover-light-bone",
-        "date": "2/15",
-        "releaseDate": "1676422800"
-    },
-    {
-        "title": "목 플로우 x UNDERCOVER",
-        "theme": "Ale Brown",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV5593_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/moc-flow-x-undercover-ale-brown",
-        "date": "2/15",
-        "releaseDate": "1676422800"
-    },
-    {
-        "title": "에어 조던 XXXVII PF",
-        "theme": "Off Days",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD6720_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-xxxvii-pf-off-days",
-        "date": "2/16",
-        "releaseDate": "1676509200"
-    },
-    {
-        "title": "조던 x Honor The Gift®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX6240_087_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-honor-the-gift-apparel-collection",
-        "date": "2/16",
-        "releaseDate": "1676509200"
-    },
-    {
-        "title": "조던 x Honor The Gift®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX6242_087_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-honor-the-gift-apparel-collection",
-        "date": "2/16",
-        "releaseDate": "1676509200"
-    },
-    {
-        "title": "조던 x Honor The Gift®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX6246_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-honor-the-gift-apparel-collection",
-        "date": "2/16",
-        "releaseDate": "1676509200"
-    },
-    {
         "title": "에어 모어 업템포 (Little Kids)",
         "theme": "Cobalt Bliss",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ6201_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -182,5 +118,69 @@
         "href": "/kr/launch/t/womens-dunk-low-game-royal",
         "date": "2/20",
         "releaseDate": "1676854800"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Anthracite",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ6453_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-moc-anthracite",
+        "date": "2/22",
+        "releaseDate": "1677027600"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Year of the Rabbit",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4203_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-year-of-the-rabbit-1",
+        "date": "2/22",
+        "releaseDate": "1677027600"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Ocean Bliss",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ6453_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-moc-ocean-bliss",
+        "date": "2/22",
+        "releaseDate": "1677027600"
+    },
+    {
+        "title": "터미네이터 하이",
+        "theme": "Black and Phantom",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0394_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-high-black-phantom",
+        "date": "2/25",
+        "releaseDate": "1677286800"
+    },
+    {
+        "title": "에어 포스 1 로우 x Ambush",
+        "theme": "Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-x-ambush-black",
+        "date": "2/28",
+        "releaseDate": "1677546000"
+    },
+    {
+        "title": "에어 포스 1 x Ambush",
+        "theme": "Phantom",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-x-ambush-phantom",
+        "date": "2/28",
+        "releaseDate": "1677546000"
+    },
+    {
+        "title": "나이키 x AMBUSH®️",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DN7654_480_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static",
+        "date": "2/28",
+        "releaseDate": "1677546000"
+    },
+    {
+        "title": "나이키 x AMBUSH®️",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6917_455_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static",
+        "date": "2/28",
+        "releaseDate": "1677546000"
     }
 ]
