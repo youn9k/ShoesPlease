@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "title": "덩크 로우",
+        "theme": "Year of the Rabbit",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4203_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-year-of-the-rabbit-1",
+        "date": "2/22"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Anthracite",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ6453_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-moc-anthracite",
+        "date": "2/22"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Ocean Bliss",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ6453_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-moc-ocean-bliss",
+        "date": "2/22"
+    }
+]

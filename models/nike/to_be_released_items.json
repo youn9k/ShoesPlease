@@ -1,29 +1,5 @@
 [
     {
-        "title": "ACG 목",
-        "theme": "Anthracite",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ6453_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/acg-moc-anthracite",
-        "date": "2/22",
-        "releaseDate": "1677027600"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Year of the Rabbit",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD4203_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-year-of-the-rabbit-1",
-        "date": "2/22",
-        "releaseDate": "1677027600"
-    },
-    {
-        "title": "ACG 목",
-        "theme": "Ocean Bliss",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ6453_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/acg-moc-ocean-bliss",
-        "date": "2/22",
-        "releaseDate": "1677027600"
-    },
-    {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "Pendant",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7584_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -134,6 +110,30 @@
         "href": "/kr/launch/t/air-max-scorpion-barely-volt",
         "date": "3/1",
         "releaseDate": "1677632400"
+    },
+    {
+        "title": "덩크 미드",
+        "theme": "Mineral Teal and Moss",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0830_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-mid-mineral-teal-and-moss",
+        "date": "3/1",
+        "releaseDate": "1677632400"
+    },
+    {
+        "title": "우먼스 에어맥스 95",
+        "theme": "Safari",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV5581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-max-95-safari",
+        "date": "3/3",
+        "releaseDate": "1677805200"
+    },
+    {
+        "title": "에어 조던 5",
+        "theme": "University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV1310_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-5-university-blue",
+        "date": "3/4",
+        "releaseDate": "1677891600"
     },
     {
         "title": "에어 포스 1 로우 x Ambush",
