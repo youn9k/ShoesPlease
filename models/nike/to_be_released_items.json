@@ -1,13 +1,5 @@
 [
     {
-        "title": "ISPA MindBody",
-        "theme": "Olive Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-olive-grey",
-        "date": "2/24",
-        "releaseDate": "1677200400"
-    },
-    {
         "title": "터미네이터 하이",
         "theme": "Black and Phantom",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0394_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -72,6 +64,22 @@
         "releaseDate": "1677632400"
     },
     {
+        "title": "에어 포스 1",
+        "theme": "Color of the Month",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ1044_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1color-of-the-month",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "우먼스 에어 조던 1 줌 에어 컴포트 2",
+        "theme": "Light Smoke Grey and Barely Grape",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV1305_005_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-1-zoom-air-comfort-2-light-smoke-grey-and-barely-grape",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
         "title": "우먼스 에어맥스 95",
         "theme": "Safari",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV5581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -86,6 +94,14 @@
         "href": "/kr/launch/t/air-jordan-5-university-blue",
         "date": "3/4",
         "releaseDate": "1677891600"
+    },
+    {
+        "title": "우먼스 에어 조던 2 로우",
+        "theme": "Gym Red and Dark Powder Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX4401_164_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-2-low-gym-red-and-dark-powder-blue",
+        "date": "3/8",
+        "releaseDate": "1678237200"
     },
     {
         "title": "에어 포스 1 로우 x Ambush",
