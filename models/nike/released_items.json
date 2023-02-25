@@ -1,9 +1,30 @@
 [
     {
-        "title": "ISPA MindBody",
-        "theme": "Olive Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-olive-grey",
-        "date": "2/24"
+        "title": "터미네이터 하이",
+        "theme": "Black and Phantom",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0394_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-high-black-phantom",
+        "date": "2/25"
+    },
+    {
+        "title": "에어 조던 1",
+        "theme": "White Cement",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_052_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-white-cement",
+        "date": "2/25"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Crepe",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD5088_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-crepe",
+        "date": "2/25"
+    },
+    {
+        "title": "에어 조던 1 (Big Kids)",
+        "theme": "White Cement",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_052_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-white-cement-gs-kr",
+        "date": "2/25"
     }
 ]
