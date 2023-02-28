@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 휴마라",
-        "theme": "Midnight Navy and Obsidian",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7098_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-humara-midnight-navy-and-obsidian",
-        "date": "2/28",
-        "releaseDate": "1677546000"
-    },
-    {
-        "title": "우먼스 줌 보메로 5",
-        "theme": "Photon Dust and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0884_025_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-zoom-vomero-5-photon-dust-and-metallic-silver",
-        "date": "2/28",
-        "releaseDate": "1677546000"
-    },
-    {
         "title": "에어맥스 스콜피온",
         "theme": "Barely Volt",
         "image": "https://secure-images.nike.com/is/image/DotCom/DJ4701_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -48,6 +32,22 @@
         "releaseDate": "1677718800"
     },
     {
+        "title": "나이키 SB x Doyenne",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2156_668_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-x-doyenne-apparel-collection-static",
+        "date": "3/3",
+        "releaseDate": "1677805200"
+    },
+    {
+        "title": "나이키 SB x Doyenne",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2156_754_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-x-doyenne-apparel-collection-static",
+        "date": "3/3",
+        "releaseDate": "1677805200"
+    },
+    {
         "title": "우먼스 에어맥스 95",
         "theme": "Safari",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV5581_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -62,6 +62,14 @@
         "href": "/kr/launch/t/nike-sb-blazer-low-x-doyenne-coconut-milk-and-rattan",
         "date": "3/3",
         "releaseDate": "1677805200"
+    },
+    {
+        "title": "우먼스 에어맥스 1 '87",
+        "theme": "Safari",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB5059_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-max-1-87-safari",
+        "date": "3/4",
+        "releaseDate": "1677891600"
     },
     {
         "title": "에어 조던 5",
