@@ -1,19 +1,67 @@
 [
     {
-        "title": "에어맥스 스콜피온",
-        "theme": "Barely Volt",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DJ4701_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-scorpion-barely-volt",
-        "date": "3/1",
-        "releaseDate": "1677632400"
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7456_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
     },
     {
-        "title": "덩크 미드",
-        "theme": "Mineral Teal and Moss",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV0830_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-mid-mineral-teal-and-moss",
-        "date": "3/1",
-        "releaseDate": "1677632400"
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7456_113_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX5650_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7461_263_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7459_263_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7469_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX5652_113_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
+    },
+    {
+        "title": "조던 x A Ma Maniére",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7464_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-a-ma-maniere-apparel-collection-static",
+        "date": "3/2",
+        "releaseDate": "1677718800"
     },
     {
         "title": "에어 포스 1",
@@ -92,6 +140,22 @@
         "theme": "Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-force-1-x-ambush-black",
+        "date": "3/9",
+        "releaseDate": "1678323600"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Apple Green and Yellow Strike",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0833_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-apple-green-and-yellow-strike1",
+        "date": "3/9",
+        "releaseDate": "1678323600"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Psychic Purple and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0829_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-high-psychic-purple-and-black1",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
