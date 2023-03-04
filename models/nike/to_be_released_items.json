@@ -1,19 +1,11 @@
 [
     {
-        "title": "우먼스 에어맥스 1 '87",
-        "theme": "Safari",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB5059_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-1-87-safari",
-        "date": "3/4",
-        "releaseDate": "1677891600"
-    },
-    {
-        "title": "에어 조던 5",
-        "theme": "University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV1310_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-5-university-blue",
-        "date": "3/4",
-        "releaseDate": "1677891600"
+        "title": "조던 Why Not .6 x Honor The Gift® (Big Kids)",
+        "theme": "Phantom and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO7191_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/big-kids-jordan-why-not-6-x-honor-the-gift-phantom-and-black",
+        "date": "3/8",
+        "releaseDate": "1678237200"
     },
     {
         "title": "우먼스 에어 조던 2 로우",
@@ -70,5 +62,21 @@
         "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static",
         "date": "3/9",
         "releaseDate": "1678323600"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Shima Shima",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB8916_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-shima-shima",
+        "date": "3/11",
+        "releaseDate": "1678496400"
+    },
+    {
+        "title": "우먼스 에어맥스 1 '87 ",
+        "theme": "Great Indoors",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0827_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-max-1-87-great-indoors",
+        "date": "3/15",
+        "releaseDate": "1678842000"
     }
 ]
