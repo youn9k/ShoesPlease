@@ -1,33 +1,9 @@
 [
     {
-        "title": "나이키 SB x Doyenne",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9151_113_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-x-doyenne-apparel-collection-static",
-        "date": "3/8",
-        "releaseDate": "1678237200"
-    },
-    {
-        "title": "조던 Why Not .6 x Honor The Gift® (Big Kids)",
-        "theme": "Phantom and Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DO7191_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/big-kids-jordan-why-not-6-x-honor-the-gift-phantom-and-black",
-        "date": "3/8",
-        "releaseDate": "1678237200"
-    },
-    {
-        "title": "우먼스 에어 조던 2 로우",
-        "theme": "Gym Red and Dark Powder Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX4401_164_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-2-low-gym-red-and-dark-powder-blue",
-        "date": "3/8",
-        "releaseDate": "1678237200"
-    },
-    {
         "title": "에어 포스 1 로우 x Ambush",
         "theme": "Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-x-ambush-black",
+        "href": "/kr/launch/t/air-force-1-x-ambush-black?size=9",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
@@ -35,7 +11,7 @@
         "title": "덩크 로우",
         "theme": "Apple Green and Yellow Strike",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0833_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-apple-green-and-yellow-strike1",
+        "href": "/kr/launch/t/dunk-low-apple-green-and-yellow-strike1?size=9",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
@@ -43,7 +19,7 @@
         "title": "덩크 하이",
         "theme": "Psychic Purple and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0829_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-high-psychic-purple-and-black1",
+        "href": "/kr/launch/t/dunk-high-psychic-purple-and-black1?size=9",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
@@ -51,7 +27,7 @@
         "title": "에어 포스 1 x Ambush",
         "theme": "Phantom",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV3464_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-x-ambush-phantom",
+        "href": "/kr/launch/t/air-force-1-x-ambush-phantom?size=9",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
@@ -59,7 +35,7 @@
         "title": "나이키 x AMBUSH®️",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DN7654_480_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static",
+        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static?size=9",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
@@ -67,7 +43,7 @@
         "title": "나이키 x AMBUSH®️",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX6917_455_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static",
+        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static?size=9",
         "date": "3/9",
         "releaseDate": "1678323600"
     },
@@ -75,7 +51,7 @@
         "title": "에어맥스 1",
         "theme": "Shima Shima",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB8916_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-shima-shima",
+        "href": "/kr/launch/t/air-max-1-shima-shima?size=9",
         "date": "3/11",
         "releaseDate": "1678496400"
     },
@@ -83,7 +59,7 @@
         "title": "우먼스 에어맥스 1 '87 ",
         "theme": "Great Indoors",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0827_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-1-87-great-indoors",
+        "href": "/kr/launch/t/womens-air-max-1-87-great-indoors?size=9",
         "date": "3/15",
         "releaseDate": "1678842000"
     }
