@@ -22,5 +22,37 @@
         "href": "/kr/launch/t/jordan-hydro-iii-cement-white-and-university-red",
         "date": "3/18",
         "releaseDate": "1679101200"
+    },
+    {
+        "title": "에어맥스 1 ",
+        "theme": "Corduroy",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB8915_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-corduroy",
+        "date": "3/18",
+        "releaseDate": "1679101200"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "White and Game Royal",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ7570_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-07-white-game-royal",
+        "date": "3/19",
+        "releaseDate": "1679187600"
+    },
+    {
+        "title": "에어맥스 플러스",
+        "theme": "Gold and Raspberry Red",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX0755_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-plus-gold-raspberry-red",
+        "date": "3/19",
+        "releaseDate": "1679187600"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Sanddrift",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0873_126_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-sanddrift",
+        "date": "3/20",
+        "releaseDate": "1679274000"
     }
 ]
