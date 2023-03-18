@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 조던 1 하이",
-        "theme": "Multi-Color",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX0054_805_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-multi-color",
-        "date": "3/18",
-        "releaseDate": "1679101200"
-    },
-    {
-        "title": "조던 하이드로 III",
-        "theme": "Cement White and University Red",
-        "image": "https://secure-images.nike.com/is/image/DotCom/854556_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-hydro-iii-cement-white-and-university-red",
-        "date": "3/18",
-        "releaseDate": "1679101200"
-    },
-    {
-        "title": "에어맥스 1 ",
-        "theme": "Corduroy",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8915_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-corduroy",
-        "date": "3/18",
-        "releaseDate": "1679101200"
-    },
-    {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "White and Game Royal",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ7570_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -38,6 +14,14 @@
         "href": "/kr/launch/t/air-max-plus-gold-raspberry-red",
         "date": "3/19",
         "releaseDate": "1679187600"
+    },
+    {
+        "title": "에어 조던 1 로우 골프",
+        "theme": "Midnight Navy",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9315_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-low-golf-midnight-navy",
+        "date": "3/20",
+        "releaseDate": "1679274000"
     },
     {
         "title": "우먼스 덩크 로우",
@@ -56,11 +40,91 @@
         "releaseDate": "1679360400"
     },
     {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR2630_355_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6539_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR5274_664_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR2616_450_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_011_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR2628_355_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
+        "title": "NOCTA Turks and Caicos",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR2630_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-turks-and-caicos-apparel-collection-static",
+        "date": "3/22",
+        "releaseDate": "1679446800"
+    },
+    {
         "title": "에어 포스 1 로우 Billie",
         "theme": "Triple White",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ3674_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-force-1-low-billie-triple-white",
         "date": "3/23",
         "releaseDate": "1679533200"
+    },
+    {
+        "title": "나이키 SB 덩크 로우 x Fly Streetwear",
+        "theme": "Gardenia ",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ5130_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-dunk-low-fly-streetwear-gardenia",
+        "date": "3/23",
+        "releaseDate": "1679533200"
+    },
+    {
+        "title": "에어 조던 2 로우",
+        "theme": "Melon Tint",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV9956_118_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-2-low-melon-tint",
+        "date": "3/24",
+        "releaseDate": "1679619600"
     }
 ]
