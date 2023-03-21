@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 조던 1 로우 골프",
-        "theme": "Midnight Navy",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9315_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-golf-midnight-navy",
-        "date": "3/20",
-        "releaseDate": "1679274000"
-    },
-    {
-        "title": "우먼스 덩크 로우",
-        "theme": "Sanddrift",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0873_126_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-low-sanddrift",
-        "date": "3/20",
-        "releaseDate": "1679274000"
-    },
-    {
-        "title": "나이키 SB x 에어 조던 4",
-        "theme": "Pine Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR5415_103_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-air-jordan-4-pine-green",
-        "date": "3/21",
-        "releaseDate": "1679360400"
-    },
-    {
         "title": "NOCTA Turks and Caicos",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR2630_355_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -110,5 +86,29 @@
         "href": "/kr/launch/t/air-jordan-2-low-melon-tint",
         "date": "3/24",
         "releaseDate": "1679619600"
+    },
+    {
+        "title": "에어맥스 1 '86 오리지널",
+        "theme": "Big Bubble",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DQ3989_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/airmax-1-86-original-big-bubble",
+        "date": "3/26",
+        "releaseDate": "1679792400"
+    },
+    {
+        "title": "에어맥스 1 (Big Kids)",
+        "theme": "Challenge Red",
+        "image": "https://secure-images.nike.com/is/image/DotCom/555766_146_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/big-kids-air-max-1-challenge-red",
+        "date": "3/26",
+        "releaseDate": "1679792400"
+    },
+    {
+        "title": "우먼스 에어맥스 1 '86 오리지널",
+        "theme": "Big Bubble",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO9844_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-86-original-big-bubble1",
+        "date": "3/26",
+        "releaseDate": "1679792400"
     }
 ]
