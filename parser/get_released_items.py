@@ -21,7 +21,12 @@ def get_released_items(items):
 
         if item_ymd <= today_ymd:
             item_info = item.find('figcaption').find('div', class_='copy-container')
-            img = item.find('img', class_='image-component').attrs['src']
+            img = item.find('img', class_='image-component')
+            if img is not None:
+                img_src = img.attrs['src']
+            else:
+                img_src = ""
+
             title = item_info.find('h3', class_='headline-5').get_text()
             theme = item_info.find('h6', class_='headline-3').get_text()
             href = item.find('a', class_='card-link').attrs['href']
@@ -30,7 +35,7 @@ def get_released_items(items):
             released_items.append({
                 'title': title,
                 'theme': theme,
-                'image': img,
+                'image': img_src,
                 'href': href,
                 'date': m + "/" + d,
             })
