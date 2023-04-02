@@ -6,6 +6,7 @@ import time
 
 
 def get_upcoming_items():
+    print("get_upcoming_items...")
     try:
         options = webdriver.ChromeOptions()
         user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
@@ -47,6 +48,7 @@ def get_upcoming_items():
         #print(soup.prettify())
 
         upcoming_items =  soup.find_all('div', class_='product-card')
+        print(upcoming_items.count(), "개의 아이템을 찾았습니다.")
 
         return upcoming_items
 

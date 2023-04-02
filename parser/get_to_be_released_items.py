@@ -36,4 +36,5 @@ def get_to_be_released_items(items):
                 'releaseDate': ''  # 1668441600 UTC 타임스탬프
             })
 
+    print(to_be_released_items.count(), "개의 출시 예정 아이템을 찾았습니다.")
     return to_be_released_items

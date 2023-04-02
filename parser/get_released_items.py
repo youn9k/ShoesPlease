@@ -35,4 +35,5 @@ def get_released_items(items):
                 'date': m + "/" + d,
             })
 
+    print(released_items.count(), "개의 출시된 아이템을 찾았습니다.")
     return released_items
