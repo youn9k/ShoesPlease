@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 조던 5 로우 (Big Kids)",
-        "theme": "Coral Chalk",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX4390_116_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/big-kids-air-jordan-5-low-coral-chalk",
-        "date": "4/4",
-        "releaseDate": "1680570000"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "ATL",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0724_657_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-atl",
-        "date": "4/4",
-        "releaseDate": "1680570000"
-    },
-    {
-        "title": "에어맥스 스콜피온",
-        "theme": "Black and University Red",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DJ4701_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-scorpion-black-and-university-red1",
-        "date": "4/4",
-        "releaseDate": "1680570000"
-    },
-    {
         "title": "에어 폼포짓 원",
         "theme": "White and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0815_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -34,7 +10,7 @@
     {
         "title": "우먼스 에어맥스 플러스",
         "theme": "Sand Drift",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2832_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-max-plus-sand-drift",
         "date": "4/5",
         "releaseDate": "1680656400"
@@ -80,6 +56,14 @@
         "releaseDate": "1680829200"
     },
     {
+        "title": "테이텀 1",
+        "theme": "Zoo",
+        "image": "",
+        "href": "/kr/launch/t/tatum-1-zoo",
+        "date": "4/7",
+        "releaseDate": "1680829200"
+    },
+    {
         "title": "ACG 목",
         "theme": "Summit White and Black",
         "image": "",
@@ -96,10 +80,42 @@
         "releaseDate": "1680829200"
     },
     {
+        "title": "에어 조던 3",
+        "theme": "White Cement Reimagined",
+        "image": "",
+        "href": "/kr/launch/t/air-jordan-3-white-cement-reimagined",
+        "date": "4/8",
+        "releaseDate": "1680915600"
+    },
+    {
+        "title": "에어 조던 3 (Big Kids)",
+        "theme": "White Cement Reimagined",
+        "image": "",
+        "href": "/kr/launch/t/air-jordan-3-white-cement-reimagined-gs-kr",
+        "date": "4/8",
+        "releaseDate": "1680915600"
+    },
+    {
         "title": "에어 조던 2 로우",
         "theme": "Seersucker",
         "image": "",
         "href": "/kr/launch/t/air-jordan-2-low-seersucker",
+        "date": "4/8",
+        "releaseDate": "1680915600"
+    },
+    {
+        "title": "조던 3 (Little Kids)",
+        "theme": "White Cement Reimagined",
+        "image": "",
+        "href": "/kr/launch/t/jordan-3-white-cement-reimagined-ps-kr",
+        "date": "4/8",
+        "releaseDate": "1680915600"
+    },
+    {
+        "title": "조던 3 (Toddler)",
+        "theme": "White Cement Reimagined",
+        "image": "",
+        "href": "/kr/launch/t/jordan-3-white-cement-reimagined-td-kr",
         "date": "4/8",
         "releaseDate": "1680915600"
     },
