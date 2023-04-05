@@ -1,40 +1,8 @@
 [
     {
-        "title": "에어 폼포짓 원",
-        "theme": "White and Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV0815_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-foamposite-one-white-and-black",
-        "date": "4/5",
-        "releaseDate": "1680656400"
-    },
-    {
-        "title": "우먼스 에어맥스 플러스",
-        "theme": "Sand Drift",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2832_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-plus-sand-drift",
-        "date": "4/5",
-        "releaseDate": "1680656400"
-    },
-    {
-        "title": "NOCTA",
-        "theme": "Swim Fins",
-        "image": "",
-        "href": "/kr/launch/t/nocta-swim-fins-kr",
-        "date": "4/5",
-        "releaseDate": "1680656400"
-    },
-    {
-        "title": "우먼스 에어 베이퍼맥스 2023 플라이니트",
-        "theme": "White",
-        "image": "",
-        "href": "/kr/launch/t/womens-air-vapormax-2023-flyknit-white",
-        "date": "4/6",
-        "releaseDate": "1680742800"
-    },
-    {
         "title": "에어 포스 1",
         "theme": "Color of the Month",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN5924_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/su23-air-force-1-color-of-the-month",
         "date": "4/6",
         "releaseDate": "1680742800"
@@ -42,32 +10,16 @@
     {
         "title": "우먼스 에어 조던 3",
         "theme": "Lucky Green",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CK9246_136_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-jordan-3-lucky-green",
         "date": "4/6",
         "releaseDate": "1680742800"
     },
     {
-        "title": "ACG 목",
-        "theme": "Moss and Anthracite",
-        "image": "",
-        "href": "/kr/launch/t/acg-moc-moss-and-anthracite",
-        "date": "4/7",
-        "releaseDate": "1680829200"
-    },
-    {
         "title": "테이텀 1",
         "theme": "Zoo",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6734_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/tatum-1-zoo",
-        "date": "4/7",
-        "releaseDate": "1680829200"
-    },
-    {
-        "title": "ACG 목",
-        "theme": "Summit White and Black",
-        "image": "",
-        "href": "/kr/launch/t/acg-moc-summit-white-and-black",
         "date": "4/7",
         "releaseDate": "1680829200"
     },
@@ -120,6 +72,70 @@
         "releaseDate": "1680915600"
     },
     {
+        "title": "자이언 2 x 나루토 PF",
+        "theme": "The Final Battle",
+        "image": "",
+        "href": "/kr/launch/t/zion-2-x-naruto-pf-the-final-battle",
+        "date": "4/10",
+        "releaseDate": "1681088400"
+    },
+    {
+        "title": "에어맥스 페니",
+        "theme": "Varsity Royal and Black",
+        "image": "",
+        "href": "/kr/launch/t/air-max-penny-varsity-royal-and-black",
+        "date": "4/10",
+        "releaseDate": "1681088400"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Spring Mix",
+        "image": "",
+        "href": "/kr/launch/t/womens-dunk-low-spring-mix",
+        "date": "4/10",
+        "releaseDate": "1681088400"
+    },
+    {
+        "title": "나이키 퀀도 1 x PEACEMINUSONE",
+        "theme": "Black and White",
+        "image": "",
+        "href": "/kr/launch/t/nike-peaceminusone-g-dragon-kwondo-1-black-and-white",
+        "date": "4/11",
+        "releaseDate": "1681174800"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "4/11",
+        "releaseDate": "1681178400"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "4/11",
+        "releaseDate": "1681178400"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "4/11",
+        "releaseDate": "1681178400"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "4/11",
+        "releaseDate": "1681178400"
+    },
+    {
         "title": "에어맥스 1",
         "theme": "Time Warp",
         "image": "",
@@ -150,5 +166,29 @@
         "href": "/kr/launch/t/air-force-1-07-time-warp",
         "date": "4/12",
         "releaseDate": "1681261200"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Moss and Anthracite",
+        "image": "",
+        "href": "/kr/launch/t/acg-moc-moss-and-anthracite",
+        "date": "4/13",
+        "releaseDate": "1681347600"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Summit White and Black",
+        "image": "",
+        "href": "/kr/launch/t/acg-moc-summit-white-and-black",
+        "date": "4/13",
+        "releaseDate": "1681347600"
+    },
+    {
+        "title": "우먼스 에어 베이퍼맥스 2023 플라이니트",
+        "theme": "White",
+        "image": "",
+        "href": "/kr/launch/t/womens-air-vapormax-2023-flyknit-white",
+        "date": "4/19",
+        "releaseDate": "1681866000"
     }
 ]
