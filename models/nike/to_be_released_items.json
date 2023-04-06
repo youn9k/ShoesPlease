@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 포스 1",
-        "theme": "Color of the Month",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN5924_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/su23-air-force-1-color-of-the-month",
-        "date": "4/6",
-        "releaseDate": "1680742800"
-    },
-    {
-        "title": "우먼스 에어 조던 3",
-        "theme": "Lucky Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CK9246_136_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-3-lucky-green",
-        "date": "4/6",
-        "releaseDate": "1680742800"
-    },
-    {
         "title": "테이텀 1",
         "theme": "Zoo",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX6734_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -24,17 +8,9 @@
         "releaseDate": "1680829200"
     },
     {
-        "title": "ACG 로우케이트",
-        "theme": "Black Moss",
-        "image": "",
-        "href": "/kr/launch/t/acg-lowcate-black-moss",
-        "date": "4/7",
-        "releaseDate": "1680829200"
-    },
-    {
         "title": "에어 조던 3",
         "theme": "White Cement Reimagined",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DN3707_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-3-white-cement-reimagined",
         "date": "4/8",
         "releaseDate": "1680915600"
@@ -42,7 +18,7 @@
     {
         "title": "에어 조던 3 (Big Kids)",
         "theme": "White Cement Reimagined",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0967_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-3-white-cement-reimagined-gs-kr",
         "date": "4/8",
         "releaseDate": "1680915600"
@@ -50,7 +26,7 @@
     {
         "title": "에어 조던 2 로우",
         "theme": "Seersucker",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6930_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-2-low-seersucker",
         "date": "4/8",
         "releaseDate": "1680915600"
@@ -76,14 +52,6 @@
         "theme": "The Final Battle",
         "image": "",
         "href": "/kr/launch/t/zion-2-x-naruto-pf-the-final-battle",
-        "date": "4/10",
-        "releaseDate": "1681088400"
-    },
-    {
-        "title": "에어맥스 페니",
-        "theme": "Varsity Royal and Black",
-        "image": "",
-        "href": "/kr/launch/t/air-max-penny-varsity-royal-and-black",
         "date": "4/10",
         "releaseDate": "1681088400"
     },
@@ -152,6 +120,22 @@
         "releaseDate": "1681261200"
     },
     {
+        "title": "목 플로우 x UNDERCOVER",
+        "theme": "Black",
+        "image": "",
+        "href": "/kr/launch/t/moc-flow-undercover-black",
+        "date": "4/12",
+        "releaseDate": "1681261200"
+    },
+    {
+        "title": "목 플로우 x UNDERCOVER",
+        "theme": "Ale Brown and Team Royal",
+        "image": "",
+        "href": "/kr/launch/t/moc-flow-undercover-ale-brown-and-team-royal",
+        "date": "4/12",
+        "releaseDate": "1681261200"
+    },
+    {
         "title": "우먼스 덩크 로우",
         "theme": "Grey Fog and Blustery",
         "image": "",
@@ -168,10 +152,34 @@
         "releaseDate": "1681261200"
     },
     {
+        "title": "에어 모어 업템포",
+        "theme": "Coconut Milk",
+        "image": "",
+        "href": "/kr/launch/t/air-more-uptempo-coconut-milk",
+        "date": "4/13",
+        "releaseDate": "1681347600"
+    },
+    {
         "title": "ACG 목",
         "theme": "Moss and Anthracite",
         "image": "",
         "href": "/kr/launch/t/acg-moc-moss-and-anthracite",
+        "date": "4/13",
+        "releaseDate": "1681347600"
+    },
+    {
+        "title": "에어 페니 2",
+        "theme": "Wheat Gold and Safety Orange",
+        "image": "",
+        "href": "/kr/launch/t/air-penny-2-wheat-gold-and-safety-orange",
+        "date": "4/13",
+        "releaseDate": "1681347600"
+    },
+    {
+        "title": "에어 트레이너 1",
+        "theme": "Wheat Gold",
+        "image": "",
+        "href": "/kr/launch/t/air-trainer-1-wheat-gold",
         "date": "4/13",
         "releaseDate": "1681347600"
     },
@@ -182,6 +190,46 @@
         "href": "/kr/launch/t/acg-moc-summit-white-and-black",
         "date": "4/13",
         "releaseDate": "1681347600"
+    },
+    {
+        "title": "코르테즈 x CLOT",
+        "theme": "White and Game Royal",
+        "image": "",
+        "href": "/kr/launch/t/cortez-clot-white-and-game-royal",
+        "date": "4/14",
+        "releaseDate": "1681434000"
+    },
+    {
+        "title": "에어 조던 1 하이 (Big Kids)",
+        "theme": "Black and Lucky Green",
+        "image": "",
+        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green-gs-kr",
+        "date": "4/15",
+        "releaseDate": "1681520400"
+    },
+    {
+        "title": "조던 1 하이 (Little Kids)",
+        "theme": "Black and Lucky Green",
+        "image": "",
+        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-ps-kr",
+        "date": "4/15",
+        "releaseDate": "1681520400"
+    },
+    {
+        "title": "에어 조던 1 하이",
+        "theme": "Black and Lucky Green",
+        "image": "",
+        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green",
+        "date": "4/15",
+        "releaseDate": "1681520400"
+    },
+    {
+        "title": "조던 1 하이 (Toddler)",
+        "theme": "Black and Lucky Green",
+        "image": "",
+        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-td-kr",
+        "date": "4/15",
+        "releaseDate": "1681520400"
     },
     {
         "title": "우먼스 에어 베이퍼맥스 2023 플라이니트",
