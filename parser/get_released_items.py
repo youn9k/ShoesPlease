@@ -20,7 +20,7 @@ def get_released_items(items):
         item_ymd = datetime(year=today.year, month=int(m), day=int(d))  # 2022-11-11 00:00:00
 
         if item_ymd <= today_ymd:
-            item_info = item.find('figcaption-content').find('div', class_='copy-container')
+            item_info = item.find('figcaption').find('div', class_='copy-container')
             title = item_info.find('h2', class_='headline-5').get_text()
             theme = item_info.find('h3', class_='headline-3').get_text()
             href = item.find('a', class_='card-link').attrs['href']
