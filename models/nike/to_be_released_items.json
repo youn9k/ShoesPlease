@@ -1,49 +1,9 @@
 [
     {
-        "title": "ACG 마운틴 플라이 2 로우",
-        "theme": "Laser Orange",
-        "image": "",
-        "href": "/kr/launch/t/acg-mountain-fly-2-low-laser-orange-1?size=9.5",
-        "date": "4/14",
-        "releaseDate": "1681434000"
-    },
-    {
-        "title": "에어맥스 1",
-        "theme": "Mica Green",
-        "image": "",
-        "href": "/kr/launch/t/air-max-1-mica-green?size=9.5",
-        "date": "4/14",
-        "releaseDate": "1681434000"
-    },
-    {
-        "title": "ACG 마운틴 플라이 2 로우",
-        "theme": "Summit White and Bright Mandarin",
-        "image": "",
-        "href": "/kr/launch/t/acg-mountain-fly-2-low-summit-white-and-bright-mandarin-kr?size=9.5",
-        "date": "4/14",
-        "releaseDate": "1681434000"
-    },
-    {
-        "title": "코르테즈 x CLOT",
-        "theme": "White and Game Royal",
-        "image": "",
-        "href": "/kr/launch/t/cortez-clot-white-and-game-royal?size=9.5",
-        "date": "4/14",
-        "releaseDate": "1681434000"
-    },
-    {
-        "title": "ACG 마운틴 플라이 2 로우",
-        "theme": "Neutral Olive and Mountain Grape",
-        "image": "",
-        "href": "/kr/launch/t/acg-mountain-fly-2-low-neutral-olive-and-mountain-grape-kr?size=9.5",
-        "date": "4/14",
-        "releaseDate": "1681434000"
-    },
-    {
         "title": "에어 조던 1 하이 (Big Kids)",
         "theme": "Black and Lucky Green",
-        "image": "",
-        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green-gs-kr?size=9.5",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_031_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green-gs-kr",
         "date": "4/15",
         "releaseDate": "1681520400"
     },
@@ -51,7 +11,7 @@
         "title": "조던 1 하이 (Little Kids)",
         "theme": "Black and Lucky Green",
         "image": "",
-        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-ps-kr?size=9.5",
+        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-ps-kr",
         "date": "4/15",
         "releaseDate": "1681520400"
     },
@@ -59,7 +19,7 @@
         "title": "에어 조던 1 하이",
         "theme": "Black and Lucky Green",
         "image": "",
-        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green?size=9.5",
+        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green",
         "date": "4/15",
         "releaseDate": "1681520400"
     },
@@ -67,7 +27,7 @@
         "title": "조던 1 하이 (Toddler)",
         "theme": "Black and Lucky Green",
         "image": "",
-        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-td-kr?size=9.5",
+        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-td-kr",
         "date": "4/15",
         "releaseDate": "1681520400"
     },
@@ -75,7 +35,7 @@
         "title": "우먼스 에어 모어 업템포 슬라이드",
         "theme": "White and Black",
         "image": "",
-        "href": "/kr/launch/t/womens-air-more-uptempo-slide-white-and-black?size=9.5",
+        "href": "/kr/launch/t/womens-air-more-uptempo-slide-white-and-black",
         "date": "4/17",
         "releaseDate": "1681693200"
     },
@@ -83,7 +43,7 @@
         "title": "우먼스 에어 어저스트 포스 2023",
         "theme": "Black and Vivid Purple",
         "image": "",
-        "href": "/kr/launch/t/womens-air-adjust-force-2023-black-and-vivid-purple?size=9.5",
+        "href": "/kr/launch/t/womens-air-adjust-force-2023-black-and-vivid-purple",
         "date": "4/17",
         "releaseDate": "1681693200"
     },
@@ -91,7 +51,7 @@
         "title": "우먼스 에어 베이퍼맥스 2023 플라이니트",
         "theme": "White",
         "image": "",
-        "href": "/kr/launch/t/womens-air-vapormax-2023-flyknit-white?size=9.5",
+        "href": "/kr/launch/t/womens-air-vapormax-2023-flyknit-white",
         "date": "4/19",
         "releaseDate": "1681866000"
     },
@@ -99,7 +59,7 @@
         "title": "줌 보메로 5 ",
         "theme": "Yellow Ochre",
         "image": "",
-        "href": "/kr/launch/t/zoom-vomero-5-yellow-ochre?size=9.5",
+        "href": "/kr/launch/t/zoom-vomero-5-yellow-ochre",
         "date": "4/19",
         "releaseDate": "1681866000"
     },
@@ -107,7 +67,7 @@
         "title": "에어 플라이트 허라치",
         "theme": "Varsity Purple and Royal Blue",
         "image": "",
-        "href": "/kr/launch/t/air-flight-huarache-varsity-purple-and-royal-blue?size=9.5",
+        "href": "/kr/launch/t/air-flight-huarache-varsity-purple-and-royal-blue",
         "date": "4/19",
         "releaseDate": "1681866000"
     },
@@ -115,7 +75,7 @@
         "title": "Nike SB 덩크 하이 x Run The Jewels",
         "theme": "Active Pink and Black",
         "image": "",
-        "href": "/kr/launch/t/nike-sb-dunk-high-run-the-jewels-active-pink-and-black?size=9.5",
+        "href": "/kr/launch/t/nike-sb-dunk-high-run-the-jewels-active-pink-and-black",
         "date": "4/20",
         "releaseDate": "1681952400"
     },
@@ -123,7 +83,7 @@
         "title": "Nike SB 덩크 로우 x Run The Jewels",
         "theme": "Deep Royal Blue and Active Pink",
         "image": "",
-        "href": "/kr/launch/t/nike-sb-dunk-low-run-the-jewels-deep-royal-blue-and-active-pink?size=9.5",
+        "href": "/kr/launch/t/nike-sb-dunk-low-run-the-jewels-deep-royal-blue-and-active-pink",
         "date": "4/20",
         "releaseDate": "1681952400"
     },
@@ -131,15 +91,23 @@
         "title": "우먼스 코르테즈",
         "theme": "Iced Lilac",
         "image": "",
-        "href": "/kr/launch/t/womens-cortez-iced-lilac?size=9.5",
+        "href": "/kr/launch/t/womens-cortez-iced-lilac",
         "date": "4/20",
         "releaseDate": "1681952400"
+    },
+    {
+        "title": "에어맥스 97",
+        "theme": "Oxidized Bullet",
+        "image": "",
+        "href": "/kr/launch/t/air-max-97-oxidized-bullet",
+        "date": "4/21",
+        "releaseDate": "1682038800"
     },
     {
         "title": "조던 1 하이 (Little Kids)",
         "theme": "Coconut Milk and Sail",
         "image": "",
-        "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-ps-kr?size=9.5",
+        "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-ps-kr",
         "date": "4/22",
         "releaseDate": "1682125200"
     },
@@ -147,7 +115,7 @@
         "title": "우먼스 에어 조던 1 하이",
         "theme": "Coconut Milk and Sail",
         "image": "",
-        "href": "/kr/launch/t/womens-air-jordan-1-high-washed-pink?size=9.5",
+        "href": "/kr/launch/t/womens-air-jordan-1-high-washed-pink",
         "date": "4/22",
         "releaseDate": "1682125200"
     },
@@ -155,7 +123,7 @@
         "title": "조던 1 하이 (Toddler)",
         "theme": "Coconut Milk and Sail",
         "image": "",
-        "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-td-kr?size=9.5",
+        "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-td-kr",
         "date": "4/22",
         "releaseDate": "1682125200"
     },
@@ -163,8 +131,64 @@
         "title": "에어 조던 13",
         "theme": "Black Flint",
         "image": "",
-        "href": "/kr/launch/t/air-jordan-13-black-flint?size=9.5",
+        "href": "/kr/launch/t/air-jordan-13-black-flint",
         "date": "4/22",
         "releaseDate": "1682125200"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "Team Gold and Safety Orange",
+        "image": "",
+        "href": "/kr/launch/t/air-force-1-mid-07-team-gold-and-safety-orange",
+        "date": "4/24",
+        "releaseDate": "1682298000"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "Desert Ochre and Midnight Navy",
+        "image": "",
+        "href": "/kr/launch/t/nike-sb-dunk-low-desert-ochre-and-midnight-navy",
+        "date": "4/24",
+        "releaseDate": "1682298000"
+    },
+    {
+        "title": "ISPA MindBody",
+        "theme": "Barely Volt",
+        "image": "",
+        "href": "/kr/launch/t/ispa-mindbody-barely-volt",
+        "date": "4/25",
+        "releaseDate": "1682384400"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Stadium Green and White",
+        "image": "",
+        "href": "/kr/launch/t/dunk-high-stadium-green-and-white",
+        "date": "4/27",
+        "releaseDate": "1682557200"
+    },
+    {
+        "title": "에어맥스 페니",
+        "theme": "Pure Platinum",
+        "image": "",
+        "href": "/kr/launch/t/air-max-penny-pure-platinum",
+        "date": "4/27",
+        "releaseDate": "1682557200"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Wheat Gold and Safety Orange",
+        "image": "",
+        "href": "/kr/launch/t/dunk-high-wheat-gold-and-safety-orange",
+        "date": "4/27",
+        "releaseDate": "1682557200"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Team Gold and White",
+        "image": "",
+        "href": "/kr/launch/t/dunk-low-team-gold-and-white",
+        "date": "4/27",
+        "releaseDate": "1682557200"
     }
 ]
