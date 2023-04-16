@@ -1,40 +1,8 @@
 [
     {
-        "title": "에어 조던 1 하이 (Big Kids)",
-        "theme": "Black and Lucky Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_031_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green-gs-kr",
-        "date": "4/15",
-        "releaseDate": "1681520400"
-    },
-    {
-        "title": "조던 1 하이 (Little Kids)",
-        "theme": "Black and Lucky Green",
-        "image": "",
-        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-ps-kr",
-        "date": "4/15",
-        "releaseDate": "1681520400"
-    },
-    {
-        "title": "에어 조던 1 하이",
-        "theme": "Black and Lucky Green",
-        "image": "",
-        "href": "/kr/launch/t/air-jordan-1-high-black-and-lucky-green",
-        "date": "4/15",
-        "releaseDate": "1681520400"
-    },
-    {
-        "title": "조던 1 하이 (Toddler)",
-        "theme": "Black and Lucky Green",
-        "image": "",
-        "href": "/kr/launch/t/jordan-1-high-black-and-lucky-green-td-kr",
-        "date": "4/15",
-        "releaseDate": "1681520400"
-    },
-    {
         "title": "우먼스 에어 모어 업템포 슬라이드",
         "theme": "White and Black",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ0755_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-more-uptempo-slide-white-and-black",
         "date": "4/17",
         "releaseDate": "1681693200"
@@ -42,7 +10,7 @@
     {
         "title": "우먼스 에어 어저스트 포스 2023",
         "theme": "Black and Vivid Purple",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7409_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-adjust-force-2023-black-and-vivid-purple",
         "date": "4/17",
         "releaseDate": "1681693200"
@@ -50,7 +18,7 @@
     {
         "title": "우먼스 에어 베이퍼맥스 2023 플라이니트",
         "theme": "White",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV6840_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-vapormax-2023-flyknit-white",
         "date": "4/19",
         "releaseDate": "1681866000"
@@ -58,7 +26,7 @@
     {
         "title": "줌 보메로 5 ",
         "theme": "Yellow Ochre",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4453_765_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/zoom-vomero-5-yellow-ochre",
         "date": "4/19",
         "releaseDate": "1681866000"
@@ -66,7 +34,7 @@
     {
         "title": "에어 플라이트 허라치",
         "theme": "Varsity Purple and Royal Blue",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0183_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-flight-huarache-varsity-purple-and-royal-blue",
         "date": "4/19",
         "releaseDate": "1681866000"
@@ -74,7 +42,7 @@
     {
         "title": "Nike SB 덩크 하이 x Run The Jewels",
         "theme": "Active Pink and Black",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX4356_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-sb-dunk-high-run-the-jewels-active-pink-and-black",
         "date": "4/20",
         "releaseDate": "1681952400"
@@ -94,6 +62,14 @@
         "href": "/kr/launch/t/womens-cortez-iced-lilac",
         "date": "4/20",
         "releaseDate": "1681952400"
+    },
+    {
+        "title": "우먼스 코르테즈",
+        "theme": "Black",
+        "image": "",
+        "href": "/kr/launch/t/womens-cortez-black",
+        "date": "4/21",
+        "releaseDate": "1682038800"
     },
     {
         "title": "에어맥스 97",
@@ -160,6 +136,14 @@
         "releaseDate": "1682384400"
     },
     {
+        "title": "덩크 로우",
+        "theme": "Team Red and White",
+        "image": "",
+        "href": "/kr/launch/t/dunk-low-team-red-and-white",
+        "date": "4/25",
+        "releaseDate": "1682384400"
+    },
+    {
         "title": "덩크 하이",
         "theme": "Stadium Green and White",
         "image": "",
@@ -190,5 +174,13 @@
         "href": "/kr/launch/t/dunk-low-team-gold-and-white",
         "date": "4/27",
         "releaseDate": "1682557200"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Washed Dark Blue",
+        "image": "",
+        "href": "/kr/launch/t/air-max-1-washed-dark-blue",
+        "date": "4/28",
+        "releaseDate": "1682643600"
     }
 ]
