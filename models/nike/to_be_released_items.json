@@ -34,7 +34,7 @@
     {
         "title": "Nike SB 덩크 로우 x Run The Jewels",
         "theme": "Deep Royal Blue and Active Pink",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO9404_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-sb-dunk-low-run-the-jewels-deep-royal-blue-and-active-pink",
         "date": "4/20",
         "releaseDate": "1681952400"
@@ -42,7 +42,7 @@
     {
         "title": "우먼스 코르테즈",
         "theme": "Iced Lilac",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4608_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-cortez-iced-lilac",
         "date": "4/20",
         "releaseDate": "1681952400"
@@ -112,10 +112,26 @@
         "releaseDate": "1682298000"
     },
     {
+        "title": "에어 포스 1 '07",
+        "theme": "Team Gold and Black",
+        "image": "",
+        "href": "/kr/launch/t/air-force-1-07-team-gold-and-black",
+        "date": "4/24",
+        "releaseDate": "1682298000"
+    },
+    {
         "title": "ISPA MindBody",
         "theme": "Barely Volt",
         "image": "",
         "href": "/kr/launch/t/ispa-mindbody-barely-volt",
+        "date": "4/25",
+        "releaseDate": "1682384400"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Team Red and White",
+        "image": "",
+        "href": "/kr/launch/t/dunk-low-team-red-and-white",
         "date": "4/25",
         "releaseDate": "1682384400"
     },
@@ -150,6 +166,14 @@
         "href": "/kr/launch/t/dunk-low-team-gold-and-white",
         "date": "4/27",
         "releaseDate": "1682557200"
+    },
+    {
+        "title": "우먼스 코르테즈",
+        "theme": "Gorge Green and Malachite",
+        "image": "",
+        "href": "/kr/launch/t/womens-cortez-gorge-green-and-malachite",
+        "date": "4/28",
+        "releaseDate": "1682643600"
     },
     {
         "title": "에어맥스 1",
