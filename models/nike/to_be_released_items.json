@@ -1,29 +1,5 @@
 [
     {
-        "title": "우먼스 에어 베이퍼맥스 2023 플라이니트",
-        "theme": "White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV6840_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-vapormax-2023-flyknit-white",
-        "date": "4/19",
-        "releaseDate": "1681866000"
-    },
-    {
-        "title": "줌 보메로 5 ",
-        "theme": "Yellow Ochre",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4453_765_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-vomero-5-yellow-ochre",
-        "date": "4/19",
-        "releaseDate": "1681866000"
-    },
-    {
-        "title": "에어 플라이트 허라치",
-        "theme": "Varsity Purple and Royal Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0183_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-flight-huarache-varsity-purple-and-royal-blue",
-        "date": "4/19",
-        "releaseDate": "1681866000"
-    },
-    {
         "title": "Nike SB 덩크 하이 x Run The Jewels",
         "theme": "Active Pink and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX4356_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -120,10 +96,18 @@
         "releaseDate": "1682298000"
     },
     {
+        "title": "ACG 에어 데슈츠+",
+        "theme": "Pilgrim",
+        "image": "",
+        "href": "/kr/launch/t/acg-air-deschutz-pilgrim",
+        "date": "4/24",
+        "releaseDate": "1682298000"
+    },
+    {
         "title": "ISPA MindBody",
         "theme": "Barely Volt",
         "image": "",
-        "href": "/kr/launch/t/ispa-mindbody-barely-volt",
+        "href": "/kr/launch/t/ispa-mindbody-barely-volt-kr",
         "date": "4/25",
         "releaseDate": "1682384400"
     },
@@ -132,6 +116,14 @@
         "theme": "Team Red and White",
         "image": "",
         "href": "/kr/launch/t/dunk-low-team-red-and-white",
+        "date": "4/25",
+        "releaseDate": "1682384400"
+    },
+    {
+        "title": "ISPA 유니버설",
+        "theme": "Natural",
+        "image": "",
+        "href": "/kr/launch/t/ispa-universal-natural",
         "date": "4/25",
         "releaseDate": "1682384400"
     },
