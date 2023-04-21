@@ -1,21 +1,5 @@
 [
     {
-        "title": "우먼스 코르테즈",
-        "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ5465_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-black",
-        "date": "4/21",
-        "releaseDate": "1682038800"
-    },
-    {
-        "title": "에어맥스 97",
-        "theme": "Oxidized Bullet",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7422_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-97-oxidized-bullet",
-        "date": "4/21",
-        "releaseDate": "1682038800"
-    },
-    {
         "title": "조던 1 하이 (Little Kids)",
         "theme": "Coconut Milk and Sail",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD2597_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -26,7 +10,7 @@
     {
         "title": "우먼스 에어 조던 1 하이",
         "theme": "Coconut Milk and Sail",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2596_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-jordan-1-high-washed-pink",
         "date": "4/22",
         "releaseDate": "1682125200"
@@ -34,7 +18,7 @@
     {
         "title": "조던 1 하이 (Toddler)",
         "theme": "Coconut Milk and Sail",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2598_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-td-kr",
         "date": "4/22",
         "releaseDate": "1682125200"
@@ -42,7 +26,7 @@
     {
         "title": "에어 조던 13",
         "theme": "Black Flint",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DJ5982_060_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-13-black-flint",
         "date": "4/22",
         "releaseDate": "1682125200"
@@ -121,6 +105,14 @@
     },
     {
         "title": "에어맥스 페니",
+        "theme": "Varsity Royal and Black",
+        "image": "",
+        "href": "/kr/launch/t/air-max-penny-varsity-royal-and-black",
+        "date": "4/27",
+        "releaseDate": "1682557200"
+    },
+    {
+        "title": "에어맥스 페니",
         "theme": "Pure Platinum",
         "image": "",
         "href": "/kr/launch/t/air-max-penny-pure-platinum",
@@ -156,6 +148,14 @@
         "theme": "Pine Green",
         "image": "",
         "href": "/kr/launch/t/air-force-1-mid-off-white-pine-green",
+        "date": "4/28",
+        "releaseDate": "1682643600"
+    },
+    {
+        "title": "나이키 SB 줌 블레이저 미드 x Mason Silva",
+        "theme": "Dark Obsidian and Metallic Silver",
+        "image": "",
+        "href": "/kr/launch/t/nike-sb-zoom-blazer-mid-mason-silva-dark-obsidian-and-metallic-silver",
         "date": "4/28",
         "releaseDate": "1682643600"
     },
@@ -198,5 +198,13 @@
         "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-td-kr",
         "date": "4/29",
         "releaseDate": "1682730000"
+    },
+    {
+        "title": "우먼스 에어맥스 스콜피온",
+        "theme": "White",
+        "image": "",
+        "href": "/kr/launch/t/womens-air-max-scorpion-white",
+        "date": "5/1",
+        "releaseDate": "1682902800"
     }
 ]
