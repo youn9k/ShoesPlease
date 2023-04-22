@@ -1,40 +1,8 @@
 [
     {
-        "title": "조던 1 하이 (Little Kids)",
-        "theme": "Coconut Milk and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD2597_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-ps-kr",
-        "date": "4/22",
-        "releaseDate": "1682125200"
-    },
-    {
-        "title": "우먼스 에어 조던 1 하이",
-        "theme": "Coconut Milk and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD2596_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-1-high-washed-pink",
-        "date": "4/22",
-        "releaseDate": "1682125200"
-    },
-    {
-        "title": "조던 1 하이 (Toddler)",
-        "theme": "Coconut Milk and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD2598_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-coconut-milk-and-sail-td-kr",
-        "date": "4/22",
-        "releaseDate": "1682125200"
-    },
-    {
-        "title": "에어 조던 13",
-        "theme": "Black Flint",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DJ5982_060_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-13-black-flint",
-        "date": "4/22",
-        "releaseDate": "1682125200"
-    },
-    {
         "title": "에어 포스 1 미드 '07",
         "theme": "Team Gold and Safety Orange",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-force-1-mid-07-team-gold-and-safety-orange",
         "date": "4/24",
         "releaseDate": "1682298000"
@@ -42,7 +10,7 @@
     {
         "title": "나이키 SB 덩크 로우",
         "theme": "Desert Ochre and Midnight Navy",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6775_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-sb-dunk-low-desert-ochre-and-midnight-navy",
         "date": "4/24",
         "releaseDate": "1682298000"
@@ -198,6 +166,22 @@
         "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-td-kr",
         "date": "4/29",
         "releaseDate": "1682730000"
+    },
+    {
+        "title": "우먼스 에어 모어 업템포",
+        "theme": "White and Metallic Silver",
+        "image": "",
+        "href": "/kr/launch/t/womens-air-more-uptempo-white-and-metallic-silver",
+        "date": "5/1",
+        "releaseDate": "1682902800"
+    },
+    {
+        "title": "덩크 하이",
+        "theme": "Gold Mountain",
+        "image": "",
+        "href": "/kr/launch/t/dunk-high-gold-mountain",
+        "date": "5/1",
+        "releaseDate": "1682902800"
     },
     {
         "title": "우먼스 에어맥스 스콜피온",
