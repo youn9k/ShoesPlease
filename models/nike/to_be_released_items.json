@@ -1,49 +1,25 @@
 [
     {
-        "title": "ISPA MindBody",
-        "theme": "Barely Volt",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-barely-volt-kr?cp=72629085282_search_",
-        "date": "4/25",
-        "releaseDate": "1682384400"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Team Red and White",
-        "image": "",
-        "href": "/kr/launch/t/dunk-low-team-red-and-white?cp=72629085282_search_",
-        "date": "4/25",
-        "releaseDate": "1682384400"
-    },
-    {
-        "title": "ISPA 유니버설",
-        "theme": "Natural",
-        "image": "",
-        "href": "/kr/launch/t/ispa-universal-natural?cp=72629085282_search_",
-        "date": "4/25",
-        "releaseDate": "1682384400"
-    },
-    {
         "title": "덩크 하이",
         "theme": "Stadium Green and White",
-        "image": "",
-        "href": "/kr/launch/t/dunk-high-stadium-green-and-white?cp=72629085282_search_",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0829_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-high-stadium-green-and-white",
         "date": "4/27",
         "releaseDate": "1682557200"
     },
     {
         "title": "에어맥스 페니",
         "theme": "Varsity Royal and Black",
-        "image": "",
-        "href": "/kr/launch/t/air-max-penny-varsity-royal-and-black?cp=72629085282_search_",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DN2487_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-penny-varsity-royal-and-black",
         "date": "4/27",
         "releaseDate": "1682557200"
     },
     {
         "title": "에어맥스 페니",
         "theme": "Pure Platinum",
-        "image": "",
-        "href": "/kr/launch/t/air-max-penny-pure-platinum?cp=72629085282_search_",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7220_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-penny-pure-platinum",
         "date": "4/27",
         "releaseDate": "1682557200"
     },
@@ -51,7 +27,7 @@
         "title": "덩크 하이",
         "theme": "Wheat Gold and Safety Orange",
         "image": "",
-        "href": "/kr/launch/t/dunk-high-wheat-gold-and-safety-orange?cp=72629085282_search_",
+        "href": "/kr/launch/t/dunk-high-wheat-gold-and-safety-orange",
         "date": "4/27",
         "releaseDate": "1682557200"
     },
@@ -59,7 +35,7 @@
         "title": "덩크 로우",
         "theme": "Team Gold and White",
         "image": "",
-        "href": "/kr/launch/t/dunk-low-team-gold-and-white?cp=72629085282_search_",
+        "href": "/kr/launch/t/dunk-low-team-gold-and-white",
         "date": "4/27",
         "releaseDate": "1682557200"
     },
@@ -67,7 +43,7 @@
         "title": "우먼스 코르테즈",
         "theme": "Gorge Green and Malachite",
         "image": "",
-        "href": "/kr/launch/t/womens-cortez-gorge-green-and-malachite?cp=72629085282_search_",
+        "href": "/kr/launch/t/womens-cortez-gorge-green-and-malachite",
         "date": "4/28",
         "releaseDate": "1682643600"
     },
@@ -75,7 +51,7 @@
         "title": "에어 포스 1 미드 x Off-White™",
         "theme": "Pine Green",
         "image": "",
-        "href": "/kr/launch/t/air-force-1-mid-off-white-pine-green?cp=72629085282_search_",
+        "href": "/kr/launch/t/air-force-1-mid-off-white-pine-green",
         "date": "4/28",
         "releaseDate": "1682643600"
     },
@@ -83,7 +59,7 @@
         "title": "나이키 SB 줌 블레이저 미드 x Mason Silva",
         "theme": "Dark Obsidian and Metallic Silver",
         "image": "",
-        "href": "/kr/launch/t/nike-sb-zoom-blazer-mid-mason-silva-dark-obsidian-and-metallic-silver?cp=72629085282_search_",
+        "href": "/kr/launch/t/nike-sb-zoom-blazer-mid-mason-silva-dark-obsidian-and-metallic-silver",
         "date": "4/28",
         "releaseDate": "1682643600"
     },
@@ -91,7 +67,7 @@
         "title": "에어맥스 1",
         "theme": "Washed Dark Blue",
         "image": "",
-        "href": "/kr/launch/t/air-max-1-washed-dark-blue?cp=72629085282_search_",
+        "href": "/kr/launch/t/air-max-1-washed-dark-blue",
         "date": "4/28",
         "releaseDate": "1682643600"
     },
@@ -99,7 +75,7 @@
         "title": "조던 3 (Little Kids)",
         "theme": "True Blue and Copper",
         "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-ps-kr?cp=72629085282_search_",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-ps-kr",
         "date": "4/29",
         "releaseDate": "1682730000"
     },
@@ -107,7 +83,7 @@
         "title": "에어 조던 3",
         "theme": "True Blue and Copper",
         "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper?cp=72629085282_search_",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper",
         "date": "4/29",
         "releaseDate": "1682730000"
     },
@@ -115,7 +91,7 @@
         "title": "에어 조던 3 (Big Kids)",
         "theme": "True Blue and Copper",
         "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-gs-kr?cp=72629085282_search_",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-gs-kr",
         "date": "4/29",
         "releaseDate": "1682730000"
     },
@@ -123,7 +99,7 @@
         "title": "조던 3 (Toddler)",
         "theme": "True Blue and Copper",
         "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-td-kr?cp=72629085282_search_",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-td-kr",
         "date": "4/29",
         "releaseDate": "1682730000"
     },
@@ -131,7 +107,7 @@
         "title": "우먼스 에어 모어 업템포",
         "theme": "White and Metallic Silver",
         "image": "",
-        "href": "/kr/launch/t/womens-air-more-uptempo-white-and-metallic-silver?cp=72629085282_search_",
+        "href": "/kr/launch/t/womens-air-more-uptempo-white-and-metallic-silver",
         "date": "5/1",
         "releaseDate": "1682902800"
     },
@@ -139,7 +115,7 @@
         "title": "덩크 하이",
         "theme": "Gold Mountain",
         "image": "",
-        "href": "/kr/launch/t/dunk-high-gold-mountain?cp=72629085282_search_",
+        "href": "/kr/launch/t/dunk-high-gold-mountain",
         "date": "5/1",
         "releaseDate": "1682902800"
     },
@@ -147,7 +123,7 @@
         "title": "우먼스 에어맥스 스콜피온",
         "theme": "White",
         "image": "",
-        "href": "/kr/launch/t/womens-air-max-scorpion-white?cp=72629085282_search_",
+        "href": "/kr/launch/t/womens-air-max-scorpion-white",
         "date": "5/1",
         "releaseDate": "1682902800"
     }
