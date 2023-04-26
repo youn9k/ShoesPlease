@@ -1,23 +1,51 @@
 [
     {
-        "title": "ISPA MindBody",
-        "theme": "Barely Volt",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-barely-volt-kr",
-        "date": "4/25"
+        "title": "조던 1 로우 x Travis Scott (Toddler)",
+        "theme": "Medium Olive",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5908_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-low-travis-scott-medium-olive-td-kr",
+        "date": "4/26"
     },
     {
-        "title": "우먼스 덩크 로우",
-        "theme": "Team Red and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4555_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-team-red-and-white",
-        "date": "4/25"
+        "title": "우먼스 에어 조던 1 로우 x Travis Scott",
+        "theme": "Medium Olive",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ4137_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-1-low-travis-scott-medium-olive",
+        "date": "4/26"
     },
     {
-        "title": "ISPA 유니버설",
-        "theme": "Natural",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-universal-natural",
-        "date": "4/25"
+        "title": "조던 x Travis Scott",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6169_256_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/su23-jordan-x-travis-scott-apparel-collection-static-kr",
+        "date": "4/26"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6173_070_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/su23-jordan-x-travis-scott-apparel-collection-static-kr",
+        "date": "4/26"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX8602_256_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/su23-jordan-x-travis-scott-apparel-collection-static-kr",
+        "date": "4/26"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX8608_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/su23-jordan-x-travis-scott-apparel-collection-static-kr",
+        "date": "4/26"
+    },
+    {
+        "title": "조던 1 로우 x Travis Scott (Little Kids)",
+        "theme": "Medium Olive",
+        "image": "",
+        "href": "/kr/launch/t/jordan-1-low-travis-scott-medium-olive-ps-kr",
+        "date": "4/26"
     }
 ]
