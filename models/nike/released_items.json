@@ -1,37 +1,30 @@
 [
     {
-        "title": "에어 조던 1 로우 골프",
-        "theme": "Midnight Navy",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9315_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-golf-midnight-navy",
-        "date": "4/28"
+        "title": "조던 3 (Little Kids)",
+        "theme": "True Blue and Copper",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0966_148_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-ps-kr",
+        "date": "4/29"
     },
     {
-        "title": "우먼스 코르테즈",
-        "theme": "Gorge Green and Malachite",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DN1791_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-gorge-green-and-malachite",
-        "date": "4/28"
+        "title": "에어 조던 3",
+        "theme": "True Blue and Copper",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CT8532_148_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper",
+        "date": "4/29"
     },
     {
-        "title": "에어 포스 1 미드 x Off-White™",
-        "theme": "Pine Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0500_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-off-white-pine-green",
-        "date": "4/28"
+        "title": "에어 조던 3 (Big Kids)",
+        "theme": "True Blue and Copper",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0967_148_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-gs-kr",
+        "date": "4/29"
     },
     {
-        "title": "나이키 SB 줌 블레이저 미드 x Mason Silva",
-        "theme": "Dark Obsidian and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ7260_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-zoom-blazer-mid-mason-silva-dark-obsidian-and-metallic-silver",
-        "date": "4/28"
-    },
-    {
-        "title": "에어맥스 1",
-        "theme": "Washed Dark Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4452_432_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-washed-dark-blue",
-        "date": "4/28"
+        "title": "조던 3 (Toddler)",
+        "theme": "True Blue and Copper",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0968_148_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-td-kr",
+        "date": "4/29"
     }
 ]

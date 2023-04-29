@@ -1,40 +1,8 @@
 [
     {
-        "title": "조던 3 (Little Kids)",
-        "theme": "True Blue and Copper",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0966_148_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-ps-kr",
-        "date": "4/29",
-        "releaseDate": "1682730000"
-    },
-    {
-        "title": "에어 조던 3",
-        "theme": "True Blue and Copper",
-        "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper",
-        "date": "4/29",
-        "releaseDate": "1682730000"
-    },
-    {
-        "title": "에어 조던 3 (Big Kids)",
-        "theme": "True Blue and Copper",
-        "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-gs-kr",
-        "date": "4/29",
-        "releaseDate": "1682730000"
-    },
-    {
-        "title": "조던 3 (Toddler)",
-        "theme": "True Blue and Copper",
-        "image": "",
-        "href": "/kr/launch/t/air-jordan-3-true-blue-and-copper-td-kr",
-        "date": "4/29",
-        "releaseDate": "1682730000"
-    },
-    {
         "title": "우먼스 에어 모어 업템포",
         "theme": "White and Metallic Silver",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7408_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-more-uptempo-white-and-metallic-silver",
         "date": "5/1",
         "releaseDate": "1682902800"
@@ -42,7 +10,7 @@
     {
         "title": "덩크 하이",
         "theme": "Gold Mountain",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0776_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/dunk-high-gold-mountain",
         "date": "5/1",
         "releaseDate": "1682902800"
@@ -224,6 +192,14 @@
         "releaseDate": "1683248400"
     },
     {
+        "title": "우먼스 에어 조던 1 로우",
+        "theme": "Black and White",
+        "image": "",
+        "href": "/kr/launch/t/womens-air-jordan-1-low-black-and-white",
+        "date": "5/6",
+        "releaseDate": "1683334800"
+    },
+    {
         "title": "에어 조던 2",
         "theme": "White and Cement Grey",
         "image": "",
@@ -248,11 +224,51 @@
         "releaseDate": "1683334800"
     },
     {
+        "title": "에어 조던 1 로우 골프",
+        "theme": "Black, White and Volt",
+        "image": "",
+        "href": "/kr/launch/t/air-jordan-1-low-golf-black-white-and-volt",
+        "date": "5/6",
+        "releaseDate": "1683334800"
+    },
+    {
+        "title": "우먼스 에어 조던 2",
+        "theme": "Cool Grey",
+        "image": "",
+        "href": "/kr/launch/t/womens-air-jordan-2-cool-grey",
+        "date": "5/6",
+        "releaseDate": "1683334800"
+    },
+    {
         "title": "조던 2 (Toddler)",
         "theme": "White and Cement Grey",
         "image": "",
         "href": "/kr/launch/t/jordan-2-white-and-cement-grey-td-kr",
         "date": "5/6",
         "releaseDate": "1683334800"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Pale Vanilla and Sail",
+        "image": "",
+        "href": "/kr/launch/t/dunk-low-pale-vanilla-and-sail",
+        "date": "5/7",
+        "releaseDate": "1683421200"
+    },
+    {
+        "title": "코르테즈",
+        "theme": "Midnight Navy",
+        "image": "",
+        "href": "/kr/launch/t/cortez-midnight-navy",
+        "date": "5/7",
+        "releaseDate": "1683421200"
+    },
+    {
+        "title": "나이키 SB 덩크 로우 x Jarritos®",
+        "theme": "Phantom and Malachite",
+        "image": "",
+        "href": "/kr/launch/t/nike-sb-dunk-low-jarritos-phantom-and-malachite-kr",
+        "date": "5/8",
+        "releaseDate": "1683507600"
     }
 ]
