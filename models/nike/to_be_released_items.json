@@ -1,53 +1,5 @@
 [
     {
-        "title": "우먼스 에어 모어 업템포",
-        "theme": "White and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7408_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-more-uptempo-white-and-metallic-silver",
-        "date": "5/1",
-        "releaseDate": "1682902800"
-    },
-    {
-        "title": "덩크 하이",
-        "theme": "Gold Mountain",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0776_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-high-gold-mountain",
-        "date": "5/1",
-        "releaseDate": "1682902800"
-    },
-    {
-        "title": "우먼스 에어맥스 스콜피온",
-        "theme": "White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DJ4702_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-scorpion-white",
-        "date": "5/1",
-        "releaseDate": "1682902800"
-    },
-    {
-        "title": "우먼스 에어 포스 1 '07",
-        "theme": "Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX6764_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-07-metallic-silver",
-        "date": "5/1",
-        "releaseDate": "1682902800"
-    },
-    {
-        "title": "우먼스 덩크 로우",
-        "theme": "Varsity Red and Medium Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX5931_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-low-varsity-red-and-medium-grey",
-        "date": "5/1",
-        "releaseDate": "1682902800"
-    },
-    {
-        "title": "나이키 SB 야노스키 +",
-        "theme": "Gorge Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV5475_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-janoski-gorge-green",
-        "date": "5/1",
-        "releaseDate": "1682902800"
-    },
-    {
         "title": "에어 포스 1 '07",
         "theme": "Mica Green",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
