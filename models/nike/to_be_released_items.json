@@ -1,61 +1,5 @@
 [
     {
-        "title": "에어 조던 1 G",
-        "theme": "Pine Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ0660_130_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-g-pine-green",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
-        "title": "우먼스 에어 포스 1 '07",
-        "theme": "Summit White and Gorge Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0148_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-07-summit-white-and-gorge-green",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
-        "title": "우먼스 에어 어저스트 포스 2023",
-        "theme": "Vast Grey and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7409_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-adjust-force-2023-vast-grey-and-metallic-silver",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
-        "title": "JA 1 (Big Kids)",
-        "theme": "Day One",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DX2294_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ja-1-day-one-gs-kr",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
-        "title": "우먼스 덩크 하이",
-        "theme": "Aluminum",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD1869_107_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-high-aluminum1",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
-        "title": "우먼스 에어맥스 1",
-        "theme": "Phantom and Bright Mandarin ",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7734_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-1-phantom-and-bright-mandarin",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
-        "title": "우먼스 덩크 로우",
-        "theme": "Gold Suede",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7411_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-low-gold-suede",
-        "date": "5/3",
-        "releaseDate": "1683075600"
-    },
-    {
         "title": "덩크 미드",
         "theme": "Panda",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0830_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -70,6 +14,14 @@
         "href": "/kr/launch/t/su23-air-force-1-color-of-the-month-1",
         "date": "5/4",
         "releaseDate": "1683162000"
+    },
+    {
+        "title": "코비 4 프로트로",
+        "theme": "Mambacita",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ9363_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/kobe-4-protro-mambacita",
+        "date": "5/5",
+        "releaseDate": "1683248400"
     },
     {
         "title": "에어 줌 플라이트 95",
@@ -92,6 +44,14 @@
         "theme": "Photon Dust",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB3021_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-more-uptempo-photon-dust",
+        "date": "5/5",
+        "releaseDate": "1683248400"
+    },
+    {
+        "title": "에어 페니 2",
+        "theme": "Photon Dust",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB7727_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-penny-2-photon-dust",
         "date": "5/5",
         "releaseDate": "1683248400"
     },
@@ -176,11 +136,19 @@
         "releaseDate": "1683421200"
     },
     {
+        "title": "AJKO 1",
+        "theme": "Bleached Aqua",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DO5047_411_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ajko-1-bleached-aqua",
+        "date": "5/8",
+        "releaseDate": "1683507600"
+    },
+    {
         "title": "나이키 SB 덩크 로우 x Jarritos®",
         "theme": "Phantom and Malachite",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0860_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-sb-dunk-low-jarritos-phantom-and-malachite-kr",
-        "date": "5/8",
-        "releaseDate": "1683507600"
+        "date": "5/10",
+        "releaseDate": "1683680400"
     }
 ]
