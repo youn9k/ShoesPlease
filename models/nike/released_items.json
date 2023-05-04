@@ -1,44 +1,16 @@
 [
     {
-        "title": "에어 조던 1 G",
-        "theme": "Pine Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ0660_130_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-g-pine-green",
-        "date": "5/3"
+        "title": "덩크 미드",
+        "theme": "Panda",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0830_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-mid-panda",
+        "date": "5/4"
     },
     {
-        "title": "우먼스 에어 포스 1 '07",
-        "theme": "Summit White and Gorge Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0148_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-force-1-07-summit-white-and-gorge-green",
-        "date": "5/3"
-    },
-    {
-        "title": "우먼스 에어 어저스트 포스 2023",
-        "theme": "Vast Grey and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7409_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-adjust-force-2023-vast-grey-and-metallic-silver",
-        "date": "5/3"
-    },
-    {
-        "title": "우먼스 덩크 하이",
-        "theme": "Aluminum",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD1869_107_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-high-aluminum1",
-        "date": "5/3"
-    },
-    {
-        "title": "우먼스 에어맥스 1",
-        "theme": "Phantom and Bright Mandarin ",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7734_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-1-phantom-and-bright-mandarin",
-        "date": "5/3"
-    },
-    {
-        "title": "우먼스 덩크 로우",
-        "theme": "Gold Suede",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7411_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-dunk-low-gold-suede",
-        "date": "5/3"
+        "title": "에어 포스 1",
+        "theme": "Color of the Month",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ1044_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/su23-air-force-1-color-of-the-month-1",
+        "date": "5/4"
     }
 ]
