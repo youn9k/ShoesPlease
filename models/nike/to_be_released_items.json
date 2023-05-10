@@ -1,61 +1,5 @@
 [
     {
-        "title": "나이키 SB x Jarritos®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9080_246_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-jarritos-apparel-collection-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
-        "title": "나이키 SB x Jarritos®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9080_237_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-jarritos-apparel-collection-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
-        "title": "나이키 SB x Jarritos®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9066_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-jarritos-apparel-collection-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
-        "title": "나이키 SB x Jarritos®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9066_072_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-jarritos-apparel-collection-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
-        "title": "나이키 SB x Jarritos®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9078_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-jarritos-apparel-collection-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
-        "title": "나이키 SB x Jarritos®",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV9078_664_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-jarritos-apparel-collection-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
-        "title": "나이키 SB 덩크 로우 x Jarritos®",
-        "theme": "Phantom and Malachite",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0860_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-sb-dunk-low-jarritos-phantom-and-malachite-kr",
-        "date": "5/10",
-        "releaseDate": "1683680400"
-    },
-    {
         "title": "우먼스 에어 조던 11",
         "theme": "Yellow Snakeskin",
         "image": "https://secure-images.nike.com/is/image/DotCom/AH7860_107_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -110,6 +54,14 @@
         "href": "/kr/launch/t/ispa-universal-natural-and-desert-dust",
         "date": "5/16",
         "releaseDate": "1684198800"
+    },
+    {
+        "title": "에어 포스 1",
+        "theme": "University Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD7039_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-university-gold",
+        "date": "5/19",
+        "releaseDate": "1684458000"
     },
     {
         "title": "에어 조던 1 (Big Kids)",
