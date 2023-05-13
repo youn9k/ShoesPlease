@@ -1,37 +1,5 @@
 [
     {
-        "title": "조던 4 (Little Kids)",
-        "theme": "Thunder",
-        "image": "https://secure-images.nike.com/is/image/DotCom/BQ7669_017_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-4-thunder-ps-kr",
-        "date": "5/13",
-        "releaseDate": "1683939600"
-    },
-    {
-        "title": "조던 4 (Toddler)",
-        "theme": "Thunder",
-        "image": "https://secure-images.nike.com/is/image/DotCom/BQ7670_017_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-4-thunder-td-kr",
-        "date": "5/13",
-        "releaseDate": "1683939600"
-    },
-    {
-        "title": "에어 조던 4",
-        "theme": "Thunder",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DH6927_017_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-thunder",
-        "date": "5/13",
-        "releaseDate": "1683939600"
-    },
-    {
-        "title": "에어 조던 4 (Big Kids)",
-        "theme": "Thunder",
-        "image": "https://secure-images.nike.com/is/image/DotCom/408452_017_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-4-thunder-gs-kr",
-        "date": "5/13",
-        "releaseDate": "1683939600"
-    },
-    {
         "title": "ISPA 유니버설",
         "theme": "Natural and Desert Dust",
         "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -78,5 +46,29 @@
         "href": "/kr/launch/t/air-jordan-1-next-chapter",
         "date": "5/20",
         "releaseDate": "1684544400"
+    },
+    {
+        "title": "Ja 1",
+        "theme": "Hunger",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR8786_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ja-1-hunger",
+        "date": "5/25",
+        "releaseDate": "1684976400"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Escape",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ0698_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-escape",
+        "date": "5/25",
+        "releaseDate": "1684976400"
+    },
+    {
+        "title": "에어 휴마라",
+        "theme": "Wheat Grass",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7098_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-humara-wheat-grass",
+        "date": "5/25",
+        "releaseDate": "1684976400"
     }
 ]
