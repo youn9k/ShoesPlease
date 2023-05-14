@@ -1,13 +1,5 @@
 [
     {
-        "title": "ISPA 유니버설",
-        "theme": "Natural and Desert Dust",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-universal-natural-and-desert-dust",
-        "date": "5/16",
-        "releaseDate": "1684198800"
-    },
-    {
         "title": "에어 포스 1",
         "theme": "University Gold",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD7039_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -60,6 +52,14 @@
         "theme": "Escape",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ0698_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-max-1-escape",
+        "date": "5/25",
+        "releaseDate": "1684976400"
+    },
+    {
+        "title": "ISPA 유니버설",
+        "theme": "Natural and Desert Dust",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ispa-universal-natural-and-desert-dust",
         "date": "5/25",
         "releaseDate": "1684976400"
     },
