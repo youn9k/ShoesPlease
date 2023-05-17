@@ -3,7 +3,15 @@
         "title": "에어 포스 1",
         "theme": "University Gold",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD7039_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-university-gold?size=12C",
+        "href": "/kr/launch/t/air-force-1-university-gold",
+        "date": "5/19",
+        "releaseDate": "1684458000"
+    },
+    {
+        "title": "NOCTA 핫 스텝",
+        "theme": "Light Bone",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0508_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-hot-step-light-bone",
         "date": "5/19",
         "releaseDate": "1684458000"
     },
@@ -11,7 +19,7 @@
         "title": "에어 조던 1 (Big Kids)",
         "theme": "Next Chapter",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1753_601_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-next-chapter-gs-kr?size=12C",
+        "href": "/kr/launch/t/air-jordan-1-next-chapter-gs-kr",
         "date": "5/20",
         "releaseDate": "1684544400"
     },
@@ -19,7 +27,7 @@
         "title": "조던 1 (Toddler)",
         "theme": "Next Chapter",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1750_601_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-next-chapter-td-kr?size=12C",
+        "href": "/kr/launch/t/jordan-1-next-chapter-td-kr",
         "date": "5/20",
         "releaseDate": "1684544400"
     },
@@ -27,7 +35,7 @@
         "title": "조던 1 (Little Kids)",
         "theme": "Next Chapter",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1749_601_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-next-chapter-ps-kr?size=12C",
+        "href": "/kr/launch/t/jordan-1-next-chapter-ps-kr",
         "date": "5/20",
         "releaseDate": "1684544400"
     },
@@ -35,15 +43,15 @@
         "title": "에어 조던 1",
         "theme": "Next Chapter",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1748_601_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-next-chapter?size=12C",
+        "href": "/kr/launch/t/air-jordan-1-next-chapter",
         "date": "5/20",
         "releaseDate": "1684544400"
     },
     {
-        "title": "Ja 1",
-        "theme": "Hunger",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR8786_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ja-1-hunger?size=12C",
+        "title": "에어 조던 1 로우",
+        "theme": "White and Coconut Milk",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV0982_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-low-white-and-coconut-milk",
         "date": "5/25",
         "releaseDate": "1684976400"
     },
@@ -51,7 +59,7 @@
         "title": "에어맥스 1",
         "theme": "Escape",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ0698_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-escape?size=12C",
+        "href": "/kr/launch/t/air-max-1-escape",
         "date": "5/25",
         "releaseDate": "1684976400"
     },
@@ -59,7 +67,7 @@
         "title": "ISPA 유니버설",
         "theme": "Natural and Desert Dust",
         "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-universal-natural-and-desert-dust?size=12C",
+        "href": "/kr/launch/t/ispa-universal-natural-and-desert-dust",
         "date": "5/25",
         "releaseDate": "1684976400"
     },
@@ -67,8 +75,32 @@
         "title": "에어 휴마라",
         "theme": "Wheat Grass",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ7098_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-humara-wheat-grass?size=12C",
+        "href": "/kr/launch/t/air-humara-wheat-grass",
         "date": "5/25",
         "releaseDate": "1684976400"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Coral Stardust Corduroy ",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB8915_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-coral-stardust-corduroy",
+        "date": "5/26",
+        "releaseDate": "1685062800"
+    },
+    {
+        "title": "ISPA MindBody",
+        "theme": "Light Cream",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ispa-mindbody-light-cream",
+        "date": "5/30",
+        "releaseDate": "1685408400"
+    },
+    {
+        "title": "ISPA MindBody",
+        "theme": "Black, White and Barely Volt",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ispa-mindbody-black-white-and-barely-volt",
+        "date": "5/30",
+        "releaseDate": "1685408400"
     }
 ]
