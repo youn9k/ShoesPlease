@@ -1,77 +1,5 @@
 [
     {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR2656_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR2658_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR2663_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV3631_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR2618_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA Distant Regards",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR2620_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-distant-regards-apparel-collection-static-kr",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "에어 포스 1",
-        "theme": "University Gold",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD7039_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-university-gold",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
-        "title": "NOCTA 핫 스텝",
-        "theme": "Light Bone",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0508_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-hot-step-light-bone",
-        "date": "5/19",
-        "releaseDate": "1684458000"
-    },
-    {
         "title": "에어 조던 1 (Big Kids)",
         "theme": "Next Chapter",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV1753_601_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -158,5 +86,21 @@
         "href": "/kr/launch/t/ispa-mindbody-black-white-and-barely-volt",
         "date": "5/30",
         "releaseDate": "1685408400"
+    },
+    {
+        "title": "에어 조던 1",
+        "theme": "Sail and Pale Vanilla",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8631_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-sail-and-pale-vanilla",
+        "date": "5/31",
+        "releaseDate": "1685494800"
+    },
+    {
+        "title": "ACG 워터캣+",
+        "theme": "Bright Mandarin and Gridiron",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0931_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-watercat-bright-mandarin-and-gridiron",
+        "date": "6/3",
+        "releaseDate": "1685754000"
     }
 ]
