@@ -1,45 +1,5 @@
 [
     {
-        "title": "에어 조던 1 로우",
-        "theme": "White and Coconut Milk",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV0982_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-white-and-coconut-milk",
-        "date": "5/25",
-        "releaseDate": "1684976400"
-    },
-    {
-        "title": "Ja 1",
-        "theme": "Hunger",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR8786_401_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ja-1-hunger",
-        "date": "5/25",
-        "releaseDate": "1684976400"
-    },
-    {
-        "title": "에어맥스 1",
-        "theme": "Escape",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ0698_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-escape",
-        "date": "5/25",
-        "releaseDate": "1684976400"
-    },
-    {
-        "title": "ISPA 유니버설",
-        "theme": "Natural and Desert Dust",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-universal-natural-and-desert-dust",
-        "date": "5/25",
-        "releaseDate": "1684976400"
-    },
-    {
-        "title": "에어 휴마라",
-        "theme": "Wheat Grass",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7098_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-humara-wheat-grass",
-        "date": "5/25",
-        "releaseDate": "1684976400"
-    },
-    {
         "title": "에어맥스 1",
         "theme": "Coral Stardust Corduroy ",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB8915_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -88,6 +48,14 @@
         "releaseDate": "1685581200"
     },
     {
+        "title": "터미네이터 하이",
+        "theme": "Be True",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8638_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-high-be-true",
+        "date": "6/1",
+        "releaseDate": "1685581200"
+    },
+    {
         "title": "터미네이터 로우",
         "theme": "University Gold and Navy",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ4206_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -118,6 +86,14 @@
         "href": "/kr/launch/t/acg-watercat-bright-mandarin-and-gridiron",
         "date": "6/3",
         "releaseDate": "1685754000"
+    },
+    {
+        "title": "에어 조던 3 (Big Kids)",
+        "theme": "Animal Icon",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX6665_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/big-kids-air-jordan-3-animal-icon",
+        "date": "6/6",
+        "releaseDate": "1686013200"
     },
     {
         "title": "에어 포스 1",
