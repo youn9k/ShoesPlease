@@ -3,7 +3,7 @@
         "title": "ISPA MindBody",
         "theme": "Light Cream",
         "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-light-cream?size=6.5",
+        "href": "/kr/launch/t/ispa-mindbody-light-cream",
         "date": "5/30",
         "releaseDate": "1685408400"
     },
@@ -11,7 +11,7 @@
         "title": "ISPA MindBody",
         "theme": "Black, White and Barely Volt",
         "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-black-white-and-barely-volt?size=6.5",
+        "href": "/kr/launch/t/ispa-mindbody-black-white-and-barely-volt",
         "date": "5/30",
         "releaseDate": "1685408400"
     },
@@ -19,7 +19,7 @@
         "title": "에어 조던 1",
         "theme": "Sail and Pale Vanilla",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD8631_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-sail-and-pale-vanilla?size=6.5",
+        "href": "/kr/launch/t/air-jordan-1-sail-and-pale-vanilla",
         "date": "5/31",
         "releaseDate": "1685494800"
     },
@@ -27,7 +27,7 @@
         "title": "에어맥스 97",
         "theme": "Be True",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD8637_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-97-be-true?size=6.5",
+        "href": "/kr/launch/t/air-max-97-be-true",
         "date": "6/1",
         "releaseDate": "1685581200"
     },
@@ -35,7 +35,7 @@
         "title": "에어 포스 1",
         "theme": "Color of the Month",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV0785_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-color-of-the-month-1?size=6.5",
+        "href": "/kr/launch/t/air-force-1-color-of-the-month-1",
         "date": "6/1",
         "releaseDate": "1685581200"
     },
@@ -43,7 +43,7 @@
         "title": "터미네이터 하이",
         "theme": "Be True",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD8638_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-be-true?size=6.5",
+        "href": "/kr/launch/t/terminator-high-be-true",
         "date": "6/1",
         "releaseDate": "1685581200"
     },
@@ -51,7 +51,7 @@
         "title": "터미네이터 로우",
         "theme": "University Gold and Navy",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ4206_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-low-university-gold-and-navy?size=6.5",
+        "href": "/kr/launch/t/terminator-low-university-gold-and-navy",
         "date": "6/1",
         "releaseDate": "1685581200"
     },
@@ -59,7 +59,7 @@
         "title": "에어 조던 14",
         "theme": "Laney",
         "image": "https://secure-images.nike.com/is/image/DotCom/487471_407_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-14-laney?size=6.5",
+        "href": "/kr/launch/t/air-jordan-14-laney",
         "date": "6/2",
         "releaseDate": "1685667600"
     },
@@ -67,7 +67,7 @@
         "title": "ACG 워터캣+",
         "theme": "Phantom",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ0931_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/acg-watercat-phantom?size=6.5",
+        "href": "/kr/launch/t/acg-watercat-phantom",
         "date": "6/3",
         "releaseDate": "1685754000"
     },
@@ -75,7 +75,7 @@
         "title": "ACG 워터캣+",
         "theme": "Bright Mandarin and Gridiron",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ0931_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/acg-watercat-bright-mandarin-and-gridiron?size=6.5",
+        "href": "/kr/launch/t/acg-watercat-bright-mandarin-and-gridiron",
         "date": "6/3",
         "releaseDate": "1685754000"
     },
@@ -83,7 +83,7 @@
         "title": "에어 조던 3 (Big Kids)",
         "theme": "Animal Icon",
         "image": "https://secure-images.nike.com/is/image/DotCom/DX6665_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/big-kids-air-jordan-3-animal-icon?size=6.5",
+        "href": "/kr/launch/t/big-kids-air-jordan-3-animal-icon",
         "date": "6/6",
         "releaseDate": "1686013200"
     },
@@ -91,8 +91,40 @@
         "title": "에어 포스 1",
         "theme": "West Coast",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ4434_491_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-west-coast?size=6.5",
+        "href": "/kr/launch/t/air-force-1-west-coast",
         "date": "6/7",
         "releaseDate": "1686099600"
+    },
+    {
+        "title": "우먼스 에어 조던 5 로우",
+        "theme": "Indigo Haze",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4563_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-5-low-indigo-haze",
+        "date": "6/8",
+        "releaseDate": "1686186000"
+    },
+    {
+        "title": "터미네이터 하이",
+        "theme": "University Red and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4454_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-high-university-red-and-white",
+        "date": "6/10",
+        "releaseDate": "1686358800"
+    },
+    {
+        "title": "우먼스 에어맥스 1",
+        "theme": "Head to Head",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ5479_410_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-max-1-head-to-head",
+        "date": "6/16",
+        "releaseDate": "1686877200"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Head 2 Head",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ5434_120_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-head-2-head",
+        "date": "6/16",
+        "releaseDate": "1686877200"
     }
 ]
