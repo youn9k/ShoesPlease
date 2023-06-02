@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 조던 14",
-        "theme": "Laney",
-        "image": "https://secure-images.nike.com/is/image/DotCom/487471_407_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-14-laney",
-        "date": "6/2",
-        "releaseDate": "1685667600"
-    },
-    {
         "title": "ACG 워터캣+",
         "theme": "Phantom",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ0931_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -94,6 +86,14 @@
         "href": "/kr/launch/t/womens-adjust-force-sandal-white",
         "date": "6/14",
         "releaseDate": "1686704400"
+    },
+    {
+        "title": "나이키 반달 하이 x Stüssy",
+        "theme": "Deep Royal Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX5425_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-vandal-high-stussy-deep-royal-blue",
+        "date": "6/15",
+        "releaseDate": "1686790800"
     },
     {
         "title": "덩크 로우",
