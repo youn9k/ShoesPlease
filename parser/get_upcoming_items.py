@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
@@ -8,7 +9,7 @@ import time
 def get_upcoming_items():
     print("get_upcoming_items...")
     try:
-        options = webdriver.ChromeOptions()
+        options = ChromeOptions()
         user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
         options.add_argument('user-agent=' + user_agent)
         #options.add_argument("start-maximized")
@@ -20,7 +21,7 @@ def get_upcoming_items():
         options.add_argument("disable-dev-shm-usage")
         
         # chrome driver
-        driver = webdriver.Chrome('chromedriver', chrome_options=options)
+        driver = webdriver.Chrome('chromedriver', options=options)
 
         # 접속 대기
         driver.implicitly_wait(1)
