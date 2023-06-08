@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -20,8 +21,11 @@ def get_upcoming_items():
         options.add_argument("--no-sandbox")
         options.add_argument("disable-dev-shm-usage")
         
+        # 크롬 드라이버 최신 버전 설정
+        service = ChromeService(executable_path=ChromeDriverManager().install())
+        
         # chrome driver
-        driver = webdriver.Chrome(options=options)
+        driver = webdriver.Chrome(service=service, options=options)
 
         # 접속 대기
         driver.implicitly_wait(1)
