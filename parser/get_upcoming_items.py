@@ -21,7 +21,7 @@ def get_upcoming_items():
         options.add_argument("disable-dev-shm-usage")
         
         # chrome driver
-        driver = webdriver.Chrome('chromedriver', options=options)
+        driver = webdriver.Chrome(options=options)
 
         # 접속 대기
         driver.implicitly_wait(1)
