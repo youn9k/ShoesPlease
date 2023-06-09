@@ -1,9 +1,16 @@
 [
     {
-        "title": "우먼스 에어 조던 5 로우",
-        "theme": "Indigo Haze",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4563_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-5-low-indigo-haze",
-        "date": "6/8"
+        "title": "005 슬라이드 x MMW",
+        "theme": "Dark Khaki",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DH1258_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/005-slide-mmw-dark-khaki",
+        "date": "6/9"
+    },
+    {
+        "title": "005 슬라이드 x MMW",
+        "theme": "Volt",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DH1258_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/005-slide-x-mmw-volt",
+        "date": "6/9"
     }
 ]
