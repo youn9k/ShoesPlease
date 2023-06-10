@@ -1,33 +1,17 @@
 [
     {
-        "title": "에어 조던 1",
-        "theme": "Black and Smoke Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_051_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-black-and-smoke-grey",
-        "date": "6/10",
-        "releaseDate": "1686358800"
-    },
-    {
-        "title": "터미네이터 하이",
-        "theme": "University Red and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4454_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-university-red-and-white",
-        "date": "6/10",
-        "releaseDate": "1686358800"
-    },
-    {
-        "title": "에어 조던 1 (Big Kids)",
-        "theme": "Black and Smoke Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_051_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-black-and-smoke-grey-gs-kr",
-        "date": "6/10",
-        "releaseDate": "1686358800"
-    },
-    {
         "title": "우먼스 어저스트 포스 샌들",
         "theme": "White",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV2136_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-adjust-force-sandal-white",
+        "date": "6/14",
+        "releaseDate": "1686704400"
+    },
+    {
+        "title": "덩크 로우 x CLOT x Fragment Design",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN0315_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-clot-fragment-design-black-and-white",
         "date": "6/14",
         "releaseDate": "1686704400"
     },
@@ -94,6 +78,22 @@
         "href": "/kr/launch/t/air-jordan-5-craft",
         "date": "6/17",
         "releaseDate": "1686963600"
+    },
+    {
+        "title": "J 포스 1",
+        "theme": "Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0424_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/j-force-1-black-kr",
+        "date": "6/21",
+        "releaseDate": "1687309200"
+    },
+    {
+        "title": "J 포스 1",
+        "theme": "White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0424_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/j-force-1-white-kr",
+        "date": "6/21",
+        "releaseDate": "1687309200"
     },
     {
         "title": "덩크 로우",
