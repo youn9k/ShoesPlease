@@ -13,7 +13,8 @@ on:
   # for test
   #push:
     #branches: [ "main" ]
-
+  workflow_dispatch: # 원할 때 실행시킬 수 있도록
+  
 jobs:
   update:
     runs-on: ubuntu-latest # 우분투 최신버전
