@@ -96,6 +96,14 @@
         "releaseDate": "1687568400"
     },
     {
+        "title": "에어 포스 1 '07",
+        "theme": "Amber Brown",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-07-amber-brown",
+        "date": "6/25",
+        "releaseDate": "1687654800"
+    },
+    {
         "title": "덩크 하이",
         "theme": "Smoke Grey and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV7216_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -104,10 +112,42 @@
         "releaseDate": "1687654800"
     },
     {
+        "title": "덩크 로우",
+        "theme": "Light Orewood Brown",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2538_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-light-orewood-brown",
+        "date": "6/26",
+        "releaseDate": "1687741200"
+    },
+    {
+        "title": "우먼스 어저스트 포스 샌들",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV2136_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-adjust-force-sandal-black-and-white",
+        "date": "6/26",
+        "releaseDate": "1687741200"
+    },
+    {
+        "title": "우먼스 에어 어저스트 포스",
+        "theme": "Citron Pulse and Sail",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4552_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-adjust-force-citron-pulse-and-sail",
+        "date": "6/26",
+        "releaseDate": "1687741200"
+    },
+    {
         "title": "에어 폼포짓 원",
         "theme": "Metallic Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ2545_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-foamposite-one-metallic-red-1",
+        "date": "6/27",
+        "releaseDate": "1687827600"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "Coconut Milk",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2708_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-07-coconut-milk",
         "date": "6/27",
         "releaseDate": "1687827600"
     },
@@ -126,5 +166,21 @@
         "href": "/kr/launch/t/womens-dunk-low-blue-suede",
         "date": "6/28",
         "releaseDate": "1687914000"
+    },
+    {
+        "title": "에어맥스2 CB '94",
+        "theme": "Black and Pure Purple",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FQ8233_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max2-cb-94-black-and-pure-purple",
+        "date": "6/29",
+        "releaseDate": "1688000400"
+    },
+    {
+        "title": "조던 크레이터 슬라이드",
+        "theme": "French Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CT0713_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-crater-slide-french-blue",
+        "date": "6/29",
+        "releaseDate": "1688000400"
     }
 ]
