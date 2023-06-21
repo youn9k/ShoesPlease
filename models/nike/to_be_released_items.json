@@ -1,21 +1,5 @@
 [
     {
-        "title": "J 포스 1",
-        "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0424_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/j-force-1-black-kr",
-        "date": "6/21",
-        "releaseDate": "1687309200"
-    },
-    {
-        "title": "J 포스 1",
-        "theme": "White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0424_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/j-force-1-white-kr",
-        "date": "6/21",
-        "releaseDate": "1687309200"
-    },
-    {
         "title": "덩크 로우",
         "theme": "Volt",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ4610_702_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -182,5 +166,29 @@
         "href": "/kr/launch/t/jordan-crater-slide-french-blue",
         "date": "6/29",
         "releaseDate": "1688000400"
+    },
+    {
+        "title": "에어 조던 7",
+        "theme": "White Infrared",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CU9307_160_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-7-white-infrared",
+        "date": "6/30",
+        "releaseDate": "1688086800"
+    },
+    {
+        "title": "에어 포스 1",
+        "theme": "Color of the Month",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN5924_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-color-of-the-month2",
+        "date": "7/1",
+        "releaseDate": "1688173200"
+    },
+    {
+        "title": "줌 보메로 5",
+        "theme": "Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_003_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/zoom-vomero-5-black",
+        "date": "7/3",
+        "releaseDate": "1688346000"
     }
 ]
