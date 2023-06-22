@@ -1,16 +1,16 @@
 [
     {
-        "title": "J 포스 1",
-        "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0424_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/j-force-1-black-kr",
-        "date": "6/21"
+        "title": "우먼스 덩크 로우",
+        "theme": "Neutral Olive",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7415_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-neutral-olive",
+        "date": "6/22"
     },
     {
-        "title": "J 포스 1",
-        "theme": "White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0424_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/j-force-1-white-kr",
-        "date": "6/21"
+        "title": "우먼스 에어 포스 1",
+        "theme": "Summit White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR9503_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-summit-white",
+        "date": "6/22"
     }
 ]
