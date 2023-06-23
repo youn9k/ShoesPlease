@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 조던 1 로우 (Big Kids)",
-        "theme": "Black Cement",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0858_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-black-cement-gs-kr",
-        "date": "6/23",
-        "releaseDate": "1687482000"
-    },
-    {
-        "title": "우먼스 에어 조던 1 로우",
-        "theme": "Black Cement",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0775_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-1-low-black-cement",
-        "date": "6/23",
-        "releaseDate": "1687482000"
-    },
-    {
-        "title": "에어 조던 1 로우",
-        "theme": "Black Cement",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-black-cement",
-        "date": "6/23",
-        "releaseDate": "1687482000"
-    },
-    {
         "title": "에어 조던 6",
         "theme": "Toro Bravo",
         "image": "https://secure-images.nike.com/is/image/DotCom/CT8529_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -74,7 +50,7 @@
     {
         "title": "우먼스 에어 어저스트 포스",
         "theme": "Citron Pulse and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4552_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/womens-air-adjust-force-citron-pulse-and-sail",
         "date": "6/26",
         "releaseDate": "1687741200"
@@ -82,7 +58,7 @@
     {
         "title": "에어 폼포짓 원",
         "theme": "Metallic Red",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2545_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/air-foamposite-one-metallic-red-1",
         "date": "6/27",
         "releaseDate": "1687827600"
@@ -90,7 +66,7 @@
     {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "Coconut Milk",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2708_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/womens-air-force-1-07-coconut-milk",
         "date": "6/27",
         "releaseDate": "1687827600"
@@ -98,7 +74,7 @@
     {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "Obsidian and Gorge Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR0148_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/womens-air-force-1-07-obsidian-and-gorge-green",
         "date": "6/28",
         "releaseDate": "1687914000"
@@ -106,7 +82,7 @@
     {
         "title": "우먼스 덩크 로우",
         "theme": "Blue Suede",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7411_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/womens-dunk-low-blue-suede",
         "date": "6/28",
         "releaseDate": "1687914000"
@@ -114,7 +90,7 @@
     {
         "title": "에어맥스2 CB '94",
         "theme": "Black and Pure Purple",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FQ8233_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/air-max2-cb-94-black-and-pure-purple",
         "date": "6/29",
         "releaseDate": "1688000400"
@@ -122,7 +98,7 @@
     {
         "title": "조던 크레이터 슬라이드",
         "theme": "French Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CT0713_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/jordan-crater-slide-french-blue",
         "date": "6/29",
         "releaseDate": "1688000400"
@@ -130,7 +106,7 @@
     {
         "title": "에어 조던 7",
         "theme": "White Infrared",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CU9307_160_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/air-jordan-7-white-infrared",
         "date": "6/30",
         "releaseDate": "1688086800"
@@ -138,7 +114,7 @@
     {
         "title": "에어 포스 1",
         "theme": "Color of the Month",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN5924_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/air-force-1-color-of-the-month2",
         "date": "7/1",
         "releaseDate": "1688173200"
@@ -146,15 +122,31 @@
     {
         "title": "터미네이터 로우",
         "theme": "Velvet Brown",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN7815_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/terminator-low-velvet-brown",
+        "date": "7/2",
+        "releaseDate": "1688259600"
+    },
+    {
+        "title": "우먼스 나이키 샥스 TL",
+        "theme": "Black and Max Orange",
+        "image": "",
+        "href": "/kr/launch/t/womens-nike-shox-tl-black-and-max-orange",
+        "date": "7/2",
+        "releaseDate": "1688259600"
+    },
+    {
+        "title": "우먼스 나이키 샥스 TL",
+        "theme": "White and Max Orange",
+        "image": "",
+        "href": "/kr/launch/t/womens-nike-shox-tl-white-and-max-orange",
         "date": "7/2",
         "releaseDate": "1688259600"
     },
     {
         "title": "줌 보메로 5",
         "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/BV1358_003_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/zoom-vomero-5-black",
         "date": "7/3",
         "releaseDate": "1688346000"
@@ -162,7 +154,7 @@
     {
         "title": "줌 보메로 5",
         "theme": "Pure Platinum and Laser Orange",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4151_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/zoom-vomero-5-pure-platinum-and-laser-orange",
         "date": "7/4",
         "releaseDate": "1688432400"
@@ -170,7 +162,7 @@
     {
         "title": "에어 알파 포스 88",
         "theme": "Light Bone and Coconut Milk",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN6594_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/air-alpha-force-88-light-bone-and-coconut-milk",
         "date": "7/5",
         "releaseDate": "1688518800"
