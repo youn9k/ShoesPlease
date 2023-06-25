@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 포스 1 '07",
-        "theme": "Amber Brown",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-07-amber-brown",
-        "date": "6/25",
-        "releaseDate": "1687654800"
-    },
-    {
-        "title": "덩크 하이",
-        "theme": "Smoke Grey and Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7216_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-high-smoke-grey-and-black",
-        "date": "6/25",
-        "releaseDate": "1687654800"
-    },
-    {
         "title": "덩크 로우",
         "theme": "Light Orewood Brown",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ2538_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -50,7 +34,7 @@
     {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "Coconut Milk",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2708_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-force-1-07-coconut-milk",
         "date": "6/27",
         "releaseDate": "1687827600"
