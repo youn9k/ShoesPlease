@@ -1,29 +1,5 @@
 [
     {
-        "title": "덩크 로우",
-        "theme": "Light Orewood Brown",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2538_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-light-orewood-brown",
-        "date": "6/26",
-        "releaseDate": "1687741200"
-    },
-    {
-        "title": "우먼스 어저스트 포스 샌들",
-        "theme": "Black and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV2136_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-adjust-force-sandal-black-and-white",
-        "date": "6/26",
-        "releaseDate": "1687741200"
-    },
-    {
-        "title": "우먼스 에어 어저스트 포스",
-        "theme": "Citron Pulse and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ4552_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-adjust-force-citron-pulse-and-sail",
-        "date": "6/26",
-        "releaseDate": "1687741200"
-    },
-    {
         "title": "에어 폼포짓 원",
         "theme": "Metallic Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ2545_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -42,7 +18,7 @@
     {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "Obsidian and Gorge Green",
-        "image": "",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0148_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-air-force-1-07-obsidian-and-gorge-green",
         "date": "6/28",
         "releaseDate": "1687914000"
