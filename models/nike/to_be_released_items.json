@@ -22,5 +22,53 @@
         "href": "/kr/launch/t/air-humara-black-and-metallic-silver",
         "date": "7/12",
         "releaseDate": "1689123600"
+    },
+    {
+        "title": "우먼스 코르테즈",
+        "theme": "Midnight Navy",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-midnight-navy",
+        "date": "7/14",
+        "releaseDate": "1689296400"
+    },
+    {
+        "title": "우먼스 코르테즈 ",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-black-and-white-1",
+        "date": "7/14",
+        "releaseDate": "1689296400"
+    },
+    {
+        "title": "에어 조던 7",
+        "theme": "Chambray",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CU9307_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-7-chambray",
+        "date": "7/15",
+        "releaseDate": "1689382800"
+    },
+    {
+        "title": "에어 알파 포스 88",
+        "theme": "University Red and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ4627_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-alpha-force-88-university-red-and-white",
+        "date": "7/15",
+        "releaseDate": "1689382800"
+    },
+    {
+        "title": "우먼스 코르테즈 23",
+        "theme": "까치",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0398_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-23-kkachi-kr",
+        "date": "7/22",
+        "releaseDate": "1689987600"
+    },
+    {
+        "title": "에어 조던 1 로우",
+        "theme": "까치",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0399_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-low-kkachi-kr",
+        "date": "7/22",
+        "releaseDate": "1689987600"
     }
 ]
