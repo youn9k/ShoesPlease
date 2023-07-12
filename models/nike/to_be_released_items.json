@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 휴마라",
-        "theme": "Black and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7098_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-humara-black-and-metallic-silver",
-        "date": "7/12",
-        "releaseDate": "1689123600"
-    },
-    {
         "title": "우먼스 코르테즈",
         "theme": "Midnight Navy",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -40,11 +32,67 @@
         "releaseDate": "1689382800"
     },
     {
+        "title": "우먼스 코르테즈 23",
+        "theme": "까치",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0398_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-23-kkachi-kr",
+        "date": "7/21",
+        "releaseDate": "1689901200"
+    },
+    {
         "title": "에어 조던 1 로우",
         "theme": "까치",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0399_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-1-low-kkachi-kr",
+        "date": "7/21",
+        "releaseDate": "1689901200"
+    },
+    {
+        "title": "에어맥스 1 ",
+        "theme": "Clear Jade",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ4549_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-clear-jade",
+        "date": "7/21",
+        "releaseDate": "1689901200"
+    },
+    {
+        "title": "에어 조던 1 하이 (Big Kids)",
+        "theme": "University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-high-university-blue-gs-kr",
         "date": "7/22",
         "releaseDate": "1689987600"
+    },
+    {
+        "title": "조던 1 하이 (Little Kids)",
+        "theme": "University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-high-university-blue-ps-kr",
+        "date": "7/22",
+        "releaseDate": "1689987600"
+    },
+    {
+        "title": "에어 조던 1 하이",
+        "theme": "University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-high-university-blue",
+        "date": "7/22",
+        "releaseDate": "1689987600"
+    },
+    {
+        "title": "조던 1 하이 (Toddler)",
+        "theme": "University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-high-university-blue-td-kr",
+        "date": "7/22",
+        "releaseDate": "1689987600"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "Light Bone and Phantom",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-mid-07-light-bone-and-phantom",
+        "date": "7/25",
+        "releaseDate": "1690246800"
     }
 ]
