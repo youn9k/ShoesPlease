@@ -1,25 +1,9 @@
 [
     {
-        "title": "에어 조던 7",
-        "theme": "Chambray",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CU9307_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-7-chambray",
-        "date": "7/15",
-        "releaseDate": "1689382800"
-    },
-    {
-        "title": "에어 알파 포스 88",
-        "theme": "University Red and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ4627_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-alpha-force-88-university-red-and-white",
-        "date": "7/15",
-        "releaseDate": "1689382800"
-    },
-    {
         "title": "ISPA MindBody",
         "theme": "White and Total Orange",
         "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-mindbody-white-and-total-orange",
+        "href": "/kr/launch/t/ispa-mindbody-white-and-total-orange?size=7.5",
         "date": "7/19",
         "releaseDate": "1689728400"
     },
@@ -27,7 +11,7 @@
         "title": "우먼스 코르테즈 23",
         "theme": "까치",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0398_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-23-kkachi-kr",
+        "href": "/kr/launch/t/womens-cortez-23-kkachi-kr?size=7.5",
         "date": "7/21",
         "releaseDate": "1689901200"
     },
@@ -35,7 +19,7 @@
         "title": "에어맥스 1 ",
         "theme": "Clear Jade",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ4549_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-clear-jade",
+        "href": "/kr/launch/t/air-max-1-clear-jade?size=7.5",
         "date": "7/21",
         "releaseDate": "1689901200"
     },
@@ -43,7 +27,7 @@
         "title": "에어 조던 1 로우",
         "theme": "까치",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD0399_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-kkachi-kr",
+        "href": "/kr/launch/t/air-jordan-1-low-kkachi-kr?size=7.5",
         "date": "7/21",
         "releaseDate": "1689901200"
     },
@@ -51,7 +35,7 @@
         "title": "에어 조던 1 하이 (Big Kids)",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-university-blue-gs-kr",
+        "href": "/kr/launch/t/air-jordan-1-high-university-blue-gs-kr?size=7.5",
         "date": "7/22",
         "releaseDate": "1689987600"
     },
@@ -59,7 +43,7 @@
         "title": "조던 1 하이 (Little Kids)",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-university-blue-ps-kr",
+        "href": "/kr/launch/t/jordan-1-high-university-blue-ps-kr?size=7.5",
         "date": "7/22",
         "releaseDate": "1689987600"
     },
@@ -67,7 +51,7 @@
         "title": "에어 조던 1 하이",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-university-blue",
+        "href": "/kr/launch/t/air-jordan-1-high-university-blue?size=7.5",
         "date": "7/22",
         "releaseDate": "1689987600"
     },
@@ -75,7 +59,7 @@
         "title": "조던 1 하이 (Toddler)",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-university-blue-td-kr",
+        "href": "/kr/launch/t/jordan-1-high-university-blue-td-kr?size=7.5",
         "date": "7/22",
         "releaseDate": "1689987600"
     },
@@ -83,7 +67,7 @@
         "title": "에어 포스 1 미드 '07",
         "theme": "Light Bone and Phantom",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-light-bone-and-phantom",
+        "href": "/kr/launch/t/air-force-1-mid-07-light-bone-and-phantom?size=7.5",
         "date": "7/25",
         "releaseDate": "1690246800"
     },
@@ -91,7 +75,7 @@
         "title": "우먼스 에어 조던 1 로우 OG",
         "theme": "NC to Chi",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ0775_046_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-1-low-og-nc-to-chi",
+        "href": "/kr/launch/t/womens-air-jordan-1-low-og-nc-to-chi?size=7.5",
         "date": "7/26",
         "releaseDate": "1690333200"
     },
@@ -99,7 +83,7 @@
         "title": "샥스 MR4 x Martine Rose",
         "theme": "Safety Orange",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ2401_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/shox-mr4-martine-rose-safety-orange",
+        "href": "/kr/launch/t/shox-mr4-martine-rose-safety-orange?size=7.5",
         "date": "7/27",
         "releaseDate": "1690419600"
     }
