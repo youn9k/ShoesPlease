@@ -1,29 +1,5 @@
 [
     {
-        "title": "우먼스 코르테즈 23",
-        "theme": "까치",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0398_133_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-23-kkachi-kr",
-        "date": "7/21",
-        "releaseDate": "1689901200"
-    },
-    {
-        "title": "에어맥스 1 ",
-        "theme": "Clear Jade",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ4549_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-clear-jade",
-        "date": "7/21",
-        "releaseDate": "1689901200"
-    },
-    {
-        "title": "에어 조던 1 로우",
-        "theme": "까치",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0399_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-kkachi-kr",
-        "date": "7/21",
-        "releaseDate": "1689901200"
-    },
-    {
         "title": "에어 조던 1 하이 (Big Kids)",
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -150,5 +126,13 @@
         "href": "/kr/launch/t/air-force-1-07-white-and-multicolor1",
         "date": "8/1",
         "releaseDate": "1690851600"
+    },
+    {
+        "title": "줌 보메로 5",
+        "theme": "Light Bone and Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN7649_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/zoom-vomero-5-light-bone-and-black-kr",
+        "date": "8/3",
+        "releaseDate": "1691024400"
     }
 ]
