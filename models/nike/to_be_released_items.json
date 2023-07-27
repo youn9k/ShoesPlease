@@ -1,73 +1,17 @@
 [
     {
-        "title": "에어 조던 1 하이 (Big Kids)",
-        "theme": "University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-university-blue-gs-kr",
-        "date": "7/22",
-        "releaseDate": "1689987600"
-    },
-    {
-        "title": "조던 1 하이 (Little Kids)",
-        "theme": "University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1412_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-university-blue-ps-kr",
-        "date": "7/22",
-        "releaseDate": "1689987600"
-    },
-    {
-        "title": "에어 조던 1 하이",
-        "theme": "University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-high-university-blue",
-        "date": "7/22",
-        "releaseDate": "1689987600"
-    },
-    {
-        "title": "조던 1 하이 (Toddler)",
-        "theme": "University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD1413_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/jordan-1-high-university-blue-td-kr",
-        "date": "7/22",
-        "releaseDate": "1689987600"
-    },
-    {
-        "title": "터미네이터 하이",
-        "theme": "Game Royal",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN6836_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-high-game-royal",
-        "date": "7/24",
-        "releaseDate": "1690160400"
-    },
-    {
-        "title": "에어 포스 1 미드 '07",
-        "theme": "Light Bone and Phantom",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-light-bone-and-phantom",
-        "date": "7/25",
-        "releaseDate": "1690246800"
-    },
-    {
-        "title": "우먼스 에어 조던 1 로우 OG",
-        "theme": "NC to Chi",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0775_046_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-jordan-1-low-og-nc-to-chi",
-        "date": "7/26",
-        "releaseDate": "1690333200"
-    },
-    {
-        "title": "샥스 MR4 x Martine Rose",
-        "theme": "Safety Orange",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DQ2401_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/shox-mr4-martine-rose-safety-orange",
-        "date": "7/27",
-        "releaseDate": "1690419600"
-    },
-    {
         "title": "에어 포스 1 로우",
         "theme": "Color of the Month",
         "image": "https://secure-images.nike.com/is/image/DotCom/FD7039_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-force-1-low-color-of-the-month1",
+        "date": "7/28",
+        "releaseDate": "1690506000"
+    },
+    {
+        "title": "우먼스 에어맥스 1 ",
+        "theme": "Rugged Orange and Sail",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2370_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-max-1-rugged-orange-and-sail",
         "date": "7/28",
         "releaseDate": "1690506000"
     },
@@ -84,6 +28,30 @@
         "theme": "Black Toe",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ0858_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-1-low-black-toe-gs-web-kr",
+        "date": "7/28",
+        "releaseDate": "1690506000"
+    },
+    {
+        "title": "NOCTA Tech Fleece",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8457_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-tech-fleece-apparel-collection-static",
+        "date": "7/28",
+        "releaseDate": "1690506000"
+    },
+    {
+        "title": "NOCTA Tech Fleece",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8453_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-tech-fleece-apparel-collection-static",
+        "date": "7/28",
+        "releaseDate": "1690506000"
+    },
+    {
+        "title": "NOCTA Tech Fleece",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8460_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-tech-fleece-apparel-collection-static",
         "date": "7/28",
         "releaseDate": "1690506000"
     },
@@ -120,6 +88,22 @@
         "releaseDate": "1690592400"
     },
     {
+        "title": "에어 조던 6 로우 (Big Kids)",
+        "theme": "Fierce Pink",
+        "image": "https://secure-images.nike.com/is/image/DotCom/768878_061_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/big-kids-air-jordan-6-low-fierce-pink1",
+        "date": "7/31",
+        "releaseDate": "1690765200"
+    },
+    {
+        "title": "에어 플라이트 허라치",
+        "theme": "Light Smoke Grey and Noble Red",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0189_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-flight-huarache-light-smoke-grey-and-noble-red",
+        "date": "8/1",
+        "releaseDate": "1690851600"
+    },
+    {
         "title": "에어 포스 1 '07",
         "theme": "White and Multicolor",
         "image": "https://secure-images.nike.com/is/image/DotCom/FQ0709_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -134,5 +118,61 @@
         "href": "/kr/launch/t/zoom-vomero-5-light-bone-and-black-kr",
         "date": "8/3",
         "releaseDate": "1691024400"
+    },
+    {
+        "title": "나이키 x AMBUSH",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ2054_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-x-ambush-apparel-collection-static1-kr",
+        "date": "8/4",
+        "releaseDate": "1691110800"
+    },
+    {
+        "title": "에어 모어 업템포 로우 x AMBUSH",
+        "theme": "Vivid Sulfur and Limestone",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-more-uptempo-low-ambush-vivid-sulfur-and-limestone-kr",
+        "date": "8/4",
+        "releaseDate": "1691110800"
+    },
+    {
+        "title": "에어 조던 13",
+        "theme": "Wolf Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/414571_160_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-13-wolf-grey1",
+        "date": "8/5",
+        "releaseDate": "1691197200"
+    },
+    {
+        "title": "우먼스 에어 리프트",
+        "theme": "University Red and Stadium Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN7772_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-rift-university-red-and-stadium-green",
+        "date": "8/5",
+        "releaseDate": "1691197200"
+    },
+    {
+        "title": "에어 포스 1 로우 ",
+        "theme": "Color of the Month",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN5924_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-low-color-of-the-month4",
+        "date": "8/7",
+        "releaseDate": "1691370000"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Total Orange",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN7773_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-total-orange",
+        "date": "8/9",
+        "releaseDate": "1691542800"
+    },
+    {
+        "title": "우먼스 코르테즈 ",
+        "theme": "Vivid Sulfur",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-vivid-sulfur",
+        "date": "8/14",
+        "releaseDate": "1691974800"
     }
 ]
