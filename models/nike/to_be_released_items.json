@@ -1,61 +1,5 @@
 [
     {
-        "title": "에어 포스 1 로우",
-        "theme": "Color of the Month",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD7039_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-color-of-the-month1",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
-        "title": "우먼스 에어맥스 1 ",
-        "theme": "Rugged Orange and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD2370_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-max-1-rugged-orange-and-sail",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
-        "title": "에어 조던 1 로우",
-        "theme": "Black Toe",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-black-toe-kr",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
-        "title": "에어 조던 1 로우 (Big Kids)",
-        "theme": "Black Toe",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0858_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-black-toe-gs-web-kr",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
-        "title": "NOCTA Tech Fleece",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD8457_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-tech-fleece-apparel-collection-static",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
-        "title": "NOCTA Tech Fleece",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD8453_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-tech-fleece-apparel-collection-static",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
-        "title": "NOCTA Tech Fleece",
-        "theme": "Apparel Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD8460_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-tech-fleece-apparel-collection-static",
-        "date": "7/28",
-        "releaseDate": "1690506000"
-    },
-    {
         "title": "조던 3 (Toddler)",
         "theme": "Orewood Brown",
         "image": "https://secure-images.nike.com/is/image/DotCom/DM0968_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -112,6 +56,14 @@
         "releaseDate": "1690851600"
     },
     {
+        "title": "ISPA 유니버설",
+        "theme": "Midnight Navy",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ispa-universal-midnight-navy",
+        "date": "8/2",
+        "releaseDate": "1690938000"
+    },
+    {
         "title": "줌 보메로 5",
         "theme": "Light Bone and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN7649_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -166,6 +118,22 @@
         "href": "/kr/launch/t/womens-dunk-low-total-orange",
         "date": "8/9",
         "releaseDate": "1691542800"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "Black and Sequoia",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-mid-07-black-and-sequoia",
+        "date": "8/11",
+        "releaseDate": "1691715600"
+    },
+    {
+        "title": "에어 포스 1 로우",
+        "theme": "Sequoia",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_301_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-low-sequoia",
+        "date": "8/11",
+        "releaseDate": "1691715600"
     },
     {
         "title": "우먼스 코르테즈 ",
