@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어 조던 6 로우 (Big Kids)",
-        "theme": "Fierce Pink",
-        "image": "https://secure-images.nike.com/is/image/DotCom/768878_061_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/big-kids-air-jordan-6-low-fierce-pink1",
-        "date": "7/31",
-        "releaseDate": "1690765200"
-    },
-    {
-        "title": "에어 플라이트 허라치",
-        "theme": "Light Smoke Grey and Noble Red",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD0189_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-flight-huarache-light-smoke-grey-and-noble-red",
-        "date": "8/1",
-        "releaseDate": "1690851600"
-    },
-    {
-        "title": "에어 포스 1 '07",
-        "theme": "White and Multicolor",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FQ0709_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-07-white-and-multicolor1",
-        "date": "8/1",
-        "releaseDate": "1690851600"
-    },
-    {
-        "title": "ISPA 유니버설",
-        "theme": "Midnight Navy",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_400_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-universal-midnight-navy",
-        "date": "8/2",
-        "releaseDate": "1690938000"
-    },
-    {
         "title": "줌 보메로 5",
         "theme": "Light Bone and Black",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN7649_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -78,6 +46,22 @@
         "href": "/kr/launch/t/air-force-1-low-color-of-the-month4",
         "date": "8/7",
         "releaseDate": "1691370000"
+    },
+    {
+        "title": "AAF88 x Billie",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ6763_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/aaf88-x-billie-black-and-white",
+        "date": "8/8",
+        "releaseDate": "1691456400"
+    },
+    {
+        "title": "AAF88 x Billie",
+        "theme": "Fire Red and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ6763_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/aaf88-x-billie-fire-red-and-white",
+        "date": "8/8",
+        "releaseDate": "1691456400"
     },
     {
         "title": "우먼스 덩크 로우",
