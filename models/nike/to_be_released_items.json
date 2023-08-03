@@ -1,13 +1,5 @@
 [
     {
-        "title": "줌 보메로 5",
-        "theme": "Light Bone and Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN7649_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-vomero-5-light-bone-and-black-kr",
-        "date": "8/3",
-        "releaseDate": "1691024400"
-    },
-    {
         "title": "나이키 x AMBUSH",
         "theme": "Apparel Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/FJ2054_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -94,5 +86,13 @@
         "href": "/kr/launch/t/womens-cortez-vivid-sulfur",
         "date": "8/14",
         "releaseDate": "1691974800"
+    },
+    {
+        "title": "터미네이터 로우",
+        "theme": "Dark Obsidian and Granite",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN6830_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-low-dark-obsidian-and-granite",
+        "date": "8/19",
+        "releaseDate": "1692406800"
     }
 ]
