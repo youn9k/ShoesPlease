@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 조던 13",
-        "theme": "Wolf Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/414571_160_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-13-wolf-grey1",
-        "date": "8/5",
-        "releaseDate": "1691197200"
-    },
-    {
-        "title": "우먼스 에어 리프트",
-        "theme": "University Red and Stadium Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN7772_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-rift-university-red-and-stadium-green",
-        "date": "8/5",
-        "releaseDate": "1691197200"
-    },
-    {
         "title": "에어 포스 1 로우 ",
         "theme": "Color of the Month",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN5924_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -48,22 +32,6 @@
         "releaseDate": "1691542800"
     },
     {
-        "title": "에어 포스 1 미드 '07",
-        "theme": "Black and Sequoia",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-black-and-sequoia",
-        "date": "8/11",
-        "releaseDate": "1691715600"
-    },
-    {
-        "title": "에어 포스 1 로우",
-        "theme": "Sequoia",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_301_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-sequoia",
-        "date": "8/11",
-        "releaseDate": "1691715600"
-    },
-    {
         "title": "에어 조던 5",
         "theme": "Burgundy",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ4131_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -86,6 +54,22 @@
         "href": "/kr/launch/t/womens-cortez-vivid-sulfur",
         "date": "8/14",
         "releaseDate": "1691974800"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "Black and Sequoia",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-mid-07-black-and-sequoia",
+        "date": "8/15",
+        "releaseDate": "1692061200"
+    },
+    {
+        "title": "에어 포스 1 로우",
+        "theme": "Sequoia",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_301_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-low-sequoia",
+        "date": "8/15",
+        "releaseDate": "1692061200"
     },
     {
         "title": "터미네이터 로우",
