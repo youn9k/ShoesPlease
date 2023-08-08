@@ -1,27 +1,51 @@
 [
     {
-        "title": "AAF88 x Billie",
-        "theme": "Black and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ6763_102_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/aaf88-x-billie-black-and-white",
-        "date": "8/8",
-        "releaseDate": "1691456400"
-    },
-    {
-        "title": "AAF88 x Billie",
-        "theme": "Fire Red and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ6763_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/aaf88-x-billie-fire-red-and-white",
-        "date": "8/8",
-        "releaseDate": "1691456400"
-    },
-    {
         "title": "우먼스 덩크 로우",
         "theme": "Total Orange",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN7773_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-dunk-low-total-orange",
         "date": "8/9",
         "releaseDate": "1691542800"
+    },
+    {
+        "title": "나이키 퀀도 1 x PEACEMINUSONE",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DH2482_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-peaceminusone-g-dragon-kwondo-1-black-and-white-kr",
+        "date": "8/11",
+        "releaseDate": "1691715600"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0096_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "8/11",
+        "releaseDate": "1691715600"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0098_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "8/11",
+        "releaseDate": "1691715600"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0098_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "8/11",
+        "releaseDate": "1691715600"
+    },
+    {
+        "title": "나이키 x PEACEMINUSONE",
+        "theme": "Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR0100_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-peaceminusone-apparel-collection",
+        "date": "8/11",
+        "releaseDate": "1691715600"
     },
     {
         "title": "에어 조던 5",
@@ -64,12 +88,28 @@
         "releaseDate": "1692061200"
     },
     {
+        "title": "에어 조던 1",
+        "theme": "Atmosphere Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-atmosphere-grey",
+        "date": "8/16",
+        "releaseDate": "1692147600"
+    },
+    {
         "title": "터미네이터 로우",
         "theme": "Dark Obsidian and Granite",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN6830_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/terminator-low-dark-obsidian-and-granite",
         "date": "8/19",
         "releaseDate": "1692406800"
+    },
+    {
+        "title": "우먼스 에어 어저스트 포스",
+        "theme": "Khaki and Light Bone",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ1844_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-adjust-force-khaki-and-light-bone",
+        "date": "8/21",
+        "releaseDate": "1692579600"
     },
     {
         "title": "에어 페니 2",
