@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 포스 1 미드 '07",
-        "theme": "Black and Sequoia",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-mid-07-black-and-sequoia",
-        "date": "8/15",
-        "releaseDate": "1692061200"
-    },
-    {
-        "title": "에어 포스 1 로우",
-        "theme": "Sequoia",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DV7186_301_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-low-sequoia",
-        "date": "8/15",
-        "releaseDate": "1692061200"
-    },
-    {
-        "title": "에어 조던 1",
-        "theme": "Atmosphere Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-atmosphere-grey",
-        "date": "8/16",
-        "releaseDate": "1692147600"
-    },
-    {
         "title": "에어맥스 1",
         "theme": "Bronze",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ4549_110_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -96,11 +72,147 @@
         "releaseDate": "1692838800"
     },
     {
+        "title": "에어 풋스케이프 우븐",
+        "theme": "Black and Smoke Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1959_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-footscape-woven-black-and-smoke-grey",
+        "date": "8/25",
+        "releaseDate": "1692925200"
+    },
+    {
+        "title": "에어 포스 1",
+        "theme": "West Indies",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DX1156_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-west-indies1",
+        "date": "8/25",
+        "releaseDate": "1692925200"
+    },
+    {
         "title": "나이키 SB 덩크 로우 x Yuto",
         "theme": "Wolf Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/FQ1180_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-sb-dunk-low-x-yuto-wolf-grey-kr",
         "date": "8/25",
         "releaseDate": "1692925200"
+    },
+    {
+        "title": "우먼스 에어 조던 4",
+        "theme": "Frozen Moments",
+        "image": "https://secure-images.nike.com/is/image/DotCom/AQ9129_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-4-frozen-moments",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Accessories",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ5936_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-accessories-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "에어 포스 1 '07 미드",
+        "theme": "Fresh",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2525_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-07-mid-fresh",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4244_097_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4244_206_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4246_303_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4246_097_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4246_206_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4242_237_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4240_206_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Men's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4248_378_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-mens-apparel-collection-static",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "에어 조던 1 x UNION x Bephies Beauty Supply",
+        "theme": "Summer '96",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD2565_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-x-union-x-bephies-beauty-supply-summer-96-kr",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "우먼스 에어 조던 1 엘리베이트 하이 x Bephies Beauty Supply x UNION",
+        "theme": "Summer '96",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD0696_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-1-elevate-high-x-bephies-beauty-supply-x-union-summer-96-kr",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "Obsidian",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2708_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-force-1-07-obsidian",
+        "date": "8/29",
+        "releaseDate": "1693270800"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "White and Coconut Milk",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2710_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-white-and-coconut-milk",
+        "date": "8/29",
+        "releaseDate": "1693270800"
     }
 ]
