@@ -72,7 +72,7 @@ jobs:
       run: echo "DATE=$(date +'%Y-%m-%d %H:%M GMT+9')" >> $GITHUB_ENV
     
     - name: Add & Commit # Add Commit
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
         message: '🤖 Update Nike Models ${{ env.DATE }}'
         author_name: 'GitHub-Actions-Bot'
