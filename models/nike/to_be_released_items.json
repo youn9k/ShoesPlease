@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 휴마라",
-        "theme": "Oil Green and Malachite",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ7098_301_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-humara-oil-green-and-malachite",
-        "date": "8/22",
-        "releaseDate": "1692666000"
-    },
-    {
         "title": "코비 8 프로트로 (Little Kids)",
         "theme": "Halo",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN0267_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -70,6 +62,30 @@
         "href": "/kr/launch/t/nike-sb-dunk-low-x-yuto-wolf-grey-kr",
         "date": "8/25",
         "releaseDate": "1692925200"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Women's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4251_377_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-womens-apparel-collection-static-kr-web",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Women's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4253_303_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-womens-apparel-collection-static-kr-web",
+        "date": "8/26",
+        "releaseDate": "1693011600"
+    },
+    {
+        "title": "조던 x UNION x Bephies Beauty Supply",
+        "theme": "Women's Apparel",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4255_303_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-x-union-x-bephies-beauty-supply-womens-apparel-collection-static-kr-web",
+        "date": "8/26",
+        "releaseDate": "1693011600"
     },
     {
         "title": "우먼스 에어 조던 4",
