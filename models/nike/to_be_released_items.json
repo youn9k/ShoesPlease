@@ -1,45 +1,5 @@
 [
     {
-        "title": "코비 8 프로트로 (Little Kids)",
-        "theme": "Halo",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN0267_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/kobe-8-protro-halo-ps-kr",
-        "date": "8/23",
-        "releaseDate": "1692752400"
-    },
-    {
-        "title": "코비 8 프로트로 (Big Kids)",
-        "theme": "Halo",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN0266_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/kobe-8-protro-halo-gs-kr",
-        "date": "8/23",
-        "releaseDate": "1692752400"
-    },
-    {
-        "title": "코비 8 프로트로",
-        "theme": "Halo",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ9364_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/kobe-8-protro-halo-kr",
-        "date": "8/23",
-        "releaseDate": "1692752400"
-    },
-    {
-        "title": "에어 페니 2",
-        "theme": "Panda",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2549_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-penny-ii-panda",
-        "date": "8/23",
-        "releaseDate": "1692752400"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Midnight Navy and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN7197_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/dunk-low-midnight-navy-and-white-kr",
-        "date": "8/24",
-        "releaseDate": "1692838800"
-    },
-    {
         "title": "에어 풋스케이프 우븐",
         "theme": "Black and Smoke Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1959_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -192,6 +152,22 @@
         "releaseDate": "1693011600"
     },
     {
+        "title": "에어 조던 1 (Big Kids)",
+        "theme": "Palomino",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD1437_020_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-palomino-gs-kr",
+        "date": "8/27",
+        "releaseDate": "1693098000"
+    },
+    {
+        "title": "에어 조던 1",
+        "theme": "Palomino",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_020_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-palomino",
+        "date": "8/27",
+        "releaseDate": "1693098000"
+    },
+    {
         "title": "우먼스 에어 포스 1 '07",
         "theme": "Obsidian",
         "image": "https://secure-images.nike.com/is/image/DotCom/DZ2708_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -206,5 +182,29 @@
         "href": "/kr/launch/t/womens-dunk-low-white-and-coconut-milk",
         "date": "8/29",
         "releaseDate": "1693270800"
+    },
+    {
+        "title": "우먼스 보메로 5",
+        "theme": "Mystic Red and Platinum",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN7778_600_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-vomero-5-mystic-red-and-platinum-kr",
+        "date": "9/2",
+        "releaseDate": "1693616400"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Light Orewood Brown and Rugged Orange",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2710_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-dunk-low-light-orewood-brown-and-rugged-orange",
+        "date": "9/5",
+        "releaseDate": "1693875600"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "Orange and Emerald Rise",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DV5429_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-dunk-low-orange-and-emerald-rise-kr",
+        "date": "9/6",
+        "releaseDate": "1693962000"
     }
 ]
