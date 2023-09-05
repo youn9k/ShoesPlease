@@ -1,13 +1,5 @@
 [
     {
-        "title": "ISPA Link Axis",
-        "theme": "Total Orange and Sonic Yellow",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FZ3507_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/ispa-link-axis-total-orange-and-sonic-yellow",
-        "date": "9/5",
-        "releaseDate": "1693875600"
-    },
-    {
         "title": "나이키 SB 덩크 로우",
         "theme": "Orange and Emerald Rise",
         "image": "https://secure-images.nike.com/is/image/DotCom/DV5429_800_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -38,6 +30,22 @@
         "href": "/kr/launch/t/womens-air-max-1-obsidian-and-light-orewood-brown",
         "date": "9/8",
         "releaseDate": "1694134800"
+    },
+    {
+        "title": "에어 포스 1 미드 '07",
+        "theme": "Black and Sequoia",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB2036_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-mid-07-black-and-sequoia",
+        "date": "9/8",
+        "releaseDate": "1694134800"
+    },
+    {
+        "title": "우먼스 에어 조던 2",
+        "theme": "Soft Pink",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB2372_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-2-soft-pink",
+        "date": "9/9",
+        "releaseDate": "1694221200"
     },
     {
         "title": "덩크 로우",
@@ -148,6 +156,14 @@
         "theme": "Red Cement",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7669_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-4-red-cement-ps-kr",
+        "date": "9/16",
+        "releaseDate": "1694826000"
+    },
+    {
+        "title": "에어 포스 1 x Terror Squad",
+        "theme": "Blackout",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ5756_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-x-terror-squad-blackout",
         "date": "9/16",
         "releaseDate": "1694826000"
     }
