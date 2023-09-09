@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "title": "코르테즈",
+        "theme": "World Make Mexico",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN7665_838_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/cortez-world-make-mexico",
+        "date": "9/9"
+    },
+    {
+        "title": "에어 풋스케이프 우븐",
+        "theme": "Natural and Brown",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1959_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-footscape-woven-natural-and-brown",
+        "date": "9/9"
+    },
+    {
+        "title": "에어맥스 1 '86",
+        "theme": "World Make Korea",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN7652_030_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-86-world-make-korea",
+        "date": "9/9"
+    }
+]
