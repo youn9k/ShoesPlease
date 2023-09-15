@@ -1,77 +1,5 @@
 [
     {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8166_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-tops-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8166_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-tops-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8170_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-tops-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8170_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-tops-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Outerwear Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8168_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-outerwear-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Outerwear Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8168_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-outerwear-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "NOCTA 글라이드",
-        "theme": "Black and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DM0879_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-glide-black-and-white",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Pants Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8164_247_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-pants-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
-        "title": "나이키 Tech Fleece Reimagined",
-        "theme": "Pants Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8164_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-tech-fleece-reimagined-pants-collection-static-kr",
-        "date": "9/15",
-        "releaseDate": "1694739600"
-    },
-    {
         "title": "조던 4 (Toddler)",
         "theme": "Red Cement",
         "image": "https://secure-images.nike.com/is/image/DotCom/BQ7670_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -176,6 +104,14 @@
         "releaseDate": "1695171600"
     },
     {
+        "title": "ISPA MindBody",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DH7546_101_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ispa-mindbody-black-and-white",
+        "date": "9/20",
+        "releaseDate": "1695171600"
+    },
+    {
         "title": "ISPA",
         "theme": "Pants Collection",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB2713_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -208,10 +144,106 @@
         "releaseDate": "1695344400"
     },
     {
+        "title": "에어 조던 3 x J Balvin",
+        "theme": "Sunset",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN0344_901_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-3-j-balvin-sunset-kr",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
         "title": "조던 2 (Little Kids)",
         "theme": "Black Cement",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ8564_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-2-black-cement-ps-kr",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Pants Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6137_296_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-pants-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Pants Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6137_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-pants-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 3 x J Balvin (Little Kids)",
+        "theme": "Sunset",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN0346_901_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-3-j-balvin-sunset-ps-kr",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6133_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6135_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6135_296_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6139_630_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6141_630_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6145_394_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FV1379_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Men's Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FV1379_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-mens-tops-collection-static",
         "date": "9/23",
         "releaseDate": "1695430800"
     },
@@ -224,10 +256,34 @@
         "releaseDate": "1695430800"
     },
     {
+        "title": "조던 3 x J Balvin (Toddler)",
+        "theme": "Sunset",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN0347_901_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-3-j-balvin-sunset-td-kr",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
         "title": "에어 조던 2",
         "theme": "Black Cement",
         "image": "https://secure-images.nike.com/is/image/DotCom/DR8884_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-2-black-cement",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Women's Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6148_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-womens-apparel-collection-static",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "조던 x J Balvin",
+        "theme": "Women's Apparel Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ6150_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-j-balvin-womens-apparel-collection-static",
         "date": "9/23",
         "releaseDate": "1695430800"
     },
