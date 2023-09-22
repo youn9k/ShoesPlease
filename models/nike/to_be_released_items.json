@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 조던 11",
-        "theme": "Craft",
-        "image": "https://secure-images.nike.com/is/image/DotCom/919712_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-11-craft",
-        "date": "9/22",
-        "releaseDate": "1695344400"
-    },
-    {
         "title": "에어 조던 3 x J Balvin",
         "theme": "Sunset",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN0344_901_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -20,6 +12,14 @@
         "theme": "Black Cement",
         "image": "https://secure-images.nike.com/is/image/DotCom/DQ8564_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/jordan-2-black-cement-ps-kr",
+        "date": "9/23",
+        "releaseDate": "1695430800"
+    },
+    {
+        "title": "에어 조던 11",
+        "theme": "Craft",
+        "image": "https://secure-images.nike.com/is/image/DotCom/919712_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-11-craft",
         "date": "9/23",
         "releaseDate": "1695430800"
     },
@@ -254,5 +254,13 @@
         "href": "/kr/launch/t/nike-air-max-1-pure-platinum",
         "date": "10/2",
         "releaseDate": "1696208400"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Black",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FV4569_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-moc-black1",
+        "date": "10/5",
+        "releaseDate": "1696467600"
     }
 ]
