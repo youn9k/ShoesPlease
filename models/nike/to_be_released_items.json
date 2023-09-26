@@ -56,6 +56,14 @@
         "releaseDate": "1695862800"
     },
     {
+        "title": "나이키 Tech Fleece Reimagined",
+        "theme": "Men's Loose Fit Trench Coat",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN0602_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/fn0602-010-mens-loose-fit-trench-coat-kr",
+        "date": "9/30",
+        "releaseDate": "1696035600"
+    },
+    {
         "title": "에어 조던 8",
         "theme": "Playoffs",
         "image": "https://secure-images.nike.com/is/image/DotCom/305381_062_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -86,6 +94,14 @@
         "href": "/kr/launch/t/jordan-8-playoffs-ps-kr",
         "date": "9/30",
         "releaseDate": "1696035600"
+    },
+    {
+        "title": "나이키 ACG",
+        "theme": "Therma-FIT Fleece Crew",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD8761_072_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/fd8761-072-therma-fit-fleece-crew-kr",
+        "date": "10/2",
+        "releaseDate": "1696208400"
     },
     {
         "title": "Sneaker Evolution",
@@ -166,5 +182,13 @@
         "href": "/kr/launch/t/acg-moc-black1",
         "date": "10/5",
         "releaseDate": "1696467600"
+    },
+    {
+        "title": "에어 모어 업템포 로우 x AMBUSH",
+        "theme": "Lilac and Apple Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-more-uptempo-low-ambush-lilac-and-apple-green-kr",
+        "date": "10/6",
+        "releaseDate": "1696554000"
     }
 ]
