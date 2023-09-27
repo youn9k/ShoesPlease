@@ -184,10 +184,26 @@
         "releaseDate": "1696467600"
     },
     {
+        "title": "우먼스 코르테즈",
+        "theme": "Black and Sail",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB6877_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-black-and-sail",
+        "date": "10/5",
+        "releaseDate": "1696467600"
+    },
+    {
         "title": "에어 모어 업템포 로우 x AMBUSH",
         "theme": "Lilac and Apple Green",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-more-uptempo-low-ambush-lilac-and-apple-green-kr",
+        "date": "10/6",
+        "releaseDate": "1696554000"
+    },
+    {
+        "title": "에어 모어 업템포 로우 x AMBUSH",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-more-uptempo-low-x-ambush-black-and-white-kr",
         "date": "10/6",
         "releaseDate": "1696554000"
     }
