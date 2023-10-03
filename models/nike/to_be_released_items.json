@@ -1,27 +1,27 @@
 [
     {
-        "title": "에어맥스 2 CB '94",
-        "theme": "Black and Metallic Silver",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DC1411_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-air-max-2-cb-94-black-and-metallic-silver",
-        "date": "10/3",
-        "releaseDate": "1696294800"
-    },
-    {
-        "title": "우먼스 코르테즈 ",
-        "theme": "Black and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-black-and-white-1",
-        "date": "10/3",
-        "releaseDate": "1696294800"
-    },
-    {
         "title": "덩크 로우",
         "theme": "Oil Green and Olive Aura",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB8895_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nike-dunk-low-oil-green-and-olive-aura",
         "date": "10/4",
         "releaseDate": "1696381200"
+    },
+    {
+        "title": "우먼스 에어 어저스트 포스",
+        "theme": "Dark Obsidian",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ1844_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-adjust-force-dark-obsidian",
+        "date": "10/4",
+        "releaseDate": "1696381200"
+    },
+    {
+        "title": "NOCTA Running",
+        "theme": "Accessories Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD5465_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
     },
     {
         "title": "ACG 목",
@@ -40,6 +40,46 @@
         "releaseDate": "1696467600"
     },
     {
+        "title": "NOCTA Running",
+        "theme": "Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ3009_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-tops-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
+    },
+    {
+        "title": "NOCTA Running",
+        "theme": "Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DR2678_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-tops-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
+    },
+    {
+        "title": "NOCTA Running",
+        "theme": "Tops Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ3013_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-tops-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
+    },
+    {
+        "title": "NOCTA Running  ",
+        "theme": "Pants Collection ",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ3011_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-pants-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
+    },
+    {
+        "title": "에어 포스 1 '07",
+        "theme": "Oil Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB8876_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-07-oil-green",
+        "date": "10/6",
+        "releaseDate": "1696554000"
+    },
+    {
         "title": "에어 모어 업템포 로우 x AMBUSH",
         "theme": "Lilac and Apple Green",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -54,5 +94,45 @@
         "href": "/kr/launch/t/air-more-uptempo-low-x-ambush-black-and-white-kr",
         "date": "10/6",
         "releaseDate": "1696554000"
+    },
+    {
+        "title": "에어 포스 1 '07 하이",
+        "theme": "Oil Green",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN4190_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-force-1-07-high-oil-green",
+        "date": "10/6",
+        "releaseDate": "1696554000"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Noise Aqua and Cool Grey",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB9660_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-max-1-noise-aqua-and-cool-grey",
+        "date": "10/7",
+        "releaseDate": "1696640400"
+    },
+    {
+        "title": "에어 조던 6",
+        "theme": "Aqua",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CT8529_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-6-aqua",
+        "date": "10/7",
+        "releaseDate": "1696640400"
+    },
+    {
+        "title": "우먼스 에어 풋스케이프 우븐",
+        "theme": "Fir",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN3540_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-footscape-woven-fir",
+        "date": "10/9",
+        "releaseDate": "1696813200"
+    },
+    {
+        "title": "ACG 목",
+        "theme": "Russet",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FV4569_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/acg-moc-russet",
+        "date": "10/9",
+        "releaseDate": "1696813200"
     }
 ]
