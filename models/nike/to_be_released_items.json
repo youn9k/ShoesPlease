@@ -1,24 +1,24 @@
 [
     {
-        "title": "덩크 로우",
-        "theme": "Oil Green and Olive Aura",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8895_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nike-dunk-low-oil-green-and-olive-aura",
-        "date": "10/4",
-        "releaseDate": "1696381200"
-    },
-    {
-        "title": "우먼스 에어 어저스트 포스",
-        "theme": "Dark Obsidian",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ1844_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-air-adjust-force-dark-obsidian",
-        "date": "10/4",
-        "releaseDate": "1696381200"
+        "title": "NOCTA Running",
+        "theme": "Accessories Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD5465_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
     },
     {
         "title": "NOCTA Running",
         "theme": "Accessories Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD5465_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_910_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
+        "date": "10/5",
+        "releaseDate": "1696467600"
+    },
+    {
+        "title": "NOCTA Running",
+        "theme": "Accessories Collection",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_909_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
         "date": "10/5",
         "releaseDate": "1696467600"
@@ -134,5 +134,13 @@
         "href": "/kr/launch/t/acg-moc-russet",
         "date": "10/9",
         "releaseDate": "1696813200"
+    },
+    {
+        "title": "터미네이터 로우",
+        "theme": "University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FQ8748_412_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-low-university-blue-kr",
+        "date": "10/11",
+        "releaseDate": "1696986000"
     }
 ]
