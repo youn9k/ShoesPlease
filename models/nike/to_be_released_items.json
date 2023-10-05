@@ -1,77 +1,5 @@
 [
     {
-        "title": "NOCTA Running",
-        "theme": "Accessories Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD5465_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "NOCTA Running",
-        "theme": "Accessories Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_910_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "NOCTA Running",
-        "theme": "Accessories Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DD9240_909_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-accessories-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "ACG 목",
-        "theme": "Black",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FV4569_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/acg-moc-black1",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "우먼스 코르테즈",
-        "theme": "Black and Sail",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB6877_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-black-and-sail",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "NOCTA Running",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ3009_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-tops-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "NOCTA Running",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DR2678_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-tops-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "NOCTA Running",
-        "theme": "Tops Collection",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ3013_902_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-tops-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
-        "title": "NOCTA Running  ",
-        "theme": "Pants Collection ",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ3011_010_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/nocta-running-apparel-collection-pants-static-kr",
-        "date": "10/5",
-        "releaseDate": "1696467600"
-    },
-    {
         "title": "에어 포스 1 '07",
         "theme": "Oil Green",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB8876_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -120,6 +48,14 @@
         "releaseDate": "1696640400"
     },
     {
+        "title": "우먼스 코르테즈",
+        "theme": "Fir",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-cortez-fir",
+        "date": "10/7",
+        "releaseDate": "1696640400"
+    },
+    {
         "title": "우먼스 에어 풋스케이프 우븐",
         "theme": "Fir",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN3540_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -142,5 +78,21 @@
         "href": "/kr/launch/t/terminator-low-university-blue-kr",
         "date": "10/11",
         "releaseDate": "1696986000"
+    },
+    {
+        "title": "터미네이터 로우",
+        "theme": "Black and Medium Ash",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FV0396_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/terminator-low-black-and-medium-ash",
+        "date": "10/12",
+        "releaseDate": "1697072400"
+    },
+    {
+        "title": "에어 조던 1 로우 OG",
+        "theme": "White/Red",
+        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-low-og-white-red-kr",
+        "date": "10/13",
+        "releaseDate": "1697158800"
     }
 ]
