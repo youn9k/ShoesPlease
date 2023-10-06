@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어 포스 1 '07",
-        "theme": "Oil Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB8876_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-07-oil-green",
-        "date": "10/6",
-        "releaseDate": "1696554000"
-    },
-    {
-        "title": "에어 모어 업템포 로우 x AMBUSH",
-        "theme": "Lilac and Apple Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_500_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-more-uptempo-low-ambush-lilac-and-apple-green-kr",
-        "date": "10/6",
-        "releaseDate": "1696554000"
-    },
-    {
-        "title": "에어 모어 업템포 로우 x AMBUSH",
-        "theme": "Black and White",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB1299_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-more-uptempo-low-x-ambush-black-and-white-kr",
-        "date": "10/6",
-        "releaseDate": "1696554000"
-    },
-    {
-        "title": "에어 포스 1 '07 하이",
-        "theme": "Oil Green",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FN4190_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-force-1-07-high-oil-green",
-        "date": "10/6",
-        "releaseDate": "1696554000"
-    },
-    {
         "title": "에어맥스 1",
         "theme": "Noise Aqua and Cool Grey",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB9660_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -88,11 +56,35 @@
         "releaseDate": "1697072400"
     },
     {
+        "title": "줌 보메로 5",
+        "theme": "Photon Dust and University Blue",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FB9149_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/zoom-vomero-5-photon-dust-and-university-blue-kr",
+        "date": "10/13",
+        "releaseDate": "1697158800"
+    },
+    {
         "title": "에어 조던 1 로우 OG",
         "theme": "White/Red",
         "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/air-jordan-1-low-og-white-red-kr",
         "date": "10/13",
         "releaseDate": "1697158800"
+    },
+    {
+        "title": "에어 조던 1 하이 OG",
+        "theme": "Mauve",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DZ5485_105_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-high-og-mauve",
+        "date": "10/14",
+        "releaseDate": "1697245200"
+    },
+    {
+        "title": "에어 조던 1 엘리먼트",
+        "theme": "Noise Aqua and Light Olive",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DB2889_003_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-element-noise-aqua-and-light-olive",
+        "date": "10/17",
+        "releaseDate": "1697504400"
     }
 ]
