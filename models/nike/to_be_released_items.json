@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어맥스 1",
-        "theme": "Noise Aqua and Cool Grey",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB9660_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-max-1-noise-aqua-and-cool-grey",
-        "date": "10/7",
-        "releaseDate": "1696640400"
-    },
-    {
-        "title": "에어 조던 6",
-        "theme": "Aqua",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CT8529_004_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-6-aqua",
-        "date": "10/7",
-        "releaseDate": "1696640400"
-    },
-    {
-        "title": "우먼스 코르테즈",
-        "theme": "Fir",
-        "image": "https://secure-images.nike.com/is/image/DotCom/DZ2795_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/womens-cortez-fir",
-        "date": "10/7",
-        "releaseDate": "1696640400"
-    },
-    {
         "title": "우먼스 에어 풋스케이프 우븐",
         "theme": "Fir",
         "image": "https://secure-images.nike.com/is/image/DotCom/FN3540_300_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -44,6 +20,14 @@
         "theme": "University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/FQ8748_412_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/terminator-low-university-blue-kr",
+        "date": "10/11",
+        "releaseDate": "1696986000"
+    },
+    {
+        "title": "우먼스 에어 조던 2 로우",
+        "theme": "Black Satin",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4849_106_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-2-low-black-satin",
         "date": "10/11",
         "releaseDate": "1696986000"
     },
@@ -86,5 +70,45 @@
         "href": "/kr/launch/t/air-jordan-1-element-noise-aqua-and-light-olive",
         "date": "10/17",
         "releaseDate": "1697504400"
+    },
+    {
+        "title": "우먼스 덩크 로우 빈티지",
+        "theme": "Black and White",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FQ8899_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/dunk-low-premium-womens-shoes-kr",
+        "date": "10/18",
+        "releaseDate": "1697590800"
+    },
+    {
+        "title": "우먼스 나이키 샥스 TL",
+        "theme": "Black and Max Orange",
+        "image": "https://secure-images.nike.com/is/image/DotCom/AR3566_002_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-nike-shox-tl-black-and-max-orange-kr",
+        "date": "10/19",
+        "releaseDate": "1697677200"
+    },
+    {
+        "title": "우먼스 나이키 샥스 TL",
+        "theme": "White and Max Orange",
+        "image": "https://secure-images.nike.com/is/image/DotCom/AR3566_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-nike-shox-tl-white-and-max-orange-kr",
+        "date": "10/19",
+        "releaseDate": "1697677200"
+    },
+    {
+        "title": "ISPA 유니버설",
+        "theme": "Natural and Earth",
+        "image": "https://secure-images.nike.com/is/image/DotCom/DM0886_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/ispa-universal-natural-and-earth",
+        "date": "10/19",
+        "releaseDate": "1697677200"
+    },
+    {
+        "title": "나이키 SB 덩크 하이",
+        "theme": "Sweet Tooth",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FN5107_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/nike-sb-dunk-high-sweet-tooth",
+        "date": "10/20",
+        "releaseDate": "1697763600"
     }
 ]
