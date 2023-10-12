@@ -1,17 +1,17 @@
 [
     {
-        "title": "터미네이터 로우",
-        "theme": "Black and Medium Ash",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FV0396_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/terminator-low-black-and-medium-ash",
-        "date": "10/12",
-        "releaseDate": "1697072400"
-    },
-    {
         "title": "줌 보메로 5",
         "theme": "Photon Dust and University Blue",
         "image": "https://secure-images.nike.com/is/image/DotCom/FB9149_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/zoom-vomero-5-photon-dust-and-university-blue-kr",
+        "date": "10/13",
+        "releaseDate": "1697158800"
+    },
+    {
+        "title": "에어 조던 1 로우 골프 x Travis Scott",
+        "theme": "Neutral Olive",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FZ3124_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/air-jordan-1-low-golf-x-travis-scott-neutral-olive-kr",
         "date": "10/13",
         "releaseDate": "1697158800"
     },
@@ -92,6 +92,30 @@
         "theme": "Black and White",
         "image": "https://secure-images.nike.com/is/image/DotCom/FQ8899_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/dunk-low-premium-womens-shoes-kr",
+        "date": "10/18",
+        "releaseDate": "1697590800"
+    },
+    {
+        "title": "조던 1 하이 (Toddler)",
+        "theme": "Satin Bred",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD5305_061_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-high-satin-bred-td-kr",
+        "date": "10/18",
+        "releaseDate": "1697590800"
+    },
+    {
+        "title": "우먼스 에어 조던 1 하이 OG",
+        "theme": "Satin Bred",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD4810_061_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-air-jordan-1-high-og-satin-bred-kr",
+        "date": "10/18",
+        "releaseDate": "1697590800"
+    },
+    {
+        "title": "조던 1 하이 (Little Kids)",
+        "theme": "Satin Bred",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FD5304_061_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/jordan-1-high-satin-bred-ps-kr",
         "date": "10/18",
         "releaseDate": "1697590800"
     },
@@ -290,9 +314,25 @@
     {
         "title": "10.22 Member Days Special Launch",
         "theme": "SNKRS Reserve",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FJ0604_601_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/snkrs-reserve-1022-member-days-special-launch-kr",
         "date": "10/22",
         "releaseDate": "1697936400"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "White and Gum Light Brown",
+        "image": "",
+        "href": "/kr/launch/t/nike-sb-dunk-low-white-and-gum-light-brown-kr",
+        "date": "10/25",
+        "releaseDate": "1698195600"
+    },
+    {
+        "title": "에어 풋스케이프 우븐",
+        "theme": "Sail and Black",
+        "image": "",
+        "href": "/kr/launch/t/air-footscape-woven-sail-and-black",
+        "date": "10/25",
+        "releaseDate": "1698195600"
     }
 ]
