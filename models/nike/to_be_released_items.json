@@ -1,29 +1,5 @@
 [
     {
-        "title": "줌 보메로 5",
-        "theme": "Photon Dust and University Blue",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FB9149_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/zoom-vomero-5-photon-dust-and-university-blue-kr",
-        "date": "10/13",
-        "releaseDate": "1697158800"
-    },
-    {
-        "title": "에어 조던 1 로우 골프 x Travis Scott",
-        "theme": "Neutral Olive",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FZ3124_200_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-golf-x-travis-scott-neutral-olive-kr",
-        "date": "10/13",
-        "releaseDate": "1697158800"
-    },
-    {
-        "title": "에어 조던 1 로우 OG",
-        "theme": "White/Red",
-        "image": "https://secure-images.nike.com/is/image/DotCom/CZ0790_161_A_PREM?$SNKRS_COVER_WD$&align=0,1",
-        "href": "/kr/launch/t/air-jordan-1-low-og-white-red-kr",
-        "date": "10/13",
-        "releaseDate": "1697158800"
-    },
-    {
         "title": "에어 조던 1 엘리먼트",
         "theme": "Sky J Purple",
         "image": "https://secure-images.nike.com/is/image/DotCom/DB2889_501_A_PREM?$SNKRS_COVER_WD$&align=0,1",
@@ -132,6 +108,22 @@
         "theme": "White and Max Orange",
         "image": "https://secure-images.nike.com/is/image/DotCom/AR3566_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
         "href": "/kr/launch/t/womens-nike-shox-tl-white-and-max-orange-kr",
+        "date": "10/19",
+        "releaseDate": "1697677200"
+    },
+    {
+        "title": "우먼스 피닉스 와플",
+        "theme": "Black and Off Noir",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ1409_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-phoenix-waffle-black-and-off-noir",
+        "date": "10/19",
+        "releaseDate": "1697677200"
+    },
+    {
+        "title": "우먼스 피닉스 와플",
+        "theme": "Wheat Gold",
+        "image": "https://secure-images.nike.com/is/image/DotCom/FJ1409_700_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "href": "/kr/launch/t/womens-phoenix-waffle-wheat-gold",
         "date": "10/19",
         "releaseDate": "1697677200"
     },
@@ -306,7 +298,7 @@
     {
         "title": "10.22 Member Days Special Launch",
         "theme": "SNKRS Reserve",
-        "image": "https://secure-images.nike.com/is/image/DotCom/FD2565_100_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "image": "",
         "href": "/kr/launch/t/snkrs-reserve-1022-member-days-special-launch-kr",
         "date": "10/22",
         "releaseDate": "1697936400"
@@ -318,6 +310,14 @@
         "href": "/kr/launch/t/snkrs-reserve-1022-member-days-special-launch-kr",
         "date": "10/22",
         "releaseDate": "1697936400"
+    },
+    {
+        "title": "SB 덩크 로우 프로",
+        "theme": "Black",
+        "image": "",
+        "href": "/kr/launch/t/sb-dunk-low-pro-black-kr",
+        "date": "10/23",
+        "releaseDate": "1698022800"
     },
     {
         "title": "나이키 SB 덩크 로우",
