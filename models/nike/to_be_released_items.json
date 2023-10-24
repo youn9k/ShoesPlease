@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 조던 1 로우 x Chris Paul",
-        "theme": "Light Cream and Sail",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f3d393e4-473f-4a19-b003-ecb5c4970310/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-x-chris-paul-light-cream-and-sail-fz0455-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-low-chris-paul-light-cream-and-sail-kr",
-        "date": "10/24",
-        "releaseDate": "1698109200"
-    },
-    {
         "title": "나이키 SB 덩크 로우",
         "theme": "White and Gum Light Brown",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/db3c59ca-d9b6-4bb9-9aa7-51e911377996/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-white-and-gum-light-brown-cd2563-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -70,5 +62,69 @@
         "href": "/kr/launch/t/dunk-low-midnight-navy-baroque-brown",
         "date": "11/3",
         "releaseDate": "1698973200"
+    },
+    {
+        "title": "에어 조던 1 하이 OG",
+        "theme": "Royal Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6c2b1dc1-7614-4d1c-89d6-ab0bf6422a7f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-royal-reimagined-dz5485-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-high-og-royal-reimagined",
+        "date": "11/4",
+        "releaseDate": "1699059600"
+    },
+    {
+        "title": "조던 1 하이 OG (Toddler)",
+        "theme": "Royal Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/de1a1d13-58e6-4a36-9060-03c9cfbb46fb/%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-toddler-royal-reimagined-fd1413-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-1-high-og-royal-reimagined-td-kr",
+        "date": "11/4",
+        "releaseDate": "1699059600"
+    },
+    {
+        "title": "조던 1 하이 OG (Little Kids)",
+        "theme": "Royal Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/0e540d89-e93b-439f-b0a9-af625a2a6fc5/%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-little-kids-royal-reimagined-fd1412-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-1-high-og-royal-reimagined-ps-kr",
+        "date": "11/4",
+        "releaseDate": "1699059600"
+    },
+    {
+        "title": "에어 조던 1 하이 OG (Big Kids)",
+        "theme": "Royal Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b0a8292e-84b1-4a70-b5d1-43529af31b2f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-big-kids-royal-reimagined-fd1437-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-high-og-royal-reimagined-gs-kr",
+        "date": "11/4",
+        "releaseDate": "1699059600"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "Black and Gum Light Brown",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/38fa2f70-8051-45c7-a331-d8633a23ac1e/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-black-and-gum-light-brown-cd2563-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-black-and-gum-light-brown-kr",
+        "date": "11/7",
+        "releaseDate": "1699318800"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07 ",
+        "theme": "Black and Purple Ink",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/af78c230-fad0-4613-8d11-6946353dce3e/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-black-and-purple-ink-dz2708-500-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-force-1-07-black-and-purple-ink",
+        "date": "11/7",
+        "releaseDate": "1699318800"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Purple Ink and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/299e7c51-32fe-4ebe-b76c-24fbfd2eb7cf/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-purple-ink-and-black-fb7720-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-dunk-low-purple-ink-and-black",
+        "date": "11/7",
+        "releaseDate": "1699318800"
+    },
+    {
+        "title": "줌 보메로 5",
+        "theme": "Light Bone and Phantom",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6e761fd8-4b99-4108-bc68-d114c279ad8d/%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-light-bone-and-phantom-fv0397-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/zoom-vomero-5-light-bone-and-phantom-kr",
+        "date": "11/9",
+        "releaseDate": "1699491600"
     }
 ]
