@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 베이퍼맥스 목 롬",
-        "theme": "Light Stone and Luminous Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/de7d2470-18cc-494a-abf1-608aa36f3326/%EC%97%90%EC%96%B4-%EB%B2%A0%EC%9D%B4%ED%8D%BC%EB%A7%A5%EC%8A%A4-%EB%AA%A9-%EB%A1%AC-light-stone-and-luminous-green-dz7273-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-vapormax-moc-roam-light-stone-and-luminous-green",
-        "date": "10/31",
-        "releaseDate": "1698714000"
-    },
-    {
-        "title": "에어 베이퍼맥스 목 롬",
-        "theme": "Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3b0c750a-5c8d-49f3-8598-8b4e15c71d93/%EC%97%90%EC%96%B4-%EB%B2%A0%EC%9D%B4%ED%8D%BC%EB%A7%A5%EC%8A%A4-%EB%AA%A9-%EB%A1%AC-black-dz7273-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-vapormax-moc-roam-black",
-        "date": "10/31",
-        "releaseDate": "1698714000"
-    },
-    {
         "title": "줌 보메로 5",
         "theme": "Velvet Brown and Medium Ash",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9a5d682b-04f3-405d-8aa0-401e8daedf81/%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-velvet-brown-and-medium-ash-fq8174-237-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -70,6 +54,14 @@
         "href": "/kr/launch/t/dunk-low-midnight-navy-baroque-brown",
         "date": "11/3",
         "releaseDate": "1698973200"
+    },
+    {
+        "title": "에어 조던 1 하이 OG",
+        "theme": "Royal Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6c2b1dc1-7614-4d1c-89d6-ab0bf6422a7f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-royal-reimagined-dz5485-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-high-og-royal-reimagined",
+        "date": "11/4",
+        "releaseDate": "1699059600"
     },
     {
         "title": "조던 1 하이 OG (Toddler)",
@@ -134,5 +126,13 @@
         "href": "/kr/launch/t/zoom-vomero-5-light-bone-and-phantom-kr",
         "date": "11/9",
         "releaseDate": "1699491600"
+    },
+    {
+        "title": "우먼스 에어 조던 11",
+        "theme": "Neapolitan",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1131f24f-220e-461c-a8c4-4afdd40ad5bd/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-neapolitan-ar0715-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-11-neapolitan",
+        "date": "11/11",
+        "releaseDate": "1699664400"
     }
 ]
