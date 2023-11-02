@@ -1,21 +1,5 @@
 [
     {
-        "title": "우먼스 에어 포스 1 와일드",
-        "theme": "Wheat Gold",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b308efaa-bb94-4602-a630-f243566bcaa7/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EC%99%80%EC%9D%BC%EB%93%9C-wheat-gold-fb2348-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-force-1-wild-wheat-gold",
-        "date": "11/2",
-        "releaseDate": "1698886800"
-    },
-    {
-        "title": "에어 포스 1 로우 레트로 \"Color of the Month\"",
-        "theme": "White",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d777e1e5-1fd1-4ed7-8010-ec4051bec078/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-%EB%A0%88%ED%8A%B8%EB%A1%9C-color-of-the-month-white-fn5924-103-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-low-retro-color-of-the-month-white",
-        "date": "11/2",
-        "releaseDate": "1698886800"
-    },
-    {
         "title": "에어 포스 1 '07 Winter",
         "theme": "Ale Brown and Midnight Navy",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/08dd02a3-27f7-4012-9007-5659eac4983a/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-winter-ale-brown-and-midnight-navy-fq8744-410-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -100,6 +84,14 @@
         "theme": "White and Varsity Maize",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/060a9c0b-03b1-4dca-9376-6cbf3d84d880/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%AF%B8%EB%93%9C-x-off-white%E2%84%A2-white-and-varsity-maize-dr0500-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/air-force-1-mid-off-white-white-and-varsity-maize",
+        "date": "11/9",
+        "releaseDate": "1699491600"
+    },
+    {
+        "title": "에어맥스 1 SC",
+        "theme": "Diffused Taupe and Phantom",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/18bc441b-a8c9-4210-a7a6-5fe564846332/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-sc-diffused-taupe-and-phantom-fb9660-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-1-sc-diffused-taupe-and-phantom",
         "date": "11/9",
         "releaseDate": "1699491600"
     },
