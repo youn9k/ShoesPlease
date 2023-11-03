@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 포스 1 '07 Winter",
-        "theme": "Ale Brown and Midnight Navy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/08dd02a3-27f7-4012-9007-5659eac4983a/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-winter-ale-brown-and-midnight-navy-fq8744-410-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-07-winter-ale-brown-and-midnight-navy",
-        "date": "11/3",
-        "releaseDate": "1698973200"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Midnight Navy and Baroque Brown",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2d44cd51-b5c3-400c-88c3-3779b08e1635/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-midnight-navy-and-baroque-brown-fq8746-410-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-midnight-navy-baroque-brown",
-        "date": "11/3",
-        "releaseDate": "1698973200"
-    },
-    {
         "title": "에어 조던 1 하이 OG",
         "theme": "Royal Reimagined",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6c2b1dc1-7614-4d1c-89d6-ab0bf6422a7f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-royal-reimagined-dz5485-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -110,6 +94,14 @@
         "href": "/kr/launch/t/air-jordan-5-navy",
         "date": "11/10",
         "releaseDate": "1699578000"
+    },
+    {
+        "title": "나이키 SB x TIGHTBOOTH®︎ 덩크 로우 프로",
+        "theme": "Black and White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/7dfb4ae7-edd1-4c87-8303-bd514f83ec07/%EB%82%98%EC%9D%B4%ED%82%A4-sb-x-tightbooth%C2%AE%EF%B8%8E-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-black-and-white-fd2629-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-tightbooth-dunk-low-pro-black-and-white-kr",
+        "date": "11/11",
+        "releaseDate": "1699664400"
     },
     {
         "title": "우먼스 에어 조던 11",
