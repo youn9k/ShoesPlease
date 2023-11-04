@@ -1,41 +1,25 @@
 [
     {
-        "title": "에어 조던 1 하이 OG",
-        "theme": "Royal Reimagined",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6c2b1dc1-7614-4d1c-89d6-ab0bf6422a7f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-royal-reimagined-dz5485-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-high-og-royal-reimagined",
-        "date": "11/4",
-        "releaseDate": "1699059600"
-    },
-    {
-        "title": "조던 1 하이 OG (Toddler)",
-        "theme": "Royal Reimagined",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/de1a1d13-58e6-4a36-9060-03c9cfbb46fb/%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-toddler-royal-reimagined-fd1413-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-1-high-og-royal-reimagined-td-kr",
-        "date": "11/4",
-        "releaseDate": "1699059600"
-    },
-    {
-        "title": "조던 1 하이 OG (Little Kids)",
-        "theme": "Royal Reimagined",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/0e540d89-e93b-439f-b0a9-af625a2a6fc5/%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-little-kids-royal-reimagined-fd1412-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-1-high-og-royal-reimagined-ps-kr",
-        "date": "11/4",
-        "releaseDate": "1699059600"
-    },
-    {
-        "title": "에어 조던 1 하이 OG (Big Kids)",
-        "theme": "Royal Reimagined",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b0a8292e-84b1-4a70-b5d1-43529af31b2f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-big-kids-royal-reimagined-fd1437-042-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-high-og-royal-reimagined-gs-kr",
-        "date": "11/4",
-        "releaseDate": "1699059600"
-    },
-    {
         "title": "우먼스 보메로 5",
         "theme": "Pink Oxford and Plum Eclipse",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3a8a9dd8-d4c5-4afc-8968-f5f51c82b86f/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-pink-oxford-and-plum-eclipse-fv1166-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/womens-vomero-5-pink-oxford-and-plum-eclipse",
+        "date": "11/6",
+        "releaseDate": "1699232400"
+    },
+    {
+        "title": "에어맥스 1 '86",
+        "theme": "Blue Grey and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/87adcbfb-1fa2-45b8-8aca-54264581d1d0/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-86-blue-grey-and-black-fb9647-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-1-86-blue-grey-and-black-kr",
+        "date": "11/6",
+        "releaseDate": "1699232400"
+    },
+    {
+        "title": "에어 페니 2",
+        "theme": "Atlantic Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1d2baada-0791-43ab-a736-1d6a78dc66dc/%EC%97%90%EC%96%B4-%ED%8E%98%EB%8B%88-2-atlantic-blue-fn4438-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-penny-2-atlantic-blue2",
         "date": "11/6",
         "releaseDate": "1699232400"
     },
@@ -62,6 +46,78 @@
         "href": "/kr/launch/t/womens-dunk-low-purple-ink-and-black",
         "date": "11/7",
         "releaseDate": "1699318800"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/a14c5916-2252-4c24-b5bc-b1e39cf119b6/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/98ac905d-8b5a-4089-9c3d-6a893c61521b/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/02142ba5-b189-4102-9581-5cb449daee2f/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/88b0aa35-6863-4d1d-a313-45545d42d548/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/277cbeae-e671-4249-88d8-69d7f9415c9d/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/335354d3-a85e-4fc4-b63c-6ca5577179ca/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/ed074574-80b4-4539-ad92-cce4f1a2a1e2/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/8c8ddd78-37a1-4f8e-8ad0-fb7e1f219711/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
+    },
+    {
+        "title": "NOCTA Basketball",
+        "theme": "Apparel Collection",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/b301d264-9298-48b9-bf6b-e9af59b2ce55/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nocta-basketball-apparel-collection-static",
+        "date": "11/8",
+        "releaseDate": "1699405200"
     },
     {
         "title": "에어 포스 1 미드 x Off-White™",
