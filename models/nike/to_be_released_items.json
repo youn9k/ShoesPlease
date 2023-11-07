@@ -1,29 +1,5 @@
 [
     {
-        "title": "나이키 SB 덩크 로우",
-        "theme": "Black and Gum Light Brown",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/38fa2f70-8051-45c7-a331-d8633a23ac1e/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-black-and-gum-light-brown-cd2563-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-black-and-gum-light-brown-kr",
-        "date": "11/7",
-        "releaseDate": "1699318800"
-    },
-    {
-        "title": "우먼스 에어 포스 1 '07 ",
-        "theme": "Black and Purple Ink",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/af78c230-fad0-4613-8d11-6946353dce3e/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-black-and-purple-ink-dz2708-500-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-force-1-07-black-and-purple-ink",
-        "date": "11/7",
-        "releaseDate": "1699318800"
-    },
-    {
-        "title": "우먼스 덩크 로우",
-        "theme": "Purple Ink and Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/299e7c51-32fe-4ebe-b76c-24fbfd2eb7cf/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-purple-ink-and-black-fb7720-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-dunk-low-purple-ink-and-black",
-        "date": "11/7",
-        "releaseDate": "1699318800"
-    },
-    {
         "title": "NOCTA Basketball",
         "theme": "Apparel Collection",
         "image": "https://static.nike.com/a/images/w_960,c_limit/a14c5916-2252-4c24-b5bc-b1e39cf119b6/nocta-basketball-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
@@ -136,6 +112,14 @@
         "releaseDate": "1699578000"
     },
     {
+        "title": "줌 보메로 5",
+        "theme": "Black and Picante Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e28f2661-4a2b-456a-9042-0d8fc9ca8d80/%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-black-and-picante-red-fb9149-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/zoom-vomero-5-black-and-picante-red",
+        "date": "11/10",
+        "releaseDate": "1699578000"
+    },
+    {
         "title": "나이키 SB x TIGHTBOOTH®︎ 덩크 로우 프로",
         "theme": "Black and White",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/7dfb4ae7-edd1-4c87-8303-bd514f83ec07/%EB%82%98%EC%9D%B4%ED%82%A4-sb-x-tightbooth%C2%AE%EF%B8%8E-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-black-and-white-fd2629-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -166,5 +150,21 @@
         "href": "/kr/launch/t/air-penny-2-sesame-and-coconut-milk",
         "date": "11/14",
         "releaseDate": "1699923600"
+    },
+    {
+        "title": "에어 포스 1 로우",
+        "theme": "Chocolate",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/836fb56c-532a-42d7-97fb-0dfde6f03778/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-chocolate-fd7039-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-1-low-chocolate",
+        "date": "11/16",
+        "releaseDate": "1700096400"
+    },
+    {
+        "title": "에어 휴마라",
+        "theme": "Deep Royal Blue and Light Ultramarine",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1e84f1dc-f0dc-441c-98f7-9701d2651f32/%EC%97%90%EC%96%B4-%ED%9C%B4%EB%A7%88%EB%9D%BC-deep-royal-blue-and-light-ultramarine-fj7098-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-humara-deep-royal-blue-and-light-ultramarine",
+        "date": "11/17",
+        "releaseDate": "1700182800"
     }
 ]
