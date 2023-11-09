@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 포스 1 미드 x Off-White™",
-        "theme": "White and Varsity Maize",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/060a9c0b-03b1-4dca-9376-6cbf3d84d880/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%AF%B8%EB%93%9C-x-off-white%E2%84%A2-white-and-varsity-maize-dr0500-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-mid-off-white-white-and-varsity-maize",
-        "date": "11/9",
-        "releaseDate": "1699491600"
-    },
-    {
-        "title": "에어맥스 1 SC",
-        "theme": "Diffused Taupe and Phantom",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/18bc441b-a8c9-4210-a7a6-5fe564846332/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-sc-diffused-taupe-and-phantom-fb9660-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-1-sc-diffused-taupe-and-phantom",
-        "date": "11/9",
-        "releaseDate": "1699491600"
-    },
-    {
-        "title": "줌 보메로 5",
-        "theme": "Light Bone and Phantom",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6e761fd8-4b99-4108-bc68-d114c279ad8d/%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-light-bone-and-phantom-fv0397-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/zoom-vomero-5-light-bone-and-phantom-kr",
-        "date": "11/9",
-        "releaseDate": "1699491600"
-    },
-    {
         "title": "에어 조던 5 ",
         "theme": "Navy",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e038972a-3580-44d1-8f59-05dcfddc161c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-navy-fd6812-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -94,5 +70,37 @@
         "href": "/kr/launch/t/air-humara-deep-royal-blue-and-light-ultramarine",
         "date": "11/17",
         "releaseDate": "1700182800"
+    },
+    {
+        "title": "조던 4 크래프트 (Toddler)",
+        "theme": "Olive",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3abb71a1-8081-4ebf-ac44-9beb2c03f184/%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-toddler-olive-fb9930-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-4-craft-olive-td-kr",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
+        "title": "에어 조던 4 크래프트 (Big Kids)",
+        "theme": "Olive",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b0f58014-e49e-4757-adc6-ef627ae13fa4/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-big-kids-olive-fb9928-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-craft-olive-gs-kr",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
+        "title": "에어 조던 4 크래프트",
+        "theme": "Olive",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/96ea936e-7795-4b9e-a012-8d4d25157588/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-olive-fb9927-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-craft-olive",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
+        "title": "조던 4 크래프트 (Little Kids)",
+        "theme": "Olive",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/931055b9-d5b7-41bd-a74f-bbc5d610c2ea/%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-little-kids-olive-fb9929-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-4-craft-olive-ps-kr",
+        "date": "11/18",
+        "releaseDate": "1700269200"
     }
 ]
