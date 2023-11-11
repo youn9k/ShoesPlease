@@ -1,21 +1,5 @@
 [
     {
-        "title": "나이키 SB x TIGHTBOOTH®︎ 덩크 로우 프로",
-        "theme": "Black and White",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/0aeedb2a-f14e-44fd-af1d-2e14a4cda1e8/%EB%82%98%EC%9D%B4%ED%82%A4-sb-x-tightbooth%C2%AE%EF%B8%8E-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-black-and-white-fd2629-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-tightbooth-dunk-low-pro-black-and-white-kr",
-        "date": "11/11",
-        "releaseDate": "1699664400"
-    },
-    {
-        "title": "우먼스 에어 조던 11",
-        "theme": "Neapolitan",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1131f24f-220e-461c-a8c4-4afdd40ad5bd/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-neapolitan-ar0715-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-11-neapolitan",
-        "date": "11/11",
-        "releaseDate": "1699664400"
-    },
-    {
         "title": "덩크 로우 레트로 프리미엄",
         "theme": "Burgundy Crush",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cecc40ed-4fe4-4671-a812-16780bbfe607/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%EB%A0%88%ED%8A%B8%EB%A1%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-burgundy-crush-fb8895-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -38,6 +22,14 @@
         "href": "/kr/launch/t/air-penny-2-sesame-and-coconut-milk",
         "date": "11/14",
         "releaseDate": "1699923600"
+    },
+    {
+        "title": "우먼스 에어 조던 3",
+        "theme": "Off Noir",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c228bfca-ec8a-486a-91c9-c54576d7868c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-off-noir-ck9246-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-3-off-noir",
+        "date": "11/15",
+        "releaseDate": "1700010000"
     },
     {
         "title": "에어 포스 1 로우",
@@ -94,5 +86,21 @@
         "href": "/kr/launch/t/jordan-4-craft-olive-ps-kr",
         "date": "11/18",
         "releaseDate": "1700269200"
+    },
+    {
+        "title": "터미네이터 로우",
+        "theme": "Sesame and Coconut Milk",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1488049f-63fa-4063-8c05-47d3fd5a81f0/%ED%84%B0%EB%AF%B8%EB%84%A4%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%9A%B0-sesame-and-coconut-milk-fz3964-252-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/terminator-low-sesame-and-coconut-milk",
+        "date": "11/22",
+        "releaseDate": "1700614800"
+    },
+    {
+        "title": "우먼스 코르테즈",
+        "theme": "Sail and Stadium Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b3b482d7-a3ea-4353-ab63-2a7aa8d2e6ac/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%BD%94%EB%A5%B4%ED%85%8C%EC%A6%88-sail-and-stadium-green-fz3967-072-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-cortez-sail-and-stadium-green",
+        "date": "11/22",
+        "releaseDate": "1700614800"
     }
 ]
