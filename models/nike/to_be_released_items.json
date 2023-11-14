@@ -1,37 +1,5 @@
 [
     {
-        "title": "덩크 로우 레트로 프리미엄",
-        "theme": "Burgundy Crush",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cecc40ed-4fe4-4671-a812-16780bbfe607/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%EB%A0%88%ED%8A%B8%EB%A1%9C-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-burgundy-crush-fb8895-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-retro-premium-burgundy-crush",
-        "date": "11/14",
-        "releaseDate": "1699923600"
-    },
-    {
-        "title": "에어 플라이트 허라치",
-        "theme": "Hemp and Coconut Milk",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d10993b7-3165-46d1-a82e-30cc8f8babfa/%EC%97%90%EC%96%B4-%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%8A%B8-%ED%97%88%EB%9D%BC%EC%B9%98-hemp-and-coconut-milk-fd0192-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-flight-huarache-hemp-and-coconut-milk",
-        "date": "11/14",
-        "releaseDate": "1699923600"
-    },
-    {
-        "title": "에어 페니 2",
-        "theme": "Sesame and Coconut Milk",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a3f7b3e2-2246-4873-ab8e-9d26b65e3e3f/%EC%97%90%EC%96%B4-%ED%8E%98%EB%8B%88-2-sesame-and-coconut-milk-fb8885-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-penny-2-sesame-and-coconut-milk",
-        "date": "11/14",
-        "releaseDate": "1699923600"
-    },
-    {
-        "title": "우먼스 에어 조던 3",
-        "theme": "Off Noir",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c228bfca-ec8a-486a-91c9-c54576d7868c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-off-noir-ck9246-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-3-off-noir",
-        "date": "11/15",
-        "releaseDate": "1700010000"
-    },
-    {
         "title": "에어 포스 1 로우",
         "theme": "Chocolate",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/836fb56c-532a-42d7-97fb-0dfde6f03778/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-chocolate-fd7039-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -96,10 +64,42 @@
         "releaseDate": "1700269200"
     },
     {
+        "title": "조던 2 (Little Kids)",
+        "theme": "Origins",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/779105f0-4bfd-48a1-8e09-e72df3b9fd8d/%EC%A1%B0%EB%8D%98-2-little-kids-origins-dq8564-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-2-retro-origins-ps-kr",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
+        "title": "에어 조던 2",
+        "theme": "Origins",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a88bb009-84bc-436d-9f0f-9f4ba9b08edb/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-origins-dr8884-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-retro-origins-kr",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
         "title": "에어 조던 4 크래프트",
         "theme": "Olive",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/96ea936e-7795-4b9e-a012-8d4d25157588/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-olive-fb9927-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/air-jordan-4-craft-olive",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
+        "title": "조던 2 (Toddler)",
+        "theme": "Origins",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/41b949ea-8916-46ed-a237-3f4ad4e000a6/%EC%A1%B0%EB%8D%98-2-toddler-origins-dq8563-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-2-retro-origins-td-kr",
+        "date": "11/18",
+        "releaseDate": "1700269200"
+    },
+    {
+        "title": "에어 조던 2 (Big Kids)",
+        "theme": "Origins",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6f515f02-cf8e-4acc-af23-a9f6ff4d43ef/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-big-kids-origins-dq8562-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-retro-origins-gs-kr",
         "date": "11/18",
         "releaseDate": "1700269200"
     },
@@ -126,5 +126,29 @@
         "href": "/kr/launch/t/womens-cortez-sail-and-stadium-green",
         "date": "11/22",
         "releaseDate": "1700614800"
+    },
+    {
+        "title": "우먼스 에어 풋스케이프 우븐",
+        "theme": "Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/77bf3246-db46-4b6a-b7f4-53cb85e6987e/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%92%8B%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%9A%B0%EB%B8%90-black-fq8129-010-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-footscape-woven-black",
+        "date": "11/28",
+        "releaseDate": "1701133200"
+    },
+    {
+        "title": "터미네이터 로우",
+        "theme": "Phantom and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8e308ecc-002a-49cd-8567-45d9c15c6ff7/%ED%84%B0%EB%AF%B8%EB%84%A4%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%9A%B0-phantom-and-black-fq8127-030-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/terminator-low-phantom-and-black",
+        "date": "11/28",
+        "releaseDate": "1701133200"
+    },
+    {
+        "title": "우먼스 에어 조던 3",
+        "theme": "Off Noir",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c228bfca-ec8a-486a-91c9-c54576d7868c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-off-noir-ck9246-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-3-off-noir",
+        "date": "12/7",
+        "releaseDate": "1701910800"
     }
 ]
