@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 포스 1 로우",
-        "theme": "Chocolate",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/836fb56c-532a-42d7-97fb-0dfde6f03778/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-chocolate-fd7039-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-low-chocolate",
-        "date": "11/16",
-        "releaseDate": "1700096400"
-    },
-    {
         "title": "덩크 로우",
         "theme": "Midnight Navy and White",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/bf66bd79-b7de-4263-8e93-87ee9ed6489b/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-midnight-navy-and-white-fn7197-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -158,5 +150,61 @@
         "href": "/kr/launch/t/womens-air-jordan-3-off-noir",
         "date": "12/7",
         "releaseDate": "1701910800"
+    },
+    {
+        "title": "에어 조던 11 (Big Kids)",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/422df1e9-a0b5-4e11-8cff-77990905f14a/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%ED%82%A4%EC%A6%88-gratitude.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kids-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
+    },
+    {
+        "title": "조던 11 (Infant)",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1adab659-4d8b-4eaa-89a1-8cf3de44cd77/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%ED%82%A4%EC%A6%88-gratitude.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kids-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
+    },
+    {
+        "title": "조던 11 (Little Kids)",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1798f914-d8e8-4347-a627-74dc3ec3653a/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%ED%82%A4%EC%A6%88-gratitude.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kids-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
+    },
+    {
+        "title": "조던 11 (Toddler)",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/83422394-67e1-4257-8a41-31af89dbd94e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%ED%82%A4%EC%A6%88-gratitude.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kids-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
+    },
+    {
+        "title": "조던 11 레트로 리틀 플렉스 (Little Kids)",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/96131b8e-4ef6-463c-ae75-ce78817c29b1/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%ED%82%A4%EC%A6%88-gratitude.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kids-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
+    },
+    {
+        "title": "조던 11 레트로 리틀 플렉스 (Toddler)",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e0015acd-06e6-403c-ad0a-75ce95d9642f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%ED%82%A4%EC%A6%88-gratitude.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kids-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
+    },
+    {
+        "title": "에어 조던 11",
+        "theme": "Gratitude",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/5ed98ae0-e2ec-4b0c-8e24-461b69460949/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-gratitude-ct8012-170-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-11-gratitude-kr",
+        "date": "12/9",
+        "releaseDate": "1702083600"
     }
 ]
