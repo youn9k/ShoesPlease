@@ -1,69 +1,5 @@
 [
     {
-        "title": "조던 4 크래프트 (Toddler)",
-        "theme": "Olive",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3abb71a1-8081-4ebf-ac44-9beb2c03f184/%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-toddler-olive-fb9930-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-4-craft-olive-td-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "에어 조던 4 크래프트 (Big Kids)",
-        "theme": "Olive",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b0f58014-e49e-4757-adc6-ef627ae13fa4/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-big-kids-olive-fb9928-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-craft-olive-gs-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "조던 2 (Little Kids)",
-        "theme": "Origins",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/779105f0-4bfd-48a1-8e09-e72df3b9fd8d/%EC%A1%B0%EB%8D%98-2-little-kids-origins-dq8564-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-2-retro-origins-ps-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "에어 조던 2",
-        "theme": "Origins",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a88bb009-84bc-436d-9f0f-9f4ba9b08edb/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-origins-dr8884-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-2-retro-origins-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "에어 조던 4 크래프트",
-        "theme": "Olive",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/96ea936e-7795-4b9e-a012-8d4d25157588/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-olive-fb9927-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-craft-olive",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "조던 2 (Toddler)",
-        "theme": "Origins",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/41b949ea-8916-46ed-a237-3f4ad4e000a6/%EC%A1%B0%EB%8D%98-2-toddler-origins-dq8563-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-2-retro-origins-td-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "에어 조던 2 (Big Kids)",
-        "theme": "Origins",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6f515f02-cf8e-4acc-af23-a9f6ff4d43ef/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-big-kids-origins-dq8562-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-2-retro-origins-gs-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
-        "title": "조던 4 크래프트 (Little Kids)",
-        "theme": "Olive",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/931055b9-d5b7-41bd-a74f-bbc5d610c2ea/%EC%A1%B0%EB%8D%98-4-%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-little-kids-olive-fb9929-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-4-craft-olive-ps-kr",
-        "date": "11/18",
-        "releaseDate": "1700269200"
-    },
-    {
         "title": "터미네이터 로우",
         "theme": "Sesame and Coconut Milk",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1488049f-63fa-4063-8c05-47d3fd5a81f0/%ED%84%B0%EB%AF%B8%EB%84%A4%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%9A%B0-sesame-and-coconut-milk-fz3964-252-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -120,10 +56,26 @@
         "releaseDate": "1700874000"
     },
     {
+        "title": "나이키 SB x April Skateboards 덩크 로우 프로",
+        "theme": "White and Multi-Color",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b652d0b5-6c51-4c78-9589-f9091cc0179a/%EB%82%98%EC%9D%B4%ED%82%A4-sb-x-april-skateboards-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-white-and-multi-color-fd2562-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-x-april-skateboards-dunk-low-pro-white-and-multi-color",
+        "date": "11/27",
+        "releaseDate": "1701046800"
+    },
+    {
         "title": "우먼스 에어 풋스케이프 우븐",
         "theme": "Black",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/77bf3246-db46-4b6a-b7f4-53cb85e6987e/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%92%8B%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%9A%B0%EB%B8%90-black-fq8129-010-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/womens-air-footscape-woven-black",
+        "date": "11/28",
+        "releaseDate": "1701133200"
+    },
+    {
+        "title": "에어맥스 1",
+        "theme": "Vast Grey and Pearl White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/930a5435-d576-48c4-826c-97f432a2993c/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-vast-grey-and-pearl-white-fd5743-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-1-vast-grey-and-pearl-white",
         "date": "11/28",
         "releaseDate": "1701133200"
     },
