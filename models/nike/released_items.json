@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "title": "에어 포스 1",
+        "theme": "Pojangmacha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3dac1f36-ff51-4ec5-bcd3-a8cd06c1dfd9/snkrs-reserve-11-20-special-launch.jpg",
+        "href": "/kr/launch/t/snkrs-reserve-1120-special-launch-kr?size=8.5",
+        "date": "11/20"
+    },
+    {
+        "title": "샥스 MR4 x Martine Rose",
+        "theme": "Safety Orange",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/657d5dc8-0abc-4f41-9b42-c32cae9296dd/snkrs-reserve-11-20-special-launch.jpg",
+        "href": "/kr/launch/t/snkrs-reserve-1120-special-launch-kr?size=8.5",
+        "date": "11/20"
+    }
+]
