@@ -1,37 +1,5 @@
 [
     {
-        "title": "마그마스케이프 x sacai",
-        "theme": "Varsity Royal",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/9e1b5343-2569-4a6f-8389-bbd88b33f025/%EB%A7%88%EA%B7%B8%EB%A7%88%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-x-sacai-varsity-royal-fn0563-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/magmascape-x-sacai-varsity-royal-kr",
-        "date": "12/7",
-        "releaseDate": "1701910800"
-    },
-    {
-        "title": "에어 포스 1 로우",
-        "theme": "Color of the Month",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2ae1f13e-b647-4b66-a575-fe0524c59b8e/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-color-of-the-month-fn5924-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-low-color-of-the-month2",
-        "date": "12/7",
-        "releaseDate": "1701910800"
-    },
-    {
-        "title": "우먼스 에어 조던 3",
-        "theme": "Off Noir",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c228bfca-ec8a-486a-91c9-c54576d7868c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-off-noir-ck9246-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-3-off-noir",
-        "date": "12/7",
-        "releaseDate": "1701910800"
-    },
-    {
-        "title": "마그마스케이프 x sacai",
-        "theme": "Pecan",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/0d3f1e45-4cfc-4caa-8769-cb029b715b72/%EB%A7%88%EA%B7%B8%EB%A7%88%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-x-sacai-pecan-fn0563-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/magmascape-x-sacai-pecan-kr",
-        "date": "12/7",
-        "releaseDate": "1701910800"
-    },
-    {
         "title": "AAF88 x Billie",
         "theme": "Fire Red",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4ee600f9-b539-48ae-a6ad-80b42a858722/aaf88-x-billie-fire-red-dz6763-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -258,9 +226,33 @@
     {
         "title": "코비 6 프로트로",
         "theme": "Reverse",
-        "image": "",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/090187af-6d2f-4463-ab97-f7330f5533ee/%EC%BD%94%EB%B9%84-6-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-reverse-fv4921-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/kobe-6-protro-reverse-kr",
         "date": "12/15",
         "releaseDate": "1702602000"
+    },
+    {
+        "title": "루나 롬",
+        "theme": "Alabaster and Green Abyss",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f42a4105-3d8a-4398-8bb2-564b43a409dd/%EB%A3%A8%EB%82%98-%EB%A1%AC-alabaster-and-green-abyss-dv2440-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/lunar-roam-alabaster-and-green-abyss-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "에어 조던 2 로우",
+        "theme": "Origins",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c4f5ba23-50cf-4741-a579-569be693222b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EB%A1%9C%EC%9A%B0-origins-dv9956-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-low-origins-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "에어 조던 2 로우 (Big Kids)",
+        "theme": "Origins",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f065c232-cb67-4e24-a64f-dce238e8afab/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EB%A1%9C%EC%9A%B0-origins-dv9956-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-low-origins-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
     }
 ]
