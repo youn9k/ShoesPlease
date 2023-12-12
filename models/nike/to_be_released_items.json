@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 폼포짓 원",
-        "theme": "Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1304931b-5ad2-4aae-94ee-4cce89ef9b37/%EC%97%90%EC%96%B4-%ED%8F%BC%ED%8F%AC%EC%A7%93-%EC%9B%90-black-fd5855-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-foamposite-one-black",
-        "date": "12/12",
-        "releaseDate": "1702342800"
-    },
-    {
         "title": "나이키 x Stüssy",
         "theme": "Reversible Jacket",
         "image": "https://static.nike.com/a/images/w_960,c_limit/abd0b960-bb02-4617-be81-5016f0fc8af1/%EB%82%98%EC%9D%B4%ED%82%A4-x-st%C3%BCssy-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
@@ -190,5 +182,61 @@
         "href": "/kr/launch/t/air-jordan-2-low-origins-kr",
         "date": "12/16",
         "releaseDate": "1702688400"
+    },
+    {
+        "title": "에어 조던 8 x SoleFly",
+        "theme": "Mi Casa es Su Casa",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f3200eb5-49f0-443f-978c-16cee9caa10f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-8-x-solefly-mi-casa-es-su-casa-fj2850-107-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-8-x-solefly-mi-casa-es-su-casa",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "에어 조던 3 ",
+        "theme": "Midnight Navy",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e80494bb-5549-4986-9c0a-d7a2bf112949/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "에어 조던 3 (Big Kids)",
+        "theme": "Midnight Navy",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/10c652d9-a7cc-4579-8895-56541df23336/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "조던 3 (Toddler)",
+        "theme": "Midnight Navy",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/10038f7e-7a4e-4be6-807d-dae15f99101a/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "조던 3 (Little Kids)",
+        "theme": "Midnight Navy",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4a131482-9e18-423c-a2b4-aa3e6486a9a6/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
+        "date": "12/16",
+        "releaseDate": "1702688400"
+    },
+    {
+        "title": "테라 포마 x Off-White™️",
+        "theme": "Matte Olive",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73de31c8-c085-4768-87b9-9e885f71ba0e/%ED%85%8C%EB%9D%BC-%ED%8F%AC%EB%A7%88-x-off-white%E2%84%A2-matte-olive-dq1615-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/terra-forma-x-off-white-matte-olive",
+        "date": "12/21",
+        "releaseDate": "1703120400"
+    },
+    {
+        "title": "테라 포마 x Off-White™️",
+        "theme": "Mantra Orange",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/186c75d3-e1c7-4f44-a3e7-ad60a1cbee22/%ED%85%8C%EB%9D%BC-%ED%8F%AC%EB%A7%88-x-off-white%E2%84%A2-mantra-orange-dq1615-800-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/terra-forma-x-off-white-mantra-orange",
+        "date": "12/21",
+        "releaseDate": "1703120400"
     }
 ]
