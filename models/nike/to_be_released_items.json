@@ -1,113 +1,9 @@
 [
     {
-        "title": "루나 롬",
-        "theme": "Alabaster and Green Abyss",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/2292fab1-cd89-4aa2-93da-542e8a1f8fbe/%EB%A3%A8%EB%82%98-%EB%A1%AC-alabaster-and-green-abyss-dv2440-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/lunar-roam-alabaster-and-green-abyss-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "에어 조던 2 로우",
-        "theme": "Origins",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c4f5ba23-50cf-4741-a579-569be693222b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EB%A1%9C%EC%9A%B0-origins-dv9956-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-2-low-origins-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "에어 조던 2 로우 (Big Kids)",
-        "theme": "Origins",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f065c232-cb67-4e24-a64f-dce238e8afab/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EB%A1%9C%EC%9A%B0-origins-dv9956-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-2-low-origins-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 x SoleFly",
-        "theme": "Men's T-Shirt",
-        "image": "https://static.nike.com/a/images/w_960,c_limit/7750d6c8-e530-4412-be36-ba8074e2e201/%EC%A1%B0%EB%8D%98-x-solefly-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/jordan-x-solefly-apparel-collection-static-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 프로 x SoleFly",
-        "theme": "Unstructured Cap",
-        "image": "https://static.nike.com/a/images/w_960,c_limit/302912b2-5dcc-47d7-aeb5-25ffda3c9348/%EC%A1%B0%EB%8D%98-x-solefly-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/jordan-x-solefly-apparel-collection-static-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 x SoleFly",
-        "theme": "Men's Coaches Jacket",
-        "image": "https://static.nike.com/a/images/w_960,c_limit/cf185b0b-0451-4c85-ad08-b87c728038f0/%EC%A1%B0%EB%8D%98-x-solefly-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/jordan-x-solefly-apparel-collection-static-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 x SoleFly",
-        "theme": "Men's T-Shirt",
-        "image": "https://static.nike.com/a/images/w_960,c_limit/02a14673-f2d7-4b10-a71e-88afcbb497f0/%EC%A1%B0%EB%8D%98-x-solefly-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/jordan-x-solefly-apparel-collection-static-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 x SoleFly",
-        "theme": "Men's Souvenir Shorts",
-        "image": "https://static.nike.com/a/images/w_960,c_limit/5fe508bf-754b-4af3-bc00-e256551b6e0a/%EC%A1%B0%EB%8D%98-x-solefly-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/jordan-x-solefly-apparel-collection-static-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "에어 조던 8 x SoleFly",
-        "theme": "Mi Casa es Su Casa",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f3200eb5-49f0-443f-978c-16cee9caa10f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-8-x-solefly-mi-casa-es-su-casa-fj2850-107-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-8-x-solefly-mi-casa-es-su-casa",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "에어 조던 3 ",
-        "theme": "Midnight Navy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e80494bb-5549-4986-9c0a-d7a2bf112949/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "에어 조던 3 (Big Kids)",
-        "theme": "Midnight Navy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/10c652d9-a7cc-4579-8895-56541df23336/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 3 (Toddler)",
-        "theme": "Midnight Navy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/10038f7e-7a4e-4be6-807d-dae15f99101a/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
-        "title": "조던 3 (Little Kids)",
-        "theme": "Midnight Navy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4a131482-9e18-423c-a2b4-aa3e6486a9a6/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-midnight-navy-ct8532-140-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-midnight-navy2-kr",
-        "date": "12/16",
-        "releaseDate": "1702688400"
-    },
-    {
         "title": "어택 x Cactus Jack",
         "theme": "Light Smoke Grey",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/52b1922f-90ed-4fec-8a4f-d395251c0115/%EC%96%B4%ED%83%9D-x-cactus-jack-light-smoke-grey-hf4198-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/attack-x-cactus-jack-light-smoke-grey-kr",
+        "href": "/kr/launch/t/attack-x-cactus-jack-light-smoke-grey-kr?cp=aplans_em_autoT_nike_OTHER_20230609_c60313_Launch-nonwinner-email-kr_Unknown_CNT~KOR_ko_M_NCP-4dd5014b-9e55-4a85-9c3a-bea7ec6398d5_z_8509ff1a-9cff-4461-af35-94ba00f4c27f_email",
         "date": "12/19",
         "releaseDate": "1702947600"
     },
@@ -115,7 +11,7 @@
         "title": "테라 포마 x Off-White™️",
         "theme": "Matte Olive",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73de31c8-c085-4768-87b9-9e885f71ba0e/%ED%85%8C%EB%9D%BC-%ED%8F%AC%EB%A7%88-x-off-white%E2%84%A2-matte-olive-dq1615-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/terra-forma-x-off-white-matte-olive",
+        "href": "/kr/launch/t/terra-forma-x-off-white-matte-olive?cp=aplans_em_autoT_nike_OTHER_20230609_c60313_Launch-nonwinner-email-kr_Unknown_CNT~KOR_ko_M_NCP-4dd5014b-9e55-4a85-9c3a-bea7ec6398d5_z_8509ff1a-9cff-4461-af35-94ba00f4c27f_email",
         "date": "12/21",
         "releaseDate": "1703120400"
     },
@@ -123,7 +19,7 @@
         "title": "테라 포마 x Off-White™️",
         "theme": "Mantra Orange",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/186c75d3-e1c7-4f44-a3e7-ad60a1cbee22/%ED%85%8C%EB%9D%BC-%ED%8F%AC%EB%A7%88-x-off-white%E2%84%A2-mantra-orange-dq1615-800-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/terra-forma-x-off-white-mantra-orange",
+        "href": "/kr/launch/t/terra-forma-x-off-white-mantra-orange?cp=aplans_em_autoT_nike_OTHER_20230609_c60313_Launch-nonwinner-email-kr_Unknown_CNT~KOR_ko_M_NCP-4dd5014b-9e55-4a85-9c3a-bea7ec6398d5_z_8509ff1a-9cff-4461-af35-94ba00f4c27f_email",
         "date": "12/21",
         "releaseDate": "1703120400"
     },
@@ -131,7 +27,7 @@
         "title": "어택",
         "theme": "White and Yellow Ochre",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/78916134-4131-4ff9-aca6-ecdc810e098c/%EC%96%B4%ED%83%9D-white-and-yellow-ochre-fb8938-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/attack-white-and-yellow-ochre",
+        "href": "/kr/launch/t/attack-white-and-yellow-ochre?cp=aplans_em_autoT_nike_OTHER_20230609_c60313_Launch-nonwinner-email-kr_Unknown_CNT~KOR_ko_M_NCP-4dd5014b-9e55-4a85-9c3a-bea7ec6398d5_z_8509ff1a-9cff-4461-af35-94ba00f4c27f_email",
         "date": "12/22",
         "releaseDate": "1703206800"
     }
