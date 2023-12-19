@@ -1,13 +1,5 @@
 [
     {
-        "title": "어택 x Cactus Jack",
-        "theme": "Light Smoke Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/52b1922f-90ed-4fec-8a4f-d395251c0115/%EC%96%B4%ED%83%9D-x-cactus-jack-light-smoke-grey-hf4198-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/attack-x-cactus-jack-light-smoke-grey-kr",
-        "date": "12/19",
-        "releaseDate": "1702947600"
-    },
-    {
         "title": "나이키 Fly Cap x Off-White™️",
         "theme": "Cap",
         "image": "https://static.nike.com/a/images/w_960,c_limit/2af8cb6a-8edb-429f-aee8-5b7046c10535/%EB%82%98%EC%9D%B4%ED%82%A4-x-off-white%E2%84%A2-outerwear-accessories-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
@@ -134,5 +126,37 @@
         "href": "/kr/launch/t/attack-white-and-yellow-ochre",
         "date": "12/22",
         "releaseDate": "1703206800"
+    },
+    {
+        "title": "코비 Mamba Mentality ",
+        "theme": "Men's Destroyer Jacket",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/b9f527eb-b9ba-4ba5-9c2f-9bbb9fcadce1/%EC%BD%94%EB%B9%84-mamba-mentality-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/kobe-mamba-mentality-apparel-collection-static-kr",
+        "date": "12/27",
+        "releaseDate": "1703638800"
+    },
+    {
+        "title": "코비 Mamba Mentality ",
+        "theme": "Men's City Edition Swingman Jersey",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/1475a917-dfc8-4733-aa97-b35d95d4b39f/%EC%BD%94%EB%B9%84-mamba-mentality-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-mamba-mentality-apparel-collection-static-kr",
+        "date": "12/27",
+        "releaseDate": "1703638800"
+    },
+    {
+        "title": "코비 Mamba Mentality",
+        "theme": "Men's T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/017aad17-8721-4023-9897-543f1b90b42a/%EC%BD%94%EB%B9%84-mamba-mentality-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/kobe-mamba-mentality-apparel-collection-static-kr",
+        "date": "12/27",
+        "releaseDate": "1703638800"
+    },
+    {
+        "title": "코비 4 프로트로",
+        "theme": "Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/0efa2983-c328-4a58-ba1a-36a75837f668/%EC%BD%94%EB%B9%84-4-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-black-fq3544-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-4-protro-black-kr",
+        "date": "12/27",
+        "releaseDate": "1703638800"
     }
 ]
