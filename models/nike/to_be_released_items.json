@@ -1,13 +1,5 @@
 [
     {
-        "title": "터미네이터 로우 ",
-        "theme": "Anthracite",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/88747c53-9088-4e63-adba-b32a635c23bb/%ED%84%B0%EB%AF%B8%EB%84%A4%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%9A%B0-anthracite-fn9331-191-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/terminator-low-anthracite",
-        "date": "1/5",
-        "releaseDate": "1704416400"
-    },
-    {
         "title": "에어 조던 1 엘리먼트",
         "theme": "Black Cement",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8bdb34f4-0b85-4e87-86a3-f36fbbff092c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8-black-cement-db2889-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -102,5 +94,13 @@
         "href": "/kr/launch/t/dunk-low-dark-curry",
         "date": "1/12",
         "releaseDate": "1705021200"
+    },
+    {
+        "title": "에어 포스 1 로우",
+        "theme": "Black and White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xp0bxnua3vhhsbidoz9q/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-black-and-white-cq0492-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-1-low-black-and-white",
+        "date": "1/16",
+        "releaseDate": "1705366800"
     }
 ]
