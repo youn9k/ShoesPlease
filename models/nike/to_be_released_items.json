@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 조던 1 엘리먼트",
-        "theme": "Black Cement",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8bdb34f4-0b85-4e87-86a3-f36fbbff092c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8-black-cement-db2889-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-element-black-cement",
-        "date": "1/6",
-        "releaseDate": "1704502800"
-    },
-    {
-        "title": "우먼스 샥스 TL",
-        "theme": "Platinum Tint",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/393653e3-7d74-4a52-96d1-d4323a5eb030/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-tl-platinum-tint-fz4344-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-shox-tl-platinum-tint",
-        "date": "1/6",
-        "releaseDate": "1704502800"
-    },
-    {
-        "title": "에어 조던 1 엘리먼트",
-        "theme": "Legend Coffee",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a3f025d3-577e-4f52-8408-1f14a0303fe9/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8-legend-coffee-db2889-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-element-legend-coffee",
-        "date": "1/6",
-        "releaseDate": "1704502800"
-    },
-    {
         "title": "코비 Mamba Mentality ",
         "theme": "Men's Destroyer Jacket",
         "image": "https://static.nike.com/a/images/w_960,c_limit/b9f527eb-b9ba-4ba5-9c2f-9bbb9fcadce1/%EC%BD%94%EB%B9%84-mamba-mentality-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
@@ -90,7 +66,7 @@
     {
         "title": "덩크 로우",
         "theme": "Dark Curry",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ca0a76ab-8bca-4d52-aed8-99dab7625cdd/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-dark-curry-fq6965-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/ec10cebe-fd3e-4ade-bd1b-d427f92095ae/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-dark-curry-fq6965-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
         "href": "/kr/launch/t/dunk-low-dark-curry",
         "date": "1/12",
         "releaseDate": "1705021200"
@@ -102,5 +78,37 @@
         "href": "/kr/launch/t/air-force-1-low-black-and-white",
         "date": "1/16",
         "releaseDate": "1705366800"
+    },
+    {
+        "title": "우먼스 샥스 TL",
+        "theme": "Metallic Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e0d41d68-c402-43fe-8cd6-88df058e92af/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-tl-metallic-silver-hf1065-094-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-shox-tl-metallic-silver",
+        "date": "1/17",
+        "releaseDate": "1705453200"
+    },
+    {
+        "title": "에어 페가수스 2K5",
+        "theme": "White and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9572bdb3-2b03-4c54-9b83-adcf41c34d18/%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2k5-white-and-black-fj1909-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-peg-2k5-white-and-black",
+        "date": "1/19",
+        "releaseDate": "1705626000"
+    },
+    {
+        "title": "우먼스 에어 포스 1 '07",
+        "theme": "Gorge Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/95afe3a6-ea0a-4dae-9251-bea8e796ffcc/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-gorge-green-dz2708-300-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-force-1-07-gorge-green",
+        "date": "1/23",
+        "releaseDate": "1705971600"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Gorge Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e424c641-9664-4eda-a807-a2c488a6f2b1/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-gorge-green-fj2260-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-dunk-low-gorge-green",
+        "date": "1/23",
+        "releaseDate": "1705971600"
     }
 ]
