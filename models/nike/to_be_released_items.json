@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어 조던 1 로우 OG",
-        "theme": "Chinese New Year",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/635a432b-3a05-4c07-8745-2f1db7c58d03/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-chinese-new-year-fn3727-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-low-og-chinese-new-year-kr",
-        "date": "1/10",
-        "releaseDate": "1704848400"
-    },
-    {
-        "title": "에어 조던 1 로우 OG (Big Kids)",
-        "theme": "Chinese New Year",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d997624b-ed0a-4351-b0a8-100f16bbc7d9/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-chinese-new-year-fn3727-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-low-og-chinese-new-year-kr",
-        "date": "1/10",
-        "releaseDate": "1704848400"
-    },
-    {
-        "title": "우먼스 에어 조던 2 ",
-        "theme": "Sail/Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4a62fb73-1f3b-42ba-992a-0eeaa47a8127/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EC%84%B8%EC%9D%BC-%EB%B8%94%EB%9E%99-dx4400-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-2-sailblack",
-        "date": "1/10",
-        "releaseDate": "1704848400"
-    },
-    {
         "title": "SB 덩크 로우 프로",
         "theme": "Court Purple",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f3338285-492f-4541-a215-57107fedacf6/sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-court-purple-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -70,6 +46,62 @@
         "href": "/kr/launch/t/air-peg-2k5-white-and-black",
         "date": "1/19",
         "releaseDate": "1705626000"
+    },
+    {
+        "title": "에어 조던 3 (Big Kids)",
+        "theme": "Vintage Floral",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2dc7b88d-6e5c-4fc1-996c-99cd200959f8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-vintage-floral-441140-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-3-vintage-floral-kr",
+        "date": "1/19",
+        "releaseDate": "1705626000"
+    },
+    {
+        "title": "조던 3 (Little Kids)",
+        "theme": "Vintage Floral",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/34f3f1eb-345a-41e2-bf51-5e92ce1d0a8e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-vintage-floral-441140-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-3-vintage-floral-kr",
+        "date": "1/19",
+        "releaseDate": "1705626000"
+    },
+    {
+        "title": "조던 3 (Toddler)",
+        "theme": "Vintage Floral",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6e43245b-1656-4e3b-9b07-5d33e1ff1bcf/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-vintage-floral-441140-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-3-vintage-floral-kr",
+        "date": "1/19",
+        "releaseDate": "1705626000"
+    },
+    {
+        "title": "에어 조던 2",
+        "theme": "Python",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/697f91fa-fc95-4a47-a125-50b45638f027/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-python-dr8884-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-python-kr",
+        "date": "1/20",
+        "releaseDate": "1705712400"
+    },
+    {
+        "title": "에어 조던 2 (Big Kids)",
+        "theme": "Python",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/77993ca6-6550-4bc4-ba5a-edef8427647c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-python-dr8884-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-python-kr",
+        "date": "1/20",
+        "releaseDate": "1705712400"
+    },
+    {
+        "title": "조던 2 (Little Kids)",
+        "theme": "Python",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/18d62619-5752-4f93-bcfb-864424a38fb4/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-python-dr8884-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-python-kr",
+        "date": "1/20",
+        "releaseDate": "1705712400"
+    },
+    {
+        "title": "조던 2 (Toddler)",
+        "theme": "Python",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/02267ce6-bc55-443c-b875-7a4853811740/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-python-dr8884-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-python-kr",
+        "date": "1/20",
+        "releaseDate": "1705712400"
     },
     {
         "title": "우먼스 에어 포스 1 '07",
