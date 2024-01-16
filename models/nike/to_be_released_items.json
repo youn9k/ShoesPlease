@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 포스 1 로우",
-        "theme": "Black and White",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xp0bxnua3vhhsbidoz9q/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-black-and-white-cq0492-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-low-black-and-white",
-        "date": "1/16",
-        "releaseDate": "1705366800"
-    },
-    {
         "title": "우먼스 샥스 TL",
         "theme": "Metallic Silver",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e0d41d68-c402-43fe-8cd6-88df058e92af/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-tl-metallic-silver-hf1065-094-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -94,6 +86,22 @@
         "href": "/kr/launch/t/womens-dunk-low-gorge-green",
         "date": "1/23",
         "releaseDate": "1705971600"
+    },
+    {
+        "title": "어택 OG",
+        "theme": "Light Smoke Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e7889fa6-e3c9-4c90-ac9a-510d5ef1e1d1/%EC%96%B4%ED%83%9D-og-light-smoke-grey-fb8938-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/attack-og-light-smoke-grey",
+        "date": "1/26",
+        "releaseDate": "1706230800"
+    },
+    {
+        "title": "에어 조던 6 ",
+        "theme": "Yellow Ochre",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/350558dd-7fdc-41f2-8a3f-c50997bfccd8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-6-yellow-ochre-ct8529-170-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-6-yellow-ochre",
+        "date": "1/27",
+        "releaseDate": "1706317200"
     },
     {
         "title": "우먼스 줌 보메로 5",
