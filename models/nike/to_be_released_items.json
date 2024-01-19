@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어 페가수스 2K5",
-        "theme": "White and Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9572bdb3-2b03-4c54-9b83-adcf41c34d18/%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2k5-white-and-black-fj1909-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-peg-2k5-white-and-black",
-        "date": "1/19",
-        "releaseDate": "1705626000"
-    },
-    {
-        "title": "에어 조던 3 (Big Kids)",
-        "theme": "Vintage Floral",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2dc7b88d-6e5c-4fc1-996c-99cd200959f8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-vintage-floral-441140-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/big-kids-air-jordan-3-vintage-floral-kr",
-        "date": "1/19",
-        "releaseDate": "1705626000"
-    },
-    {
-        "title": "조던 3 (Little Kids)",
-        "theme": "Vintage Floral",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/34f3f1eb-345a-41e2-bf51-5e92ce1d0a8e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-vintage-floral-441140-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/big-kids-air-jordan-3-vintage-floral-kr",
-        "date": "1/19",
-        "releaseDate": "1705626000"
-    },
-    {
-        "title": "조던 3 (Toddler)",
-        "theme": "Vintage Floral",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6e43245b-1656-4e3b-9b07-5d33e1ff1bcf/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-vintage-floral-441140-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/big-kids-air-jordan-3-vintage-floral-kr",
-        "date": "1/19",
-        "releaseDate": "1705626000"
-    },
-    {
         "title": "에어 조던 2",
         "theme": "Python",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/697f91fa-fc95-4a47-a125-50b45638f027/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-python-dr8884-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -94,6 +62,14 @@
         "href": "/kr/launch/t/air-jordan-6-yellow-ochre",
         "date": "1/27",
         "releaseDate": "1706317200"
+    },
+    {
+        "title": "에어 조던 1 하이 OG",
+        "theme": "Black/White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2b49243f-1c69-40e1-af12-5f35e37536cb/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-black-white-dz5485-010-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-high-og-black-white-kr",
+        "date": "1/31",
+        "releaseDate": "1706662800"
     },
     {
         "title": "우먼스 줌 보메로 5",
