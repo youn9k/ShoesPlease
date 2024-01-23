@@ -1,21 +1,5 @@
 [
     {
-        "title": "우먼스 에어 포스 1 '07",
-        "theme": "Gorge Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/95afe3a6-ea0a-4dae-9251-bea8e796ffcc/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-gorge-green-dz2708-300-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-force-1-07-gorge-green",
-        "date": "1/23",
-        "releaseDate": "1705971600"
-    },
-    {
-        "title": "우먼스 덩크 로우",
-        "theme": "Gorge Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e424c641-9664-4eda-a807-a2c488a6f2b1/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-gorge-green-fj2260-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-dunk-low-gorge-green",
-        "date": "1/23",
-        "releaseDate": "1705971600"
-    },
-    {
         "title": "어택 OG",
         "theme": "Light Smoke Grey",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e7889fa6-e3c9-4c90-ac9a-510d5ef1e1d1/%EC%96%B4%ED%83%9D-og-light-smoke-grey-fb8938-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -70,5 +54,29 @@
         "href": "/kr/launch/t/womens-zoom-vomero-5-light-orewood-brown",
         "date": "2/1",
         "releaseDate": "1706749200"
+    },
+    {
+        "title": "덩크 로우",
+        "theme": "Pine Green and Varsity Maize",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/47762143-4411-4200-bb58-f4bade105c01/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-pine-green-and-varsity-maize-cu1727-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/dunk-low-pine-green-and-varsity-maize",
+        "date": "2/2",
+        "releaseDate": "1706835600"
+    },
+    {
+        "title": "우먼스 에어 풋스케이프 우븐",
+        "theme": "Summit White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6096518d-6624-44f1-9f78-3321b6873691/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%92%8B%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%9A%B0%EB%B8%90-summit-white-fb1959-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-footscape-woven-summit-white",
+        "date": "2/2",
+        "releaseDate": "1706835600"
+    },
+    {
+        "title": "ACG 토레 미드 워터프루프",
+        "theme": "Khaki and Burnt Sienna",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/864a334f-fa5b-42df-926e-b334c234d1a9/acg-%ED%86%A0%EB%A0%88-%EB%AF%B8%EB%93%9C-%EC%9B%8C%ED%84%B0%ED%94%84%EB%A3%A8%ED%94%84-khaki-and-burnt-sienna-fd0212-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/acg-torre-mid-waterproof-khaki-and-burnt-sienna-kr",
+        "date": "2/5",
+        "releaseDate": "1707094800"
     }
 ]
