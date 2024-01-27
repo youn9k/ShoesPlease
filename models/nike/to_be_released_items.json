@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 조던 6 ",
-        "theme": "Yellow Ochre",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/350558dd-7fdc-41f2-8a3f-c50997bfccd8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-6-yellow-ochre-ct8529-170-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-6-yellow-ochre",
-        "date": "1/27",
-        "releaseDate": "1706317200"
-    },
-    {
         "title": "에어 조던 1 (Big Kids)",
         "theme": "Black/White",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3a9183b2-9f28-4552-88d4-9620f8c8fa86/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-big-kids-black-white-fd1437-010-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -86,6 +78,46 @@
         "href": "/kr/launch/t/cortez-light-orewood-brown",
         "date": "2/6",
         "releaseDate": "1707181200"
+    },
+    {
+        "title": "에어 조던 2 로우 ",
+        "theme": "Python",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3809e5cf-8fb4-4a59-a534-c2eb17750c93/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EB%A1%9C%EC%9A%B0-python-dv9956-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-2-low-python",
+        "date": "2/7",
+        "releaseDate": "1707267600"
+    },
+    {
+        "title": "나이키 SB",
+        "theme": "Long-Sleeve Skate T-Shirt",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/54e8e0d9-8643-43be-a663-a255885b22f1/%EB%82%98%EC%9D%B4%ED%82%A4-sb-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-apparel-collection-static-kr",
+        "date": "2/8",
+        "releaseDate": "1707354000"
+    },
+    {
+        "title": "나이키 SB",
+        "theme": "Long-Sleeve Skate T-Shirt",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/f72cef5f-1b3b-4a38-ba8e-b91e527e6c64/%EB%82%98%EC%9D%B4%ED%82%A4-sb-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-apparel-collection-static-kr",
+        "date": "2/8",
+        "releaseDate": "1707354000"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "Coconut Milk",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/87de8c8b-c3bd-48ed-b3b8-8139f293323f/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-coconut-milk-fz5654-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-coconut-milk-kr",
+        "date": "2/8",
+        "releaseDate": "1707354000"
+    },
+    {
+        "title": "나이키 SB 덩크 로우",
+        "theme": "Burgundy Crush",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cd14f559-aa93-4875-8d08-b6cd1ee1ca21/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-burgundy-crush-fn0619-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-burgundy-crush-kr",
+        "date": "2/8",
+        "releaseDate": "1707354000"
     },
     {
         "title": "에어 조던 3 크래프트",
