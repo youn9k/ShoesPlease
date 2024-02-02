@@ -1,21 +1,5 @@
 [
     {
-        "title": "덩크 로우",
-        "theme": "Pine Green and Varsity Maize",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/47762143-4411-4200-bb58-f4bade105c01/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-pine-green-and-varsity-maize-cu1727-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-pine-green-and-varsity-maize",
-        "date": "2/2",
-        "releaseDate": "1706835600"
-    },
-    {
-        "title": "우먼스 에어 풋스케이프 우븐",
-        "theme": "Summit White",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6096518d-6624-44f1-9f78-3321b6873691/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%92%8B%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%9A%B0%EB%B8%90-summit-white-fb1959-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-footscape-woven-summit-white",
-        "date": "2/2",
-        "releaseDate": "1706835600"
-    },
-    {
         "title": "ACG 토레 미드 워터프루프",
         "theme": "Khaki and Burnt Sienna",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/864a334f-fa5b-42df-926e-b334c234d1a9/acg-%ED%86%A0%EB%A0%88-%EB%AF%B8%EB%93%9C-%EC%9B%8C%ED%84%B0%ED%94%84%EB%A3%A8%ED%94%84-khaki-and-burnt-sienna-fd0212-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -72,14 +56,6 @@
         "releaseDate": "1707354000"
     },
     {
-        "title": "나이키 SB 덩크 로우",
-        "theme": "Burgundy Crush",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cd14f559-aa93-4875-8d08-b6cd1ee1ca21/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-burgundy-crush-fn0619-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-burgundy-crush-kr",
-        "date": "2/8",
-        "releaseDate": "1707354000"
-    },
-    {
         "title": "루나 롬",
         "theme": "Platinum Tint and Desert Moss",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/9cf10c70-67e5-439d-8359-e519151f4cd6/%EB%A3%A8%EB%82%98-%EB%A1%AC-platinum-tint-and-desert-moss-dv2440-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -102,5 +78,53 @@
         "href": "/kr/launch/t/dunk-low-dusty-0live",
         "date": "2/13",
         "releaseDate": "1707786000"
+    },
+    {
+        "title": "우먼스 에어 조던 1 하이 OG",
+        "theme": "White and Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/24b589fe-6d7a-419b-8cfb-3ef3ba06aa48/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-white-and-gold-fd2596-107-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-1-high-og-white-and-gold-kr",
+        "date": "2/14",
+        "releaseDate": "1707872400"
+    },
+    {
+        "title": "조던 1 하이 OG (Little Kids)",
+        "theme": "White and Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/af0639c6-9959-4141-b1f1-22f3127fdbe2/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-white-and-gold-fd2596-107-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-1-high-og-white-and-gold-kr",
+        "date": "2/14",
+        "releaseDate": "1707872400"
+    },
+    {
+        "title": "조던 1 하이 OG (Toddler)",
+        "theme": "White and Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4896e80e-2dd1-4767-83dd-136dd5e8c92b/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-white-and-gold-fd2596-107-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-1-high-og-white-and-gold-kr",
+        "date": "2/14",
+        "releaseDate": "1707872400"
+    },
+    {
+        "title": "조던 4 (Little Kids)",
+        "theme": "Bred Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e9cd1b78-7baf-4fc3-96fe-a75059b5f08c/%EC%A1%B0%EB%8D%98-4-little-kids-bred-reimagined-bq7669-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-4-bred-reimagined-ps-kr",
+        "date": "2/17",
+        "releaseDate": "1708131600"
+    },
+    {
+        "title": "조던 4 (Toddler)",
+        "theme": "Bred Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4fab859f-537f-4389-90e7-07eb62ac0738/%EC%A1%B0%EB%8D%98-4-little-kids-bred-reimagined-bq7669-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-4-bred-reimagined-ps-kr",
+        "date": "2/17",
+        "releaseDate": "1708131600"
+    },
+    {
+        "title": "에어 조던 4 (Big Kids)",
+        "theme": "Bred Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/676d3e5c-6ac0-4e23-9c70-0c2fc78d212e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-bred-reimagined-fq8213-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-bred-reimagined-gs-kr",
+        "date": "2/17",
+        "releaseDate": "1708131600"
     }
 ]
