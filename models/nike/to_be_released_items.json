@@ -48,10 +48,26 @@
         "releaseDate": "1707354000"
     },
     {
+        "title": "코비 8 프로트로",
+        "theme": "Aqua",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f4dc1aea-1a9e-4bd3-9f81-4e3992c1c4a6/%EC%BD%94%EB%B9%84-8-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-aqua-fq3549-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-8-protro-aqua-kr",
+        "date": "2/8",
+        "releaseDate": "1707354000"
+    },
+    {
         "title": "나이키 SB 덩크 로우",
-        "theme": "Coconut Milk",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/87de8c8b-c3bd-48ed-b3b8-8139f293323f/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-coconut-milk-fz5654-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-coconut-milk-kr",
+        "theme": "Burgundy Crush",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cd14f559-aa93-4875-8d08-b6cd1ee1ca21/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-burgundy-crush-fn0619-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-burgundy-crush-kr",
+        "date": "2/8",
+        "releaseDate": "1707354000"
+    },
+    {
+        "title": "코비 8 프로트로",
+        "theme": "Court Purple",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f871c2ea-a300-4b99-b1fd-77082fc5c68a/%EC%BD%94%EB%B9%84-8-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-court-purple-fq3549-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-8-protro-court-purple-kr",
         "date": "2/8",
         "releaseDate": "1707354000"
     },
@@ -62,6 +78,14 @@
         "href": "/kr/launch/t/lunar-roam-platinum-tint-and-desert-moss",
         "date": "2/9",
         "releaseDate": "1707440400"
+    },
+    {
+        "title": "우먼스 에어맥스 1 '87 ",
+        "theme": "Sail and Team Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/0d3eae2f-cd3d-4509-81d1-ba6fbb43d282/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-87-sail-and-team-red-fj3169-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-max-1-87-sail-and-team-red",
+        "date": "2/10",
+        "releaseDate": "1707526800"
     },
     {
         "title": "에어 조던 3 크래프트",
@@ -116,6 +140,14 @@
         "theme": "Bred Reimagined",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4fab859f-537f-4389-90e7-07eb62ac0738/%EC%A1%B0%EB%8D%98-4-little-kids-bred-reimagined-bq7669-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/jordan-4-bred-reimagined-ps-kr",
+        "date": "2/17",
+        "releaseDate": "1708131600"
+    },
+    {
+        "title": "에어 조던 4",
+        "theme": "Bred Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/85dc96b6-1cef-43ec-8cef-40e3938ac7cf/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-bred-reimagined-fv5029-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-bred-reimagined-kr",
         "date": "2/17",
         "releaseDate": "1708131600"
     },
