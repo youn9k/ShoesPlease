@@ -1,37 +1,5 @@
 [
     {
-        "title": "나이키 SB 덩크 로우",
-        "theme": "Coconut Milk",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/87de8c8b-c3bd-48ed-b3b8-8139f293323f/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-coconut-milk-fz5654-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-coconut-milk-kr",
-        "date": "2/8",
-        "releaseDate": "1707354000"
-    },
-    {
-        "title": "코비 8 프로트로",
-        "theme": "Aqua",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f4dc1aea-1a9e-4bd3-9f81-4e3992c1c4a6/%EC%BD%94%EB%B9%84-8-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-aqua-fq3549-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/kobe-8-protro-aqua-kr",
-        "date": "2/8",
-        "releaseDate": "1707354000"
-    },
-    {
-        "title": "나이키 SB 덩크 로우",
-        "theme": "Burgundy Crush",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cd14f559-aa93-4875-8d08-b6cd1ee1ca21/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-burgundy-crush-fn0619-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-burgundy-crush-kr",
-        "date": "2/8",
-        "releaseDate": "1707354000"
-    },
-    {
-        "title": "코비 8 프로트로",
-        "theme": "Court Purple",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f871c2ea-a300-4b99-b1fd-77082fc5c68a/%EC%BD%94%EB%B9%84-8-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-court-purple-fq3549-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/kobe-8-protro-court-purple-kr",
-        "date": "2/8",
-        "releaseDate": "1707354000"
-    },
-    {
         "title": "루나 롬",
         "theme": "Platinum Tint and Desert Moss",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/9cf10c70-67e5-439d-8359-e519151f4cd6/%EB%A3%A8%EB%82%98-%EB%A1%AC-platinum-tint-and-desert-moss-dv2440-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -88,20 +56,28 @@
         "releaseDate": "1707872400"
     },
     {
-        "title": "나이키 SB",
-        "theme": "Long-Sleeve Skate T-Shirt",
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/54e8e0d9-8643-43be-a663-a255885b22f1/%EB%82%98%EC%9D%B4%ED%82%A4-sb-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-apparel-collection-static-kr",
-        "date": "2/15",
-        "releaseDate": "1707958800"
+        "title": "북 1 EP",
+        "theme": "Light Orewood Brown",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4c8f3621-6cdf-4fde-b6aa-ea546d1a0136/%EB%B6%81-1-ep-light-orewood-brown-fj4250-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/book-1-ep-light-orewood-brown",
+        "date": "2/17",
+        "releaseDate": "1708131600"
     },
     {
-        "title": "나이키 SB",
-        "theme": "Long-Sleeve Skate T-Shirt",
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/f72cef5f-1b3b-4a38-ba8e-b91e527e6c64/%EB%82%98%EC%9D%B4%ED%82%A4-sb-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-apparel-collection-static-kr",
-        "date": "2/15",
-        "releaseDate": "1707958800"
+        "title": "나이키 Indoor/Outdoor Hoops Apparel ",
+        "theme": "Men's Repel Basketball Jacket",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/2b581a30-17c8-4034-b6da-85696ecbe6d4/%EB%82%98%EC%9D%B4%ED%82%A4-indoor-outdoor-hoops-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-indoor-outdoor-hoops-apparel-collection-static-kr",
+        "date": "2/17",
+        "releaseDate": "1708131600"
+    },
+    {
+        "title": "나이키 Indoor/Outdoor Hoops ",
+        "theme": "Men's Tearaway Basketball Pants",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/cc3f1ac7-0415-464b-9c2c-bbb3540ad81b/%EB%82%98%EC%9D%B4%ED%82%A4-indoor-outdoor-hoops-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-indoor-outdoor-hoops-apparel-collection-static-kr",
+        "date": "2/17",
+        "releaseDate": "1708131600"
     },
     {
         "title": "조던 4 (Little Kids)",
@@ -134,6 +110,22 @@
         "href": "/kr/launch/t/air-jordan-4-bred-reimagined-gs-kr",
         "date": "2/17",
         "releaseDate": "1708131600"
+    },
+    {
+        "title": "나이키 SB",
+        "theme": "Long-Sleeve Skate T-Shirt",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/54e8e0d9-8643-43be-a663-a255885b22f1/%EB%82%98%EC%9D%B4%ED%82%A4-sb-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-apparel-collection-static-kr",
+        "date": "2/19",
+        "releaseDate": "1708304400"
+    },
+    {
+        "title": "나이키 SB",
+        "theme": "Long-Sleeve Skate T-Shirt",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/f72cef5f-1b3b-4a38-ba8e-b91e527e6c64/%EB%82%98%EC%9D%B4%ED%82%A4-sb-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-apparel-collection-static-kr",
+        "date": "2/19",
+        "releaseDate": "1708304400"
     },
     {
         "title": "우먼스 에어맥스 플러스",
