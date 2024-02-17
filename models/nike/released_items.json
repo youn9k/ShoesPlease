@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "title": "에어 조던 4",
+        "theme": "Bred Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/85dc96b6-1cef-43ec-8cef-40e3938ac7cf/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-bred-reimagined-fv5029-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-bred-reimagined-kr",
+        "date": "2/17"
+    },
+    {
+        "title": "에어 조던 4 (Big Kids)",
+        "theme": "Bred Reimagined",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/676d3e5c-6ac0-4e23-9c70-0c2fc78d212e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-bred-reimagined-fq8213-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-bred-reimagined-gs-kr",
+        "date": "2/17"
+    }
+]
