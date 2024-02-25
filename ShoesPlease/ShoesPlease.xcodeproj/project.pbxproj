@@ -516,7 +516,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0.1;
+				MARKETING_VERSION = 2.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.YoungKing.ShoesPlease;
 				PRODUCT_NAME = ShoesPlease;
 				PROVISIONING_PROFILE_SPECIFIER = ShoesPlease_iOS_Development;
@@ -558,7 +558,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0.1;
+				MARKETING_VERSION = 2.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.YoungKing.ShoesPlease;
 				PRODUCT_NAME = ShoesPlease;
 				PROVISIONING_PROFILE_SPECIFIER = appstore_youngk;

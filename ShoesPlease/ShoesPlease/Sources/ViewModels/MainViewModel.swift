@@ -126,7 +126,7 @@ extension MainViewModel {
             
             let convertedReleaseDate = Double(releaseDate)?.toString(locale: "ko_KR") ?? "" // 타임스탬프 -> "yyyy-MM-dd HH:mm"
             
-            toBeReleasedItems.append(ToBeReleasedItem(title: title, theme: theme, image: image, href: href, date: date, releaseDate: convertedReleaseDate))
+            toBeReleasedItems.append(ToBeReleasedItem( title: title, theme: theme, image: image, href: href, date: date, releaseDate: convertedReleaseDate.isEmpty ? "미정" : convertedReleaseDate))
         }
         
         let isSuccess = setToBeReleasedItems(items: toBeReleasedItems)
