@@ -10,12 +10,12 @@ def get_release_date_for_item(href):
     soup = BeautifulSoup(response.text, 'lxml')
     date = soup.find('div', class_='available-date-component').get_text()
 
-    print("date:", date) # "4/5 오전 1:00출시"
+    print("date:", date) # "4.5. 오전 1:00출시"
 
-    splited_string = date.split() # ['4/5', '오전', '1:00출시']
+    splited_string = date.split() # ['4.5.', '오전', '1:00출시']
 
-    month = int(splited_string[0].split("/")[0])
-    day = int(splited_string[0].split("/")[1])
+    month = int(splited_string[0].split(".")[0])
+    day = int(splited_string[0].split(".")[1])
 
     time_string = splited_string[2].replace("출시", "") # "1:00"
 
