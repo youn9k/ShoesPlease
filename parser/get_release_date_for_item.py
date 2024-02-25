@@ -8,6 +8,7 @@ import pytz
 def get_release_date_for_item(href):
     response = requests.get("https://www.nike.com" + href)
     soup = BeautifulSoup(response.text, 'lxml')
+    print(soup.find('div', class_='available-date-component'))
     date = soup.find('div', class_='available-date-component').get_text()
     
     print("https://www.nike.com" + href) # for test
