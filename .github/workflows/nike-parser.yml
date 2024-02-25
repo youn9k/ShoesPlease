@@ -48,7 +48,7 @@ jobs:
         
         pip install selenium
         pip install webdriver_manager
-        pip install bs4==4.11.1
+        pip install beautifulsoup4==4.11.1
         pip install requests
         pip install lxml
         pip install datetime
