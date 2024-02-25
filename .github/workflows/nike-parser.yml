@@ -11,8 +11,8 @@ on:
     - cron: '0 01 * * *'
     #- cron: '*/60 * * * *'
   # for test
-  #push:
-    #branches: [ "main" ]
+  push:
+    branches: [ "main" ]
   workflow_dispatch: # 원할 때 실행시킬 수 있도록
   
 jobs:
@@ -48,7 +48,7 @@ jobs:
         
         pip install selenium
         pip install webdriver_manager
-        pip install bs4
+        pip install bs4==4.11.1
         pip install requests
         pip install lxml
         pip install datetime
