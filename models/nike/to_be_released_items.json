@@ -1,17 +1,73 @@
 [
     {
-        "title": "나이키 에어맥스 Dn All Day",
-        "theme": "Vivid Purple and Dark Smoke Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/570bfaac-8f72-4dd8-ad10-2ac485c23074/%EB%82%98%EC%9D%B4%ED%82%A4-%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-dn-all-day-vivid-purple-and-dark-smoke-grey-hq3732-501-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-air-max-dn-all-day-vivid-purple-and-dark-smoke-grey?size=8",
-        "date": "3/12",
-        "releaseDate": "1710205200"
+        "title": "조던 x Awake NY",
+        "theme": "Men's Varsity Jacket",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/eae27a16-826a-4db7-a540-750319a671cf/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 x Awake NY",
+        "theme": "Men's Flannel Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/423a4389-6d18-4843-b505-90fb639c9f6d/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 x Awake NY",
+        "theme": "Men's Diamond Shorts",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/aff84fd6-7ce3-43d0-be38-0a84247eba25/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 x Awake NY",
+        "theme": "Men's Fleece Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/f44b4417-b55a-4ed6-b2e3-b7175f9bd974/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 x Awake NY",
+        "theme": "Men's Fleece Pants",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/dc20a83e-6d8a-4808-a3e1-5e63d5bc2066/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 x Awake NY",
+        "theme": "Men's T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/3fac6518-ac39-4a5c-b28b-ab2b77ffb7a1/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 x Awake NY",
+        "theme": "Hat",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/395ba724-707a-4925-b141-7f5814865445/%EC%A1%B0%EB%8D%98-x-awake-ny-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/sp24-jordan-x-awake-ny-apparel-collection-static",
+        "date": "3/13",
+        "releaseDate": "1710291600"
+    },
+    {
+        "title": "조던 에어 쉽 X Awake NY",
+        "theme": "University Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3c1ed153-f918-4e5b-84b0-cf27972995c4/%EC%A1%B0%EB%8D%98-%EC%97%90%EC%96%B4-%EC%89%BD-x-awake-ny-university-red-fn8675-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-air-ship-x-awake-ny-university-red-kr",
+        "date": "3/13",
+        "releaseDate": "1710291600"
     },
     {
         "title": "샥스 R4",
         "theme": "Black",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/6e500580-326f-49f3-bdca-37a5cd4b775b/%EC%83%A5%EC%8A%A4-r4-black-ar3565-004-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/shox-r4-black?size=8",
+        "href": "/kr/launch/t/shox-r4-black",
         "date": "3/14",
         "releaseDate": "1710378000"
     },
@@ -19,7 +75,7 @@
         "title": "샥스 R4",
         "theme": "White and Metallic Silver",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/f3b7a3b1-c014-4272-989b-f7e5dc4c734d/%EC%83%A5%EC%8A%A4-r4-white-and-metallic-silver-ar3565-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/shox-r4-white-and-metallic-silver-kr?size=8",
+        "href": "/kr/launch/t/shox-r4-white-and-metallic-silver-kr",
         "date": "3/14",
         "releaseDate": "1710378000"
     },
@@ -27,7 +83,7 @@
         "title": "루나 롬",
         "theme": "Dark Smoke Grey",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/825ee166-e94d-4fdd-b057-97839bfacf41/%EB%A3%A8%EB%82%98-%EB%A1%AC-dark-smoke-grey-dv2440-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/lunar-roam-dark-smoke-grey?size=8",
+        "href": "/kr/launch/t/lunar-roam-dark-smoke-grey",
         "date": "3/15",
         "releaseDate": "1710464400"
     },
@@ -35,7 +91,7 @@
         "title": "터미네이터 로우",
         "theme": "Varsity Red and Medium Grey",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4b9d5ac1-e765-45bd-9453-77107fe05968/%ED%84%B0%EB%AF%B8%EB%84%A4%EC%9D%B4%ED%84%B0-%EB%A1%9C%EC%9A%B0-varsity-red-and-medium-grey-fz4036-099-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/terminator-low-varsity-red-and-medium-grey?size=8",
+        "href": "/kr/launch/t/terminator-low-varsity-red-and-medium-grey",
         "date": "3/15",
         "releaseDate": "1710464400"
     },
@@ -43,7 +99,7 @@
         "title": "우먼스 에어 조던 1 하이",
         "theme": "Cacao Wow and Sand Drift",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b987fdb1-e2a6-4727-8295-98fd0e6d4144/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-cacao-wow-and-sand-drift-fq2941-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-1-high-cacao-wow-and-sand-drift?size=8",
+        "href": "/kr/launch/t/womens-air-jordan-1-high-cacao-wow-and-sand-drift",
         "date": "3/18",
         "releaseDate": "1710723600"
     },
@@ -51,7 +107,7 @@
         "title": "나이키 SB 덩크 로우",
         "theme": "Pure Platinum and Vivid Purple",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/30a2a5bf-f240-48bf-8acf-86ec8f19f79c/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-pure-platinum-and-vivid-purple-fz5251-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pure-platinum-and-vivid-purple?size=8",
+        "href": "/kr/launch/t/nike-sb-dunk-low-pure-platinum-and-vivid-purple",
         "date": "3/19",
         "releaseDate": "1710810000"
     },
@@ -59,7 +115,7 @@
         "title": "덩크 로우",
         "theme": "Plum",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/456915d7-1be7-4b32-965b-823ee6488ef8/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-plum-cu1726-500-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-plum-1-kr?size=8",
+        "href": "/kr/launch/t/dunk-low-plum-1-kr",
         "date": "3/21",
         "releaseDate": "1710982800"
     }
