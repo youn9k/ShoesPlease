@@ -1,53 +1,5 @@
 [
     {
-        "title": "조던 x Trophy Room",
-        "theme": "Men's Tear-Away Pants",
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/e4093428-a8c5-4b1e-a11a-85a2d6b04197/%EC%A1%B0%EB%8D%98-x-trophy-room-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-x-trophy-room-apparel-collection-static2-kr",
-        "date": "3/21",
-        "releaseDate": "1710982800"
-    },
-    {
-        "title": "조던 x Trophy Room",
-        "theme": "Men's Warm-Up Shirt",
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/f146b7be-0dc1-4f77-91fa-f5c8e28bc7fe/%EC%A1%B0%EB%8D%98-x-trophy-room-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-x-trophy-room-apparel-collection-static2-kr",
-        "date": "3/21",
-        "releaseDate": "1710982800"
-    },
-    {
-        "title": "조던 x Trophy Room",
-        "theme": "Men's Short-Sleeve Top",
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/577eea7f-a121-4b3f-b317-81336a5b5068/%EC%A1%B0%EB%8D%98-x-trophy-room-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-x-trophy-room-apparel-collection-static2-kr",
-        "date": "3/21",
-        "releaseDate": "1710982800"
-    },
-    {
-        "title": "조던 x Trophy Room",
-        "theme": "Men's Short-Sleeve Top",
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/ba0dc53f-d26e-4b9e-91b8-91e54ed6460c/%EC%A1%B0%EB%8D%98-x-trophy-room-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/jordan-x-trophy-room-apparel-collection-static2-kr",
-        "date": "3/21",
-        "releaseDate": "1710982800"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Plum",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/c5071b17-8d86-4687-9a3d-de61217610b8/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-plum-cu1726-500-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-plum-1-kr",
-        "date": "3/21",
-        "releaseDate": "1710982800"
-    },
-    {
-        "title": "에어 조던 1 로우 OG x Trophy Room",
-        "theme": "Sail and Varsity Red",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b9385dfd-8ea5-429c-bdcc-1db7eacd9bfe/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-x-trophy-room-sail-and-varsity-red-fn0432-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-low-og-x-trophy-room-sail-and-varsity-red",
-        "date": "3/21",
-        "releaseDate": "1710982800"
-    },
-    {
         "title": "우먼스 에어맥스 1 '86",
         "theme": "Royal Blue",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/fcbcd03a-1716-464b-ba90-ec500ddbe1ce/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-86-royal-blue-do9844-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -70,5 +22,13 @@
         "href": "/kr/launch/t/air-max-1-86-royal-and-volt",
         "date": "3/26",
         "releaseDate": "1711414800"
+    },
+    {
+        "title": "우먼스 에어 조던 2 로우 ",
+        "theme": "Black/Varsity Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e867a3aa-b69e-40fd-8240-fb6f11bfaf0c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-2-%EB%A1%9C%EC%9A%B0-black-varsity-red-dx4401-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-2-low-black-varsity-red",
+        "date": "3/27",
+        "releaseDate": "1711501200"
     }
 ]
