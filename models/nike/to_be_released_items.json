@@ -1,22 +1,6 @@
 [
     {
         "title": "나이키 SB 덩크 로우 프로",
-        "theme": "Varsity Red and White",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d59c1b8c-1357-43f1-b282-ebaf434109a4/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-varsity-red-and-white-bq6817-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-varsity-red-and-white-kr",
-        "date": "4/9",
-        "releaseDate": "1712624400"
-    },
-    {
-        "title": "나이키 SB 덩크 로우 프로",
-        "theme": "Black and Classic Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d0545a53-f975-46ea-956f-849c7e3c6083/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-black-and-classic-green-bq6817-302-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-black-and-classic-green",
-        "date": "4/9",
-        "releaseDate": "1712624400"
-    },
-    {
-        "title": "나이키 SB 덩크 로우 프로",
         "theme": "Big Money Savings",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4359b443-975f-4f74-9ba4-304ffe61e8f8/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-big-money-savings-fz3129-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/nike-sb-dunk-low-pro-big-money-savings-kr",
@@ -28,6 +12,38 @@
         "theme": "Sea Glass and Phantom",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b4cc53f7-f5af-454f-925a-a772a68f3c71/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2k5-sea-glass-and-phantom-fq3571-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/womens-air-peg-2k5-sea-glass-and-phantom",
+        "date": "4/12",
+        "releaseDate": "1712883600"
+    },
+    {
+        "title": "에어 조던 5 SE",
+        "theme": "Sail",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9ec049c5-af9d-4cfc-af3a-e5ed34c3e397/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
+        "date": "4/12",
+        "releaseDate": "1712883600"
+    },
+    {
+        "title": "에어 조던 5 SE (Big Kids)",
+        "theme": "Sail",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/629fad1d-c696-4711-ae0d-c8a4954824c8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
+        "date": "4/12",
+        "releaseDate": "1712883600"
+    },
+    {
+        "title": "조던 5 SE (Little Kids)",
+        "theme": "Sail",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6ac97bd7-029e-447a-bd84-0828559579f8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
+        "date": "4/12",
+        "releaseDate": "1712883600"
+    },
+    {
+        "title": "조던 5 SE (Toddler)",
+        "theme": "Sail",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/66908a2c-68aa-4a38-9ef9-eaafc793eb17/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
         "date": "4/12",
         "releaseDate": "1712883600"
     },

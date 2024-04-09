@@ -1,9 +1,16 @@
 [
     {
-        "title": "에어 조던 4",
-        "theme": "Bred Reimagined",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/85dc96b6-1cef-43ec-8cef-40e3938ac7cf/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-bred-reimagined-fv5029-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-bred-reimagined-kr",
-        "date": "4/8"
+        "title": "나이키 SB 덩크 로우 프로",
+        "theme": "Varsity Red and White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d59c1b8c-1357-43f1-b282-ebaf434109a4/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-varsity-red-and-white-bq6817-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-pro-varsity-red-and-white-kr",
+        "date": "4/9"
+    },
+    {
+        "title": "나이키 SB 덩크 로우 프로",
+        "theme": "Black and Classic Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d0545a53-f975-46ea-956f-849c7e3c6083/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-black-and-classic-green-bq6817-302-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-pro-black-and-classic-green",
+        "date": "4/9"
     }
 ]
