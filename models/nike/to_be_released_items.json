@@ -1,13 +1,5 @@
 [
     {
-        "title": "나이키 SB 덩크 로우 프로",
-        "theme": "Big Money Savings",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4359b443-975f-4f74-9ba4-304ffe61e8f8/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-big-money-savings-fz3129-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-big-money-savings-kr",
-        "date": "4/10",
-        "releaseDate": "1712710800"
-    },
-    {
         "title": "우먼스 에어 페가수스 2K5",
         "theme": "Sea Glass and Phantom",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b4cc53f7-f5af-454f-925a-a772a68f3c71/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2k5-sea-glass-and-phantom-fq3571-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -78,6 +70,14 @@
         "href": "/kr/launch/t/air-peg-2k5-coconut-milk-and-bicoastal",
         "date": "4/15",
         "releaseDate": "1713142800"
+    },
+    {
+        "title": "루나 롬",
+        "theme": "Phantom and Light Bone",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f23b0f16-5828-431c-98d7-5ee660ee2fac/%EB%A3%A8%EB%82%98-%EB%A1%AC-phantom-and-light-bone-dv2440-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/lunar-roam-phantom-and-light-bone",
+        "date": "4/16",
+        "releaseDate": "1713229200"
     },
     {
         "title": "필드 제너럴 '82",
