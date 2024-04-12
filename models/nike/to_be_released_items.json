@@ -1,45 +1,5 @@
 [
     {
-        "title": "우먼스 에어 페가수스 2K5",
-        "theme": "Sea Glass and Phantom",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/b4cc53f7-f5af-454f-925a-a772a68f3c71/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2k5-sea-glass-and-phantom-fq3571-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-peg-2k5-sea-glass-and-phantom",
-        "date": "4/12",
-        "releaseDate": "1712883600"
-    },
-    {
-        "title": "에어 조던 5 SE",
-        "theme": "Sail",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9ec049c5-af9d-4cfc-af3a-e5ed34c3e397/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
-        "date": "4/12",
-        "releaseDate": "1712883600"
-    },
-    {
-        "title": "에어 조던 5 SE (Big Kids)",
-        "theme": "Sail",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/629fad1d-c696-4711-ae0d-c8a4954824c8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
-        "date": "4/12",
-        "releaseDate": "1712883600"
-    },
-    {
-        "title": "조던 5 SE (Little Kids)",
-        "theme": "Sail",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6ac97bd7-029e-447a-bd84-0828559579f8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
-        "date": "4/12",
-        "releaseDate": "1712883600"
-    },
-    {
-        "title": "조던 5 SE (Toddler)",
-        "theme": "Sail",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/66908a2c-68aa-4a38-9ef9-eaafc793eb17/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-se-sail-fn7405-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-5-se-sail-kr",
-        "date": "4/12",
-        "releaseDate": "1712883600"
-    },
-    {
         "title": "코비 6 프로트로",
         "theme": "Italian Camo",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e01ea202-f8fc-4624-8bd2-2026786b7d8b/%EC%BD%94%EB%B9%84-6-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-italian-camo-fq3546-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -94,5 +54,21 @@
         "href": "/kr/launch/t/air-jordan-1-high-og-green-glow",
         "date": "4/20",
         "releaseDate": "1713574800"
+    },
+    {
+        "title": "에어맥스 1 SC",
+        "theme": "Sail and Coconut Milk",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8105abbc-ebce-4da7-9cff-1d81f405b72d/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-sc-sail-and-coconut-milk-fn6983-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-1-sc-sail-and-coconut-milk",
+        "date": "4/23",
+        "releaseDate": "1713834000"
+    },
+    {
+        "title": "에어 포스 1 ‘07 LX",
+        "theme": "White and Light British Tan",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2e8d9827-0dcc-49d5-b267-ef72b825ff6a/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%E2%80%9807-lx-white-and-light-british-tan-fn5757-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-1-07-lx-white-and-light-british-tan",
+        "date": "4/23",
+        "releaseDate": "1713834000"
     }
 ]
