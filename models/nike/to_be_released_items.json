@@ -1,21 +1,5 @@
 [
     {
-        "title": "코비 6 프로트로",
-        "theme": "Italian Camo",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e01ea202-f8fc-4624-8bd2-2026786b7d8b/%EC%BD%94%EB%B9%84-6-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-italian-camo-fq3546-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/kobe-6-protro-italian-camo-basketball-shoes-kr",
-        "date": "4/13",
-        "releaseDate": "1712970000"
-    },
-    {
-        "title": "코비 4 프로트로",
-        "theme": "Philly",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/bf497e7d-e6a9-494b-93e6-c1eb987f63d0/%EC%BD%94%EB%B9%84-4-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-philly-fq3545-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/kobe-4-protro-philly-basketball-shoes-kr",
-        "date": "4/13",
-        "releaseDate": "1712970000"
-    },
-    {
         "title": "우먼스 에어 페가수스 2K5",
         "theme": "Phantom and Coconut Milk",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9a6af1f9-9e6b-4c02-9b5b-c794e460fa99/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2k5-phantom-and-coconut-milk-fn7153-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -34,7 +18,7 @@
     {
         "title": "루나 롬",
         "theme": "Phantom and Light Bone",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f23b0f16-5828-431c-98d7-5ee660ee2fac/%EB%A3%A8%EB%82%98-%EB%A1%AC-phantom-and-light-bone-dv2440-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/6f544aad-6e46-4ed9-8f7f-0449325cf9ad/%EB%A3%A8%EB%82%98-%EB%A1%AC-phantom-and-light-bone-dv2440-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/lunar-roam-phantom-and-light-bone",
         "date": "4/16",
         "releaseDate": "1713229200"
@@ -42,10 +26,34 @@
     {
         "title": "필드 제너럴 '82",
         "theme": "Black and White",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/88be56ad-f1d4-4068-94ad-c0aef1b6b69e/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-black-and-white-fq8762-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/ac403949-b940-4188-8864-1090b62b119f/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-black-and-white-fq8762-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/field-general-82-black-and-white",
         "date": "4/18",
         "releaseDate": "1713402000"
+    },
+    {
+        "title": "우먼스 에어 조던 3 ",
+        "theme": "Georgia Peach",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/0b3f968a-29f8-427a-889c-4bfaeebdb656/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-georgia-peach-ck9246-121-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-3-georgia-peach-kr",
+        "date": "4/20",
+        "releaseDate": "1713574800"
+    },
+    {
+        "title": "조던 3 (Little Kids)",
+        "theme": "Georgia Peach",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/7950844b-a208-4be0-a8b8-b3b09beb650f/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-georgia-peach-ck9246-121-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-3-georgia-peach-kr",
+        "date": "4/20",
+        "releaseDate": "1713574800"
+    },
+    {
+        "title": "조던 3 (Toddler)",
+        "theme": "Georgia Peach",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/32f33bd0-5116-4293-bb73-d3ecde71b4cc/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-georgia-peach-ck9246-121-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-3-georgia-peach-kr",
+        "date": "4/20",
+        "releaseDate": "1713574800"
     },
     {
         "title": "에어 조던 1 하이 OG ",
@@ -70,5 +78,13 @@
         "href": "/kr/launch/t/air-force-1-07-lx-white-and-light-british-tan",
         "date": "4/23",
         "releaseDate": "1713834000"
+    },
+    {
+        "title": "에어 조던 4",
+        "theme": "Industrial Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73682086-2e6b-4ce1-b2be-ce0f97a27442/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-industrial-blue-fv5029-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-industrial-blue-kr",
+        "date": "5/4",
+        "releaseDate": "1714784400"
     }
 ]
