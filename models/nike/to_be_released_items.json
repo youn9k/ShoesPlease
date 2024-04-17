@@ -2,7 +2,7 @@
     {
         "title": "필드 제너럴 '82",
         "theme": "Black and White",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/ac403949-b940-4188-8864-1090b62b119f/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-black-and-white-fq8762-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/0b89077d-d2c9-41f9-9556-a6927725a654/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-black-and-white-fq8762-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/field-general-82-black-and-white",
         "date": "4/18",
         "releaseDate": "1713402000"
@@ -64,10 +64,66 @@
         "releaseDate": "1713834000"
     },
     {
+        "title": "우먼스 덩크 로우 LX",
+        "theme": "Black and Phantom",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/5f1e7dab-a82b-44ac-90fa-ad118af83e52/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-lx-black-and-phantom-fj2260-003-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-dunk-low-lx-black-and-phantom",
+        "date": "4/24",
+        "releaseDate": "1713920400"
+    },
+    {
+        "title": "에어 조던 4 (Big Kids)",
+        "theme": "Hyper Violet",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/933f250a-cba7-4b4c-b55e-d5c0464ed9f6/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-hyper-violet-fq1314-151-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-4-hyper-violet-kr",
+        "date": "4/26",
+        "releaseDate": "1714093200"
+    },
+    {
+        "title": "조던 4 (Little Kids)",
+        "theme": "Hyper Violet",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/495ec78a-f467-4064-888e-124d27994023/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-hyper-violet-fq1314-151-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-4-hyper-violet-kr",
+        "date": "4/26",
+        "releaseDate": "1714093200"
+    },
+    {
+        "title": "조던 4 (Toddler)",
+        "theme": "Hyper Violet",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ff2528e7-8b94-42c5-bfd1-dcd61abac740/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-hyper-violet-fq1314-151-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-4-hyper-violet-kr",
+        "date": "4/26",
+        "releaseDate": "1714093200"
+    },
+    {
         "title": "에어 조던 4",
         "theme": "Industrial Blue",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73682086-2e6b-4ce1-b2be-ce0f97a27442/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-industrial-blue-fv5029-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/air-jordan-4-industrial-blue-kr",
+        "date": "5/4",
+        "releaseDate": "1714784400"
+    },
+    {
+        "title": "에어 조던 4 (Big Kids)",
+        "theme": "Industrial Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e82a1901-e45f-46f7-b065-b019b0351837/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-industrial-blue-hf4281-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-industrial-blue-gs-kr",
+        "date": "5/4",
+        "releaseDate": "1714784400"
+    },
+    {
+        "title": "조던 4 (Little Kids)",
+        "theme": "Industrial Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4984c562-0e7a-4874-bc30-ad9030b5d7e7/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-industrial-blue-hf4281-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-industrial-blue-gs-kr",
+        "date": "5/4",
+        "releaseDate": "1714784400"
+    },
+    {
+        "title": "조던 4 (Toddler)",
+        "theme": "Industrial Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/11945f86-56c7-4c61-ae7e-7582cb27342c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-industrial-blue-hf4281-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-industrial-blue-gs-kr",
         "date": "5/4",
         "releaseDate": "1714784400"
     }
