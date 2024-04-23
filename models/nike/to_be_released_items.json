@@ -1,29 +1,5 @@
 [
     {
-        "title": "에어맥스 1 SC",
-        "theme": "Sail and Coconut Milk",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8105abbc-ebce-4da7-9cff-1d81f405b72d/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-sc-sail-and-coconut-milk-fn6983-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-1-sc-sail-and-coconut-milk",
-        "date": "4/23",
-        "releaseDate": "1713834000"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Light British Tan and Light Orewood Brown",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/12cf0aeb-c630-48d4-9a35-45974fb6fbbb/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-light-british-tan-and-light-orewood-brown-fn5825-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-light-british-tan-and-light-orewood-brown",
-        "date": "4/23",
-        "releaseDate": "1713834000"
-    },
-    {
-        "title": "에어 포스 1 ‘07 LX",
-        "theme": "White and Light British Tan",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2e8d9827-0dcc-49d5-b267-ef72b825ff6a/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%E2%80%9807-lx-white-and-light-british-tan-fn5757-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-07-lx-white-and-light-british-tan",
-        "date": "4/23",
-        "releaseDate": "1713834000"
-    },
-    {
         "title": "우먼스 덩크 로우 LX",
         "theme": "Black and Phantom",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/5f1e7dab-a82b-44ac-90fa-ad118af83e52/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-lx-black-and-phantom-fj2260-003-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -200,12 +176,100 @@
         "releaseDate": "1714179600"
     },
     {
-        "title": "에어 조던 4",
-        "theme": "Industrial Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73682086-2e6b-4ce1-b2be-ce0f97a27442/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-industrial-blue-fv5029-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-industrial-blue-kr",
-        "date": "5/4",
-        "releaseDate": "1714784400"
+        "title": "점프맨 잭 TR (Little Kids)",
+        "theme": "Sail and Dark Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/0bcd9f4a-a83f-4e2b-81ab-0e655ab61820/%EC%A0%90%ED%94%84%EB%A7%A8-%EC%9E%AD-tr-little-kids-sail-and-dark-mocha-fj2851-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jumpman-jack-tr-sail-and-dark-mocha-ps-kr",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "점프맨 잭 TR (Toddler)",
+        "theme": "Sail and Dark Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/7951d3ea-d1dd-4d04-b025-c84f1c71f828/%EC%A0%90%ED%94%84%EB%A7%A8-%EC%9E%AD-tr-little-kids-sail-and-dark-mocha-fj2851-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jumpman-jack-tr-sail-and-dark-mocha-ps-kr",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "점프맨 잭 TR",
+        "theme": "Sail and Dark Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/75ecdc8e-1fc6-41be-ac68-c0dfadfdecd8/%EC%A0%90%ED%94%84%EB%A7%A8-%EC%9E%AD-tr-sail-and-dark-mocha-fz8117-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jumpman-jack-tr-sail-and-dark-mocha-kr",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott ",
+        "theme": "Men's Full-Zip Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/3470ae22-480b-4356-b996-3ae82e8d7bd5/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Men's Full-Zip Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/1c522735-5ce7-4e1a-941a-5a906b1da6f4/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Men's Pullover Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/bab8f359-b0f3-49b1-83fb-09e55340004f/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Men's Fleece Pants",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/08fec7eb-4b22-4fc2-b924-2b2ecf9d98d8/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Men's Fleece Pants",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/eb64e408-6121-40d9-bb11-e47e1c1a150b/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott ",
+        "theme": "Men's T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/c40c234a-949a-4458-93b8-7cb53e19a2b1/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Men's T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/83937db5-0a17-4acc-947b-1e3e69ca0575/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott",
+        "theme": "Men's T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/1e9c9942-6160-4602-a2db-cb683544c07d/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
+    },
+    {
+        "title": "조던 x Travis Scott ",
+        "theme": "Men's Pullover Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/300c0326-00d5-4081-b5f2-bd54efd4741b/%EC%A1%B0%EB%8D%98-x-travis-scott-signature-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-travis-scott-signature-apparel-collection",
+        "date": "4/30",
+        "releaseDate": "1714438800"
     },
     {
         "title": "에어 조던 4 (Big Kids)",
