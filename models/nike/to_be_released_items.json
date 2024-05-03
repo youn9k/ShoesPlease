@@ -1,45 +1,5 @@
 [
     {
-        "title": "ACG 에어 익스플로레이드",
-        "theme": "Sesame and Laser Orange",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c1acf808-988a-4df2-b6ae-4db8b7ac6714/acg-%EC%97%90%EC%96%B4-%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EB%A0%88%EC%9D%B4%EB%93%9C-sesame-and-laser-orange-fj1920-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/acg-air-exploraid-sesame-and-laser-orange",
-        "date": "5/3",
-        "releaseDate": "1714698000"
-    },
-    {
-        "title": "우먼스 에어 포스 1 '07 LX",
-        "theme": "Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8adace69-12cb-47fb-8921-661a68166a33/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-lx-black-dz2708-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-force-1-07-lx-black",
-        "date": "5/3",
-        "releaseDate": "1714698000"
-    },
-    {
-        "title": "덩크 로우",
-        "theme": "Varsity Red and Silver",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a5c39041-c327-4b87-9241-3af13a0e15dc/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-varsity-red-and-silver-fq6965-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-varsity-red-and-silver",
-        "date": "5/3",
-        "releaseDate": "1714698000"
-    },
-    {
-        "title": "에어 풋스케이프 우븐",
-        "theme": "Phantom",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/adb580b8-8304-43be-ada4-72ae1e829b0a/%EC%97%90%EC%96%B4-%ED%92%8B%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%9A%B0%EB%B8%90-phantom-fz0405-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-footscape-woven-phantom",
-        "date": "5/3",
-        "releaseDate": "1714698000"
-    },
-    {
-        "title": "어택 프리미엄",
-        "theme": "Coconut Milk and Midnight Navy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73fda131-721a-48da-87b7-de739ffdaccf/%EC%96%B4%ED%83%9D-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-coconut-milk-and-midnight-navy-hf4317-133-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/attack-premium-coconut-milk-and-midnight-navy",
-        "date": "5/3",
-        "releaseDate": "1714698000"
-    },
-    {
         "title": "에어 조던 4",
         "theme": "Industrial Blue",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73682086-2e6b-4ce1-b2be-ce0f97a27442/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-industrial-blue-fv5029-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -86,5 +46,13 @@
         "href": "/kr/launch/t/acg-rufus-limestone-and-black",
         "date": "5/10",
         "releaseDate": "1715302800"
+    },
+    {
+        "title": "우먼스 줌 보메로 5 프리미엄",
+        "theme": "Designed by Japan",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/ca5adc59-8744-44e9-962f-c93d84a12a83/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-designed-by-japan-hf4524-111-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-zoom-vomero-5-premium-designed-by-japan",
+        "date": "5/17",
+        "releaseDate": "1715907600"
     }
 ]
