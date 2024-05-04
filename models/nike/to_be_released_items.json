@@ -1,35 +1,11 @@
 [
     {
-        "title": "에어 조던 4",
-        "theme": "Industrial Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/73682086-2e6b-4ce1-b2be-ce0f97a27442/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-industrial-blue-fv5029-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-industrial-blue-kr",
-        "date": "5/4",
-        "releaseDate": "1714784400"
-    },
-    {
-        "title": "에어 조던 4 (Big Kids)",
-        "theme": "Industrial Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e82a1901-e45f-46f7-b065-b019b0351837/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-industrial-blue-hf4281-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-industrial-blue-gs-kr",
-        "date": "5/4",
-        "releaseDate": "1714784400"
-    },
-    {
-        "title": "조던 4 (Little Kids)",
-        "theme": "Industrial Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/4984c562-0e7a-4874-bc30-ad9030b5d7e7/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-industrial-blue-hf4281-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-industrial-blue-gs-kr",
-        "date": "5/4",
-        "releaseDate": "1714784400"
-    },
-    {
-        "title": "조던 4 (Toddler)",
-        "theme": "Industrial Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/11945f86-56c7-4c61-ae7e-7582cb27342c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-big-kids-industrial-blue-hf4281-141-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-industrial-blue-gs-kr",
-        "date": "5/4",
-        "releaseDate": "1714784400"
+        "title": "NOCTA 핫 스텝 2",
+        "theme": "WHITE",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/312aecb2-6c33-4de6-a414-bd3b5f4ac04f/nocta-%ED%95%AB-%EC%8A%A4%ED%85%9D%C2%A02-white-dz7293-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nocta-hot-step-2-white",
+        "date": "5/9",
+        "releaseDate": "1715216400"
     },
     {
         "title": "에어 조던 1 로우 OG ",
@@ -46,6 +22,14 @@
         "href": "/kr/launch/t/acg-rufus-limestone-and-black",
         "date": "5/10",
         "releaseDate": "1715302800"
+    },
+    {
+        "title": "에어 테라 휴마라 ",
+        "theme": "Alchemy Pink and Diffused Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ccd64758-09ba-4b75-83f8-12cc3359ef07/%EC%97%90%EC%96%B4-%ED%85%8C%EB%9D%BC-%ED%9C%B4%EB%A7%88%EB%9D%BC-alchemy-pink-and-diffused-blue-fq9084-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-terra-humara-alchemy-pink-and-diffused-blue",
+        "date": "5/14",
+        "releaseDate": "1715648400"
     },
     {
         "title": "우먼스 줌 보메로 5 프리미엄",
