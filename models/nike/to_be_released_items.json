@@ -1,13 +1,5 @@
 [
     {
-        "title": "NOCTA 핫 스텝 2",
-        "theme": "WHITE",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/312aecb2-6c33-4de6-a414-bd3b5f4ac04f/nocta-%ED%95%AB-%EC%8A%A4%ED%85%9D%C2%A02-white-dz7293-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nocta-hot-step-2-white",
-        "date": "5/9",
-        "releaseDate": "1715216400"
-    },
-    {
         "title": "덩크 로우",
         "theme": "Varsity Green",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cc02cbc3-a90c-4bf1-b9b2-19357ace9dd7/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-varsity-green-dd1391-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -32,6 +24,14 @@
         "releaseDate": "1715302800"
     },
     {
+        "title": "에어 조던 11 로우 ",
+        "theme": "Black and Varsity Royal",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/bfd2cab3-c571-436b-80af-20939aed102b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%EB%A1%9C%EC%9A%B0-black-and-varsity-royal-fv5104-004-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-11-low-black-and-varsity-royal",
+        "date": "5/11",
+        "releaseDate": "1715389200"
+    },
+    {
         "title": "에어 테라 휴마라 ",
         "theme": "Alchemy Pink and Diffused Blue",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ccd64758-09ba-4b75-83f8-12cc3359ef07/%EC%97%90%EC%96%B4-%ED%85%8C%EB%9D%BC-%ED%9C%B4%EB%A7%88%EB%9D%BC-alchemy-pink-and-diffused-blue-fq9084-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -41,8 +41,8 @@
     },
     {
         "title": "우먼스 줌 보메로 5 프리미엄",
-        "theme": "Nike Design by Japan",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/ca5adc59-8744-44e9-962f-c93d84a12a83/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-nike-design-by-japan-hf4524-111-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "theme": "Designed by Japan",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/ca5adc59-8744-44e9-962f-c93d84a12a83/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%A4%8C-%EB%B3%B4%EB%A9%94%EB%A1%9C-5-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-designed-by-japan-hf4524-111-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/womens-zoom-vomero-5-premium-designed-by-japan",
         "date": "5/17",
         "releaseDate": "1715907600"
