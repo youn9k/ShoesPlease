@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 테라 휴마라 ",
-        "theme": "Alchemy Pink and Diffused Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ccd64758-09ba-4b75-83f8-12cc3359ef07/%EC%97%90%EC%96%B4-%ED%85%8C%EB%9D%BC-%ED%9C%B4%EB%A7%88%EB%9D%BC-alchemy-pink-and-diffused-blue-fq9084-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-terra-humara-alchemy-pink-and-diffused-blue",
-        "date": "5/14",
-        "releaseDate": "1715648400"
-    },
-    {
         "title": "우먼스 에어 조던 1 ",
         "theme": "Latte",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/022c7053-5c55-4bc4-8cdc-72c6e8f95a5e/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-latte-fd2596-021-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -54,6 +46,38 @@
         "href": "/kr/launch/t/air-force-1-low-ivory-snake",
         "date": "5/16",
         "releaseDate": "1715821200"
+    },
+    {
+        "title": "에어 조던 1 로우 ",
+        "theme": "Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f412fa9d-a242-4925-8d88-712b4664c1e2/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-silver-cz0790-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-silver-kr",
+        "date": "5/17",
+        "releaseDate": "1715907600"
+    },
+    {
+        "title": "에어 조던 1 로우 (Big Kids)",
+        "theme": "Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ef50570c-82be-41fc-b0c5-80f180c4e47d/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-silver-cz0790-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-silver-kr",
+        "date": "5/17",
+        "releaseDate": "1715907600"
+    },
+    {
+        "title": "에어 조던 1 로우 (Little Kids)",
+        "theme": "Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9afe0c98-2adb-4a5d-bf2c-efde3e2607bc/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-silver-cz0790-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-silver-kr",
+        "date": "5/17",
+        "releaseDate": "1715907600"
+    },
+    {
+        "title": "에어 조던 1 로우 (Toddler)",
+        "theme": "Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/86cb9877-b141-47eb-b18e-eb6500f91cfb/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-silver-cz0790-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-silver-kr",
+        "date": "5/17",
+        "releaseDate": "1715907600"
     },
     {
         "title": "우먼스 줌 보메로 5 프리미엄",
