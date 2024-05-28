@@ -1,21 +1,5 @@
 [
     {
-        "title": "아스트로그래버 x Bode",
-        "theme": "Black and Coconut Milk",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/57bb5465-78e8-4bac-ad63-9a856a3ddd04/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B2%84-x-bode-black-and-coconut-milk-fj9821-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/astro-grabber-x-bode-black-and-coconut-milk-1-kr",
-        "date": "5/28",
-        "releaseDate": "1716858000"
-    },
-    {
-        "title": "아스트로그래버 x Bode",
-        "theme": "Light Cream and Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/09b075f3-3d89-4a1d-af26-64518b5882a2/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B2%84-x-bode-light-cream-and-black-fq6892-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/astro-grabber-x-bode-light-cream-and-black-kr",
-        "date": "5/28",
-        "releaseDate": "1716858000"
-    },
-    {
         "title": "우먼스 에어 조던 11 로우 ",
         "theme": "Legend Pink",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/e1128a47-5570-4362-89db-c8b47f02b38b/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-11-%EB%A1%9C%EC%9A%B0-legend-pink-ah7860-160-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -28,6 +12,38 @@
         "theme": "Pink Gaze",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/9f9d3978-3dc5-4d1e-a3b8-270aafe77307/%EB%A3%A8%EB%82%98-%EB%A1%AC-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-pink-gaze-hf4314-699-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/lunar-roam-premium-pink-gaze",
+        "date": "5/29",
+        "releaseDate": "1716944400"
+    },
+    {
+        "title": "에어 조던 4 ",
+        "theme": "Oxidized Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/32090ca9-d8ef-4943-aa41-4f23dc0777af/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-oxidized-green-fq8138-103-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-oxidized-green-kr",
+        "date": "5/29",
+        "releaseDate": "1716944400"
+    },
+    {
+        "title": "에어 조던 4 (Big Kids)",
+        "theme": "Oxidized Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1d3f8190-0107-42be-a1c1-32ee63ec5189/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-oxidized-green-fq8138-103-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-oxidized-green-kr",
+        "date": "5/29",
+        "releaseDate": "1716944400"
+    },
+    {
+        "title": "조던 4 (Little Kids)",
+        "theme": "Oxidized Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/3cba5c63-b257-4e6a-93ff-e9f293f3e8ae/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-oxidized-green-fq8138-103-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-oxidized-green-kr",
+        "date": "5/29",
+        "releaseDate": "1716944400"
+    },
+    {
+        "title": "조던 4 (Toddler)",
+        "theme": "Oxidized Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/db4a78b1-9136-4969-8854-a7e4d86486d5/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-oxidized-green-fq8138-103-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-4-oxidized-green-kr",
         "date": "5/29",
         "releaseDate": "1716944400"
     },
