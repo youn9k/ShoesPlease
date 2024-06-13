@@ -1,17 +1,9 @@
 [
     {
-        "title": "에어 포스 1 로우",
-        "theme": "Linen",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/8218c022-6518-4b5a-9ba4-42bcdc68e08c/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-linen-845053-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-force-1-low-linen?cp=14261282229_search_",
-        "date": "6/13",
-        "releaseDate": "1718240400"
-    },
-    {
         "title": "나이키 SB 줌 Pogo Plus x Sky Brown",
         "theme": "White and Sail",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/5a38f341-a2ab-4802-acee-48a886b877ea/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EC%A4%8C-pogo-plus-x-sky-brown-white-and-sail-hf4085-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-zoom-pogo-plus-x-sky-brown-white-and-sail?cp=14261282229_search_",
+        "href": "/kr/launch/t/nike-sb-zoom-pogo-plus-x-sky-brown-white-and-sail",
         "date": "6/14",
         "releaseDate": "1718326800"
     },
@@ -19,7 +11,7 @@
         "title": "NOCTA 에어 줌 드라이브",
         "theme": "Black",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/20565bc8-c11e-4c2a-abda-776ec075e62f/nocta-%EC%97%90%EC%96%B4-%EC%A4%8C-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-black-dx5854-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nocta-air-zoom-drive-black?cp=14261282229_search_",
+        "href": "/kr/launch/t/nocta-air-zoom-drive-black",
         "date": "6/14",
         "releaseDate": "1718326800"
     },
@@ -27,8 +19,96 @@
         "title": "에어 조던 1 하이 OG ",
         "theme": "Denim",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/30f41332-6af6-4174-b888-5c35bac18af0/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-denim-fq2947-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-high-og-denim?cp=14261282229_search_",
+        "href": "/kr/launch/t/air-jordan-1-high-og-denim",
         "date": "6/15",
         "releaseDate": "1718413200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Fleece Shorts",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/30cfb448-b6db-4f3e-bcdf-c391eba778d5/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Fleece Pants",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/4b9059ef-0394-4314-8c1a-64f84f85e95a/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/099bc526-45b3-4f43-af3d-402e31528e9c/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Fleece Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/d5bc2ee2-aeb3-4ad8-a4c7-60f36d788420/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Fleece Shorts",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/dae376d6-bde8-4e71-af99-3eb95aa60c07/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Club Cap",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/c561dba7-bb9e-4319-aea8-c36377490c1d/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Fleece Pants",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/43ed7d1f-9241-44e8-88a4-25c157e1e360/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Fleece Hoodie",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/f1a434f1-cd69-46a8-8aef-5e451bc60847/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "T-Shirt",
+        "image": "https://static.nike.com/a/images/w_960,c_limit/209d280e-8872-4b0f-ab11-01fbff586156/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 x Nina Chanel Abney",
+        "theme": "Jacket",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/d9f4f382-f564-4a7c-b36e-211c6ee68576/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-x-nina-chanel-abney-apparel-collection-static-kr",
+        "date": "6/20",
+        "releaseDate": "1718845200"
+    },
+    {
+        "title": "에어 조던 3 레트로 x Nina Chanel Abney",
+        "theme": "Bicoastal and Malachite",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/41b7b55e-13f2-40a9-b16b-8c82263d7d62/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-x-nina-chanel-abney-bicoastal-and-malachite-fz7974-300-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-retro-x-nina-chanel-abney-bicoastal-and-malachite",
+        "date": "6/20",
+        "releaseDate": "1718845200"
     }
 ]
