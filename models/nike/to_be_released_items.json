@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 조던 1 하이 OG ",
-        "theme": "Denim",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/30f41332-6af6-4174-b888-5c35bac18af0/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-denim-fq2947-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-high-og-denim",
-        "date": "6/15",
-        "releaseDate": "1718413200"
-    },
-    {
         "title": "조던 x Nina Chanel Abney",
         "theme": "Fleece Shorts",
         "image": "https://static.nike.com/a/images/w_960,c_limit/30cfb448-b6db-4f3e-bcdf-c391eba778d5/%EC%A1%B0%EB%8D%98-x-nina-chanel-abney%C2%A0apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
@@ -94,5 +86,21 @@
         "href": "/kr/launch/t/air-jordan-3-retro-x-nina-chanel-abney-bicoastal-and-malachite",
         "date": "6/20",
         "releaseDate": "1718845200"
+    },
+    {
+        "title": "조던 '85 (Toddler)",
+        "theme": "Metallic Burgundy",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/08fcbb0c-5a41-49eb-a103-f7a733ec5f1a/%EC%A1%B0%EB%8D%98-85-toddler-metallic-burgundy-dv3655-161-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/baby-jordan-85-metallic-burgundy",
+        "date": "6/22",
+        "releaseDate": "1719018000"
+    },
+    {
+        "title": "에어 조던 1 하이 '85 ",
+        "theme": "Metallic Burgundy",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/e67a7baa-b9ce-477d-a380-e687617f018e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-85-metallic-burgundy-bq4422-161-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
+        "href": "/kr/launch/t/air-jordan-1-high-85-metallic-burgundy",
+        "date": "6/22",
+        "releaseDate": "1719018000"
     }
 ]
