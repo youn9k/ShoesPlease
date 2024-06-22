@@ -1,35 +1,67 @@
 [
     {
-        "title": "에어맥스 1 x HUF",
-        "theme": "Anthracite and Medium Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/5597763d-0a36-43eb-b20b-68109e73fd3c/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-x-huf-anthracite-and-medium-grey-hf3713-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-1-x-huf-anthracite-and-medium-grey",
-        "date": "6/22",
-        "releaseDate": "1719018000"
-    },
-    {
-        "title": "조던 '85 (Toddler)",
-        "theme": "Metallic Burgundy",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/08fcbb0c-5a41-49eb-a103-f7a733ec5f1a/%EC%A1%B0%EB%8D%98-85-toddler-metallic-burgundy-dv3655-161-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/baby-jordan-85-metallic-burgundy",
-        "date": "6/22",
-        "releaseDate": "1719018000"
-    },
-    {
-        "title": "에어 조던 1 하이 '85 ",
-        "theme": "Metallic Burgundy",
-        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/e67a7baa-b9ce-477d-a380-e687617f018e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-85-metallic-burgundy-bq4422-161-%EC%B6%9C%EC%8B%9C%EC%9D%BC.png",
-        "href": "/kr/launch/t/air-jordan-1-high-85-metallic-burgundy",
-        "date": "6/22",
-        "releaseDate": "1719018000"
-    },
-    {
         "title": "우먼스 샥스 TL",
         "theme": "Pure Platinum and Metallic Silver",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/cn5x6vlotcjyxvubpbq5/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-tl-pure-platinum-and-metallic-silver-ar3566-003-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/womens-shox-tl-pure-platinum-and-metallic-silver",
         "date": "6/25",
         "releaseDate": "1719277200"
+    },
+    {
+        "title": "우먼스 에어 페가수스 2005",
+        "theme": "Summit White and Phantom",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/78ff345d-23d9-4c53-9737-a73a79522d99/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2005-summit-white-and-phantom-hq5718-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-pegasus-2005-summit-white-and-phantom-kr",
+        "date": "6/25",
+        "releaseDate": "1719277200"
+    },
+    {
+        "title": "에어맥스 플러스 TNPO",
+        "theme": "Wolf Grey and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ac2adb5f-fcd4-42ce-93c2-fe53e9dfb7f7/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-%ED%94%8C%EB%9F%AC%EC%8A%A4-tnpo-wolf-grey-and-black-hm6850-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-plus-tnpo-wolf-grey-and-black",
+        "date": "6/26",
+        "releaseDate": "1719363600"
+    },
+    {
+        "title": "우먼스 에어맥스 플러스 TNPO",
+        "theme": "Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/54f8da68-4a43-40d7-90b2-f35d682c34f2/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-%ED%94%8C%EB%9F%AC%EC%8A%A4-tnpo-black-hf0074-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-max-plus-tnpo-black",
+        "date": "6/26",
+        "releaseDate": "1719363600"
+    },
+    {
+        "title": "ACG 마운틴 플라이 2 로우 GORE-TEX",
+        "theme": "Black and Dark Smoke Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/53160022-954a-4c5b-9f2a-3f2ff27625ee/acg-%EB%A7%88%EC%9A%B4%ED%8B%B4-%ED%94%8C%EB%9D%BC%EC%9D%B4-2-%EB%A1%9C%EC%9A%B0-gore-tex-black-and-dark-smoke-grey-hf6245-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/acg-mountain-fly-2-low-gore-tex-black-and-dark-smoke-grey",
+        "date": "6/26",
+        "releaseDate": "1719363600"
+    },
+    {
+        "title": "ACG 에어 익스플로레이드",
+        "theme": "Jade Horizon and White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/88967d08-03a7-4089-9516-c02f9de53878/acg-%EC%97%90%EC%96%B4-%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EB%A0%88%EC%9D%B4%EB%93%9C-jade-horizon-and-white-fv2925-300-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/acg-air-exploraid-jade-horizon-and-white",
+        "date": "6/26",
+        "releaseDate": "1719363600"
+    },
+    {
+        "title": "필드 제너럴 '82 ",
+        "theme": "Barely Volt and Dusty Cactus",
+        "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/28fe5d2b-628e-4cf5-87b8-afad031f2818/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-barely-volt-and-dusty-cactus-hm5685-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/field-general-82-barely-volt-and-dusty-cactus",
+        "date": "6/27",
+        "releaseDate": "1719450000"
+    },
+    {
+        "title": "에어 풋스케이프 우븐",
+        "theme": "Ice Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1356cfa9-35e9-4f26-8f0d-261d4da04b7c/%EC%97%90%EC%96%B4-%ED%92%8B%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84-%EC%9A%B0%EB%B8%90-ice-blue-fv6103-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-footscape-woven-ice-blue",
+        "date": "6/29",
+        "releaseDate": "1719622800"
     },
     {
         "title": "에어 조던 13 ",
