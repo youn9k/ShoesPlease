@@ -1,13 +1,5 @@
 [
     {
-        "title": "나이키 SB 덩크 로우 프로",
-        "theme": "Crimson Tint and Amber Brown",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/f0193518-33bf-42da-b79a-bb175908326e/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-crimson-tint-and-amber-brown-fv5926-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-crimson-tint-and-amber-brown-kr",
-        "date": "7/5",
-        "releaseDate": "1720141200"
-    },
-    {
         "title": "Brazil 1998 Reissue",
         "theme": "Men's Nike Soccer Replica Track Jacket",
         "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/w_960,c_limit/6b4eb495-abad-4900-b1ab-9bf85b5bcd68/brazil-1998-reissue-apparel-collection-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -86,5 +78,13 @@
         "href": "/kr/launch/t/air-max-sndr-canyon-gold-and-deep-ocean",
         "date": "7/11",
         "releaseDate": "1720659600"
+    },
+    {
+        "title": "에어 조던 1 로우 OG",
+        "theme": "Wolf Grey and White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/16296573-5855-4000-be3c-9ea9635d0462/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-wolf-grey-and-white-cz0790-110-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-og-wolf-grey-and-white-kr",
+        "date": "7/13",
+        "releaseDate": "1720832400"
     }
 ]
