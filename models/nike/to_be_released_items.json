@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 페가수스 2005",
-        "theme": "White and Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/d61f2cd5-8bea-4032-bfa0-8e67626b8bc2/%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2005-white-and-black-fv6383-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-pegasus-2005-white-and-black-1",
-        "date": "7/26",
-        "releaseDate": "1721955600"
-    },
-    {
-        "title": "필드 제너럴 '82 SP",
-        "theme": "White and Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/fcdf7f42-727b-4ea8-b771-d887371e5c16/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-sp-white-and-black-hf5603-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/field-general-82-sp-white-and-black",
-        "date": "7/26",
-        "releaseDate": "1721955600"
-    },
-    {
         "title": "에어 조던 4 SE",
         "theme": "Wet Cement",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a1a29997-ba98-47c7-8e1e-7fbce10b9ac8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-se-wet-cement-fq7928-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -30,6 +14,14 @@
         "href": "/kr/launch/t/air-jordan-4-se-wet-cement-kr",
         "date": "7/27",
         "releaseDate": "1722042000"
+    },
+    {
+        "title": "나이키 SB PS8",
+        "theme": "Phantom and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/89688f12-39ad-4f47-9263-84f47adeccbe/%EB%82%98%EC%9D%B4%ED%82%A4-sb-ps8-phantom-and-black-fn0374-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-ps8-phantom-and-black",
+        "date": "7/30",
+        "releaseDate": "1722301200"
     },
     {
         "title": "우먼스 에어 조던 6 ",
@@ -62,5 +54,37 @@
         "href": "/kr/launch/t/ld-1000-black-and-sail",
         "date": "8/1",
         "releaseDate": "1722474000"
+    },
+    {
+        "title": "우먼스 에어 페가수스 2005",
+        "theme": "Pink Foam and Football Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6d362e45-0d6c-4b9e-adce-f3bbef1b2873/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2005-pink-foam-and-football-grey-hm3693-061-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-pegasus-2005-pink-foam-and-football-grey",
+        "date": "8/1",
+        "releaseDate": "1722474000"
+    },
+    {
+        "title": "에어맥스 1 '86 OG",
+        "theme": "Metallic Silver and Cool Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/8d89f040-6bc0-4f13-b690-5167b807cb94/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-1-86-og-metallic-silver-and-cool-grey-fv7477-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-1-86-og-metallic-silver-and-cool-grey",
+        "date": "8/1",
+        "releaseDate": "1722474000"
+    },
+    {
+        "title": "우먼스 덩크 로우",
+        "theme": "Olive Aura and Oil Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/43bea453-caeb-4d63-a6a0-9c14fa96e33f/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-olive-aura-and-oil-green-hj7291-371-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-dunk-low-olive-aura-and-oil-green",
+        "date": "8/2",
+        "releaseDate": "1722560400"
+    },
+    {
+        "title": "우먼스 샥스 R4",
+        "theme": "Racer Blue and Metallic Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/063d6f02-8598-46e8-bdfb-4e0752e66a69/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-r4-racer-blue-and-metallic-silver-hj7303-445-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-shox-r4-racer-blue-and-metallic-silver",
+        "date": "8/2",
+        "releaseDate": "1722560400"
     }
 ]
