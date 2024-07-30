@@ -1,13 +1,5 @@
 [
     {
-        "title": "나이키 SB PS8",
-        "theme": "Phantom and Black",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/89688f12-39ad-4f47-9263-84f47adeccbe/%EB%82%98%EC%9D%B4%ED%82%A4-sb-ps8-phantom-and-black-fn0374-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-ps8-phantom-and-black",
-        "date": "7/30",
-        "releaseDate": "1722301200"
-    },
-    {
         "title": "우먼스 에어 조던 6 ",
         "theme": "Pearl",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/aedc4098-521b-4912-a863-566c6c45d5cd/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-6-pearl-dq4914-074-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -64,6 +56,14 @@
         "releaseDate": "1722560400"
     },
     {
+        "title": "에어 포스 1 레트로 서울",
+        "theme": "Black and Sequoia",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/a86f2f1f-f075-4fa2-8e49-8f75b818a170/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A0%88%ED%8A%B8%EB%A1%9C-%EC%84%9C%EC%9A%B8-black-and-sequoia-hf0014-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-1-retro-seoul-black-and-sequoia",
+        "date": "8/2",
+        "releaseDate": "1722560400"
+    },
+    {
         "title": "우먼스 덩크 로우",
         "theme": "Olive Aura and Oil Green",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/43bea453-caeb-4d63-a6a0-9c14fa96e33f/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-olive-aura-and-oil-green-hj7291-371-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -78,5 +78,53 @@
         "href": "/kr/launch/t/womens-shox-r4-racer-blue-and-metallic-silver",
         "date": "8/2",
         "releaseDate": "1722560400"
+    },
+    {
+        "title": "에어 조던 1 하이 OG",
+        "theme": "Black and Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ccd61769-040b-464f-babb-d797ac6ba36e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-black-and-gold-dz5485-071-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-high-og-black-and-gold-kr",
+        "date": "8/3",
+        "releaseDate": "1722646800"
+    },
+    {
+        "title": "에어 조던 1 하이 OG (Big Kids)",
+        "theme": "Black and Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/64fd066b-c53f-4547-80f4-56a6d3ab18c8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-black-and-gold-dz5485-071-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-high-og-black-and-gold-kr",
+        "date": "8/3",
+        "releaseDate": "1722646800"
+    },
+    {
+        "title": "에어맥스 SNDR",
+        "theme": "Hyper Pink and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/13d730b3-98e9-4706-82f8-985a3009e6a9/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-hyper-pink-and-black-fz2068-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-hyper-pink-and-black",
+        "date": "8/6",
+        "releaseDate": "1722906000"
+    },
+    {
+        "title": "코비 4 프로트로",
+        "theme": "Metallic Gold and Dark Obsidian",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/2fb558c1-736d-47e4-a056-d21a48516652/%EC%BD%94%EB%B9%84-4-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-metallic-gold-and-dark-obsidian-fq3544-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-4-protro-metallic-gold-and-dark-obsidian-kr",
+        "date": "8/6",
+        "releaseDate": "1722906000"
+    },
+    {
+        "title": "에어맥스 SNDR",
+        "theme": "Volt and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/89b531b2-58e5-449b-ba5e-76ba343e5da8/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-volt-and-black-fz2068-700-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-volt-and-black",
+        "date": "8/6",
+        "releaseDate": "1722906000"
+    },
+    {
+        "title": "에어 180",
+        "theme": "Summit White and Concord",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6f5eff1b-0c79-4ff7-be0b-dc9fb5524e58/%EC%97%90%EC%96%B4-180-summit-white-and-concord-fj9259-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-180-summit-white-and-concord",
+        "date": "8/7",
+        "releaseDate": "1722992400"
     }
 ]
