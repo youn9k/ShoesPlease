@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어 조던 1 하이 OG",
-        "theme": "Black and Gold",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ccd61769-040b-464f-babb-d797ac6ba36e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-black-and-gold-dz5485-071-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-high-og-black-and-gold-kr",
-        "date": "8/3",
-        "releaseDate": "1722646800"
-    },
-    {
-        "title": "에어 조던 1 하이 OG (Big Kids)",
-        "theme": "Black and Gold",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/64fd066b-c53f-4547-80f4-56a6d3ab18c8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-black-and-gold-dz5485-071-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-high-og-black-and-gold-kr",
-        "date": "8/3",
-        "releaseDate": "1722646800"
-    },
-    {
         "title": "에어맥스 SNDR",
         "theme": "Hyper Pink and Black",
         "image": "https://static.nike.com/a/images/w_960,c_limit,f_auto/87189fc9-f1f7-4c9e-9ed7-99c00aebf777/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-hyper-pink-and-black-fz2068-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -70,5 +54,29 @@
         "href": "/kr/launch/t/nike-ld-1000-x-st%C3%BCssy-sanded-gold-and-laser-fuchsia-kr",
         "date": "8/9",
         "releaseDate": "1723165200"
+    },
+    {
+        "title": "에어 조던 5",
+        "theme": "White and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/1aa08854-aa8e-4cf3-9e18-654d4c2da1d4/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-white-and-black-dd0587-110-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-5-white-and-black",
+        "date": "8/10",
+        "releaseDate": "1723251600"
+    },
+    {
+        "title": "에어 포스 1 로우",
+        "theme": "Black Tea and Petra Brown",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ee3e7d40-2c2c-4bbd-a916-e607af7ceda2/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-%EB%A1%9C%EC%9A%B0-black-tea-and-petra-brown-fz4167-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-1-black-tea-and-petra-brown-kr",
+        "date": "8/10",
+        "releaseDate": "1723251600"
+    },
+    {
+        "title": "에어맥스 플러스 프리미엄",
+        "theme": "Black Tea and Petra Brown",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ce4a384f-81da-49a0-87d7-cd75a8dca4d2/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-%ED%94%8C%EB%9F%AC%EC%8A%A4-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84-black-tea-and-petra-brown-hj4519-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-black-tea-and-petra-brown",
+        "date": "8/10",
+        "releaseDate": "1723251600"
     }
 ]
