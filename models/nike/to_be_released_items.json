@@ -1,13 +1,5 @@
 [
     {
-        "title": "에어 180",
-        "theme": "Summit White and Concord",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/6f5eff1b-0c79-4ff7-be0b-dc9fb5524e58/%EC%97%90%EC%96%B4-180-summit-white-and-concord-fj9259-101-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-180-summit-white-and-concord",
-        "date": "8/7",
-        "releaseDate": "1722992400"
-    },
-    {
         "title": "에어 조던 나이젤 4RM",
         "theme": "Driveway Grey",
         "image": "https://static.nike.com/a/images/w_480,c_limit,f_auto,q_auto/d1bb2f9b-a029-4e3f-a950-02724487144d/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-%EB%82%98%EC%9D%B4%EC%A0%A4-4rm-driveway-grey-hf4334-004-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -78,5 +70,37 @@
         "href": "/kr/launch/t/air-max-black-tea-and-petra-brown",
         "date": "8/10",
         "releaseDate": "1723251600"
+    },
+    {
+        "title": "필드 제너럴 '82",
+        "theme": "Aluminum and Total Orange",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/76c28fe1-302c-416c-b258-9e038a973703/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-aluminum-and-total-orange-hm5685-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/field-general-82-aluminum-and-total-orange",
+        "date": "8/15",
+        "releaseDate": "1723683600"
+    },
+    {
+        "title": "에어 조던 3 (Big Kids)",
+        "theme": "Black and Hyper Jade",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f305bd9f-ad18-413a-93f3-f3eea3f5cf2b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-black-and-hyper-jade-fv5437-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-black-and-hyper-jade-gs-kr",
+        "date": "8/16",
+        "releaseDate": "1723770000"
+    },
+    {
+        "title": "조던 3 (Little Kids)",
+        "theme": "Black and Hyper Jade",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/fa6290b6-3433-455f-a9c5-1f82cc620c25/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-black-and-hyper-jade-fv5437-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-black-and-hyper-jade-gs-kr",
+        "date": "8/16",
+        "releaseDate": "1723770000"
+    },
+    {
+        "title": "조던 3 (Toddler)",
+        "theme": "Black and Hyper Jade",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/735ecda4-a16a-4e8b-b80d-2b03c1ca19ef/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-big-kids-black-and-hyper-jade-fv5437-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-black-and-hyper-jade-gs-kr",
+        "date": "8/16",
+        "releaseDate": "1723770000"
     }
 ]
