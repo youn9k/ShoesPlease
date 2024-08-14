@@ -30,5 +30,37 @@
         "href": "/kr/launch/t/air-jordan-3-black-and-hyper-jade-gs-kr",
         "date": "8/16",
         "releaseDate": "1723770000"
+    },
+    {
+        "title": "에어 테라 휴마라 SP",
+        "theme": "Mystic Navy and Aquarius Blue",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/36a9040e-87dd-4192-9015-a48db73b9dd4/%EC%97%90%EC%96%B4-%ED%85%8C%EB%9D%BC-%ED%9C%B4%EB%A7%88%EB%9D%BC-sp-mystic-navy-and-aquarius-blue-fq9084-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-terra-humara-sp-mystic-navy-and-aquarius-blue",
+        "date": "8/20",
+        "releaseDate": "1724115600"
+    },
+    {
+        "title": "에어 테라 휴마라 SP",
+        "theme": "Black and Anthracite",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/5ceadb15-e1b0-433f-809e-766d36c69845/%EC%97%90%EC%96%B4-%ED%85%8C%EB%9D%BC-%ED%9C%B4%EB%A7%88%EB%9D%BC-sp-black-and-anthracite-fq9084-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-terra-humara-sp-black-and-anthracite",
+        "date": "8/20",
+        "releaseDate": "1724115600"
+    },
+    {
+        "title": "클로그포짓",
+        "theme": "Light Orewood Brown and White",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/cb158c7d-414d-4ac9-bb2d-df78d478cdf6/%ED%81%B4%EB%A1%9C%EA%B7%B8%ED%8F%AC%EC%A7%93-light-orewood-brown-and-white-fq8257-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/clogposite-light-orewood-brown-and-white",
+        "date": "8/22",
+        "releaseDate": "1724288400"
+    },
+    {
+        "title": "클로그포짓",
+        "theme": "Chrome and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/a8b8faee-2ef3-4681-ad49-d9ef207cd980/%ED%81%B4%EB%A1%9C%EA%B7%B8%ED%8F%AC%EC%A7%93-chrome-and-black-fq8257-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/clogposite-chrome-and-black",
+        "date": "8/22",
+        "releaseDate": "1724288400"
     }
 ]
