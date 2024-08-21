@@ -3,7 +3,7 @@
         "title": "클로그포짓",
         "theme": "Light Orewood Brown and White",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/cb158c7d-414d-4ac9-bb2d-df78d478cdf6/%ED%81%B4%EB%A1%9C%EA%B7%B8%ED%8F%AC%EC%A7%93-light-orewood-brown-and-white-fq8257-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/clogposite-light-orewood-brown-and-white",
+        "href": "/kr/launch/t/clogposite-light-orewood-brown-and-white?size=6",
         "date": "8/22",
         "releaseDate": "1724288400"
     },
@@ -11,15 +11,47 @@
         "title": "클로그포짓",
         "theme": "Chrome and Black",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/a8b8faee-2ef3-4681-ad49-d9ef207cd980/%ED%81%B4%EB%A1%9C%EA%B7%B8%ED%8F%AC%EC%A7%93-chrome-and-black-fq8257-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/clogposite-chrome-and-black",
+        "href": "/kr/launch/t/clogposite-chrome-and-black?size=6",
         "date": "8/22",
         "releaseDate": "1724288400"
+    },
+    {
+        "title": "에어 조던 3 레트로",
+        "theme": "Cement Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/203c2d29-ed4b-4231-80e9-d471c2ec7b9b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr?size=6",
+        "date": "8/23",
+        "releaseDate": "1724374800"
+    },
+    {
+        "title": "에어 조던 3 레트로 (Big Kids)",
+        "theme": "Cement Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/053c8d4f-fe8e-4071-8f79-797ad36f650b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr?size=6",
+        "date": "8/23",
+        "releaseDate": "1724374800"
+    },
+    {
+        "title": "조던 3 레트로 (Little Kids)",
+        "theme": "Cement Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/9d3c1f81-9599-488d-bcf5-735d66f091f5/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr?size=6",
+        "date": "8/23",
+        "releaseDate": "1724374800"
+    },
+    {
+        "title": "조던 3 레트로 (Toddler)",
+        "theme": "Cement Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/d77366e9-793b-4814-82d7-6957b767dcd8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr?size=6",
+        "date": "8/23",
+        "releaseDate": "1724374800"
     },
     {
         "title": "에어 조던 4",
         "theme": "White Thunder",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/80e4843a-e6f3-454c-a949-335c1ec54947/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
+        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr?size=6",
         "date": "8/24",
         "releaseDate": "1724461200"
     },
@@ -27,7 +59,7 @@
         "title": "에어 조던 4 (Big Kids)",
         "theme": "White Thunder",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/7468a454-d42b-4511-939b-88d0f5cb2604/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
+        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr?size=6",
         "date": "8/24",
         "releaseDate": "1724461200"
     },
@@ -35,7 +67,7 @@
         "title": "조던 4 (Little Kids)",
         "theme": "White Thunder",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/3353b64f-cf1d-47d9-b0d3-18e8a747feef/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
+        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr?size=6",
         "date": "8/24",
         "releaseDate": "1724461200"
     },
@@ -43,7 +75,7 @@
         "title": "조던 4 (Toddler)",
         "theme": "White Thunder",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/e9f59110-963e-41ab-b3c0-752354639ba8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
+        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr?size=6",
         "date": "8/24",
         "releaseDate": "1724461200"
     },
@@ -51,7 +83,7 @@
         "title": "에어맥스 플러스 TNPO",
         "theme": "Team Red and Sail",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/ca67fe63-72c8-401d-ae84-cfdb72c78163/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-%ED%94%8C%EB%9F%AC%EC%8A%A4-tnpo-team-red-and-sail-hm5654-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-plus-tnpo-team-red-and-sail",
+        "href": "/kr/launch/t/air-max-plus-tnpo-team-red-and-sail?size=6",
         "date": "8/26",
         "releaseDate": "1724634000"
     }
