@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어 조던 3 레트로",
-        "theme": "Cement Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/203c2d29-ed4b-4231-80e9-d471c2ec7b9b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr",
-        "date": "8/23",
-        "releaseDate": "1724374800"
-    },
-    {
-        "title": "에어 조던 3 레트로 (Big Kids)",
-        "theme": "Cement Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/053c8d4f-fe8e-4071-8f79-797ad36f650b/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr",
-        "date": "8/23",
-        "releaseDate": "1724374800"
-    },
-    {
-        "title": "조던 3 레트로 (Little Kids)",
-        "theme": "Cement Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/9d3c1f81-9599-488d-bcf5-735d66f091f5/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr",
-        "date": "8/23",
-        "releaseDate": "1724374800"
-    },
-    {
-        "title": "조던 3 레트로 (Toddler)",
-        "theme": "Cement Grey",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/d77366e9-793b-4814-82d7-6957b767dcd8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-%EB%A0%88%ED%8A%B8%EB%A1%9C-cement-grey-ct8532-106-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-3-retro-cement-grey-kr",
-        "date": "8/23",
-        "releaseDate": "1724374800"
-    },
-    {
         "title": "에어 조던 4",
         "theme": "White Thunder",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/80e4843a-e6f3-454c-a949-335c1ec54947/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -72,10 +40,66 @@
         "releaseDate": "1724634000"
     },
     {
+        "title": "우먼스 에어 조던 1 로우",
+        "theme": "Oxidized Green",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/4f48d937-652d-41a4-8b3e-a9dd73588a11/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-oxidized-green-cz0775-133-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-jordan-1-low-oxidized-green",
+        "date": "8/26",
+        "releaseDate": "1724634000"
+    },
+    {
+        "title": "우먼스 에어 페가수스 2005",
+        "theme": "Metallic Silver and Opti Yellow",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/84bf29ec-226c-4ef3-ab6c-04420c13184c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2005-metallic-silver-and-opti-yellow-hq5718-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-air-pegasus-2005-metallic-silver-and-opti-yellow",
+        "date": "8/26",
+        "releaseDate": "1724634000"
+    },
+    {
+        "title": "코비 9 엘리트 하이 프로트로 ",
+        "theme": "Halo",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f7434fc6-a5c7-42bd-9601-303c9f5bf94a/%EC%BD%94%EB%B9%84-9-%EC%97%98%EB%A6%AC%ED%8A%B8-%ED%95%98%EC%9D%B4-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-halo-fz7335-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-9-elite-high-protro-halo-kr",
+        "date": "8/26",
+        "releaseDate": "1724634000"
+    },
+    {
+        "title": "에어 조던 1 로우 OG",
+        "theme": "Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/7e766d0d-02ab-4649-8ffb-60256518965e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-mocha-cz0790-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-og-mocha-kr",
+        "date": "8/27",
+        "releaseDate": "1724720400"
+    },
+    {
         "title": "우먼스 에어 조던 3 x A Ma Maniére",
         "theme": "Black and Flat Pewter",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/783bf49c-b8e7-4bc8-bb7b-710f359eecfb/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-3-x-a-ma-mani%C3%A9re-black-and-flat-pewter-fz4811-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/womens-air-jordan-3-x-a-ma-mani%C3%A9re-black-and-flat-pewter-1-kr",
+        "date": "8/27",
+        "releaseDate": "1724720400"
+    },
+    {
+        "title": "에어 조던 1 로우 OG (Big Kids)",
+        "theme": "Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/36b1c81d-2321-44bc-ada8-c47aae037441/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-big-kids-mocha-cz0858-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-og-mocha-gs-kr",
+        "date": "8/27",
+        "releaseDate": "1724720400"
+    },
+    {
+        "title": "조던 1 로우 OG (Little Kids)",
+        "theme": "Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/1ce1983f-e908-48e5-9242-62dc2b0704bd/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-big-kids-mocha-cz0858-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-og-mocha-gs-kr",
+        "date": "8/27",
+        "releaseDate": "1724720400"
+    },
+    {
+        "title": "조던 1 로우 OG (Toddler)",
+        "theme": "Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f97d8fb4-439f-41a4-8bfa-8fa0aaebe1bf/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-big-kids-mocha-cz0858-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-og-mocha-gs-kr",
         "date": "8/27",
         "releaseDate": "1724720400"
     },
