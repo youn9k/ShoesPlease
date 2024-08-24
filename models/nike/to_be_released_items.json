@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어 조던 4",
-        "theme": "White Thunder",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/80e4843a-e6f3-454c-a949-335c1ec54947/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
-        "date": "8/24",
-        "releaseDate": "1724461200"
-    },
-    {
-        "title": "에어 조던 4 (Big Kids)",
-        "theme": "White Thunder",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/7468a454-d42b-4511-939b-88d0f5cb2604/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
-        "date": "8/24",
-        "releaseDate": "1724461200"
-    },
-    {
-        "title": "조던 4 (Little Kids)",
-        "theme": "White Thunder",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/3353b64f-cf1d-47d9-b0d3-18e8a747feef/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
-        "date": "8/24",
-        "releaseDate": "1724461200"
-    },
-    {
-        "title": "조던 4 (Toddler)",
-        "theme": "White Thunder",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/e9f59110-963e-41ab-b3c0-752354639ba8/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-white-thunder-fq8138-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-4-white-thunder-kr",
-        "date": "8/24",
-        "releaseDate": "1724461200"
-    },
-    {
         "title": "에어맥스 플러스 TNPO",
         "theme": "Team Red and Sail",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/ca67fe63-72c8-401d-ae84-cfdb72c78163/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-%ED%94%8C%EB%9F%AC%EC%8A%A4-tnpo-team-red-and-sail-hm5654-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -104,6 +72,22 @@
         "releaseDate": "1724720400"
     },
     {
+        "title": "나이키 SB 덩크 로우 프로",
+        "theme": "Sesame and Pear",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/2a8e5762-c166-4173-9571-64f263f75f01/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-sesame-and-pear-fq7585-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-dunk-low-pro-sesame-and-pear-kr",
+        "date": "8/28",
+        "releaseDate": "1724806800"
+    },
+    {
+        "title": "필드 제너럴 '82",
+        "theme": "White and Varsity Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f9c2e1f8-c7d0-4221-99f3-194c9a7d7793/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-white-and-varsity-red-fq8762-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/field-general-82-white-and-varsity-red-1",
+        "date": "8/28",
+        "releaseDate": "1724806800"
+    },
+    {
         "title": "필드 제너럴 '82",
         "theme": "White and Gorge Green",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/5d413ac4-2cfd-4bed-b364-e62c3bf674a5/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-white-and-gorge-green-fq8762-104-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -118,5 +102,13 @@
         "href": "/kr/launch/t/nike-sb-dunk-low-pro-x-alexis-sablone-white-and-pacific-moss-kr",
         "date": "8/29",
         "releaseDate": "1724893200"
+    },
+    {
+        "title": "에어 포스 1 '07 x PEACEMINUSONE '파라 노이즈 3.0'",
+        "theme": "Black and Multi-Color",
+        "image": "https://static.nike.com/a/images/w_480,c_limit,f_auto,q_auto/5d645655-1934-4934-ab71-f4ee6a1073ec/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-x-peaceminusone-%ED%8C%8C%EB%9D%BC-%EB%85%B8%EC%9D%B4%EC%A6%88-3-0-black-and-multi-color-aq3692-004-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-1-07-x-peaceminusone-para-noise-30-black-and-multi-color-kr",
+        "date": "9/6",
+        "releaseDate": "1725584400"
     }
 ]
