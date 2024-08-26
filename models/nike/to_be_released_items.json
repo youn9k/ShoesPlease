@@ -1,37 +1,5 @@
 [
     {
-        "title": "에어맥스 플러스 TNPO",
-        "theme": "Team Red and Sail",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/ca67fe63-72c8-401d-ae84-cfdb72c78163/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-%ED%94%8C%EB%9F%AC%EC%8A%A4-tnpo-team-red-and-sail-hm5654-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-plus-tnpo-team-red-and-sail",
-        "date": "8/26",
-        "releaseDate": "1724634000"
-    },
-    {
-        "title": "우먼스 에어 조던 1 로우",
-        "theme": "Oxidized Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/4f48d937-652d-41a4-8b3e-a9dd73588a11/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-oxidized-green-cz0775-133-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-1-low-oxidized-green",
-        "date": "8/26",
-        "releaseDate": "1724634000"
-    },
-    {
-        "title": "우먼스 에어 페가수스 2005",
-        "theme": "Metallic Silver and Opti Yellow",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/84bf29ec-226c-4ef3-ab6c-04420c13184c/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%ED%8E%98%EA%B0%80%EC%88%98%EC%8A%A4-2005-metallic-silver-and-opti-yellow-hq5718-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-pegasus-2005-metallic-silver-and-opti-yellow",
-        "date": "8/26",
-        "releaseDate": "1724634000"
-    },
-    {
-        "title": "코비 9 엘리트 하이 프로트로 ",
-        "theme": "Halo",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f7434fc6-a5c7-42bd-9601-303c9f5bf94a/%EC%BD%94%EB%B9%84-9-%EC%97%98%EB%A6%AC%ED%8A%B8-%ED%95%98%EC%9D%B4-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-halo-fz7335-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/kobe-9-elite-high-protro-halo-kr",
-        "date": "8/26",
-        "releaseDate": "1724634000"
-    },
-    {
         "title": "에어 조던 1 로우 OG",
         "theme": "Mocha",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/7e766d0d-02ab-4649-8ffb-60256518965e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-mocha-cz0790-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -102,6 +70,38 @@
         "href": "/kr/launch/t/nike-sb-dunk-low-pro-x-alexis-sablone-white-and-pacific-moss-kr",
         "date": "8/29",
         "releaseDate": "1724893200"
+    },
+    {
+        "title": "에어 테크 챌린지 2",
+        "theme": "Hot Lava",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/1d4fd923-20ba-44a2-8459-ff8c569cd94f/%EC%97%90%EC%96%B4-%ED%85%8C%ED%81%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-2-hot-lava-fz9033-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-tech-challenge-2-hot-lava",
+        "date": "8/30",
+        "releaseDate": "1724979600"
+    },
+    {
+        "title": "에어 조던 1 로우 레트로 (Big Kids)",
+        "theme": "Black Raspberry",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f2854241-522d-4abb-86ac-ea3d84d23cac/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-%EB%A0%88%ED%8A%B8%EB%A1%9C-big-kids-black-raspberry-hf0410-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-1-low-retro-black-raspberry-kr",
+        "date": "8/30",
+        "releaseDate": "1724979600"
+    },
+    {
+        "title": "조던 1 로우 레트로 (Little Kids)",
+        "theme": "Black Raspberry",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/0f4ed83a-d47b-4782-ab23-1d982a098a8c/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-%EB%A0%88%ED%8A%B8%EB%A1%9C-big-kids-black-raspberry-hf0410-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-1-low-retro-black-raspberry-kr",
+        "date": "8/30",
+        "releaseDate": "1724979600"
+    },
+    {
+        "title": "조던 1 로우 레트로 (Toddler)",
+        "theme": "Black Raspberry",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/ccf7c470-a7cf-4bac-976f-3e513e09d09d/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-%EB%A0%88%ED%8A%B8%EB%A1%9C-big-kids-black-raspberry-hf0410-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/big-kids-air-jordan-1-low-retro-black-raspberry-kr",
+        "date": "8/30",
+        "releaseDate": "1724979600"
     },
     {
         "title": "에어 포스 1 '07 x PEACEMINUSONE '파라 노이즈 3.0'",
