@@ -1,21 +1,5 @@
 [
     {
-        "title": "나이키 SB 덩크 로우 프로",
-        "theme": "Sesame and Pear",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/2a8e5762-c166-4173-9571-64f263f75f01/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-sesame-and-pear-fq7585-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-sesame-and-pear-kr",
-        "date": "8/28",
-        "releaseDate": "1724806800"
-    },
-    {
-        "title": "필드 제너럴 '82",
-        "theme": "White and Varsity Red",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f9c2e1f8-c7d0-4221-99f3-194c9a7d7793/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-white-and-varsity-red-fq8762-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/field-general-82-white-and-varsity-red-1",
-        "date": "8/28",
-        "releaseDate": "1724806800"
-    },
-    {
         "title": "필드 제너럴 '82",
         "theme": "White and Gorge Green",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/5d413ac4-2cfd-4bed-b364-e62c3bf674a5/%ED%95%84%EB%93%9C-%EC%A0%9C%EB%84%88%EB%9F%B4-82-white-and-gorge-green-fq8762-104-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -72,11 +56,35 @@
         "releaseDate": "1725152400"
     },
     {
+        "title": "에어맥스 Dn",
+        "theme": "Canyon Rust and Red Stardust",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/7ff91f70-d9c0-4a9d-bfe7-0fd08b8ca504/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-dn-canyon-rust-and-red-stardust-hq0912-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-dn-canyon-rust-and-red-stardust",
+        "date": "9/3",
+        "releaseDate": "1725325200"
+    },
+    {
+        "title": "LD-1000",
+        "theme": "Game Royal and Opti Yellow",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/b53f28ea-af6f-4bb8-9d5c-b82412405cd3/ld-1000-game-royal-and-opti-yellow-fq9079-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/ld-1000-game-royal-and-opti-yellow",
+        "date": "9/4",
+        "releaseDate": "1725411600"
+    },
+    {
         "title": "에어 포스 1 '07 x PEACEMINUSONE '파라 노이즈 3.0'",
         "theme": "Black and Multi-Color",
         "image": "https://static.nike.com/a/images/w_480,c_limit,f_auto,q_auto/5d645655-1934-4934-ab71-f4ee6a1073ec/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-1-07-x-peaceminusone-%ED%8C%8C%EB%9D%BC-%EB%85%B8%EC%9D%B4%EC%A6%88-3-0-black-and-multi-color-aq3692-004-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/air-force-1-07-x-peaceminusone-para-noise-30-black-and-multi-color-kr",
         "date": "9/6",
         "releaseDate": "1725584400"
+    },
+    {
+        "title": "에어맥스 SNDR",
+        "theme": "Black and Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/2366a37e-c6ba-4547-b8f5-0d9fdc786470/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-black-and-silver-fz2068-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-black-and-silver",
+        "date": "9/7",
+        "releaseDate": "1725670800"
     }
 ]
