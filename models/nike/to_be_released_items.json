@@ -1,13 +1,5 @@
 [
     {
-        "title": "LD-1000",
-        "theme": "Game Royal and Opti Yellow",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/b53f28ea-af6f-4bb8-9d5c-b82412405cd3/ld-1000-game-royal-and-opti-yellow-fq9079-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/ld-1000-game-royal-and-opti-yellow",
-        "date": "9/4",
-        "releaseDate": "1725411600"
-    },
-    {
         "title": "덩크 로우",
         "theme": "Silver Blue",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/b2f5ef26-08ea-430b-84b5-d8637aba0772/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-silver-blue-hf0391-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -62,5 +54,13 @@
         "href": "/kr/launch/t/air-max-sndr-black-and-silver",
         "date": "9/7",
         "releaseDate": "1725670800"
+    },
+    {
+        "title": "ACG 루퍼스",
+        "theme": "Sequoia",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/d6f48246-5cf4-487a-a72b-77f4be23122e/acg-%EB%A3%A8%ED%8D%BC%EC%8A%A4-sequoia-fv2923-300-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/acg-rufus-sequoia",
+        "date": "9/11",
+        "releaseDate": "1726016400"
     }
 ]
