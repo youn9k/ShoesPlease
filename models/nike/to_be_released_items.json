@@ -1,37 +1,5 @@
 [
     {
-        "title": "덩크 로우",
-        "theme": "Silver Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/b2f5ef26-08ea-430b-84b5-d8637aba0772/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-silver-blue-hf0391-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-silver-blue",
-        "date": "9/5",
-        "releaseDate": "1725498000"
-    },
-    {
-        "title": "나이키 SB 덩크 로우 프로 x Verdy",
-        "theme": "Blue Gaze and Enamel Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/d1359ffe-8311-4a3c-be05-cc57d2127576/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-x-verdy-blue-gaze-and-enamel-green-fn6040-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-x-verdy-blue-gaze-and-enamel-green-kr",
-        "date": "9/5",
-        "releaseDate": "1725498000"
-    },
-    {
-        "title": "나이키 SB 덩크 로우 프로 x Verdy (Little Kids)",
-        "theme": "Blue Gaze and Enamel Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/c6793ef2-b5cc-4dcf-8b86-a49f5d862664/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-x-verdy-blue-gaze-and-enamel-green-fn6040-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-x-verdy-blue-gaze-and-enamel-green-kr",
-        "date": "9/5",
-        "releaseDate": "1725498000"
-    },
-    {
-        "title": "나이키 SB 덩크 로우 프로 x Verdy (Toddler)",
-        "theme": "Blue Gaze and Enamel Green",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/71de2278-2a0a-4663-bf49-143a9b21c553/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-x-verdy-blue-gaze-and-enamel-green-fn6040-400-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nike-sb-dunk-low-pro-x-verdy-blue-gaze-and-enamel-green-kr",
-        "date": "9/5",
-        "releaseDate": "1725498000"
-    },
-    {
         "title": "에어 180",
         "theme": "Black and Dusty Cactus",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/c46bd0bb-276a-4fcf-b1cc-e571ebd92e3c/%EC%97%90%EC%96%B4-180-black-and-dusty-cactus-fj9259-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -62,5 +30,13 @@
         "href": "/kr/launch/t/acg-rufus-sequoia",
         "date": "9/11",
         "releaseDate": "1726016400"
+    },
+    {
+        "title": "에어 조던 5 \"El Grito\"",
+        "theme": "Sail and Dark Pony",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/d81b8092-4ac2-4a02-b1db-84b08925545e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-el-grito-sail-and-dark-pony-hf8833-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-5-el-grito-sail-and-dark-pony",
+        "date": "9/12",
+        "releaseDate": "1726102800"
     }
 ]
