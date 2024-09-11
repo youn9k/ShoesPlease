@@ -1,13 +1,5 @@
 [
     {
-        "title": "ACG 루퍼스",
-        "theme": "Sequoia",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/d6f48246-5cf4-487a-a72b-77f4be23122e/acg-%EB%A3%A8%ED%8D%BC%EC%8A%A4-sequoia-fv2923-300-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/acg-rufus-sequoia",
-        "date": "9/11",
-        "releaseDate": "1726016400"
-    },
-    {
         "title": "에어 조던 5 \"El Grito\"",
         "theme": "Sail and Dark Pony",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/d81b8092-4ac2-4a02-b1db-84b08925545e/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-5-el-grito-sail-and-dark-pony-hf8833-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -48,10 +40,26 @@
         "releaseDate": "1726275600"
     },
     {
+        "title": "코비 9 엘리트 로우 프로트로",
+        "theme": "Halo",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/8ec6ebad-2a1e-4b8a-924d-9bc50d87b811/%EC%BD%94%EB%B9%84-9-%EC%97%98%EB%A6%AC%ED%8A%B8-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C%ED%8A%B8%EB%A1%9C-halo-fz7334-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-9-elite-low-protro-halo-kr",
+        "date": "9/19",
+        "releaseDate": "1726707600"
+    },
+    {
         "title": "에어맥스 90",
         "theme": "Dark Sage and Solar Red",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/8841087a-0fab-4986-892a-b3fc71178ecd/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-90-dark-sage-and-solar-red-cw6024-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/air-max-90-dark-sage-and-solar-red",
+        "date": "9/19",
+        "releaseDate": "1726707600"
+    },
+    {
+        "title": "코비 9 (Big Kids)",
+        "theme": "Halo",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/177543da-2be3-4b92-918a-97ac754e01bd/%EC%BD%94%EB%B9%84-9-big-kids-halo-fv3607-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/kobe-9-halo-gs-kr",
         "date": "9/19",
         "releaseDate": "1726707600"
     }
