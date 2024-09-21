@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "title": "조던 1 로우 OG (Little Kids)",
+        "theme": "Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/36b1c81d-2321-44bc-ada8-c47aae037441/%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-little-kids-mocha-fq5436-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-1-low-og-mocha-ps-kr",
+        "date": "9/21"
+    },
+    {
+        "title": "조던 1 로우 OG (Toddler)",
+        "theme": "Mocha",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_512,c_limit,f_auto,q_auto/f97d8fb4-439f-41a4-8bfa-8fa0aaebe1bf/%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-toddler-mocha-fq5435-102-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/jordan-1-low-og-mocha-td-kr",
+        "date": "9/21"
+    }
+]
