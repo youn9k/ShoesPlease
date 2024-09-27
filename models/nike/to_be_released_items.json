@@ -40,11 +40,67 @@
         "releaseDate": "1727571600"
     },
     {
+        "title": "샥스 R4",
+        "theme": "Black and Hot Punch",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/d4766611-29cc-4e55-bc6c-36fd4408e40c/%EC%83%A5%EC%8A%A4-r4-black-and-hot-punch-hq3446-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/shox-r4-black-and-hot-punch",
+        "date": "9/30",
+        "releaseDate": "1727658000"
+    },
+    {
+        "title": "우먼스 샥스 R4",
+        "theme": "Black and Metallic Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/99331fb9-cc83-47ad-86c2-be69da8fa827/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-r4-black-and-metallic-gold-ar3565-005-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-shox-r4-black-and-metallic-gold",
+        "date": "9/30",
+        "releaseDate": "1727658000"
+    },
+    {
+        "title": "우먼스 샥스 R4",
+        "theme": "Metallic Silver and Black",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/6d5755cd-e8c3-4da6-9215-bb8c7e519ac8/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%83%A5%EC%8A%A4-r4-metallic-silver-and-black-ar3565-006-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/womens-shox-r4-metallic-silver-and-black",
+        "date": "9/30",
+        "releaseDate": "1727658000"
+    },
+    {
         "title": "에어 조던 4 x A Ma Maniére",
         "theme": "W.Y.W.S.",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/ae4b9798-4acf-4d7c-8be6-82c6209a809f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-4-x-a-ma-mani%C3%A9re-w-y-w-s-fz4810-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/fz4810-200-wmns-air-jordan-4-retro-og-sp-kr",
         "date": "9/30",
         "releaseDate": "1727658000"
+    },
+    {
+        "title": "루나 롬",
+        "theme": "Black and Medium Olive",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/945a7f12-ac3c-41b3-9f34-7c43fd94fb19/%EB%A3%A8%EB%82%98-%EB%A1%AC-black-and-medium-olive-fz8116-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/lunar-roam-black-and-medium-olive",
+        "date": "10/1",
+        "releaseDate": "1727744400"
+    },
+    {
+        "title": "루나 롬",
+        "theme": "Coconut Milk and Smoke Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/79c2ebf2-5094-42d5-aa75-25ca706171ba/%EB%A3%A8%EB%82%98-%EB%A1%AC-coconut-milk-and-smoke-grey-dv2440-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/lunar-roam-coconut-milk-and-smoke-grey",
+        "date": "10/1",
+        "releaseDate": "1727744400"
+    },
+    {
+        "title": "나이키 SB 줌 블레이저 로우 x Dancer Skateboards",
+        "theme": "Black and Metallic Silver",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/5d7a4f70-4e83-4317-b01f-111b079bed16/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EC%A4%8C-%EB%B8%94%EB%A0%88%EC%9D%B4%EC%A0%80-%EB%A1%9C%EC%9A%B0-x-dancer-skateboards-black-and-metallic-silver-hj6703-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/nike-sb-zoom-blazer-low-x-dancer-skateboards-black-and-metallic-silver",
+        "date": "10/4",
+        "releaseDate": "1728003600"
+    },
+    {
+        "title": "에어 포스 3 로우 x Nigo",
+        "theme": "Blue Void and Tour Yellow",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/4690fd0b-d360-4b54-a105-5a47235804cb/%EC%97%90%EC%96%B4-%ED%8F%AC%EC%8A%A4-3-%EB%A1%9C%EC%9A%B0-x-nigo-blue-void-and-tour-yellow-fq7012-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-force-3-low-x-nigo-blue-void-and-tour-yellow1-kr",
+        "date": "10/4",
+        "releaseDate": "1728003600"
     }
 ]
