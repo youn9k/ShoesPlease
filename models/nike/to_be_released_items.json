@@ -1,37 +1,5 @@
 [
     {
-        "title": "NOCTA 핫 스텝 2",
-        "theme": "BLACK",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/18ea0bcc-bbd2-43a1-abb4-823376c72683/nocta-%ED%95%AB-%EC%8A%A4%ED%85%9D-2-black-dz7293-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/nocta-hot-step-2-black-1",
-        "date": "9/28",
-        "releaseDate": "1727485200"
-    },
-    {
-        "title": "조던 1 로우 x Travis Scott (Toddler)",
-        "theme": "Reverse Olive ",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/4821c780-5809-40b5-b5e2-27274ff147b6/%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-x-travis-scott-toddler-reverse-olive-do5441-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/toddler-jordan-1-low-x-travis-scott-reverse-olive-kr",
-        "date": "9/28",
-        "releaseDate": "1727485200"
-    },
-    {
-        "title": "조던 1 로우 x Travis Scott (Little Kids)",
-        "theme": "Reverse Olive ",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/168cd30d-77eb-4c01-a1e9-bfcf3e5a67f9/%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-x-travis-scott-little-kids-reverse-olive-do5442-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/little-kids-jordan-1-low-x-travis-scott-reverse-olive-kr",
-        "date": "9/28",
-        "releaseDate": "1727485200"
-    },
-    {
-        "title": "에어 조던 1 로우 x Travis Scott",
-        "theme": "Reverse Olive",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/a6e5200a-32a6-49b0-afea-74970bcc3ee6/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-x-travis-scott-reverse-olive-dm7866-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-jordan-1-low-x-travis-scott-reverse-olive-kr",
-        "date": "9/28",
-        "releaseDate": "1727485200"
-    },
-    {
         "title": "에어 조던 1 로우 파리 생제르맹",
         "theme": "Sail and Off Noir",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/acfed8e7-ba95-4032-b3a1-b974f6d60518/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-%ED%8C%8C%EB%A6%AC-%EC%83%9D%EC%A0%9C%EB%A5%B4%EB%A7%B9-sail-and-off-noir-hf8828-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -80,12 +48,28 @@
         "releaseDate": "1727744400"
     },
     {
+        "title": "나이키 SB 덩크 로우 프로",
+        "theme": "Celestial Gold and Dark Team Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f09ae510-7304-4c94-9a2e-b391a2ec407e/%EB%82%98%EC%9D%B4%ED%82%A4-sb-%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-%ED%94%84%EB%A1%9C-celestial-gold-and-dark-team-red-fz1278-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/fz1278-200-nike-sb-dunk-low-pro-se",
+        "date": "10/1",
+        "releaseDate": "1727744400"
+    },
+    {
         "title": "루나 롬",
         "theme": "Coconut Milk and Smoke Grey",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/79c2ebf2-5094-42d5-aa75-25ca706171ba/%EB%A3%A8%EB%82%98-%EB%A1%AC-coconut-milk-and-smoke-grey-dv2440-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/lunar-roam-coconut-milk-and-smoke-grey",
         "date": "10/1",
         "releaseDate": "1727744400"
+    },
+    {
+        "title": "에어 테라 휴마라",
+        "theme": "Hemp and Sesame",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/2fc25634-1149-4f4d-bfcc-96d38015a8af/%EC%97%90%EC%96%B4-%ED%85%8C%EB%9D%BC-%ED%9C%B4%EB%A7%88%EB%9D%BC-hemp-and-sesame-fq9084-201-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-terra-humara-hemp-and-sesame",
+        "date": "10/3",
+        "releaseDate": "1727917200"
     },
     {
         "title": "나이키 SB 줌 블레이저 로우 x Dancer Skateboards",
