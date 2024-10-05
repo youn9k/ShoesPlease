@@ -1,19 +1,11 @@
 [
     {
-        "title": "우먼스 에어 조던 1 하이 OG",
-        "theme": "Satin Shadow",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/d4413d66-0de9-486c-8f43-530963dc2905/%EC%9A%B0%EB%A8%BC%EC%8A%A4-%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%ED%95%98%EC%9D%B4-og-satin-shadow-fd4810-010-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/womens-air-jordan-1-high-og-satin-shadow",
-        "date": "10/5",
-        "releaseDate": "1728090000"
-    },
-    {
-        "title": "덩크 로우 \"Berlin\"",
-        "theme": "Black and Off Noir",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/ba27f772-2b92-4ae6-84f0-2897ead49c7d/%EB%8D%A9%ED%81%AC-%EB%A1%9C%EC%9A%B0-berlin-black-and-off-noir-fz3053-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/dunk-low-berlin-black-and-off-noir",
-        "date": "10/5",
-        "releaseDate": "1728090000"
+        "title": "에어맥스 SNDR",
+        "theme": "Photon Dust and Night Maroon",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/fc14865d-7b86-4f04-be2f-6e6666e4ba56/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-photon-dust-and-night-maroon-fz2068-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-photon-dust-and-night-maroon",
+        "date": "10/8",
+        "releaseDate": "1728349200"
     },
     {
         "title": "에어맥스 SNDR",
@@ -24,11 +16,35 @@
         "releaseDate": "1728349200"
     },
     {
+        "title": "ACG 에어 익스플로레이드",
+        "theme": "Black and Light Graphite",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f8fd2621-8c1f-448d-97f1-ef4009396994/acg-%EC%97%90%EC%96%B4-%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EB%A0%88%EC%9D%B4%EB%93%9C-black-and-light-graphite-fv2925-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/acg-air-exploraid-black-and-light-graphite",
+        "date": "10/9",
+        "releaseDate": "1728435600"
+    },
+    {
         "title": "ACG 루퍼스",
         "theme": "Geode Teal",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/eee6f1cb-8fbb-4b83-be4e-30077e929a44/acg-%EB%A3%A8%ED%8D%BC%EC%8A%A4-geode-teal-fv2923-301-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
         "href": "/kr/launch/t/acg-rufus-geode-teal",
         "date": "10/9",
         "releaseDate": "1728435600"
+    },
+    {
+        "title": "ACG 마운틴 플라이 2 로우 GORE-TEX",
+        "theme": "Burgundy Crush and Velvet Brown",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/fcdbd4f8-2a9e-4944-ade8-17ce196e7edf/acg-%EB%A7%88%EC%9A%B4%ED%8B%B4-%ED%94%8C%EB%9D%BC%EC%9D%B4-2-%EB%A1%9C%EC%9A%B0-gore-tex-burgundy-crush-and-velvet-brown-hf6245-200-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/acg-mountain-fly-2-low-gore-tex-burgundy-crush-and-velvet-brown",
+        "date": "10/9",
+        "releaseDate": "1728435600"
+    },
+    {
+        "title": "에어 조던 1 로우 OG",
+        "theme": "Gym Red & Midnight Navy",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/8a447611-7c33-4797-9676-12b91028475f/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-og-gym-red-midnight-navy-hq2993-100-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-jordan-1-low-og-gym-red-midnight-navy-kr",
+        "date": "10/12",
+        "releaseDate": "1728694800"
     }
 ]
