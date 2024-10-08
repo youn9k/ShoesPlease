@@ -1,21 +1,5 @@
 [
     {
-        "title": "에어맥스 SNDR",
-        "theme": "Photon Dust and Night Maroon",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/fc14865d-7b86-4f04-be2f-6e6666e4ba56/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-photon-dust-and-night-maroon-fz2068-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-sndr-photon-dust-and-night-maroon",
-        "date": "10/8",
-        "releaseDate": "1728349200"
-    },
-    {
-        "title": "에어맥스 SNDR",
-        "theme": "Burgundy Crush and Baltic Blue",
-        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/d88b8dbe-e03b-44e4-bf93-29e77a699aff/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-burgundy-crush-and-baltic-blue-hq4189-600-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
-        "href": "/kr/launch/t/air-max-sndr-burgundy-crush-and-baltic-blue",
-        "date": "10/8",
-        "releaseDate": "1728349200"
-    },
-    {
         "title": "ACG 에어 익스플로레이드",
         "theme": "Black and Light Graphite",
         "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/f8fd2621-8c1f-448d-97f1-ef4009396994/acg-%EC%97%90%EC%96%B4-%EC%9D%B5%EC%8A%A4%ED%94%8C%EB%A1%9C%EB%A0%88%EC%9D%B4%EB%93%9C-black-and-light-graphite-fv2925-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
@@ -38,6 +22,22 @@
         "href": "/kr/launch/t/acg-mountain-fly-2-low-gore-tex-burgundy-crush-and-velvet-brown",
         "date": "10/9",
         "releaseDate": "1728435600"
+    },
+    {
+        "title": "에어맥스 SNDR GORE-TEX",
+        "theme": "Black and Dark Smoke Grey",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/731d0dfb-5e89-47b1-8555-c0d77877ad23/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-gore-tex-black-and-dark-smoke-grey-fz4238-001-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-gore-tex-black-and-dark-smoke-grey",
+        "date": "10/10",
+        "releaseDate": "1728522000"
+    },
+    {
+        "title": "에어맥스 SNDR GORE-TEX",
+        "theme": "Dark Smoke Grey and Fire Red",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/a46af266-38b2-4ac3-ab43-f1a8bef856ab/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-gore-tex-dark-smoke-grey-and-fire-red-fz4238-800-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-gore-tex-dark-smoke-grey-and-fire-red",
+        "date": "10/10",
+        "releaseDate": "1728522000"
     },
     {
         "title": "LD-1000",
@@ -70,5 +70,13 @@
         "href": "/kr/launch/t/air-jordan-1-low-og-gym-red-midnight-navy-kr",
         "date": "10/12",
         "releaseDate": "1728694800"
+    },
+    {
+        "title": "에어맥스 SNDR",
+        "theme": "Black and Metallic Gold",
+        "image": "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/8992dd46-5827-4faf-aeee-f3c2b4fe2fde/%EC%97%90%EC%96%B4%EB%A7%A5%EC%8A%A4-sndr-black-and-metallic-gold-hj4130-002-%EC%B6%9C%EC%8B%9C%EC%9D%BC.jpg",
+        "href": "/kr/launch/t/air-max-sndr-black-and-metallic-gold",
+        "date": "10/16",
+        "releaseDate": "1729040400"
     }
 ]
